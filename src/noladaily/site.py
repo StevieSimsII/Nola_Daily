@@ -16,13 +16,6 @@ def write_site(digest: DailyDigest, output_dir: Path, data_path: Path) -> None:
 
 
 def render_index(digest: DailyDigest) -> str:
-    current = digest.current_forecast
-    current_name = escape(current.name) if current else "Now"
-    current_temp = f"{current.temperature}°{current.temperature_unit}" if current else "Forecast offline"
-    current_short_text = current.short_forecast if current else "Try again on the next run."
-    current_short = escape(_weather_label(current_short_text))
-    current_emoji = _weather_emoji(current_short_text) if current else ""
-
     nav_links = "".join(
         f'<a href="#{escape(section.slug)}">{escape(section.title)}</a>' for section in digest.sections
     )
@@ -65,28 +58,6 @@ def render_index(digest: DailyDigest) -> str:
     </header>
 
     <main class="page-shell" id="top">
-      <section class="hero">
-        <aside class="hero-panel hero-weather">
-          <div class="eyebrow">Weather</div>
-          <div class="hero-meta">
-            <span>Updated {escape(digest.generated_label)}</span>
-          </div>
-          <h2>{escape(current_emoji)} {current_name}</h2>
-          <div class="forecast-temp">{escape(current_temp)}</div>
-          <p>{current_short}</p>
-          <div class="weather-glance">
-            <span>
-              <strong>Forecast Window</strong>
-              {current_name}
-            </span>
-            <span>
-              <strong>Quick Read</strong>
-              {current_short}
-            </span>
-          </div>
-        </aside>
-      </section>
-
       {sections_html}
 
       <section class="section" id="forecast">
