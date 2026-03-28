@@ -44,7 +44,6 @@ def render_index(digest: DailyDigest) -> str:
     <title>Nola Daily</title>
     <meta name="description" content="Daily New Orleans news, dining, entertainment, live music, events, and weather.">
     <meta name="theme-color" content="#143a32">
-    <link rel="icon" type="image/svg+xml" href="assets/masks-icon.svg">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
@@ -54,7 +53,6 @@ def render_index(digest: DailyDigest) -> str:
     <header class="topbar">
       <div class="topbar-inner">
         <a class="brand" href="#top">
-          <span class="brand-mark" aria-hidden="true">🎭</span>
           <span class="brand-copy">
             <strong>Nola Daily</strong>
             <span>New Orleans refreshed daily.</span>
@@ -68,15 +66,13 @@ def render_index(digest: DailyDigest) -> str:
 
     <main class="page-shell" id="top">
       <section class="hero">
-        <div class="hero-panel hero-summary" aria-label="Digest summary">
+        <aside class="hero-panel hero-weather">
+          <div class="eyebrow">Weather</div>
           <div class="hero-meta">
             <span>Updated {escape(digest.generated_label)}</span>
             <span>{sum(len(section.items) for section in digest.sections)} linked picks today</span>
             <span>Light, calm, mobile-first</span>
           </div>
-        </div>
-        <aside class="hero-panel">
-          <div class="eyebrow">Weather</div>
           <h2>{escape(current_emoji)} {current_name}</h2>
           <div class="forecast-temp">{escape(current_temp)}</div>
           <p>{current_short}</p>
