@@ -91,25 +91,24 @@ a {
 }
 
 .brand-mark {
-  width: 48px;
-  height: 48px;
-  border-radius: 16px;
+  width: 52px;
+  height: 52px;
+  border-radius: 18px;
   display: grid;
   place-items: center;
-  background: linear-gradient(145deg, #f6e2ba, #b98844 72%, #8d642f);
-  box-shadow: var(--shadow);
-  border: 1px solid rgba(255, 255, 255, 0.45);
+  background: linear-gradient(180deg, rgba(255, 252, 247, 0.96), rgba(244, 233, 209, 0.96));
+  box-shadow: 0 10px 24px rgba(52, 44, 28, 0.08);
+  border: 1px solid rgba(120, 95, 59, 0.12);
 }
 
 .brand-mark img {
-  width: 28px;
-  height: 28px;
+  width: 30px;
+  height: 30px;
   display: block;
-  filter: drop-shadow(0 2px 4px rgba(80, 54, 17, 0.22));
+  filter: none;
 }
 
 .brand-copy strong,
-.hero-copy h1,
 .section-header h2,
 .forecast-card h3 {
   font-family: "Cormorant Garamond", "Fraunces", Georgia, serif;
@@ -157,6 +156,12 @@ a {
   padding: 28px 0 24px;
 }
 
+.hero-summary {
+  display: flex;
+  align-items: center;
+  min-height: 168px;
+}
+
 .hero-panel {
   position: relative;
   overflow: hidden;
@@ -200,24 +205,11 @@ a {
   text-transform: uppercase;
 }
 
-.hero-copy h1 {
-  margin: 0;
-  font-size: clamp(2.25rem, 8vw, 4.4rem);
-  line-height: 0.92;
-  letter-spacing: -0.03em;
-}
-
-.hero-copy p {
-  max-width: 62ch;
-  font-size: 1rem;
-  line-height: 1.7;
-}
-
 .hero-meta {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  margin-top: 18px;
+  margin-top: 0;
 }
 
 .hero-meta span,
@@ -401,7 +393,7 @@ a {
 
 @media (min-width: 740px) {
   .hero {
-    grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
+    grid-template-columns: minmax(0, 1.55fr) minmax(280px, 0.65fr);
     align-items: stretch;
   }
 
@@ -432,5 +424,9 @@ a {
 
   .topbar-links {
     justify-content: flex-start;
+  }
+
+  .hero-summary {
+    min-height: auto;
   }
 }
