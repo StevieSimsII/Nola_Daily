@@ -43,19 +43,21 @@ def render_index(digest: DailyDigest) -> str:
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Nola Daily</title>
     <meta name="description" content="Daily New Orleans news, dining, entertainment, live music, events, and weather.">
+    <meta name="theme-color" content="#143a32">
+    <link rel="icon" type="image/svg+xml" href="assets/fleur-de-lis.svg">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/styles.css">
   </head>
   <body>
     <header class="topbar">
       <div class="topbar-inner">
         <a class="brand" href="#top">
-          <span class="brand-mark">N</span>
+          <span class="brand-mark"><img src="assets/fleur-de-lis.svg" alt=""></span>
           <span class="brand-copy">
             <strong>Nola Daily</strong>
-            <span>New Orleans, refreshed each day</span>
+            <span>New Orleans refreshed daily.</span>
           </span>
         </a>
         <nav class="topbar-links" aria-label="Section navigation">
@@ -67,13 +69,13 @@ def render_index(digest: DailyDigest) -> str:
     <main class="page-shell" id="top">
       <section class="hero">
         <div class="hero-panel hero-copy">
-          <div class="eyebrow">Daily City Briefing</div>
-          <h1>The daily New Orleans pulse, in one calm place.</h1>
+          <div class="eyebrow">French Quarter Notes</div>
+          <h1>New Orleans refreshed daily.</h1>
           <p>{escape(digest.lead)}</p>
           <div class="hero-meta">
             <span>Updated {escape(digest.generated_label)}</span>
             <span>{sum(len(section.items) for section in digest.sections)} linked picks today</span>
-            <span>Mobile-first and easy to skim</span>
+            <span>French Quarter calm, mobile-first</span>
           </div>
         </div>
         <aside class="hero-panel">
