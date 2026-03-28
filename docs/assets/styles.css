@@ -241,15 +241,23 @@ a {
 
 .story-card {
   padding: 18px;
-  text-decoration: none;
   transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
 }
 
 .story-card:hover,
-.story-card:focus-visible {
+.story-card:focus-within {
   transform: translateY(-2px);
   border-color: rgba(23, 107, 112, 0.24);
   box-shadow: 0 14px 30px rgba(23, 107, 112, 0.08);
+}
+
+.story-link {
+  text-decoration: none;
+}
+
+.story-link:hover,
+.story-link:focus-visible {
+  color: var(--teal);
 }
 
 .story-kicker {
@@ -290,6 +298,36 @@ a {
   padding: 7px 10px;
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.82);
+}
+
+.card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.card-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(23, 107, 112, 0.14);
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+.card-action.primary {
+  background: var(--teal);
+  color: #fffdfa;
+}
+
+.card-action.secondary {
+  background: rgba(255, 255, 255, 0.82);
+  color: var(--teal);
 }
 
 .section-empty {

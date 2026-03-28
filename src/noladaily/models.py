@@ -12,6 +12,7 @@ class DigestItem:
     published: str = ""
     eyebrow: str = ""
     location: str = ""
+    calendar_url: str = ""
 
     def to_dict(self) -> dict[str, str]:
         return asdict(self)

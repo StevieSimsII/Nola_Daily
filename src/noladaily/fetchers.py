@@ -2,10 +2,10 @@ from __future__ import annotations
 
 import html
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 from typing import Iterable
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlencode
 from xml.etree import ElementTree
 
 import requests
@@ -171,6 +171,12 @@ def fetch_wwoz_events(timeout: int, limit: int) -> list[DigestItem]:
                 published=published,
                 eyebrow="Event",
                 location=current_venue,
+                calendar_url=_build_calendar_url(
+                    title=html.unescape(text),
+                    location=current_venue,
+                    published=published,
+                    source_url=absolute_url,
+                ),
             )
         )
         seen_urls.add(absolute_url)
@@ -218,3 +224,32 @@ def _trim(text: str, length: int = 220) -> str:
     if len(compact) <= length:
         return compact
     return compact[: length - 1].rstrip() + "…"
+
+
+def _build_calendar_url(title: str, location: str, published: str, source_url: str) -> str:
+    start_time = _parse_event_datetime(published)
+    if start_time is None:
+        return ""
+
+    end_time = start_time + timedelta(hours=2)
+    params = urlencode(
+        {
+            "action": "TEMPLATE",
+            "text": title,
+            "dates": f"{start_time.strftime('%Y%m%dT%H%M%S')}/{end_time.strftime('%Y%m%dT%H%M%S')}",
+            "ctz": "America/Chicago",
+            "details": f"Source: {source_url}",
+            "location": location,
+        }
+    )
+    return f"https://calendar.google.com/calendar/render?{params}"
+
+
+def _parse_event_datetime(value: str) -> datetime | None:
+    try:
+        parsed = datetime.strptime(value, "%A, %B %d at %I:%M%p")
+    except ValueError:
+        return None
+
+    now = datetime.now()
+    return parsed.replace(year=now.year)

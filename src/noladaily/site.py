@@ -19,7 +19,9 @@ def render_index(digest: DailyDigest) -> str:
     current = digest.current_forecast
     current_name = escape(current.name) if current else "Now"
     current_temp = f"{current.temperature}°{current.temperature_unit}" if current else "Forecast offline"
-    current_short = escape(current.short_forecast) if current else "Try again on the next run."
+    current_short_text = current.short_forecast if current else "Try again on the next run."
+    current_short = escape(_weather_label(current_short_text))
+    current_emoji = _weather_emoji(current_short_text) if current else ""
 
     nav_links = "".join(
         f'<a href="#{escape(section.slug)}">{escape(section.title)}</a>' for section in digest.sections
@@ -76,7 +78,7 @@ def render_index(digest: DailyDigest) -> str:
         </div>
         <aside class="hero-panel">
           <div class="eyebrow">Weather</div>
-          <h2>{current_name}</h2>
+          <h2>{escape(current_emoji)} {current_name}</h2>
           <div class="forecast-temp">{escape(current_temp)}</div>
           <p>{current_short}</p>
           <div class="weather-glance">
@@ -134,24 +136,74 @@ def render_section(section: DigestSection) -> str:
 
 
 def render_card(item) -> str:
+    if item.calendar_url:
+        return render_event_card(item)
+
     meta_bits = [bit for bit in [item.source, item.location, item.published] if bit]
     meta_html = "".join(f"<span>{escape(bit)}</span>" for bit in meta_bits)
     return f"""
-      <a class="story-card" href="{escape(item.url)}" target="_blank" rel="noreferrer">
+      <article class="story-card">
         <div class="story-kicker">{escape(item.eyebrow or item.source)}</div>
-        <h3>{escape(item.title)}</h3>
+        <h3><a class="story-link" href="{escape(item.url)}" target="_blank" rel="noreferrer">{escape(item.title)}</a></h3>
         <p>{escape(item.summary)}</p>
         <div class="card-meta">{meta_html}</div>
-      </a>
+      </article>
     """
 
 
 def render_forecast(period: ForecastPeriod) -> str:
+    emoji = _weather_emoji(period.short_forecast)
+    label = _weather_label(period.short_forecast)
     return f"""
       <article class="forecast-card">
-        <h3>{escape(period.name)}</h3>
+        <h3>{escape(emoji)} {escape(period.name)}</h3>
         <div class="forecast-temp">{period.temperature}°{escape(period.temperature_unit)}</div>
-        <p>{escape(period.short_forecast)}</p>
+        <p>{escape(label)}</p>
         <p class="card-meta"><span>{escape(period.wind_direction)} {escape(period.wind_speed)}</span></p>
       </article>
     """
+
+
+def render_event_card(item) -> str:
+    meta_bits = [bit for bit in [item.source, item.location, item.published] if bit]
+    meta_html = "".join(f"<span>{escape(bit)}</span>" for bit in meta_bits)
+    calendar_action = (
+        f'<a class="card-action secondary" href="{escape(item.calendar_url)}" target="_blank" rel="noreferrer">Add to calendar</a>'
+        if item.calendar_url
+        else ""
+    )
+    return f"""
+      <article class="story-card story-card-event">
+        <div class="story-kicker">{escape(item.eyebrow or item.source)}</div>
+        <h3><a class="story-link" href="{escape(item.url)}" target="_blank" rel="noreferrer">{escape(item.title)}</a></h3>
+        <p>{escape(item.summary)}</p>
+        <div class="card-meta">{meta_html}</div>
+        <div class="card-actions">
+          <a class="card-action primary" href="{escape(item.url)}" target="_blank" rel="noreferrer">Open event</a>
+          {calendar_action}
+        </div>
+      </article>
+    """
+
+
+def _weather_emoji(short_forecast: str) -> str:
+    lowered = short_forecast.lower()
+    if "thunder" in lowered:
+        return "⛈️"
+    if "snow" in lowered or "sleet" in lowered or "ice" in lowered:
+        return "❄️"
+    if "rain" in lowered or "showers" in lowered or "drizzle" in lowered:
+        return "🌧️"
+    if "fog" in lowered or "mist" in lowered or "haze" in lowered:
+        return "🌫️"
+    if "wind" in lowered or "breezy" in lowered:
+        return "💨"
+    if "cloudy" in lowered or "partly sunny" in lowered or "partly cloudy" in lowered:
+        return "⛅"
+    if "sunny" in lowered or "clear" in lowered:
+        return "☀️"
+    return "🌤️"
+
+
+def _weather_label(short_forecast: str) -> str:
+    return f"{_weather_emoji(short_forecast)} {short_forecast}".strip()
