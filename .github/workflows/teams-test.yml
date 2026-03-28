@@ -1,0 +1,47 @@
+name: Teams Test
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Notification mode"
+        required: true
+        default: sample
+        type: choice
+        options:
+          - sample
+          - latest
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install .
+
+      - name: Send Teams notification
+        shell: bash
+        run: |
+          if [[ "${{ github.event.inputs.mode }}" == "latest" ]]; then
+            python -m noladaily --teams-from-file docs/data/digest.json --teams-required
+          else
+            python -m noladaily --teams-sample --teams-required
+          fi
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          TEAMS_WEBHOOK_MODE: ${{ vars.TEAMS_WEBHOOK_MODE || 'power_automate' }}
+          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
