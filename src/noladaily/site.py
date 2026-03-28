@@ -63,7 +63,6 @@ def render_index(digest: DailyDigest) -> str:
       <section class="section" id="forecast">
         <div class="section-header">
           <h2>7 Day Forecast</h2>
-          <p>NOAA outlook for New Orleans, optimized for quick daily planning.</p>
         </div>
         <div class="grid forecast-grid">
           {forecast_html}
@@ -90,7 +89,6 @@ def render_section(section: DigestSection) -> str:
       <section class="section" id="{escape(section.slug)}">
         <div class="section-header">
           <h2>{escape(section.title)}</h2>
-          <p>{escape(section.description)}</p>
         </div>
         <div class="grid story-grid">
           {body}
