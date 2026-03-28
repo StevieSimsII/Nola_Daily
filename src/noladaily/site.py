@@ -69,13 +69,13 @@ def render_index(digest: DailyDigest) -> str:
     <main class="page-shell" id="top">
       <section class="hero">
         <div class="hero-panel hero-copy">
-          <div class="eyebrow">French Quarter Notes</div>
+          <div class="eyebrow">Daily City Notes</div>
           <h1>New Orleans refreshed daily.</h1>
           <p>{escape(digest.lead)}</p>
           <div class="hero-meta">
             <span>Updated {escape(digest.generated_label)}</span>
             <span>{sum(len(section.items) for section in digest.sections)} linked picks today</span>
-            <span>French Quarter calm, mobile-first</span>
+            <span>Light, calm, mobile-first</span>
           </div>
         </div>
         <aside class="hero-panel">
