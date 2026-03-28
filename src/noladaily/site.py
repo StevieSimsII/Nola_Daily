@@ -70,8 +70,6 @@ def render_index(digest: DailyDigest) -> str:
           <div class="eyebrow">Weather</div>
           <div class="hero-meta">
             <span>Updated {escape(digest.generated_label)}</span>
-            <span>{sum(len(section.items) for section in digest.sections)} linked picks today</span>
-            <span>Light, calm, mobile-first</span>
           </div>
           <h2>{escape(current_emoji)} {current_name}</h2>
           <div class="forecast-temp">{escape(current_temp)}</div>
