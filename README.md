@@ -45,6 +45,8 @@ The app supports two webhook styles:
 - `power_automate`: best fit for a Power Automate manual trigger URL
 - `teams`: best fit for a native Teams incoming webhook endpoint
 
+For `power_automate`, the request body is the Adaptive Card itself, so the flow should pass the trigger body directly into the Teams card action.
+
 Environment variables:
 
 - `TEAMS_WEBHOOK_URL`: required only when you want notifications

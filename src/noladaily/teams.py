@@ -84,13 +84,7 @@ def build_payload(mode: str, adaptive_card: dict, digest: DailyDigest, featured:
             ],
         }
 
-    return {
-        "type": "nola_daily_digest",
-        "title": f"Nola Daily | {digest.generated_label}",
-        "siteUrl": site_url,
-        "featuredItems": [item.to_dict() for item in featured],
-        "adaptiveCard": adaptive_card,
-    }
+    return adaptive_card
 
 
 def build_adaptive_card(digest: DailyDigest, featured: list[DigestItem], site_url: str) -> dict:
