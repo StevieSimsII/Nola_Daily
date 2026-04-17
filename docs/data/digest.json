@@ -1,50 +1,41 @@
 {
-  "generated_at": "2026-04-16T05:32:39.021921-05:00",
-  "generated_label": "Apr 16, 2026 at 5:32 AM CT",
+  "generated_at": "2026-04-17T05:30:02.052057-05:00",
+  "generated_label": "Apr 17, 2026 at 5:30 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
     "temperature": 67,
     "temperature_unit": "F",
-    "short_forecast": "Mostly Cloudy",
-    "detailed_forecast": "Mostly cloudy. Low around 67, with temperatures rising to around 69 overnight. Southeast wind around 5 mph.",
-    "wind_speed": "5 mph",
-    "wind_direction": "SE"
+    "short_forecast": "Mostly Clear",
+    "detailed_forecast": "Mostly clear, with a low around 67. South wind around 0 mph.",
+    "wind_speed": "0 mph",
+    "wind_direction": ""
   },
   "seven_day_forecast": [
-    {
-      "name": "Thursday",
-      "temperature": 84,
-      "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny. High near 84, with temperatures falling to around 82 in the afternoon. South wind 5 to 10 mph.",
-      "wind_speed": "5 to 10 mph",
-      "wind_direction": "S"
-    },
     {
       "name": "Friday",
       "temperature": 84,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 84. South wind 0 to 10 mph.",
+      "detailed_forecast": "Sunny. High near 84, with temperatures falling to around 82 in the afternoon. Southeast wind 0 to 10 mph.",
       "wind_speed": "0 to 10 mph",
-      "wind_direction": "S"
+      "wind_direction": "SE"
     },
     {
       "name": "Saturday",
-      "temperature": 84,
+      "temperature": 85,
       "temperature_unit": "F",
       "short_forecast": "Partly Sunny",
-      "detailed_forecast": "Partly sunny, with a high near 84. South wind 5 to 10 mph.",
+      "detailed_forecast": "Partly sunny, with a high near 85. South wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
       "wind_direction": "S"
     },
     {
       "name": "Sunday",
-      "temperature": 73,
+      "temperature": 70,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms before 7am, then a slight chance of showers and thunderstorms between 7am and 1pm. Mostly cloudy, with a high near 73. North wind around 15 mph.",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms before 1pm. Mostly cloudy, with a high near 70. North wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%.",
       "wind_speed": "15 mph",
       "wind_direction": "N"
     },
@@ -53,25 +44,34 @@
       "temperature": 75,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 75. Northeast wind 10 to 15 mph.",
+      "detailed_forecast": "Mostly sunny, with a high near 75. East wind 10 to 15 mph.",
       "wind_speed": "10 to 15 mph",
-      "wind_direction": "NE"
+      "wind_direction": "E"
     },
     {
       "name": "Tuesday",
       "temperature": 76,
       "temperature_unit": "F",
-      "short_forecast": "Slight Chance Rain Showers",
-      "detailed_forecast": "A slight chance of rain showers after 7am. Mostly cloudy, with a high near 76. East wind 10 to 15 mph.",
-      "wind_speed": "10 to 15 mph",
+      "short_forecast": "Partly Sunny",
+      "detailed_forecast": "Partly sunny, with a high near 76. East wind 5 to 15 mph.",
+      "wind_speed": "5 to 15 mph",
       "wind_direction": "E"
     },
     {
       "name": "Wednesday",
-      "temperature": 78,
+      "temperature": 79,
       "temperature_unit": "F",
-      "short_forecast": "Chance Rain Showers",
-      "detailed_forecast": "A chance of rain showers before 1pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 78. Southeast wind 5 to 15 mph.",
+      "short_forecast": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of rain showers between 7am and 1pm, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 79. Southeast wind 5 to 15 mph.",
+      "wind_speed": "5 to 15 mph",
+      "wind_direction": "SE"
+    },
+    {
+      "name": "Thursday",
+      "temperature": 80,
+      "temperature_unit": "F",
+      "short_forecast": "Mostly Sunny",
+      "detailed_forecast": "Mostly sunny, with a high near 80. Southeast wind 5 to 15 mph.",
       "wind_speed": "5 to 15 mph",
       "wind_direction": "SE"
     }
@@ -84,6 +84,46 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "New Orleans City Council approves $250K drone program for French Quarter - fox8live.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEpJbDFzUXZkQnZHN3FGNmVZT0c3ZkxZalN0QTZ0VHZCd3oxMVVueGV4SHNpdVJSSXhJSmdncEM4bFFXbVlQWVI1T0tPYW50WHl6SVdHaFRROHNVNkkyY1ladVd3VE90ZXc5bklkX1RJMVpmTkZ2d283MTV0RktoN083ZUNwREVCMUFOY3BKaG9LaGhWRGhKaEphSnZJb2xmUEwxQzFnZ9IBuwFBVV95cUxOTENRUzE4cnQxcVV0UnNFQm1vRHpBdE93b0huZnFxSGxrLWpKOWtab3dJeF81TkhfNFU3a1Iwd2U1TWZrMjFDTUpTVWpVbV9ucHc1WWJPYmxKYVJyUXEtUGppSWs0dEFBXzhMWlZJZ2pacmhpRkRXZ2ZDNVNwb0p6WEQ1REFwZ2s3WlpvcDAzaWxBQzVlem9IQ1RQaHd3aFRpOENwb2V6NjNjVGhPeXdxLUE5SjRJTkVQSk9r?oc=5",
+          "source": "fox8live.com",
+          "summary": "New Orleans City Council approves $250K drone program for French Quarter fox8live.com",
+          "published": "Apr 17, 2026 1:35 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans City Council shifts public meeting livestreams to Facebook amid technical issues - WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZERBQkhsbEFBbGlnX3BRc3BhcUp0QUhwZlNoUDR3bHhZSkFjcG52MmFhamhXX0s1WTIwSDZ2NTFKM0F6VGozbG5rbl9MYWFxZW5HaF9Fdjd6aUI3YXJ2Mm9DcXhYcWpabTNtWGYyMEdFOGEzVUlFOUd4dUtXRzV3d0lWazA4aE9MZUU3SmVzd2JsTExhbE1rQU5ETEc2SFRTajE4QWY3bzNQUExUd3pDQUVETHNtckVMWTI4MXlITERYU2NfREUzZE1VZkFPU1AwSmN5V2xJdUgzR0JuSnYxRkNDMFZTRU4yaVN1LUFYaUxhS3Z2RTF0ZEVRbzZRUkJIZjdYSG4wX0I4TFlZdHlN?oc=5",
+          "source": "WWLTV.com",
+          "summary": "New Orleans City Council shifts public meeting livestreams to Facebook amid technical issues WWLTV.com",
+          "published": "Apr 16, 2026 3:46 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "NOPD drone program to expand after city council vote - Verite News",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tZkNDNldleE9GVXNGNmR0Wkc4VHFkaGpybXpmcjg0R0NRbjljOE9zT3YwYXBEYzZpQ3NJaURPYmJSN21nUXBhbnBLR0NkajJ6SUJMTmRpMEJOcjNJY0IzV1NLRndUT2p1c3A5ZjVTZEJjVjFmWnQw?oc=5",
+          "source": "Verite News",
+          "summary": "NOPD drone program to expand after city council vote Verite News",
+          "published": "Apr 16, 2026 10:43 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New drone technology has been approved for the French Quarter. Here's what we know - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkg0SW1KY0t5N3ZacWg3T2dXVDJreE5jcjhsQXVJN1FHU0N0Yk5VUVRzQy1yaFVNQ2VDRGRfTEZIMWtlV3N2d1Z2dnp3Z3h1RjBXQTFqeVFmUWJvc1ZZc3VFUFNmWlZST2haSTh3bFNhaldidkZzQlFCSUJDWHQyRUVvLUFyRHRw?oc=5",
+          "source": "WDSU",
+          "summary": "New drone technology has been approved for the French Quarter. Here's what we know WDSU",
+          "published": "Apr 16, 2026 9:51 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "New Orleans council a step closer to controlling S&WB as bill advances - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMW1XZVlPNW9Eellra29jdGtfWW5NRmhVanZmNVBzUzJMNFdOb01TV2tjMkwzX2ZhdWxKYjQ2QVBxbjNObXZ2ZVNFa2NTRzliVElQblNrQnlkekFWUGdjZ21vNld5bGFXMW9zcTk1Q0tzQnFPRFh4NldZN0xLODJ1c2hVSXFPZkx5M3V1UmlrTENPcXNLVUtwVjhWZmlCQVZQbC1UWVpxT1DSAa4BQVVfeXFMUE8xY2YwYmlkVVNjZnpWVWtKMVVybGNPSkI0V05UbkdmMnhfMjFrX25YakJ2dmJtdmhsOUtKQ2JMZE1CQzJQUEFKUFV6ZjI5ZmJFdHRWbTFMck9UalRnb2tPSWtWVERwUzdVc1pZeEVRVDB0NGJTcTNOUjQ1Z053NmFIQy1OUHFfdzZIbVFXOTQtakI5enZ0eFViaktFdWd5Z2cxckpNQnNTLUNjTmJn?oc=5",
           "source": "NOLA.com",
@@ -94,51 +134,11 @@
           "calendar_url": ""
         },
         {
-          "title": "Water war: New Orleans Mayor and Sewerage & Water Board in conflict - Verite News",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsbThQVFQ0MXU5bUVPdENobTJraGNmSG12S1R5cTRQU3JwWnh2dnRCQ0FwQmx4dTBkTU43Z2hON04wWjBIOHhHRVROUXN2MUR5ZFlXWVZIczktWVc2Vlp1QTR6akdyUWFQYjBXUUtlSjlVR1lPRk9iMQ?oc=5",
-          "source": "Verite News",
-          "summary": "Water war: New Orleans Mayor and Sewerage & Water Board in conflict Verite News",
-          "published": "Apr 14, 2026 10:00 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Sewage, waterboard proposal strips universities from nomination role - New Orleans CityBusiness",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzhWSUFmOC1nQ3BJRnF1djkzRWlrZVBodGYzZEQybjBWLVR4aXc1RGhYdTBZakFfcFc3RlQxZVJKSGE0TU5Mc2pqTEhxQWtydkVQMjR6N1U3T3RXTHIxUGVYb1RTYnA3am83RGZHS0hFaHkxU1JMOWw3RjBLT2dWMWtsUTB5YjZKT2s3ZUNaeThDSmY4NjVLSGpvOEgwa1N4ZVJyVlo1RXhPZDVMblJRVw?oc=5",
-          "source": "New Orleans CityBusiness",
-          "summary": "Sewage, waterboard proposal strips universities from nomination role New Orleans CityBusiness",
-          "published": "Apr 15, 2026 3:56 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans City Council Public Works Commission approves plan to extend sanitation contract - WDSU",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkFjNDV4cklzS0VybXBPUmtENzFZYzR0b3dGQzJCZEJnR0ZVS1I3R0JlSXk1ZG1Ld3JXSTB0NUN2LXRJZmpZXzRGdl9ZeUZQVWZldkJhTFlYYkI1VTNmR2Z3UGMzNDRxc2R1TXY1U1Y4RlVJSDFiRlAwcG93RlJtWTFjTlVSdWtXWDRNOGhnclhhS1ZPVTVB?oc=5",
-          "source": "WDSU",
-          "summary": "New Orleans City Council Public Works Commission approves plan to extend sanitation contract WDSU",
-          "published": "Apr 15, 2026 2:14 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "House committee approves bill to increase Sewerage and Water Board oversight - fox8live.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZk53UlJUY3RUU2dTZVAxaENPeHpFNDVJaS12N0NELWJ5NlVsRFBtdGNfaXQ1ZjE1eHdUU0JMRDZOZnZuZXVqc1RmSHZPUnAyWkp2dmxkeU1SWk5QaktzTElKMmRLdlZlNkNBSi1QYmppV1ZPNVV1YW8zeXhyRG5LY1Q2aFdEQUtVNEhxcl9sUUN4STlHUS1XTkhsX1lrNl9ZWEgzSEpIUUJNZ9IBvgFBVV95cUxNTzNma1dyejF1WFJxUmJ0VU9NSUFMZ0Q5ZUp0akp3dDlHVzlrbWJjQnZWQjVmTEJXd2M5Mmo0UGxTazRPbkZxZ04xRUppa3Jwa3o2X1dWZk96WDhhemgwWlJPRVVWWXNuMkdMdjVDNUlNVmNBdlFDaXl4QWdrR19MVTZaYnF0S3ZKeHZaa3didEd1bmYxMm11bUV1WkRSN2ZIN0dVOTZiSjUyZzBnWFdDcDZQbUhkaWpGSS1YWEtB?oc=5",
-          "source": "fox8live.com",
-          "summary": "House committee approves bill to increase Sewerage and Water Board oversight fox8live.com",
-          "published": "Apr 16, 2026 12:16 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans City Council Passes Legislation Endorsing Safe Streets for All Action Plan - New Orleans City Council (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdUpGT1JlRUVTeGg0cWhMc1lRTFdSUmxzVGhOWjY4MDFTdWU1Z3lJQUVTMFJaSm1GMjNUVzZvUnFuZmlsQUNYTUJRSmktT2xHU1RfdDZ3YlF3SVVuUTdRUHo0RnZnOXFxVHlmaHZsUzNBakJoNWpNa01KU0JSSHhhOFRhamlodjFWal9HNDktSlcxQ1htdE1N?oc=5",
-          "source": "New Orleans City Council (.gov)",
-          "summary": "New Orleans City Council Passes Legislation Endorsing Safe Streets for All Action Plan New Orleans City Council (.gov)",
-          "published": "Apr 9, 2026 7:00 AM",
+          "title": "New Orleans bill approved: Council seeks more control of Sewerage and Water Board - WGNO",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV1JHN3h0em5JV3ZOTEc2ejRTaWN1MW9JZHlpQzhWX244ZG1sVTUwMGNXZnNON2FnWkpmcDN6QW9HbjdoTmpuVmwzdUVPb2Yzdl9GbkRhOEx3N0hZa3hYSTBHdHI2MlRsNW1IZnRiUTlVU2QyYTQ1S3lUajRvTFZ1MWNGM25Xbm9qWjh3N1dubjJRcVdlZnJPMTNRd3ZwNHVINnpPU2gwbnRTQ2NMNXJWQVpmVG5LRUlweVZBRy1LM3VjV3JhN2Y40gHMAUFVX3lxTE4zeWdKWGdYUVFaZmV1OEdWVFJMdTNRMTI1UkFUQk9EMWxrckhXblNWNERaT3h4aER5NEhOZFdvbkFTOUxHZlBZMzFxZGlIdEpJUDJIbkVWRDM3MjRWUFpjMWttWF9rSkM4TDlsOFFGVnBPOFdTeWRiYWtqdjBSRU5CX0hyVXpodFNoSnFSWE14VWY4dGVvcXFnSWdab2pwcUkxbVpqR3RObkRSSFJybjNRTzFsM05ZdGx1NEhlRnlGYXR1U2NZZ0VGQVRhUw?oc=5",
+          "source": "WGNO",
+          "summary": "New Orleans bill approved: Council seeks more control of Sewerage and Water Board WGNO",
+          "published": "Apr 16, 2026 2:36 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -182,30 +182,30 @@
           "calendar_url": ""
         },
         {
+          "title": "What we know about a body found in New Orleans East this morning - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNME9Dc0JmOVZGVmpIc0dwVV9vQkN5WWJvMUZGNWkzeHZXSHY2RnZveG84MndHYTBQMnBEcWdSd044VlRwbGwwWExKa1hsSmplUzBjaUYtOE9VNmlJN1lCdVhBeTVjelR1VEk0Z0ctUjJoc0dKc0hIdXhZUU9NMVFIbTg2cUE?oc=5",
+          "source": "WDSU",
+          "summary": "What we know about a body found in New Orleans East this morning WDSU",
+          "published": "Apr 16, 2026 9:21 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "A Taste of New Orleans: KSAT\u2019s Sarah Acosta gets a sneak peek at beignets, boudin balls and more - KSAT",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSHI1dVpmbFRqTXpvM3JNOWlnUWZJR1I5MzlGa3BPSnB6S3drMklKNVM3dVFQVDRURk1KYnBBMkpGWmZndzVRWG1ZQjIyV1FTcXJEcmUtRzJSdHFuSmN4NGNqZW1rNHVtZTBodHVvUkJRNzF5Q1VxZk43MXd1R1M0TmloYzVTSW5tWFRnOFM5ZW5jMzZlcE03anZXZWgtTG9aWE5WZzNuUnpTLTNfclRhYml3WElueVhmdms3dGRVQlBxbHVPUVMtYkpmN2pURG5FdElv?oc=5",
+          "source": "KSAT",
+          "summary": "A Taste of New Orleans: KSAT\u2019s Sarah Acosta gets a sneak peek at beignets, boudin balls and more KSAT",
+          "published": "Apr 16, 2026 10:08 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "The 25 Best Restaurants in New Orleans Right Now - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RTmdTaW9OdFg5YUV4Z2ZZeUlzQlgwMFlFeVZMOEY4YngwZVMzWGlhUWpuUUNvM3l4S0YzUmVsS2drcThicU1ybmxoblB4ay1oZGlvWFV4YW5mZ1hwZzFnanAxRk1QZ3l4SHFQS3VyWDhBNWM?oc=5",
           "source": "The New York Times",
           "summary": "The 25 Best Restaurants in New Orleans Right Now The New York Times",
-          "published": "Apr 1, 2026 7:00 AM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans & Company Highlights City\u2019s 2026 Momentum - Biz New Orleans",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnBsck1ZY2pkbVNXLWViVnAzLU55QWZRbWJTQzVRMjVwT0ktWUx5RHctR3diS0gyWDduZGtaUlJfSVJwRXQ0bDFUQnlOWjBCUTFOWTBYbHhxRzlKclgxd0xCdEFTMlhHamt5dExvc3NzdFJjeThYbDJ5eVBQN21pUUZYTQ?oc=5",
-          "source": "Biz New Orleans",
-          "summary": "New Orleans & Company Highlights City\u2019s 2026 Momentum Biz New Orleans",
-          "published": "Apr 13, 2026 6:52 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "The Top Restaurants in New Orleans Right Now \u2014 Resy | Right This Way - Resy | Right This Way",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZU29RcTBVY25jN19CRE9JRDdwYzhxSGN0cG1QNUhzekdBZnRreVJfMjJnQ1RLWVJJczRiVWdXNnc5VC1ROVl6REJ3OEQ4bDZLUXN5bjloT3NzYmFJNFRRcGpaT0pkRG5Db2dN?oc=5",
-          "source": "Resy | Right This Way",
-          "summary": "The Top Restaurants in New Orleans Right Now \u2014 Resy | Right This Way Resy | Right This Way",
           "published": "Apr 1, 2026 7:00 AM",
           "eyebrow": "Restaurants",
           "location": "",
@@ -220,31 +220,41 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Weekend Picks - New Orleans Tourism",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5",
+          "title": "10 Things to Do in June - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1heWQ5ck02M2xscEFMNWZ4akxEWlI4eU1ZekRwNFAxVEN0QjNvb3JfTmRMVXV3YUFMUUFmUTFjZDE2cHVyZ3RicFRZdDkyN296REE0ck9rQ21ycVJGd3luLWUzdS1uLUZpVkFMOUd3?oc=5",
           "source": "New Orleans Tourism",
-          "summary": "Weekend Picks New Orleans Tourism",
-          "published": "Apr 13, 2026 7:00 AM",
+          "summary": "10 Things to Do in June New Orleans Tourism",
+          "published": "Apr 17, 2026 1:13 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "From building stages to checking bags, these LA businesses help make fest season happen - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZlY1M1Y3T05lV1hfMUdZNHZ5b3N5T19MMVNNa0k2cHc4azJxNGNfV0ZybWhpak9xNmZpdFhRWUhKYzYtTEVxMGtzbFFPWG5KTnI2TXhXWlFlZ29uQ1hpZVRGbVJqS1g5WkZicENqNTk2cHJLaUljejB0emdXa0RXdVNvWDRZU3hoSEJUTWRGRFBlTGZUYm9HVkhOMmtiMDgtdDdpeUNWdWtFOE9hLUNDZmtVdkl4XzhqeDI1QWVNYmF2d0RVTTVwTmg1ZHlFQ2RjVDk5d0RhR2FpVmJmNkhhNTdvdGlRQi1RYWtfb1JNMlVsTGZEQ1hTWGtxMWJqOXR4S1ZJVlcybEUwanZ6TS1Oby1fWlgweEdRWDBDcFR30gGjAkFVX3lxTE92aFd2VksyYWFJbEZEOC1yWXFQcmN1QzlQWkp6eEM0cHVkUzRkOGNRaWZ1OFA0X2ZNaElzaDUtWmFwR2VaNHhtRkV6c1BXNVRRdWc1VDd5SW1yd21YbVVXSWFRWFBsOW9waHVwWXBNb3JoOGdZSWRIWlpFZGFrY1NUWUNmQlNBbV9LYWMxb0JZVG5qS2VtNnBzZzVHbzdhUUx5cXRLQ1puQzVJdzNPUGlMcFp5bDZyYi1uRndVQTkxZUhoX21nMExtaTJ5WTZnb1FvcTJvT1EwSW9veGZVbVlnLTJRVkUxSEJNR1ZTbFp6OXFGZlFRSXJyNEQ2U284NFlxbkhWeW5UMTVHaWxKdzlfVl9nX1FwYUZZNWZvaHN3a2pqNA?oc=5",
+          "title": "Royal Sonesta to Host Exciting French Quarter Fest Events - New Orleans Magazine",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFpVOXlXSms5Y0M0MnBlWGp4UDJUWnI4R29aX1UyQ1VVRm1YMEZzTHpjdlJaU1did2RmVXBkLXlEOEpvM0FUaXZkOW5iNlZsbWJDLUdQU0xhZDZuQk5SQ3JMNjBZUFNTcEk1eWF1SFBoTXdzbXo0NDd0UVFXMGxyNWt5MFAtRjk3LUh4aUNsZ28xZDZUTEE2YlJRTQ?oc=5",
+          "source": "New Orleans Magazine",
+          "summary": "Royal Sonesta to Host Exciting French Quarter Fest Events New Orleans Magazine",
+          "published": "Apr 16, 2026 1:39 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Shaka Garel brings Afrodisiac\u2019s Jamaican food to New Orleans festivals - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWmc4WlY1Y1paTHB6RUxVa3VsWTFNNXRPRmpZcmU5a2pNdS14Zzh3ek1RSUJtbTJ6RGVOSFlDQllmTVM2aTFwOHRGRXpZWGxOLTRVaDJhY3cxcGdiUnZNZk5Vb3hxV1ZzSFJKbEVPVmRuNG1qY2NvemxTTlgzRFZZYzlka2thV2Zfd0xUT01GeTEzX0RHajJoTm1waTlHcE9SaGtOZGJ5N2JUaWc0bUxXaEV6U0VhNXRhcVdBa1pld3BZamVGalJyZjJWX3RhOVlxSENfWWQzeUs3OTBHa0tDanlndU9FUUFPMVFicXppcDA?oc=5",
           "source": "NOLA.com",
-          "summary": "From building stages to checking bags, these LA businesses help make fest season happen NOLA.com",
-          "published": "Apr 16, 2026 9:00 AM",
+          "summary": "Shaka Garel brings Afrodisiac\u2019s Jamaican food to New Orleans festivals NOLA.com",
+          "published": "Apr 16, 2026 4:00 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Watch French Quarter Fest LIVE all weekend on WWL - WWLTV.com",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLWFzalZWYVgzZ0szbE04RW5nZmhpVVRPeUtVeFVKUzdDZXNBWERtdnZOd0RuZ3g1Xzc0RGM3ZU5kUll1X0ZrNXpIaUdKZGRueEJVZWV6R3ZRcFUtM0ZINUNiSVkzcE1rZS1udEhJTEhCOGJMMUlqbkY1Q2RZQUZsdF9DRFJjazNpQnpYUXBzYkZSMW94QVB1T1hyWVpXZHhsUUpfV01vZElKc1dmRHdHYUs2SVRFdzhjRm9DclFBejR2czB6X3RjdDBLbW5pTHlscWd1c1U4ZENKZ1FNZzd4M0VkazBuM2ktOHVITVRtaHVodFpZTnoxTEdTQ0wtSFo2?oc=5",
+          "title": "Esplanade in the Shade: Where New Orleans music\u2019s past and future collide - WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcnVKRGp4bFBmOUlYQUVHM0JvZ1ZMZEx4S1RMS0VFMkNwOTVyMVQ2bHdubmZSX3pGbFlXTzJ2LXVEa3M3eWk0YXlkLWFPaURlUVF0Q1g3cE4tUG1kNTRTZ21OZU0zdzNIc1V3S0htR09Zb1ZMQjNRcGk5NWp2OVRHeFdzREhTOVJKMVYwX0pHaUd5akRlWEpRVDVXX2JZczlHYjFEVC1TQmtEZjRiZ1BoQnRRVVF2N2tBTUN4OHVNRERubDJOeDFJTE9nMERBbEVjbXcxMHV2TlFEMkJlNS15Rm94aG5wbkdtNHZTUEpwTDFJbFlhaHhQZlBDcUlUNnlRQU1r?oc=5",
           "source": "WWLTV.com",
-          "summary": "Watch French Quarter Fest LIVE all weekend on WWL WWLTV.com",
-          "published": "Apr 15, 2026 11:23 PM",
+          "summary": "Esplanade in the Shade: Where New Orleans music\u2019s past and future collide WWLTV.com",
+          "published": "Apr 16, 2026 11:16 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -260,21 +270,11 @@
           "calendar_url": ""
         },
         {
-          "title": "Fest By Nite 2026: A Guide To L4LM\u2019s Late-Night Series During New Orleans Jazz Fest - Live For Live Music",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHY4bzJYdFVIc0VxVURYeGd2TFdSYkF3U2xLQmU4dm52OFRMT0tUWHZsTGNSVW9xclhQbUlVV01PSURNV3k2dFZzNDIwbDF6Vi01elp0dHlCWmRFMzBQeW00ampvZmpseG13OG1lbmhXZzRrc1p3dmxXUDdoM3V1eGh0RVIwYzQ4X1EyLUZpUHl5VDhtVGFZclp6aUw5T3RVcVp3VXR6aTdXY1E?oc=5",
-          "source": "Live For Live Music",
-          "summary": "Fest By Nite 2026: A Guide To L4LM\u2019s Late-Night Series During New Orleans Jazz Fest Live For Live Music",
-          "published": "Apr 15, 2026 5:01 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Rolling Stone\u2019s Rock Tour Heads to New Orleans - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY3pRV1RoSWkxWE5MLWdnLXl4Tlo5LTJ5VXB3OXExcjBONklpZlJ6aEdSTXhQd29OZzlNMFVHb0laVmRuXy1IVncxMlZVazB4cDU0eFNPQXhvaTZzZE9aZUhIVmk1ekhPdDY2Y1NrVWgyVmFic25JSEVFQm45THdLYw?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "Rolling Stone\u2019s Rock Tour Heads to New Orleans New Orleans Magazine",
-          "published": "Apr 14, 2026 1:35 PM",
+          "title": "New Orleans & Company Highlights City\u2019s 2026 Momentum - Biz New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnBsck1ZY2pkbVNXLWViVnAzLU55QWZRbWJTQzVRMjVwT0ktWUx5RHctR3diS0gyWDduZGtaUlJfSVJwRXQ0bDFUQnlOWjBCUTFOWTBYbHhxRzlKclgxd0xCdEFTMlhHamt5dExvc3NzdFJjeThYbDJ5eVBQN21pUUZYTQ?oc=5",
+          "source": "Biz New Orleans",
+          "summary": "New Orleans & Company Highlights City\u2019s 2026 Momentum Biz New Orleans",
+          "published": "Apr 13, 2026 6:52 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -288,31 +288,11 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Get Access To All 23 \u2018Fest By Nite\u2019 Shows In New Orleans With The New Platinum Pass - Live For Live Music",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdC1wNUpSaUM5Vkl6MV9pQW1aeTZoUmM2MTNmT25HTG95NlVUbXdEUzA0b202U3BEV1FqV1NLUENIZG1uQ05RZVBnLUZJbUtPM2lINW9FX0l0OXltQ083bC0xQmhtOWdZelJnUGNxdm1WQ3l2c1A1c2oxWXpiR2U3SE5kR1U?oc=5",
-          "source": "Live For Live Music",
-          "summary": "Get Access To All 23 \u2018Fest By Nite\u2019 Shows In New Orleans With The New Platinum Pass Live For Live Music",
-          "published": "Apr 16, 2026 6:49 AM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Newell Normand Hosts Live Jazz Fest Coverage - National Today",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcW81VVNPQUdjWWpzeTV1QXZtamJOejdfYmdta0paM1laVW85NVVrdUZVUHdFc0NVNVJLSmNPWTlhTFBEVEVpbXBRWmRoLUxteHRFX1RXQ0hHanRMQkhxamVwYlFDUVl6NW1rOTYtM2RLWWxSTEF1T1BxeTZVX0JrU3NxUmpsWk9zQXA2bGE1Zml2ZUR4UGNDeDBXUk1pa1VoSHR1TGY0WEo?oc=5",
-          "source": "National Today",
-          "summary": "Newell Normand Hosts Live Jazz Fest Coverage National Today",
-          "published": "Apr 15, 2026 11:59 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Weekend Picks - New Orleans Tourism",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5",
-          "source": "New Orleans Tourism",
-          "summary": "Weekend Picks New Orleans Tourism",
-          "published": "Apr 13, 2026 7:00 AM",
+          "title": "Guide to nighttime music during New Orleans' big 2026 French Quarter Fest weekend - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeV9uVVZKOTlWQWQ3d25qN21YeUc1bVowNzJWYVdZaG9vV0dEWFU3UFM5X0hrcGVoZk9uQ2xpaUo2UEQxdjBnSVlYdUpUdzNQb090aGFubjZiVEt5VVRZbkcwWGNRcUR5NG9HbGlOdUtCQTlldXV5VGI0d1g4UzM5em9UUDBaU09VMmlOWkdiOV9XeVNhNENhZkJ5TjhIWTUwY1VyRktLaUNBQ05LZG11WTNzWjRlVUHSAbwBQVVfeXFMTXFIR0ZNbDVyaUE3X01fLWNPcnZwaTJhUFNOc1k4Q0RCeHhSSHg1QkFkUnhUdlZybHg4S05JUnA0ME5DUWlBQzRBeUZ2ZE5jdnFuV2ZsS1NqWjdYOVVQcW40SkpyLVAzYWhubkQ5MTNON1BpWUJUWnRJdF9keUZLc0pFMTJCR0hBTXVvTlRtM1JmSFVZdG5oZXZ3Vks0LU8xU1JjektPWGE3TUxyX284Rk1XTGZBSnliaVNVQkY?oc=5",
+          "source": "NOLA.com",
+          "summary": "Guide to nighttime music during New Orleans' big 2026 French Quarter Fest weekend NOLA.com",
+          "published": "Apr 16, 2026 4:00 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -328,21 +308,41 @@
           "calendar_url": ""
         },
         {
-          "title": "Overdue Ovation: New Orleans Jazz Guitar Master Steve Masakowski - JazzTimes",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGd2S29wWUxkVkV1OHp0UlBkd0tqLTZtZS11aVhlUzJQNVJDLTdjTkE2VUpyWkFWNk5JQ3VnWkFSX3A4NFJCQkVaWC1IWXhCdEY1M0ZHUmNFUWVwbEM5YW1mUlp1MEZzaEEwNlJ6NC1iU3BDbF8xZFdmQ2pJR1lGazVEWlNRVGZnNmhsalNfd0tBdFdoVEZxTkhoaFk1d3RydHg3QmJrM255N3FtTDV2QnFiMWV0Zw?oc=5",
-          "source": "JazzTimes",
-          "summary": "Overdue Ovation: New Orleans Jazz Guitar Master Steve Masakowski JazzTimes",
-          "published": "Apr 8, 2026 12:35 PM",
+          "title": "The Daily Star Events - French Quarter Festival: Pell & Alfred Banks - hammondstar.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ29WMFhJTXBvTlkzeklQUXNodG5ybHlIQTBDa095NVdkSGpZY1lwV1FfWlNTT1pQU3BVTTNQa0IwWEQwakN6NG1BQlBCaVVvQkNnbGpWYkRoX09ndDltTVhpNTJCNlFPQjNFZEVGb2R0MWh1RGVGakpvdDhQdFk1TVNnbC1scjd6SjhZSG9GZ2Jmb2NIZFR0ZW5yZGZ5VG4ta2huZ3djc1JPM204a2ZsUkJBMnZGZw?oc=5",
+          "source": "hammondstar.com",
+          "summary": "The Daily Star Events - French Quarter Festival: Pell & Alfred Banks hammondstar.com",
+          "published": "Apr 17, 2026 2:42 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "An insider's guide to the best live music venues in New Orleans - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRG9BRzhBbjR6YWMtbHZJSTg5S0daRFZUTFJGTVZxU1NYa2swQVpBSlRYNXdLeTdfZmNZdmprOFhkeWRpNnhxZUxka0N4N19ES1pNRE1NYUZwSUZWelp0UHpVcDczXzV1dXJ4dnY4REN3NGRJdEk4TFc3S0lpbkpDRGU3NFU5aFdZRDlzaGp4d293b1lZcHpMcUFKWnh2SXJVSWFzMlY3UFdnZw?oc=5",
-          "source": "BBC",
-          "summary": "An insider's guide to the best live music venues in New Orleans BBC",
-          "published": "Feb 5, 2026 8:00 AM",
+          "title": "Jazz Generations Initiative Debuts New Orleans Cohort with \u201cAncient Entry\u201d at Snug Harbor - OffBeat Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX1phZUYwSDlia3U3ZWgwYlNwVGNfR01TdkhqUzdwcGxwd0psd3BmUkJaUW5kNzV6Smt2NjVBQ1FXd2RWSldBR1lGVk1pRktyU3VIUmJ6cjB0a2c0WUhIaFE5Q3hfd0Y2RkNSZDdabG9DSUZxVnFLYXY3SWJCU2tPZDAyTXMtWS1NVjNpTDNDZkxHZVotY3A5NUR0dlJNWkt3VGR2dXV5VzlzT0NfREtRXy1xaXZBS2tr?oc=5",
+          "source": "OffBeat Magazine",
+          "summary": "Jazz Generations Initiative Debuts New Orleans Cohort with \u201cAncient Entry\u201d at Snug Harbor OffBeat Magazine",
+          "published": "Apr 15, 2026 7:50 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Can\u2019t-Miss Live Music in New Orleans This April - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUTc3UGVqODZMNDY3UXNkQTFia1ZKV1gxaFVqQWhDSlZQMExwOXpRakZnTkxQRUdSMFpKRTIydjB0Zzg0S3pSbTUwdEo0cFpBSUpfT1dUY1c2S2xuVHN5bHY1UFY0Vl9EclBhVDE1clNOWUstanRwY29BdnhPc013Y3BSMTZXWk5qZVNB?oc=5",
+          "source": "New Orleans Tourism",
+          "summary": "Can\u2019t-Miss Live Music in New Orleans This April New Orleans Tourism",
+          "published": "Mar 25, 2026 7:00 AM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Loyola University, French Quarter Festival to spotlight New Orleans' musical legacy with new supergroup - WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOZ0lFOEJtQXQ4U3BjT2V4N3JlZ01CX0hRZlJ0Y1lya2JienJpM2lhMnRVZmRGSEVia3phaDdneW45VkQ0ZkdUUkxSSkw1bXdTNEU2RHFEcExCS1gxNjNxdWtnQjNRQXFZMXBhUXo5RW05bzZCazZkaVFnNUhkTkpVSzhremFsTlUyblRDbTduTGpBUXkzaHU2T0g3RVUxNkNDX00yb2cweGV0M0xucHJCY1ZOYVNyd2J0cGdwb2FiYktmOTZrSGRwaEUyQkZyUmxKZWxsM252M0taU2tVMjFZZm90LTRIa2NXNVdVT2tBejlNWlVELVRIbm5JbWozbEd3WFBqbVRmQV9wd2cwUjNqb3U1UmlLOHNGbDNMSTV0R0gyb043cjMwNDltOHJEVENhQVF3WU1fMF8?oc=5",
+          "source": "WWLTV.com",
+          "summary": "Loyola University, French Quarter Festival to spotlight New Orleans' musical legacy with new supergroup WWLTV.com",
+          "published": "Apr 14, 2026 10:09 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -356,124 +356,124 @@
       "empty_message": "The event calendar could not be refreshed during this run.",
       "items": [
         {
-          "title": "Caitie B. & The Hand Me Downs Duo",
-          "url": "https://www.wwoz.org/events/1331246",
-          "source": "WWOZ Livewire",
-          "summary": "13 on Frenchmen. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 9:00pm",
-          "eyebrow": "Event",
-          "location": "13 on Frenchmen",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Caitie+B.+%26+The+Hand+Me+Downs+Duo&dates=20260416T210000%2F20260416T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1331246&location=13+on+Frenchmen"
-        },
-        {
-          "title": "Big Joe Kennedy",
-          "url": "https://www.wwoz.org/events/1328716",
+          "title": "Big Joe Kennedy Duo",
+          "url": "https://www.wwoz.org/events/1328721",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 3:00pm",
+          "published": "Friday, April 17 at 3:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+Joe+Kennedy&dates=20260416T150000%2F20260416T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1328716&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+Joe+Kennedy+Duo&dates=20260417T150000%2F20260417T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1328721&location=21st+Amendment"
         },
         {
-          "title": "Marty Peters & The Party Meters",
-          "url": "https://www.wwoz.org/events/1328746",
+          "title": "Dr. Sick & The Late Greats",
+          "url": "https://www.wwoz.org/events/1328911",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 8:00pm",
+          "published": "Friday, April 17 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Marty+Peters+%26+The+Party+Meters&dates=20260416T200000%2F20260416T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1328746&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dr.+Sick+%26+The+Late+Greats&dates=20260417T200000%2F20260417T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1328911&location=21st+Amendment"
         },
         {
-          "title": "Organami",
-          "url": "https://www.wwoz.org/events/1332841",
+          "title": "Sciryn",
+          "url": "https://www.wwoz.org/events/1332851",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 6:00pm",
+          "published": "Friday, April 17 at 2:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Organami&dates=20260416T180000%2F20260416T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332841&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sciryn&dates=20260417T140000%2F20260417T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332851&location=30%2F90"
         },
         {
-          "title": "Excitement",
-          "url": "https://www.wwoz.org/events/1332846",
+          "title": "Ed Wills & Blues4Sale",
+          "url": "https://www.wwoz.org/events/1332856",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 9:00pm",
+          "published": "Friday, April 17 at 5:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Excitement&dates=20260416T210000%2F20260416T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332846&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ed+Wills+%26+Blues4Sale&dates=20260417T170000%2F20260417T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332856&location=30%2F90"
         },
         {
-          "title": "David Doucet",
-          "url": "https://www.wwoz.org/events/1334311",
+          "title": "Zena Moses & Rue Fiya Birthday Bash",
+          "url": "https://www.wwoz.org/events/1332891",
           "source": "WWOZ Livewire",
-          "summary": "4141 NOLA. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 6:30pm",
+          "summary": "30/90. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, April 17 at 8:00pm",
           "eyebrow": "Event",
-          "location": "4141 NOLA",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David+Doucet&dates=20260416T183000%2F20260416T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1334311&location=4141+NOLA"
+          "location": "30/90",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zena+Moses+%26+Rue+Fiya+Birthday+Bash&dates=20260417T200000%2F20260417T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332891&location=30%2F90"
+        },
+        {
+          "title": "Colin Davis & Night People",
+          "url": "https://www.wwoz.org/events/1332901",
+          "source": "WWOZ Livewire",
+          "summary": "30/90. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, April 17 at 11:00pm",
+          "eyebrow": "Event",
+          "location": "30/90",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colin+Davis+%26+Night+People&dates=20260417T230000%2F20260418T010000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332901&location=30%2F90"
+        },
+        {
+          "title": "DJ ET Deaux",
+          "url": "https://www.wwoz.org/events/1332701",
+          "source": "WWOZ Livewire",
+          "summary": "30/90 - Upstairs. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, April 17 at 10:00pm",
+          "eyebrow": "Event",
+          "location": "30/90 - Upstairs",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DJ+ET+Deaux&dates=20260417T220000%2F20260418T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332701&location=30%2F90+-+Upstairs"
+        },
+        {
+          "title": "The Upstairs Tee Na Na Nay with DJs Lady Li, Karo & Rey Roge",
+          "url": "https://www.wwoz.org/events/1335411",
+          "source": "WWOZ Livewire",
+          "summary": "Anna's - Upstairs. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, April 17 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "Anna's - Upstairs",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Upstairs+Tee+Na+Na+Nay+with+DJs+Lady+Li%2C+Karo+%26+Rey+Roge&dates=20260417T210000%2F20260417T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1335411&location=Anna%27s+-+Upstairs"
         },
         {
           "title": "Bubbles Brown",
-          "url": "https://www.wwoz.org/events/1316501",
+          "url": "https://www.wwoz.org/events/1316521",
           "source": "WWOZ Livewire",
           "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 6:00pm",
+          "published": "Friday, April 17 at 6:00pm",
           "eyebrow": "Event",
           "location": "Apple Barrel",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bubbles+Brown&dates=20260416T180000%2F20260416T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1316501&location=Apple+Barrel"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bubbles+Brown&dates=20260417T180000%2F20260417T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1316521&location=Apple+Barrel"
         },
         {
-          "title": "Johnny Mastro & Blue Midnight",
-          "url": "https://www.wwoz.org/events/1325711",
-          "source": "WWOZ Livewire",
-          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 10:30pm",
-          "eyebrow": "Event",
-          "location": "Apple Barrel",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Johnny+Mastro+%26+Blue+Midnight&dates=20260416T223000%2F20260417T003000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1325711&location=Apple+Barrel"
-        },
-        {
-          "title": "Raphael Bas",
-          "url": "https://www.wwoz.org/events/1324466",
+          "title": "David Sigler",
+          "url": "https://www.wwoz.org/events/1324486",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 6:00pm",
+          "published": "Friday, April 17 at 1:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Raphael+Bas&dates=20260416T180000%2F20260416T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1324466&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David+Sigler&dates=20260417T130000%2F20260417T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1324486&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "JJ & The A-Ok's",
-          "url": "https://www.wwoz.org/events/1327131",
+          "title": "Willie Green III",
+          "url": "https://www.wwoz.org/events/1324506",
           "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 12:00pm",
+          "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
+          "published": "Friday, April 17 at 7:00pm",
           "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=JJ+%26+The+A-Ok%27s&dates=20260416T120000%2F20260416T140000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1327131&location=Bamboula%27s"
+          "location": "Bacchanal (OUTDOORS)",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Willie+Green+III&dates=20260417T190000%2F20260417T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1324506&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Cristina Kaminis & The Mix",
-          "url": "https://www.wwoz.org/events/1327106",
+          "title": "New Orleans Rug Cutters",
+          "url": "https://www.wwoz.org/events/1327001",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 4:30pm",
+          "published": "Friday, April 17 at 11:00am",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cristina+Kaminis+%26+The+Mix&dates=20260416T163000%2F20260416T183000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1327106&location=Bamboula%27s"
-        },
-        {
-          "title": "Pennsylvania Wolfe Johns Wolfe Pack",
-          "url": "https://www.wwoz.org/events/1327081",
-          "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, April 16 at 9:00pm",
-          "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pennsylvania+Wolfe+Johns+Wolfe+Pack&dates=20260416T210000%2F20260416T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1327081&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=New+Orleans+Rug+Cutters&dates=20260417T110000%2F20260417T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1327001&location=Bamboula%27s"
         }
       ]
     }
