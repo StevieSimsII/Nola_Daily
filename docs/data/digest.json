@@ -1,41 +1,32 @@
 {
-  "generated_at": "2026-05-02T05:22:23.422911-05:00",
-  "generated_label": "May 2, 2026 at 5:22 AM CT",
+  "generated_at": "2026-05-03T05:24:11.943536-05:00",
+  "generated_label": "May 3, 2026 at 5:24 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
-    "temperature": 57,
+    "temperature": 58,
     "temperature_unit": "F",
-    "short_forecast": "Showers And Thunderstorms",
-    "detailed_forecast": "Showers and thunderstorms. Cloudy, with a low around 57. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible.",
-    "wind_speed": "15 mph",
+    "short_forecast": "Mostly Clear",
+    "detailed_forecast": "Mostly clear, with a low around 58. Northeast wind around 5 mph.",
+    "wind_speed": "5 mph",
     "wind_direction": "NE"
   },
   "seven_day_forecast": [
-    {
-      "name": "Saturday",
-      "temperature": 72,
-      "temperature_unit": "F",
-      "short_forecast": "Slight Chance Rain Showers then Mostly Sunny",
-      "detailed_forecast": "A slight chance of rain showers before 7am. Mostly sunny, with a high near 72. North wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts between a quarter and half of an inch possible.",
-      "wind_speed": "15 mph",
-      "wind_direction": "N"
-    },
     {
       "name": "Sunday",
       "temperature": 75,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 75. North wind around 5 mph.",
-      "wind_speed": "5 mph",
+      "detailed_forecast": "Sunny, with a high near 75. North wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
       "wind_direction": "N"
     },
     {
       "name": "Monday",
-      "temperature": 78,
+      "temperature": 79,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 78. South wind 0 to 10 mph.",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 79. South wind 0 to 10 mph.",
       "wind_speed": "0 to 10 mph",
       "wind_direction": "S"
     },
@@ -50,30 +41,39 @@
     },
     {
       "name": "Wednesday",
-      "temperature": 86,
+      "temperature": 87,
       "temperature_unit": "F",
       "short_forecast": "Partly Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Partly sunny, with a high near 86. South wind 10 to 15 mph, with gusts as high as 30 mph.",
-      "wind_speed": "10 to 15 mph",
+      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Partly sunny, with a high near 87. South wind 5 to 15 mph.",
+      "wind_speed": "5 to 15 mph",
       "wind_direction": "S"
     },
     {
       "name": "Thursday",
       "temperature": 82,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms before 1pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 82. Northwest wind around 15 mph.",
-      "wind_speed": "15 mph",
+      "short_forecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
+      "detailed_forecast": "A chance of showers and thunderstorms before 7am, then showers and thunderstorms likely between 7am and 1pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 82. Northwest wind around 10 mph.",
+      "wind_speed": "10 mph",
       "wind_direction": "NW"
     },
     {
       "name": "Friday",
-      "temperature": 77,
+      "temperature": 80,
       "temperature_unit": "F",
       "short_forecast": "Chance Rain Showers",
-      "detailed_forecast": "A chance of rain showers. Partly sunny, with a high near 77. Northeast wind 10 to 15 mph.",
-      "wind_speed": "10 to 15 mph",
-      "wind_direction": "NE"
+      "detailed_forecast": "A chance of rain showers. Mostly cloudy, with a high near 80. East wind around 10 mph.",
+      "wind_speed": "10 mph",
+      "wind_direction": "E"
+    },
+    {
+      "name": "Saturday",
+      "temperature": 82,
+      "temperature_unit": "F",
+      "short_forecast": "Chance Rain Showers then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of rain showers before 1pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 82. Southeast wind 5 to 10 mph.",
+      "wind_speed": "5 to 10 mph",
+      "wind_direction": "SE"
     }
   ],
   "sections": [
@@ -94,11 +94,31 @@
           "calendar_url": ""
         },
         {
-          "title": "See what's on the May 16 ballot for the New Orleans area - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzBXdWNsN21NSnRoanhod00zMlVwSEJWQnI0blhCeWFQNVk1NmdYLTdsTEVjdXJNWVE1SG1qMHNWTXhfM3hUcGdtejhVTkJ2NVRGQk50eHdkTk50TjFrZjREVUtOR1psUlZpRV9FT25vNUh0RjlLYU1lNnFETWE1dEZxNlJtWWl5SnZFbXYtTmh5QkpQYk05LXhtV0IxXzlmYXdzaFdHalhJblpMcHFNUWtXM2VhcndzOW1QSWExZFE1djBC0gHKAUFVX3lxTE5OYVJsMjFQWU81MHR2OTJla1FWZVpFUzI0OENoQXBoU1FQTWd6eWhGOVJRSXYyMnVMN1N3UThkSTBwcDUxMDU0QWZfcTE2ei1WWS00eXAxOE9VUmtNZUNzOGxQeEpMUTZiWDZNcGFZaVZRUHJxVDZicjhuMjY0YVJRTlpNYmFuZFRkM1A0Z3V2OGJ5Vk5sSGpWOGQzZ3B2NG1FQ1ZiYVZyMWxsN1ZNdHg5UllXWFQyUVJyYTlDNk4xRURCTWlIelBiQUE?oc=5",
+          "title": "Councilmember Lesli Harris Authors Ordinance for Landmark $100 Million Deal to Stabilize New Orleans - New Orleans City Council (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEhQUktKLV9VY1lNU2NWb0Z3a3N6d3QyeWFTMVR6MjBwVmlIN3RjRU1YYnRZLXdiMnlYUEtjcEJPbVZweHFkTy1OWTJlSS1MSFNlXzBDWUZFNTl4QkVLWkZXQW50ckM5by1QVUdDamVyMGh1SzFQLWx0N0JWck1hRUctYTE5cVo2YnpMcjVXUXRVVjZVeEdN?oc=5",
+          "source": "New Orleans City Council (.gov)",
+          "summary": "Councilmember Lesli Harris Authors Ordinance for Landmark $100 Million Deal to Stabilize New Orleans New Orleans City Council (.gov)",
+          "published": "Apr 28, 2026 7:00 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans City Council transfers parking enforcement role to NOPD - WGNO",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXh4TnVIMVVFdnM1clFnclJrMTJKYkR1cFZUdWh2S3JHSVhMb1BKRWV1dUZBMWxWTDJEOG43ZjZGaHFRZENic0toempJVW1rR09fUmZuTmhURWpEczlmUTB3WVdMSGlKejEzQVVJMWhHd2t6U3ZTVVJ5cjh4QmY1T0kxY2Q1T2gyR05wdzVjbUEzd1NJUTh1ZkdiaUZZY1ItSTFwVGtiWXhYcEdSM0hhdkpRQ3h1Z9IBuwFBVV95cUxPN0MxOGNNZkh3cXJra3ZQNXo2QnJQTXYwdU1XRVRCUW12QURsNzQxM21MTWE1TWlwUlA4SkFrVi1jODNmNGNhRldWU0VrdW03X29OSWhzTkE3RnlnUXZOTWNxZ25jbW5ncmpwd2x6ZFdLbHRfWGdxVFlRdzczZ3pUWld3WFJPZTMyWi0xUHY1bkRkMzk4WVNMUEJUc29rRUkzbkJEajE1ZlBicjJiQ0ZBbnhPejE3MTRZZ01n?oc=5",
+          "source": "WGNO",
+          "summary": "New Orleans City Council transfers parking enforcement role to NOPD WGNO",
+          "published": "Apr 29, 2026 11:00 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "To boost budget, New Orleans government plans $100M sale of Caesars leases - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXM3R0xwTGZMaGpzek5Ua1lmMzEyT21FMG9lTzRxOEZyRjdQZWNWV0xqRTNicTdRdmJrZngycW45eVhKaENsc0ZyS2hDOVJJdTA1enlLMUxRd0ZrNm85SmNiRHNzSFdjUmc4THRlT3BEOXhWMVVidVd3MFNwcnQyc0VHTmJLWE1wR3hzN180UUg4dDhzYXNXdjF4N0ZxYTJEWmdzcGZNM3V0d2xwc0JqcTM4dDJibWxkNlVSaXRaZXXSAcYBQVVfeXFMTnRmbms2Vmc2TkZtMTMzRVFSd09qNV9KbTNZdjBfRjZEVnlwaWpLOXR5eEFHM084NWxmcnVibHM3WDk5X3NUM3BNSk9Yd2Y0ZE5rX19yZEJiTTRNQnZreUE0MWpQakh6R3RHVHJfbnhXNzVnQUZ5LV9UaV93TnF5QlRVUUYwRldXcTNHNXhLSzBDSDE5ZHgwejdVSVJEbi1kZ1Myd1BkWlBrWS1XR0hZdUMta0lSWWkyM3c4d0ZSZHZhak93Nnl3?oc=5",
           "source": "NOLA.com",
-          "summary": "See what's on the May 16 ballot for the New Orleans area NOLA.com",
-          "published": "May 2, 2026 9:00 AM",
+          "summary": "To boost budget, New Orleans government plans $100M sale of Caesars leases NOLA.com",
+          "published": "Apr 28, 2026 4:00 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -114,31 +134,11 @@
           "calendar_url": ""
         },
         {
-          "title": "New Orleans sheriff indicted after investigation into escape of 10 inmates - CBS News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWYzRHNDOUVRNDhuWkluRlkwUlZHbXVHaWg2cTZORXZxV08xVktZS1VabTNhYXpGQVBnODFTVFh1RXBtbV83NVd3cmRsb2pSTEdRb0J0RzRmU0h4NHl5a3BpLVJZTVlMQ2VPTHlSazJ4VERkTFJkZkZRRlFmUTNyUWFYWFFOYjRYb2l0RmV4VWxwM0JVX2F2c1NCdEhDMzdwRThJ0gGoAUFVX3lxTFAzS2ZkaW40UnV2OERnamgxV1AzdzhhYXJDVkFTaGhUN3hTNGVoWlg1OHBzb3hYWWQzbm85MGdHWVh1ajBubDc4ajVNMVZLSGpwQUlJbm83RkhkODNlVDM5MFFHZWI0OU9QTjlNY250Nl8yQmk2QXVqeFBGMUs1azVFeTI1VkhwVmNKVDB1Yjl3SVRUWFFnQ3hrNGxqS0pPM0VfbV96X3Qzbw?oc=5",
-          "source": "CBS News",
-          "summary": "New Orleans sheriff indicted after investigation into escape of 10 inmates CBS News",
-          "published": "Apr 30, 2026 12:24 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans sheriff indicted after investigation into jailbreak, escape of 10 inmates - Corrections1",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeE5SQTdjQi1rQXBRclB2aHdMMUx0Y016WllTVjUtRXphSzBmT0hKejRjYi00Y2lTeklCaElvb3Z0RDRIbmU3ZUVucndqQlNGbFp1S3JneDA3MXJMX2VBWl9NSU5jTmlaaDV1YXVOUDF2bElUSDVPZk45aHRTUkR3dkZnUzQ5elBnbDlhMDRyVjRKRVNmblpOY0paeXVXNWY2MHZGbVhMUkJZM3RkOE9xR2hQN2ZkT3lCYUlmcWljZFpRNXhfUkZn?oc=5",
-          "source": "Corrections1",
-          "summary": "New Orleans sheriff indicted after investigation into jailbreak, escape of 10 inmates Corrections1",
-          "published": "Apr 30, 2026 10:44 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans sheriff indicted after 'poor management' led to infamous toilet jailbreak - National News Desk",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNc3o3ZVFZUjRQZm1hcU56WXZFeGRXejNEcjUyYXlrUUxzQ2dHeUtDWlg4WU1QSWpNaGNENnA4S2Y5VUhRQVBIR1FBSHd6SWcxcW9YdFE5NHk5STJzOEtCWGdYVjVzbUV2RENGamd0SDFJOHNocWpjMER1TXZXTTdmWnpwMzZvLUpPZm1SV3VWR1NSc1JJeHRwVDBQY1VEa1JYd3U1VGI3ZThBRnFqR25kNTNMenJ1bXp4VXNGREx2X0NVRTdBR2pkT01TaFgyUGVCVnhnTXFjRkJIaHRNaEtaRDNSRWotc2ZNWnFTYWl1RWswdk5MVHZnLXRfTTJGLWpScmpIUEJLOTgwQWVsZ1RPRjA2VXRMTzBVX2FfUDZsVjRUc0NKWW40LTFZY1BycUZaNzIzeXgwQzZRaXkyQWR3N2dlaDAyYUtQd21VZzRNWlR5dw?oc=5",
-          "source": "National News Desk",
-          "summary": "New Orleans sheriff indicted after 'poor management' led to infamous toilet jailbreak National News Desk",
-          "published": "Apr 30, 2026 2:48 PM",
+          "title": "New Orleans banks on casino deal as fiscal crisis persists - Axios",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNm9rVTdZWmlVVHZENmtLU1pxY1pZU1M5ekdOWHZuSmhDcHltSVNWRWpuQWYtQ2p0NURsSGNOV2NkS1JsQm9wRFdsbXVzRWRQd2FxYTZTUW0zQWp1REFSUzMtU3FKcHEwa25oSkJ4NHhZVHlveU1KQ1pHTXpibTNnYnlualBucU1NRm5HR1R5Z3c?oc=5",
+          "source": "Axios",
+          "summary": "New Orleans banks on casino deal as fiscal crisis persists Axios",
+          "published": "Apr 29, 2026 11:45 AM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -162,16 +162,6 @@
           "calendar_url": ""
         },
         {
-          "title": "Succotash: Reviving a Beloved New Orleans Destination - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1oxa0RMMHpBMTZkeGcxekNYWXRod2VOYjQzUG56cWVYbllFLUxaMUl1T05kUlpDcXFQdXh5NnhFdjRsVWp5YlpwT2xLQ2JBTXAzS192QzRNRGotV2F5TlkyMkVCdmRnVnlsQUpYeEluM2JlLUt2SE9CSTJxM1czZzRoaWt0SHFwX2c?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "Succotash: Reviving a Beloved New Orleans Destination New Orleans Magazine",
-          "published": "May 1, 2026 1:00 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "The 25 Best Restaurants in New Orleans Right Now - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RTmdTaW9OdFg5YUV4Z2ZZeUlzQlgwMFlFeVZMOEY4YngwZVMzWGlhUWpuUUNvM3l4S0YzUmVsS2drcThicU1ybmxoblB4ay1oZGlvWFV4YW5mZ1hwZzFnanAxRk1QZ3l4SHFQS3VyWDhBNWM?oc=5",
           "source": "The New York Times",
@@ -182,11 +172,11 @@
           "calendar_url": ""
         },
         {
-          "title": "Jackson\u2019s Gastropub is now open, bringing New Orleans fare to south St. Pete - St Pete Rising",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOamR4WFdQSEpBb2VXRGlyRjJ0VldpUTVOZHZudndqdXNNeTdfR0ZkbmZweFRPNVZQbGZabFN5VnQ3dE5Mb3JYcUl5c3RCNWhKQ2V5MjAtbTFfdmJmUnJ4VElzUHU0d1Jwc1ZSWHpBcHQwM0pTY1FfTTllWUlQajJXSFdlbkpJdS1kSy11WHpkbGpjX0lxQm5oMU1OUE1rd3d3T2ktMG9B?oc=5",
-          "source": "St Pete Rising",
-          "summary": "Jackson\u2019s Gastropub is now open, bringing New Orleans fare to south St. Pete St Pete Rising",
-          "published": "May 1, 2026 6:22 PM",
+          "title": "The Dish: Windsor Court\u2019s New Menu, Oysters at Boucherie & More - New Orleans Magazine",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGtENDF0WDdaQ09lQ0NaMlNTbVkxS3lVZ2w4cGVGUEFsaXVXUlc5TEpyZFQzTTNYWFVXc2xvd0VmS3Q5Q2FOaTRKQl9JcW1TZVAwU25Vc0s1Vndydy1QamdLVzkwZ3lCUkVMMUZqdFdUWGxVMWw2UWxYNlhGRXFNSzZsMTVSUE4tOVItUXdBa2tiZw?oc=5",
+          "source": "New Orleans Magazine",
+          "summary": "The Dish: Windsor Court\u2019s New Menu, Oysters at Boucherie & More New Orleans Magazine",
+          "published": "May 1, 2026 1:00 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -210,6 +200,16 @@
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
+        },
+        {
+          "title": "Jackson\u2019s Gastropub is now open, bringing New Orleans fare to south St. Pete - St Pete Rising",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOamR4WFdQSEpBb2VXRGlyRjJ0VldpUTVOZHZudndqdXNNeTdfR0ZkbmZweFRPNVZQbGZabFN5VnQ3dE5Mb3JYcUl5c3RCNWhKQ2V5MjAtbTFfdmJmUnJ4VElzUHU0d1Jwc1ZSWHpBcHQwM0pTY1FfTTllWUlQajJXSFdlbkpJdS1kSy11WHpkbGpjX0lxQm5oMU1OUE1rd3d3T2ktMG9B?oc=5",
+          "source": "St Pete Rising",
+          "summary": "Jackson\u2019s Gastropub is now open, bringing New Orleans fare to south St. Pete St Pete Rising",
+          "published": "May 1, 2026 6:22 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
         }
       ]
     },
@@ -220,21 +220,21 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "With storms looming, New Orleans Jazz Fest organizers announce shortened Friday schedule - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYTBreHRhaHRDcGZGaWVRR3Rzc1k1ekhFMDdJMk9YTFE1OVhCME96X21ubWJ0UkY1bnVHSWpCSEJEVm1yT0JjWlJKUURtREVyNDBNQno2c2I2RkhtOGpiWXdDUzhkdjQwczRmZ2F3dGN6bjA5Q3B1S0h1VW5VZk1iQW9UVE1JaVBpRmZweEgyQ21oQjJBZTloS2FlNl9CanQ3bFo0RHE4aElkNkQ5SmJycEVKMDkwR2w4aVJHVTB3ejl6LWhaN3JTLTUySkJsSEhqc3Z3RzhxWkhiTXF4eEdSVnFKdnk3ZnVWb2Q1V3oxMHpCMXRjWjN6QjlGM1RSMjdQUF9OXzdKOHplMjlyN0s0?oc=5",
-          "source": "NOLA.com",
-          "summary": "With storms looming, New Orleans Jazz Fest organizers announce shortened Friday schedule NOLA.com",
-          "published": "May 1, 2026 4:54 PM",
+          "title": "10 Can\u2019t-Miss Things to Do in New Orleans This May - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCMUI1VUJYNHZBVzBGV2Y1SklwcUNVaGhqSkxIaWN4eHoycXlwZkI0VlEyT1hncjdVaDUwWXpCUlhXWEd5VTZORTFDUGFPWnZOMFFmYmI5RUpoVm5wWWF6Z2tMaGdWRGc5NFdxaw?oc=5",
+          "source": "New Orleans Tourism",
+          "summary": "10 Can\u2019t-Miss Things to Do in New Orleans This May New Orleans Tourism",
+          "published": "Apr 30, 2026 7:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "LIST: New Orleans events postponed, canceled due to severe weather - wwltv.com",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUS1WcVNKR1VqVXFQcjFudEZkS2tNOHY2eUFkWVFBcTZId0pIYUJ4ZV9XQ0ExR2J3VkxzZmRrdGN1bmdrZnJYZmN1bTJHbXJLTmFFRnVVOFhSWFNVRUdvUUlhQ3FtYmpCTTQxNERxX0NKbG5vbjgtVFVPaWdSSG9PZFUta2tIWXpnaG9FM3lYSDRGX1hxb1l2QjNsVlBQNGs4bHhaSXVuY29Sbng2dlltQTZVdDJUc3NhVGUzRk5uV3p1dXpYeTFaOFBmeWFMYjV3SnlFMEhSTEdpX1pQRUlhU215SU41UVNsQ1dCTA?oc=5",
-          "source": "wwltv.com",
-          "summary": "LIST: New Orleans events postponed, canceled due to severe weather wwltv.com",
-          "published": "May 1, 2026 9:24 PM",
+          "title": "With storms looming, New Orleans Jazz Fest organizers announce shortened Friday schedule - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYTBreHRhaHRDcGZGaWVRR3Rzc1k1ekhFMDdJMk9YTFE1OVhCME96X21ubWJ0UkY1bnVHSWpCSEJEVm1yT0JjWlJKUURtREVyNDBNQno2c2I2RkhtOGpiWXdDUzhkdjQwczRmZ2F3dGN6bjA5Q3B1S0h1VW5VZk1iQW9UVE1JaVBpRmZweEgyQ21oQjJBZTloS2FlNl9CanQ3bFo0RHE4aElkNkQ5SmJycEVKMDkwR2w4aVJHVTB3ejl6LWhaN3JTLTUySkJsSEhqc3Z3RzhxWkhiTXF4eEdSVnFKdnk3ZnVWb2Q1V3oxMHpCMXRjWjN6QjlGM1RSMjdQUF9OXzdKOHplMjlyN0s0?oc=5",
+          "source": "NOLA.com",
+          "summary": "With storms looming, New Orleans Jazz Fest organizers announce shortened Friday schedule NOLA.com",
+          "published": "May 1, 2026 4:54 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -250,11 +250,11 @@
           "calendar_url": ""
         },
         {
-          "title": "10 Things to Do in June - New Orleans Tourism",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1heWQ5ck02M2xscEFMNWZ4akxEWlI4eU1ZekRwNFAxVEN0QjNvb3JfTmRMVXV3YUFMUUFmUTFjZDE2cHVyZ3RicFRZdDkyN296REE0ck9rQ21ycVJGd3luLWUzdS1uLUZpVkFMOUd3?oc=5",
-          "source": "New Orleans Tourism",
-          "summary": "10 Things to Do in June New Orleans Tourism",
-          "published": "Apr 28, 2026 7:00 AM",
+          "title": "LIST: New Orleans events postponed, canceled due to severe weather - wwltv.com",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUS1WcVNKR1VqVXFQcjFudEZkS2tNOHY2eUFkWVFBcTZId0pIYUJ4ZV9XQ0ExR2J3VkxzZmRrdGN1bmdrZnJYZmN1bTJHbXJLTmFFRnVVOFhSWFNVRUdvUUlhQ3FtYmpCTTQxNERxX0NKbG5vbjgtVFVPaWdSSG9PZFUta2tIWXpnaG9FM3lYSDRGX1hxb1l2QjNsVlBQNGs4bHhaSXVuY29Sbng2dlltQTZVdDJUc3NhVGUzRk5uV3p1dXpYeTFaOFBmeWFMYjV3SnlFMEhSTEdpX1pQRUlhU215SU41UVNsQ1dCTA?oc=5",
+          "source": "wwltv.com",
+          "summary": "LIST: New Orleans events postponed, canceled due to severe weather wwltv.com",
+          "published": "May 1, 2026 9:24 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -270,11 +270,11 @@
           "calendar_url": ""
         },
         {
-          "title": "It took a while, but New Orleans singer Robin Barnes finally found her 'Louisiana Love' - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeV9jX2lVTUZSNE1uX2RLbWdwQ3pFS0tOTlhYU3VZRmxoN3JCc2x4MnoxdkpWYmJKOTRadHVNU0ZJdEF0RlN5V3I4SUJsZG90RTJZYWhYUHZydzVVaUhnTk9BYnptUFJYN0hoOXQwb1BUYVV2b3AtOVlkLXBJRU5ZWW5YU3BxX09DLWltaGpDLU9HS0ZNb29jWmlzV29HWEpYSE9BMjVFR0lJTU9SMndDZ28wRjFNTnU1NUZtT1FEZW9TaWdfWlHSAcsBQVVfeXFMUG9iUzkyeXpMSWQ0Zmx5a2xRcXlnb0FOajNaemdNbVRvZThGTURpV1hMMV9FdmZqU0ZrTUIwckVXNzZxUUdfbk5yb1k4RlFvZ0hzcWhweE8ydGtKNTVuTTFiY2JQdDZkM3VxLUI1V0U0aEdwRTRVSHM5RHVqdmFHTFc0a1NTWG1SNFJYX19xMVIxTTh6cUNOMS1oeWgyTlllVFVOTU1oOEs3dExKd3ppVWtISGhGczV3RWp4SFEtaWJUbjE4UGxlZzlKVkk?oc=5",
+          "title": "2026 New Orleans Jazz Fest after dark: Guide to the 2nd weekend of nighttime music - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdV9Wd3k5SXpOQVdYSG5DMk1JY21jR1hNXzAwN3c5ZDVLTzRXOUtNMnFiczNuU0YzXzg2UFlqcG15d21EYy0yMkFwLXJNMFBLRE5SVW05RF8yTm9fVWdpdWFmQ1VZTXN5UWRjTGpydDMxY3kxSzRFU0x1cWRaRlVwa01YYXBfdThzLXl5U1BKVmktNFJRbkE4VFd6b3FFNE1HMmw3b2JrMk9zNG1BX0NIaGpoRzV5YVh5ZnVTRNIBwgFBVV95cUxNYXBXem5Vb25iamdxNl9ZdWJrMEp2V3BWN3BtOEprNEQ4YktQVjBUU1BJeS1ZMEhOU2h6Z2pMdVdubzhQb3VBMUZnQkQ3X3FFNzAyWW1ZbTBWdm80SVZNUGdsM2pFS3pwZVFJenBQNUZCc2laWlA3b2xjcXVzTkdsVVNycE9BdkhDU29pTTBBbUpJZmF4eTlCbmtkRDUwV1hoZFhEazlYREIxNmtGR0ZCVVkxOGVwcC1saExFeHFVNERZZw?oc=5",
           "source": "NOLA.com",
-          "summary": "It took a while, but New Orleans singer Robin Barnes finally found her 'Louisiana Love' NOLA.com",
-          "published": "May 2, 2026 9:00 AM",
+          "summary": "2026 New Orleans Jazz Fest after dark: Guide to the 2nd weekend of nighttime music NOLA.com",
+          "published": "Apr 30, 2026 4:30 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -298,16 +298,6 @@
           "calendar_url": ""
         },
         {
-          "title": "LIST: New Orleans events postponed, canceled due to severe weather - wwltv.com",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUS1WcVNKR1VqVXFQcjFudEZkS2tNOHY2eUFkWVFBcTZId0pIYUJ4ZV9XQ0ExR2J3VkxzZmRrdGN1bmdrZnJYZmN1bTJHbXJLTmFFRnVVOFhSWFNVRUdvUUlhQ3FtYmpCTTQxNERxX0NKbG5vbjgtVFVPaWdSSG9PZFUta2tIWXpnaG9FM3lYSDRGX1hxb1l2QjNsVlBQNGs4bHhaSXVuY29Sbng2dlltQTZVdDJUc3NhVGUzRk5uV3p1dXpYeTFaOFBmeWFMYjV3SnlFMEhSTEdpX1pQRUlhU215SU41UVNsQ1dCTA?oc=5",
-          "source": "wwltv.com",
-          "summary": "LIST: New Orleans events postponed, canceled due to severe weather wwltv.com",
-          "published": "May 1, 2026 9:24 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "2026 New Orleans Jazz Fest after dark: Guide to the 2nd weekend of nighttime music - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdV9Wd3k5SXpOQVdYSG5DMk1JY21jR1hNXzAwN3c5ZDVLTzRXOUtNMnFiczNuU0YzXzg2UFlqcG15d21EYy0yMkFwLXJNMFBLRE5SVW05RF8yTm9fVWdpdWFmQ1VZTXN5UWRjTGpydDMxY3kxSzRFU0x1cWRaRlVwa01YYXBfdThzLXl5U1BKVmktNFJRbkE4VFd6b3FFNE1HMmw3b2JrMk9zNG1BX0NIaGpoRzV5YVh5ZnVTRNIBwgFBVV95cUxNYXBXem5Vb25iamdxNl9ZdWJrMEp2V3BWN3BtOEprNEQ4YktQVjBUU1BJeS1ZMEhOU2h6Z2pMdVdubzhQb3VBMUZnQkQ3X3FFNzAyWW1ZbTBWdm80SVZNUGdsM2pFS3pwZVFJenBQNUZCc2laWlA3b2xjcXVzTkdsVVNycE9BdkhDU29pTTBBbUpJZmF4eTlCbmtkRDUwV1hoZFhEazlYREIxNmtGR0ZCVVkxOGVwcC1saExFeHFVNERZZw?oc=5",
           "source": "NOLA.com",
@@ -318,31 +308,41 @@
           "calendar_url": ""
         },
         {
-          "title": "The Black Keys To Host Intimate Record Hang In French Quarter After Headlining NOLA Jazz Fest - Live For Live Music",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcGhRcFVyMGxLQU9oTlhlcGROSm9jdThUSkdwSVFnaFFNaEZUX0JXaC1QTFVpa3VQWWQ1cXo3S3U4TUxpWE1FVHpPNXJqX1ByZlpZaW1yMGFCZlFhSG5OSS1URlRXY0o1T2R1QXRraS1fQjBVMThwMWwxaUNOMGlaRHZpV1Z5TDk5WEwzOXJOdE44X2kwV1lReWdNdnRIVjhDRE9wSVRibzg?oc=5",
+          "title": "Grateful Dead Disciples & Funk Mainstays To Hit The Howlin' Wolf As 'Help On The Way' During Jazz Fest 2026 - Live For Live Music",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXZiVlJVTDN2TzY3RkNteEdoaUxZVkRVRVVIbnR5anFtTFRha05GUV9Qa0lTeW9qTV85dzNSM2dkX2s2QTVXSzZadmhzTUhoS0dEVGJLWkNZbHdSdm1qQUxqdV9uUS1pM0dXMFgtRVlqTnhqcmVGVzI5YXpQb2FhVmtpUGRoVmx2cFVqT19QdjYycFgzTjFzVUx3?oc=5",
           "source": "Live For Live Music",
-          "summary": "The Black Keys To Host Intimate Record Hang In French Quarter After Headlining NOLA Jazz Fest Live For Live Music",
-          "published": "Apr 29, 2026 6:23 PM",
+          "summary": "Grateful Dead Disciples & Funk Mainstays To Hit The Howlin' Wolf As 'Help On The Way' During Jazz Fest 2026 Live For Live Music",
+          "published": "Apr 29, 2026 7:00 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Afro-Cuban musician Cimafunk moves to New Orleans, performs at Jazz Fest - WGNO",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1ZUcEtoQzBhVHVBMHVQTDU3Z0hCRkcxaXk3ZWVMWUpxZDdCNkNlb0V0MjMxdGFZSUcwcFVPUGNfTmV5T2NXRkV4eUUzenZ4UGxqOUstcHg0a1FJYlVCbS1MMFptNlgzcDNCNHdkLXEwWWZlcW9PY0dxWmdKcTBPNF9Lb0VRTVo2bWFqa1pESVZxbF9hQ3JjOGJyQlg3a1h0d1ZHbdIBqgFBVV95cUxQMi1YZlVEeTFVQndMdHB6RUhXZXQ4RlNhUHZKMksxVDlxQTNBa1BPaDAwSE5Ta3NpXzlSNzlkSTdHSjVOR2dyYkxnbHlrY2NPTlFIQ0NRTVFTYldrbjNSM2tqU3hYMkdDa2lTZEc4ZjRYVlVZeTdGV1NTZURWY2NIRmRVMjZSV3RTQzhzeWJfbnNaSGVlRmllTU81RzNVVDMyc1ZVZE9LZjhhZw?oc=5",
-          "source": "WGNO",
-          "summary": "Afro-Cuban musician Cimafunk moves to New Orleans, performs at Jazz Fest WGNO",
-          "published": "May 1, 2026 11:20 PM",
+          "title": "LIST: New Orleans events postponed, canceled due to severe weather - wwltv.com",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUS1WcVNKR1VqVXFQcjFudEZkS2tNOHY2eUFkWVFBcTZId0pIYUJ4ZV9XQ0ExR2J3VkxzZmRrdGN1bmdrZnJYZmN1bTJHbXJLTmFFRnVVOFhSWFNVRUdvUUlhQ3FtYmpCTTQxNERxX0NKbG5vbjgtVFVPaWdSSG9PZFUta2tIWXpnaG9FM3lYSDRGX1hxb1l2QjNsVlBQNGs4bHhaSXVuY29Sbng2dlltQTZVdDJUc3NhVGUzRk5uV3p1dXpYeTFaOFBmeWFMYjV3SnlFMEhSTEdpX1pQRUlhU215SU41UVNsQ1dCTA?oc=5",
+          "source": "wwltv.com",
+          "summary": "LIST: New Orleans events postponed, canceled due to severe weather wwltv.com",
+          "published": "May 1, 2026 9:24 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Jazz Fest ends with performances in the rain from The Black Keys, Lainey Wilson, Ziggy Marley - WDSU",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83MzYwMmcwYWF3Y3dER0xwSE14cU83dFVXSGNMbDN0MDR0UHNzMzZnVHQ1LUVnaGYzSGdpZVpTSHRmS2FweEpDYUxFQWdWZnlhcVVSQXREM1BPMnM3VFZDU01xeXhSR2F2NlNnOTdUZEhYd0prdnRPd1VSeG1VYUE?oc=5",
-          "source": "WDSU",
-          "summary": "Jazz Fest ends with performances in the rain from The Black Keys, Lainey Wilson, Ziggy Marley WDSU",
-          "published": "May 1, 2026 10:40 PM",
+          "title": "The Daily Star Events - The Soul Rebels: New Orleans Jazz & Heritage Festival 2026 - hammondstar.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGJISkFsYTktQ2h6QlJXa0NWVmUwRFZUcUxZRDlvTVNzRy1XakhaZlNXeWpyQV9yQ1lFd2tYLVFoQmd6VkxtNlBndEdHMGJfUWZPYXJ1TnlmRDI1REZteTBQd0hLOTA4bnAxZVBnR0I0NTJzUXF2Rk8xMFcwUVhTbk9XNVIxclZfU3dPS2RUazNpeHpMdGxua0VUSnA4c0xnS1FaVkx1TFkzS2dYUjU1SkhBTExyR2RYTV91R05KNFAyQnU4aXFWLQ?oc=5",
+          "source": "hammondstar.com",
+          "summary": "The Daily Star Events - The Soul Rebels: New Orleans Jazz & Heritage Festival 2026 hammondstar.com",
+          "published": "May 2, 2026 6:49 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Jazz Fest ends early due to storms threatening New Orleans - fox8live.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnJzMEdka0tKeW81MjVfNkNWa0VuZWwtS1FOUG9uR2RHYUhiUkluaFA0bEpmb3YzazIyeE44bVZZbXhPSEpTVFVIMDZLZkN5VXV1dFI1UVlOV0xpMmw0UFpYOXZkQ0I2TDJHYlBDLTRvVENTNWRpVDdOeGxweHd1Wng1WEd6ck9hRzZGdHZfY19FWjB1WktN?oc=5",
+          "source": "fox8live.com",
+          "summary": "Jazz Fest ends early due to storms threatening New Orleans fox8live.com",
+          "published": "Apr 30, 2026 2:57 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -356,124 +356,124 @@
       "empty_message": "The event calendar could not be refreshed during this run.",
       "items": [
         {
-          "title": "Andy Forest",
-          "url": "https://www.wwoz.org/events/1337931",
+          "title": "Wolfe Johns Blues Band",
+          "url": "https://www.wwoz.org/events/1337941",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 3:00pm",
+          "published": "Sunday, May 3 at 3:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Andy+Forest&dates=20260502T150000%2F20260502T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1337931&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wolfe+Johns+Blues+Band&dates=20260503T150000%2F20260503T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1337941&location=21st+Amendment"
         },
         {
-          "title": "The Jelly Roll Stompers",
-          "url": "https://www.wwoz.org/events/1337936",
+          "title": "Big Mike & The R&B Kings",
+          "url": "https://www.wwoz.org/events/1337946",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 8:00pm",
+          "published": "Sunday, May 3 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Jelly+Roll+Stompers&dates=20260502T200000%2F20260502T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1337936&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+Mike+%26+The+R%26B+Kings&dates=20260503T200000%2F20260503T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1337946&location=21st+Amendment"
         },
         {
-          "title": "Anne Elise & The Swamp Circus",
-          "url": "https://www.wwoz.org/events/1332926",
+          "title": "Brass Queens NYC",
+          "url": "https://www.wwoz.org/events/1332951",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 2:00pm",
+          "published": "Sunday, May 3 at 6:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Anne+Elise+%26+The+Swamp+Circus&dates=20260502T140000%2F20260502T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332926&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brass+Queens+NYC&dates=20260503T180000%2F20260503T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332951&location=30%2F90"
         },
         {
-          "title": "KreweDeBauchery",
-          "url": "https://www.wwoz.org/events/1332931",
+          "title": "SingleMaltPlease",
+          "url": "https://www.wwoz.org/events/1332956",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 5:00pm",
+          "published": "Sunday, May 3 at 9:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=KreweDeBauchery&dates=20260502T170000%2F20260502T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332931&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SingleMaltPlease&dates=20260503T210000%2F20260503T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332956&location=30%2F90"
         },
         {
-          "title": "Sporty's Brass Band",
-          "url": "https://www.wwoz.org/events/1332936",
-          "source": "WWOZ Livewire",
-          "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 8:00pm",
-          "eyebrow": "Event",
-          "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sporty%27s+Brass+Band&dates=20260502T200000%2F20260502T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332936&location=30%2F90"
-        },
-        {
-          "title": "Deltaphonic",
-          "url": "https://www.wwoz.org/events/1332941",
-          "source": "WWOZ Livewire",
-          "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 11:00pm",
-          "eyebrow": "Event",
-          "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deltaphonic&dates=20260502T230000%2F20260503T010000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1332941&location=30%2F90"
-        },
-        {
-          "title": "The New Orleans High Society Hour ft. Vocals & Burlesque by Angie Z & Friends",
-          "url": "https://www.wwoz.org/events/1335006",
+          "title": "Sunday Swing with Slick Skillet Serenaders",
+          "url": "https://www.wwoz.org/events/1331146",
           "source": "WWOZ Livewire",
           "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 8:00pm",
+          "published": "Sunday, May 3 at 8:00pm",
           "eyebrow": "Event",
           "location": "AllWays Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+New+Orleans+High+Society+Hour+ft.+Vocals+%26+Burlesque+by+Angie+Z+%26+Friends&dates=20260502T200000%2F20260502T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1335006&location=AllWays+Lounge"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Swing+with+Slick+Skillet+Serenaders&dates=20260503T200000%2F20260503T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1331146&location=AllWays+Lounge"
         },
         {
-          "title": "Harlot's Hush ft. The Slick Skillet Serenaders + Burlesque",
-          "url": "https://www.wwoz.org/events/1334991",
+          "title": "T Marie Trio",
+          "url": "https://www.wwoz.org/events/1337361",
           "source": "WWOZ Livewire",
-          "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 10:30pm",
+          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, May 3 at 6:00pm",
           "eyebrow": "Event",
-          "location": "AllWays Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Harlot%27s+Hush+ft.+The+Slick+Skillet+Serenaders+%2B+Burlesque&dates=20260502T223000%2F20260503T003000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1334991&location=AllWays+Lounge"
+          "location": "Apple Barrel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=T+Marie+Trio&dates=20260503T180000%2F20260503T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1337361&location=Apple+Barrel"
         },
         {
-          "title": "Kevin Scott, Nir Felder, Sam Fribush & Mark Radabaugh",
-          "url": "https://www.wwoz.org/events/1335941",
+          "title": "Sputacular Trio ft. Robert \"Sput\" Searight, Bobby Sparks & Jay Mck",
+          "url": "https://www.wwoz.org/events/1335946",
           "source": "WWOZ Livewire",
           "summary": "Avenue Pub. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 10:00pm",
+          "published": "Sunday, May 3 at 10:00pm",
           "eyebrow": "Event",
           "location": "Avenue Pub",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kevin+Scott%2C+Nir+Felder%2C+Sam+Fribush+%26+Mark+Radabaugh&dates=20260502T220000%2F20260503T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1335941&location=Avenue+Pub"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sputacular+Trio+ft.+Robert+%22Sput%22+Searight%2C+Bobby+Sparks+%26+Jay+Mck&dates=20260503T220000%2F20260504T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1335946&location=Avenue+Pub"
         },
         {
-          "title": "Miles Berry",
-          "url": "https://www.wwoz.org/events/1336846",
+          "title": "Tomas Majcherski",
+          "url": "https://www.wwoz.org/events/1336856",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 1:00pm",
+          "published": "Sunday, May 3 at 1:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Miles+Berry&dates=20260502T130000%2F20260502T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1336846&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tomas+Majcherski&dates=20260503T130000%2F20260503T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1336856&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Pete Olynciw",
-          "url": "https://www.wwoz.org/events/1336851",
+          "title": "Byron Asher",
+          "url": "https://www.wwoz.org/events/1336861",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 7:00pm",
+          "published": "Sunday, May 3 at 7:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pete+Olynciw&dates=20260502T190000%2F20260502T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1336851&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Byron+Asher&dates=20260503T190000%2F20260503T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1336861&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Aaron Levinson & Friends",
-          "url": "https://www.wwoz.org/events/1337856",
+          "title": "Them Jaywalkers",
+          "url": "https://www.wwoz.org/events/1337871",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 2 at 11:00am",
+          "published": "Sunday, May 3 at 11:00am",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aaron+Levinson+%26+Friends&dates=20260502T110000%2F20260502T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1337856&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Them+Jaywalkers&dates=20260503T110000%2F20260503T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1337871&location=Bamboula%27s"
+        },
+        {
+          "title": "Laura Doyle",
+          "url": "https://www.wwoz.org/events/1337876",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, May 3 at 2:15pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laura+Doyle&dates=20260503T141500%2F20260503T161500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1337876&location=Bamboula%27s"
+        },
+        {
+          "title": "Midnight Brawlers",
+          "url": "https://www.wwoz.org/events/1337881",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, May 3 at 5:30pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Midnight+Brawlers&dates=20260503T173000%2F20260503T193000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1337881&location=Bamboula%27s"
         }
       ]
     }
