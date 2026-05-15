@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import html
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from typing import Iterable
 from urllib.parse import quote_plus, urlencode
@@ -103,18 +103,24 @@ def fetch_google_news(query: str, timeout: int, limit: int, eyebrow: str) -> lis
     root = ElementTree.fromstring(response.content)
 
     items: list[DigestItem] = []
-    for node in root.findall(".//item")[:limit]:
-        title = _text(node.find("title")) or "Untitled article"
+    nodes = sorted(
+        root.findall(".//item"),
+        key=lambda node: _parse_pubdate(_text(node.find("pubDate"))) or datetime.min.replace(tzinfo=timezone.utc),
+        reverse=True,
+    )
+
+    for node in nodes[:limit]:
+        title = _clean_text(_text(node.find("title"))) or "Untitled article"
         link = _text(node.find("link")) or ""
-        description = _strip_html(_text(node.find("description")))
-        source = _text(node.find("source")) or "Google News"
+        description = _clean_text(_strip_html(_text(node.find("description"))))
+        source = _clean_text(_text(node.find("source"))) or "Google News"
         published = _format_pubdate(_text(node.find("pubDate")))
 
         items.append(
             DigestItem(
-                title=html.unescape(title),
+                title=title,
                 url=link,
-                source=html.unescape(source),
+                source=source,
                 summary=_trim(description or f"Read the latest {eyebrow.lower()} headline."),
                 published=published,
                 eyebrow=eyebrow,
@@ -135,7 +141,7 @@ def fetch_wwoz_events(timeout: int, limit: int) -> list[DigestItem]:
 
     for anchor in soup.find_all("a", href=True):
         href = anchor["href"]
-        text = " ".join(anchor.stripped_strings)
+        text = _clean_text(" ".join(anchor.stripped_strings))
         if not text:
             continue
 
@@ -160,11 +166,11 @@ def fetch_wwoz_events(timeout: int, limit: int) -> list[DigestItem]:
 
         date_match = DATE_PATTERN.search(context_text or "")
         published = date_match.group(0) if date_match else "See event page for timing"
-        summary = f"{current_venue}. Tap through for the full listing and latest schedule details."
+        summary = _clean_text(f"{current_venue}. Tap through for the full listing and latest schedule details.")
 
         items.append(
             DigestItem(
-                title=html.unescape(text),
+                title=text,
                 url=absolute_url,
                 source="WWOZ Livewire",
                 summary=summary,
@@ -172,7 +178,7 @@ def fetch_wwoz_events(timeout: int, limit: int) -> list[DigestItem]:
                 eyebrow="Event",
                 location=current_venue,
                 calendar_url=_build_calendar_url(
-                    title=html.unescape(text),
+                    title=text,
                     location=current_venue,
                     published=published,
                     source_url=absolute_url,
@@ -203,16 +209,40 @@ def _strip_html(value: str) -> str:
     return " ".join(BeautifulSoup(value, "html.parser").stripped_strings)
 
 
-def _format_pubdate(value: str) -> str:
+def _clean_text(value: str) -> str:
     if not value:
         return ""
+
+    cleaned = html.unescape(value).strip()
+    if any(marker in cleaned for marker in ("Ã", "â", "ð", "Â")):
+        try:
+            repaired = cleaned.encode("latin-1").decode("utf-8")
+        except UnicodeError:
+            return cleaned
+        return repaired
+    return cleaned
+
+
+def _format_pubdate(value: str) -> str:
+    stamp = _parse_pubdate(value)
+    if stamp is None:
+        return value if value else ""
+
+    return stamp.strftime("%b %d, %Y %I:%M %p").replace(" 0", " ")
+
+
+def _parse_pubdate(value: str) -> datetime | None:
+    if not value:
+        return None
 
     try:
         stamp = parsedate_to_datetime(value)
     except (TypeError, ValueError):
-        return value
+        return None
 
-    return stamp.strftime("%b %d, %Y %I:%M %p").replace(" 0", " ")
+    if stamp.tzinfo is None:
+        return stamp.replace(tzinfo=timezone.utc)
+    return stamp
 
 
 def _text(node: ElementTree.Element | None) -> str:
@@ -223,7 +253,7 @@ def _trim(text: str, length: int = 220) -> str:
     compact = re.sub(r"\s+", " ", text).strip()
     if len(compact) <= length:
         return compact
-    return compact[: length - 1].rstrip() + "…"
+    return compact[: length - 3].rstrip() + "..."
 
 
 def _build_calendar_url(title: str, location: str, published: str, source_url: str) -> str:
