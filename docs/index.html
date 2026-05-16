@@ -5,76 +5,79 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Nola Daily</title>
     <meta name="description" content="Daily New Orleans news, dining, entertainment, live music, events, and weather.">
-    <meta name="theme-color" content="#143a32">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
+    <meta name="theme-color" content="#0d1117">
     <link rel="stylesheet" href="assets/styles.css">
   </head>
   <body>
-    <div class="page-backdrop"></div>
-    <header class="topbar">
-      <div class="topbar-inner">
-        <a class="brand" href="#top">
-          <span class="brand-mark">ND</span>
-          <span class="brand-copy">
-            <strong>Nola Daily</strong>
-            <span>New Orleans refreshed daily.</span>
-          </span>
-        </a>
-        <nav class="topbar-links" aria-label="Section navigation">
-          <a href="#city-news">City News</a><a href="#restaurants">Restaurants</a><a href="#entertainment">Entertainment</a><a href="#music">Concerts + Music</a><a href="#events">Upcoming Events</a><a href="#forecast">Forecast</a>
+    <div class="app" id="top">
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <a class="brand" href="#top" aria-label="Nola Daily home">
+            <span class="brand-mark">ND</span>
+            <span>
+              <strong>Nola Daily</strong>
+              <em>New Orleans refreshed daily.</em>
+            </span>
+          </a>
+          <div class="count">36 links &middot; 12 events</div>
+        </div>
+        <div class="search-wrap">
+          <input id="search" type="search" placeholder="Search Nola Daily..." autocomplete="off">
+        </div>
+        <div class="tags-wrap" id="filters">
+          <button class="tag-pill active" type="button" data-filter="all">All</button>
+          <button class="tag-pill" type="button" data-filter="city-news">City News</button><button class="tag-pill" type="button" data-filter="restaurants">Restaurants</button><button class="tag-pill" type="button" data-filter="entertainment">Entertainment</button><button class="tag-pill" type="button" data-filter="music">Concerts + Music</button><button class="tag-pill" type="button" data-filter="events">Upcoming Events</button>
+        </div>
+        <nav class="nav-list" aria-label="Section navigation">
+          <a class="nav-link" href="#city-news"><span>City News</span><strong>6</strong></a><a class="nav-link" href="#restaurants"><span>Restaurants</span><strong>6</strong></a><a class="nav-link" href="#entertainment"><span>Entertainment</span><strong>6</strong></a><a class="nav-link" href="#music"><span>Concerts + Music</span><strong>6</strong></a><a class="nav-link" href="#events"><span>Upcoming Events</span><strong>12</strong></a><a class="nav-link" href="#forecast"><span>Forecast</span><strong>7</strong></a>
         </nav>
-      </div>
-    </header>
+        
+        <aside class="weather-panel">
+          <div class="eyebrow">Current weather</div>
+          <div class="weather-row">
+            <div class="weather-icon" aria-hidden="true">⛅</div>
+            <div>
+              <h2>Overnight</h2>
+              <div class="weather-temp">70&deg;F</div>
+            </div>
+          </div>
+          <p>Partly Cloudy</p>
+          <div class="weather-meta">
+            <span>SE 5 mph</span>
+          </div>
+        </aside>
+    
+        <div class="sidebar-footer">
+          <span>May 16, 2026 at 5:30 AM CT</span>
+          <a href="https://steviesimsii.github.io/Second_Brain/" target="_blank" rel="noopener">Second Brain</a>
+        </div>
+      </aside>
 
-    <main class="page-shell" id="top">
-      <section class="hero">
-        <div class="hero-main">
-          <div class="hero-eyebrow">Daily digest</div>
-          <h1>The city in one good scroll.</h1>
-          <p class="hero-lead">A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.</p>
+      <main class="main">
+        <section class="welcome">
+          <div class="eyebrow">Daily digest</div>
+          <h1>The city in one focused scan.</h1>
+          <p>A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.</p>
           <div class="hero-stats" aria-label="Digest summary">
             <span>May 16, 2026 at 5:30 AM CT</span>
             <span>36 fresh links</span>
             <span>12 event picks</span>
           </div>
-          <div class="hero-actions">
-            <a class="hero-action primary" href="#city-news">Start reading</a>
-            <a class="hero-action secondary" href="#forecast">Check forecast</a>
-          </div>
-        </div>
-        
-        <aside class="hero-panel">
-          <div class="hero-panel-label">Current weather</div>
-          <div class="hero-weather-row">
-            <div class="hero-weather-icon" aria-hidden="true">⛅</div>
-            <div>
-              <h2>Overnight</h2>
-              <div class="hero-weather-temp">70&deg;F</div>
-            </div>
-          </div>
-          <p>Partly Cloudy</p>
-          <div class="hero-stats hero-stats-compact">
-            <span>SE 5 mph</span>
-          </div>
-        </aside>
-    
-      </section>
+        </section>
 
-      
-      <section class="section" id="city-news">
-        <div class="section-header">
-          <div>
-            <div class="section-eyebrow">Fresh picks</div>
-            <h2>City News</h2>
-            <p>New Orleans city government, neighborhoods, public life, and major local developments.</p>
+        
+        <section class="section" id="city-news">
+          <div class="section-header">
+            <div>
+              <div class="eyebrow">Fresh picks</div>
+              <h2>City News</h2>
+              <p>New Orleans city government, neighborhoods, public life, and major local developments.</p>
+            </div>
+            <div class="section-count">6 links</div>
           </div>
-          <div class="section-count">6 links</div>
-        </div>
-        <div class="grid story-grid">
-          
-      <article class="story-card">
+          <div class="story-grid">
+            
+      <article class="story-card" data-section="city-news" data-search="louisiana supreme court bars interim orleans parish clerk from duties - wdsu louisiana supreme court bars interim orleans parish clerk from duties wdsu wdsu city news ">
         <div class="story-kicker">City News</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNeF9WLU1wY0F6OW1RMDk0ZFZfeGpVT1VvSTZVdnhjMDlINmJNX0JUTjQwMHNPcXF1UWpuOVUxVlNCaVFpSXBjU05yOWx0WFFRRlRWSnJmRFJVWDdCZTYzYXZDcTlRYXBMcmozUGdzYWhGVFlDM0dDbHFQVlBfeW5LeUJCSVVySHh6aFlZMw?oc=5" target="_blank" rel="noreferrer">Louisiana Supreme Court bars interim Orleans Parish clerk from duties - WDSU</a></h3>
         <p class="story-summary">Louisiana Supreme Court bars interim Orleans Parish clerk from duties WDSU</p>
@@ -85,7 +88,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="city-news" data-search="louisiana supreme court intervenes in orleans clerk showdown - axios louisiana supreme court intervenes in orleans clerk showdown axios axios city news ">
         <div class="story-kicker">City News</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNV3pPeG4zZmlXT21adUV2Z0xJWm5HNTRTRmQycjdPbllOM2lpR1ZPR25XOER4N3d0bnM4NzlCVHZBQ1QyVGltelNrbHVjN3NBY21RNW1sNjVsY0JVR1NmWWZWQUQxNllJY0ZwOG1sR3ZTbWZKRTU0VHE2dW9uLXgzeTlFaXh6d1l6Rkh2OEFadDlGZThEeGgyMWVISm9VS00tai1kUURGWl9pQldm?oc=5" target="_blank" rel="noreferrer">Louisiana Supreme Court intervenes in Orleans clerk showdown - Axios</a></h3>
         <p class="story-summary">Louisiana Supreme Court intervenes in Orleans clerk showdown Axios</p>
@@ -96,7 +99,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="city-news" data-search="new orleans interim court clerk blocked by la. supreme court while lawsuit unfolds - louisiana illuminator new orleans interim court clerk blocked by la. supreme court while lawsuit unfolds louisiana illuminator louisiana illuminator city news ">
         <div class="story-kicker">City News</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPdkN1RnF2UnNfYnRrWWV5UEdCM2JKVGFMUGlpRHVDRDhUS3NzVEQ0aXRDazBMczdNUWFQREVibVVtZnFlWjhSd0Q0N2Vqd1piYmJpc2JNdWktS0RkYmprRnB3Yw?oc=5" target="_blank" rel="noreferrer">New Orleans interim court clerk blocked by La. Supreme Court while lawsuit unfolds - Louisiana Illuminator</a></h3>
         <p class="story-summary">New Orleans interim court clerk blocked by La. Supreme Court while lawsuit unfolds Louisiana Illuminator</p>
@@ -107,7 +110,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="city-news" data-search="new orleans confederate monuments could be relocated to louisiana state parks under proposed law - nola.com new orleans confederate monuments could be relocated to louisiana state parks under proposed law nola.com nola.com city news ">
         <div class="story-kicker">City News</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0tMYlJ3ZTRDVWY0M1lIVmZDN2pxdjYxSmpFcnZhT1NuZUowdHhhcTBQZkZQcGJ1Ni1EMk1ManFRNFJhLVlkNmd4Z3I3aTJERHV2VzBsWE9Tb1lWNHV3ZU5oZE9CWDE0UnhaUnE2d2QzbWN2c0kzVVlOaHVKMkQ1eTE0bTJub3ZGTi1DakVjMHgxclJ4alFkZ0lZVHRXTVJ6NThHeHhRN1U4S3BiN21uSy1UcENySnI0LXZvbQ?oc=5" target="_blank" rel="noreferrer">New Orleans confederate monuments could be relocated to Louisiana state parks under proposed law - NOLA.com</a></h3>
         <p class="story-summary">New Orleans confederate monuments could be relocated to Louisiana state parks under proposed law NOLA.com</p>
@@ -118,7 +121,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="city-news" data-search="&#x27;it&#x27;s very complex&#x27;: orleans clerk stays in office after louisiana supreme court ruling - wwltv.com &#x27;it&#x27;s very complex&#x27;: orleans clerk stays in office after louisiana supreme court ruling wwltv.com wwltv.com city news ">
         <div class="story-kicker">City News</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMigwJBVV95cUxQWE44VzVxV21LR1pUMG9EQURXbTdoMWhiMkxVWnBLdVlQTG5Wek1aaWRXTlhtVkxXWDBiN0dFQi1DZkpkT21EMTlMbkF4VmlCS05XTTJvYk5pTEVCQlRuTFR2Qi1Kd19qTmNqR2VUZ3kybjVpdkthRFZMdGYxTGxka01YZlRYWm5BV0FnSHdXZmk2RWFSVVEzMGpHY1BDeGI5WFJGY3NlRTdZNDZwYjh2QWtodkdWRmlqMGEtWXhZZzZJRkJpaGdhdVB2UWpjdWh1bHFFRGpjQWNaV2N5QWp0ODVMdXFncnRLaFpVZzZRWjF2azhWQnBtNVRmRXIzaDlfT2JN?oc=5" target="_blank" rel="noreferrer">&#x27;It&#x27;s very complex&#x27;: Orleans Clerk stays in office after Louisiana Supreme Court ruling - WWLTV.com</a></h3>
         <p class="story-summary">&#x27;It&#x27;s very complex&#x27;: Orleans Clerk stays in office after Louisiana Supreme Court ruling WWLTV.com</p>
@@ -129,7 +132,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="city-news" data-search="louisiana supreme court blocks interim orleans clerk from taking office - wwltv.com louisiana supreme court blocks interim orleans clerk from taking office wwltv.com wwltv.com city news ">
         <div class="story-kicker">City News</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZXNOMVhTM3Mwbzh6Ml9fYVRyWmRKdm9WTUU1N3lFOENCUjNfNXQ0THBSYWFwWGU3eVJFRFFCV3Y4cEREeENyd2doc0lMZFdWSmcyay11REQxYkRjcE11Q3pDcXJvUVVmT2E3c0c2b0tVaGxzX1FjUzI0U3g4Y0h0SHVEMEM3ejdfdGlaLU8td29HblVJOWJzM1lyNGdsVjAtdUI1eEdhU3g2MGY3SUtubkZLdXk0YWZqRHhrTWlnTTRhVUlfd3ZGckpBMUtOVTNrUVF2cklPcXFnZTlfTnhyZ3puQVF4N2lwZGhKMA?oc=5" target="_blank" rel="noreferrer">Louisiana Supreme Court blocks interim Orleans clerk from taking office - WWLTV.com</a></h3>
         <p class="story-summary">Louisiana Supreme Court blocks interim Orleans clerk from taking office WWLTV.com</p>
@@ -139,22 +142,22 @@
         </div>
       </article>
     
-        </div>
-      </section>
+          </div>
+        </section>
     
 
-      <section class="section" id="restaurants">
-        <div class="section-header">
-          <div>
-            <div class="section-eyebrow">Fresh picks</div>
-            <h2>Restaurants</h2>
-            <p>Restaurant openings, dining coverage, chef news, and standout food reporting around the city.</p>
+        <section class="section" id="restaurants">
+          <div class="section-header">
+            <div>
+              <div class="eyebrow">Fresh picks</div>
+              <h2>Restaurants</h2>
+              <p>Restaurant openings, dining coverage, chef news, and standout food reporting around the city.</p>
+            </div>
+            <div class="section-count">6 links</div>
           </div>
-          <div class="section-count">6 links</div>
-        </div>
-        <div class="grid story-grid">
-          
-      <article class="story-card">
+          <div class="story-grid">
+            
+      <article class="story-card" data-section="restaurants" data-search="roosevelt johnson obituary (2026) - new orleans, la - the boyd family funeral home - legacy obituary roosevelt johnson obituary (2026) - new orleans, la - the boyd family funeral home legacy obituary legacy obituary restaurants ">
         <div class="story-kicker">Restaurants</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQUEZvQ1pPMU5kdlZpS0hJcjJrZWJTUGRrN3BuX0gxd0FtMEJpS1ltQUVCam5ZR09HU0lOQUszUWJoMHlvNFZlaWpKdzJoYXc0YTRRX3MyempCWHR6QXNKb01XMDBtazZIdGFGQVhYRnFibG9mX2xxV3hvcjNxN2dMVms5SjZBeTA?oc=5" target="_blank" rel="noreferrer">Roosevelt Johnson Obituary (2026) - New Orleans, LA - The Boyd Family Funeral Home - Legacy obituary</a></h3>
         <p class="story-summary">Roosevelt Johnson Obituary (2026) - New Orleans, LA - The Boyd Family Funeral Home Legacy obituary</p>
@@ -165,7 +168,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="restaurants" data-search="new orleans police seek person of interest in chef menteur highway homicide - fox8live.com new orleans police seek person of interest in chef menteur highway homicide fox8live.com fox8live.com restaurants ">
         <div class="story-kicker">Restaurants</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejQwZjVUUjFpME53MkhxYTJwc0RjSERYTUFDUHl2cUc1Vzg4ZXVZTVBpZ2pkeW1uWFhidHQ1QWxkSXkwQXFyOGJ3NFlqeFdrTThmUWJxUUN1THRIZnI4UFgySFhqNDJOWU90WmNCTmNXUlRxcGhsYnZBSXRfeDB0WHV3WHBRNDNMekRzUnh1eGhSSmpmXzFVZWFkOGdNczBCU2hqNHJfRWRWQdIBvgFBVV95cUxPRUlUb2lTanJDSXNONXVSLXVmS3gwQWJ1UmZDcDdyY0FUMl9hODBMckgwNjBfenlvZzU2UHFHTXJkRS1SSTVwZUVZLXRwLW9hNGVMX1V5UVZZZHNRNU90VTQ3MGk1QkM2SHM2QVUzWDMxQ0s3TVFLWXdGWHc5Q2xYcS1WQzZYTjEza2hZSXBZSDBGWDIyWjZLTjVjNFM2N0RQX0xqekZlbXNIZ2NUMDl1X2Z6dkJOMEwwRkpoYjNR?oc=5" target="_blank" rel="noreferrer">New Orleans police seek person of interest in Chef Menteur Highway homicide - fox8live.com</a></h3>
         <p class="story-summary">New Orleans police seek person of interest in Chef Menteur Highway homicide fox8live.com</p>
@@ -176,7 +179,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="restaurants" data-search="oyster night at 90 new orleans restaurants to help with coastal restoration efforts - wgno oyster night at 90 new orleans restaurants to help with coastal restoration efforts wgno wgno restaurants ">
         <div class="story-kicker">Restaurants</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFBJbV9qUjVJQjF3d2hkcWt1Z0p6ejh1V2w1QXlLblJuMjBhT1pTeWF5Z2ZRWHZuRVNrS0FYVWFLV0g4VThmQ2MzTUo3NDgtWWlZd2dFZFowbXpoRE9PR3ZsRExYWTd1a3Q5UVpDX3ZEX3pnZGJ6LWVQaUFGa3FWWW45X01wanVtX0tTYnQtZ2xoLVNGNlhUV0lKclFpalgweGhJT0VYRkxXRy02SmVFMW5kX0_SAboBQVVfeXFMUGVJMkE5UnZTMnRUQlBvZ2VXbkRSOEo3b2dfVlh5bWhkaXJxZlA4UVV1WHlXNFZjUHZTNEZOYWN1VkJrU0JQZ2tLOEtNdG1FdXRabThQT3BwS2JoSnh4US02MlpsRUI0UlVwTFVDUmZhQmhrUHRqZU04VlVZOUpGd1B5NUtQYXNYeWJ0QS0xSDdyeFdHZ2w2UGxiOThUdzdPRXptSllvMzFoVDk3T0tvYjh6TGRXcFRubElB?oc=5" target="_blank" rel="noreferrer">Oyster Night at 90 New Orleans restaurants to help with coastal restoration efforts - WGNO</a></h3>
         <p class="story-summary">Oyster Night at 90 New Orleans restaurants to help with coastal restoration efforts WGNO</p>
@@ -187,7 +190,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="restaurants" data-search="navy yard gets a splash of new orleans - axios navy yard gets a splash of new orleans axios axios restaurants ">
         <div class="story-kicker">Restaurants</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2tWN0p3VG9fbi1wZ201aWVUMl9BWHBsOFBvZnItUDhoQ2s4bWlySDhrS3UydF9tUG1VVm1PdDNsbXVPc3dVd3R6bXZqYmR2bkl6SlJ5RndfQnJJMHdZLXJCQ2tuQXY5aDVKUWpMS2VnR3FUV25oWUFPYWFZSEtXZVVaWWxrMXdTRGFfTld6R0dpTkxWeEZvUXVneEZLME0?oc=5" target="_blank" rel="noreferrer">Navy Yard gets a splash of New Orleans - Axios</a></h3>
         <p class="story-summary">Navy Yard gets a splash of New Orleans Axios</p>
@@ -198,7 +201,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="restaurants" data-search="crustacean club opens on north rampart in new orleans - hoodline crustacean club opens on north rampart in new orleans hoodline hoodline restaurants ">
         <div class="story-kicker">Restaurants</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2w0RUx0M1NWSFIydVRwb2VZWlpjeVdBRU03QVRfcThjbEVlellHc2FQQUM5ZUx4NFJ3dDhSdE93WDhiQVRIcE42TDhHTXBfZklOVE02MHl0T0p2MFZfc096eHpRNkEtZFQzZ3AyU3FxMU1mZkNBSEw3V2cybm1nX2Zvb1Zlc1lzNEFZODF4Q0pVT1JsVUhDQ25tQzBrb2FpLXJaY1Nn?oc=5" target="_blank" rel="noreferrer">Crustacean Club opens on North Rampart in New Orleans - Hoodline</a></h3>
         <p class="story-summary">Crustacean Club opens on North Rampart in New Orleans Hoodline</p>
@@ -209,7 +212,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="restaurants" data-search="new orleans police investigating shooting in desire neighborhood - wdsu new orleans police investigating shooting in desire neighborhood wdsu wdsu restaurants ">
         <div class="story-kicker">Restaurants</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUM4cXBHbEI5cjgta0N3UHgtQmljREJHbEtUTGktNUstTlhweU12X01raEktWDV5alltREhsTEdrWDBjdjdPUk16VFM3Z0NpSGNJOHVZZWtIZU9BbXJUUlpvX0YtbUhFVW1ON1lDM0l2ajdIMjFCVV92RlMtcTg5RDJkSHhlRlAxaDRrRDZIdw?oc=5" target="_blank" rel="noreferrer">New Orleans police investigating shooting in Desire neighborhood - WDSU</a></h3>
         <p class="story-summary">New Orleans police investigating shooting in Desire neighborhood WDSU</p>
@@ -219,22 +222,22 @@
         </div>
       </article>
     
-        </div>
-      </section>
+          </div>
+        </section>
     
 
-      <section class="section" id="entertainment">
-        <div class="section-header">
-          <div>
-            <div class="section-eyebrow">Fresh picks</div>
-            <h2>Entertainment</h2>
-            <p>Arts, culture, nightlife, festivals, and local entertainment headlines.</p>
+        <section class="section" id="entertainment">
+          <div class="section-header">
+            <div>
+              <div class="eyebrow">Fresh picks</div>
+              <h2>Entertainment</h2>
+              <p>Arts, culture, nightlife, festivals, and local entertainment headlines.</p>
+            </div>
+            <div class="section-count">6 links</div>
           </div>
-          <div class="section-count">6 links</div>
-        </div>
-        <div class="grid story-grid">
-          
-      <article class="story-card">
+          <div class="story-grid">
+            
+      <article class="story-card" data-section="entertainment" data-search="parkview tavern set to close 2 years after blue oak bbq bought building: ‘hard to replace’ - nola.com parkview tavern set to close 2 years after blue oak bbq bought building: ‘hard to replace’ nola.com nola.com entertainment ">
         <div class="story-kicker">Entertainment</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNelVGb0hVcGduQkdZLVNPM2drWldvMHBlT1ZZTFNrYzJXTjRKTy00U1BCckMzUi1jbVpPUVQxQmpCVUU2bFk3LTF2dXBXclFHU2tFVHEtQ013ZmdaTHlZdUZXVmNBUGdhbEs0ZjFHQkZzdFljZXFtLXNZNGhDbEE0ektUbnBYNTUtZndzSXVXcjFtSWstZGZXUnFLdjU0T1paOUZfbHV2eUg0elMxTC1iSTBBZGFGVFpEeExoTGlHWFZXOFRkV3oyS1paQnE4LWtOUmfSAdcBQVVfeXFMTUZqSGxBa0VkZExwa3pmY1NORXo0VDNFWnB4WWEwZGNOdmw5a0p6a3JHbHgzNWxpT0gyLVNsVl9jbHgtRkVwT0xfaEUweGJVVmRxWDZpOWtRMEVkNzN4VlA5R3ZLWEZGTjFMQzRkODFoSmhEQVpFTTNtNzVOQjJ4eUJYNHJuVnpxcEhHak0xU1pHSkZvU01OYUhhLXJIQm9LcUVRSVMwX2haRGZIZEQ1MjNZeUc1RXVBZmo2VHBLUEFPNUV2cHBSZFBWMVBuMjVMcHNiUEUwa0k?oc=5" target="_blank" rel="noreferrer">Parkview Tavern set to close 2 years after Blue Oak BBQ bought building: ‘Hard to replace’ - NOLA.com</a></h3>
         <p class="story-summary">Parkview Tavern set to close 2 years after Blue Oak BBQ bought building: ‘Hard to replace’ NOLA.com</p>
@@ -245,7 +248,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="entertainment" data-search="weekend preview: upcoming events happening in new orleans - nola now weekend preview: upcoming events happening in new orleans nola now nola now entertainment ">
         <div class="story-kicker">Entertainment</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0g5VkdTYUQyanBRcGpDUkcxTTdZb3luU1M4SFJhYlJNNFM4eEV4clpuVF9xZlc0T0RyMmxWSHYxNTJGMzJLSC1nUTdhLXlVRGNPNTlCYkJoLS01cFg2Ump6UnV1RjBYYzVQLWhfa0RIUjBaU0pueHZhejlheTdpWG8tdHIzYldaUE9kTXdvNHJQSUQ2UTB2cUlNYw?oc=5" target="_blank" rel="noreferrer">Weekend Preview: Upcoming events happening in New Orleans - NOLA Now</a></h3>
         <p class="story-summary">Weekend Preview: Upcoming events happening in New Orleans NOLA Now</p>
@@ -256,7 +259,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="entertainment" data-search="mid-city bayou boogaloo shifts venues in 2026 - new orleans citybusiness mid-city bayou boogaloo shifts venues in 2026 new orleans citybusiness new orleans citybusiness entertainment ">
         <div class="story-kicker">Entertainment</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTh3UXFBMnZPb3BRQ2lObng3bVJZeWJDSHB2V1ZHTGVFRnJtQjYxYkFPclE4bGNYQTZFbjlQbjVNMXBya0ZXdG1WTVMwRk5xVTNNbXVqM1FsMEZITVZhSDlnNVVxaG1lT2JhbmNZQmFGUUFnWjRONGxfX05XVnNidkxwYTVsbkhZX3ZhYlNjcVBVc3RnWWpGR1RQcmowTjNUOFI3RkcyQmxvREFtek1CbXhR?oc=5" target="_blank" rel="noreferrer">Mid-City Bayou Boogaloo shifts venues in 2026 - New Orleans CityBusiness</a></h3>
         <p class="story-summary">Mid-City Bayou Boogaloo shifts venues in 2026 New Orleans CityBusiness</p>
@@ -267,7 +270,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="entertainment" data-search="bayou boogaloo, endangered species day, familee day and more events around new orleans - nola.com bayou boogaloo, endangered species day, familee day and more events around new orleans nola.com nola.com entertainment ">
         <div class="story-kicker">Entertainment</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTI4a2VmcHRmZVZBWWkxaHl5bnhmV2sxOER3bE9aUUpJSDUyZFRtTXdFTG96MUNVUklqdVl3WFRTcU1RanREVlE3b2dQX180NGFlcTlEZGZibEstbzUybWM1QVZ4a3lCUGZvQU5tUXJKQm1GbTRlZFE5ZWNKS0x2azUzQ2k2TWI2eGlfMUYzRHVBODlhTmxXd1pFMTFMYkR3aGJHLXVIbS0xTGY4SHFDYk5uLWdCMXJLUmFCWWJtNXI3NzDSAcgBQVVfeXFMT2dDQk1QRFZuU19takJtM1FRY3lrVTNYY29tSTBBT2FLRFF5Rmd3eXRWSFUzMkxWMWJrLVhiMXlvbEhBTlhaVG1EZGhPZml4ZFFLeUszZEJCakVObzFTeDRtY0l3c3BoVi1PSGgxUTNJanJ6ZEJ5QjJ4d0VfM2VEZm9WeU1Ha1BfLUFCY1U5R0QwN29EQzYxUThOd29zbk8zYkFMb281Tjd6WWlyWno4azkwY3Vqc0FFVmNZTFlNdFlXSHNMa0VvNjk?oc=5" target="_blank" rel="noreferrer">Bayou Boogaloo, Endangered Species Day, Familee Day and more events around New Orleans - NOLA.com</a></h3>
         <p class="story-summary">Bayou Boogaloo, Endangered Species Day, Familee Day and more events around New Orleans NOLA.com</p>
@@ -278,7 +281,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="entertainment" data-search="louisiana cajun-zydeco festival returns to new orleans - new orleans magazine louisiana cajun-zydeco festival returns to new orleans new orleans magazine new orleans magazine entertainment ">
         <div class="story-kicker">Entertainment</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmRPaFNKQllCa0ZHTlFQTXVXS0dxeEE5bzJqd2ttaDBIS3BkeERSNWxOMko1TDFIbkpRVDhITkVpSlpPcW9SZ2tWWFIwVmFzRDBLSkxwR3MycmtvNEE4c1JMRU9Oa1RVX1NmRDI3bFlFSElrWWNUeWwxcjVkc2lSNWdsSkgzanpZR0k1bQ?oc=5" target="_blank" rel="noreferrer">Louisiana Cajun-Zydeco Festival Returns to New Orleans - New Orleans Magazine</a></h3>
         <p class="story-summary">Louisiana Cajun-Zydeco Festival Returns to New Orleans New Orleans Magazine</p>
@@ -289,7 +292,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="entertainment" data-search="michelle obama, more big names coming to new orleans essence fest 2026. here&#x27;s the lineup. - nola.com michelle obama, more big names coming to new orleans essence fest 2026. here&#x27;s the lineup. nola.com nola.com entertainment ">
         <div class="story-kicker">Entertainment</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVBzR0xoRl81c3BfS3RwLTRWY25GdXYzMlhpR3JRVGZCT0VMem54ZHdvbmJkSEEzY1RnZ2pRVS1sZ0hVR29FZGdHamtoV3NHR3M5Zm1tWXR6bDlTSXBBZ1YxV1V1Q0ZMdnljR3ZZZi1jU0JBYnhqUFlvM2tIZThzeEhONzRjSEJ2OWRQVzhMM29ra2ZEaERjNWZWOUdqc1lTdXViSldoYzFRTFNrbjI1LUViV2lhZVR6aVl1QzgtS2prZ9IBxwFBVV95cUxNVTBwdHo2bWp3U1BBekM0bkJxQlR0SG5VWnBtSl9EZ2hlZW8xc3dDZVhUdDJHcXBUV3FyOTdUWFVGMDR6NFZUanRROGQ0TlFLZDlNbm9KOUNkbUdjbmJwVzBlaFBMdTdmUnZ2cGtDa0NZRDhLaGVYUDVGSmpYWDloRjZ5Z0YzcDJpR0pTSzB0R0t4Ul9pc3ROYjAxbk1tNDBsU0dCbldZYS0tbkI4N1ZXdXUxOENqdkZxVmhDZkRnUDUxWm5hVnFN?oc=5" target="_blank" rel="noreferrer">Michelle Obama, more big names coming to New Orleans Essence Fest 2026. Here&#x27;s the lineup. - NOLA.com</a></h3>
         <p class="story-summary">Michelle Obama, more big names coming to New Orleans Essence Fest 2026. Here&#x27;s the lineup. NOLA.com</p>
@@ -299,22 +302,22 @@
         </div>
       </article>
     
-        </div>
-      </section>
+          </div>
+        </section>
     
 
-      <section class="section" id="music">
-        <div class="section-header">
-          <div>
-            <div class="section-eyebrow">Fresh picks</div>
-            <h2>Concerts + Music</h2>
-            <p>Live music headlines, concert coverage, and stories tied to New Orleans stages and performers.</p>
+        <section class="section" id="music">
+          <div class="section-header">
+            <div>
+              <div class="eyebrow">Fresh picks</div>
+              <h2>Concerts + Music</h2>
+              <p>Live music headlines, concert coverage, and stories tied to New Orleans stages and performers.</p>
+            </div>
+            <div class="section-count">6 links</div>
           </div>
-          <div class="section-count">6 links</div>
-        </div>
-        <div class="grid story-grid">
-          
-      <article class="story-card">
+          <div class="story-grid">
+            
+      <article class="story-card" data-section="music" data-search="looking for new orleans home and garden events? check out these options. - nola.com looking for new orleans home and garden events? check out these options. nola.com nola.com concerts + music ">
         <div class="story-kicker">Concerts + Music</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnZXZjJBQlJxUnFxdzBBaS1aRUZRRUlhNUk3UnNuRnRBT1ZBcUNQdjRaQWc4dzExS05Fb190dGN3WTVBcGVWLXpNTXpXcUNqWWNvc0RzN19jUUlabHFQekpjdGFQeTV5dGJzVUtPQXgtcWtSWGQ4czZSTnN1NEFwZXRudzRVNy1KejZodFBlc1ZwRnhuNXFEaHJYSHlwSkljZDF6Z2xGM3dxZ3dqSHZqMF9rZThiX1RRc3RUMHVxYzRTbGxGOUItZtIBzgFBVV95cUxPWU1qY3ZLb0pweFMzaW02eF9Id01TRkpSTWd3cDZmWXF6TmFvalllWE1UX0hIUHZ6Qzl2Z29lZlBVdFBFSTA1cUxUUEtyakpBVjFnUGRTenByOGktOXIxWUpSRUU1M1FWblg0QnI1R3NqaEUtRUdlbklQamUzMzhDQ29WMWJNc0F0TjBOVWoyOGtnbWJJd1RRZnlHcDlwM1B3aHhXQW5tdHd5RktzX0NkQ19xUmd4dzgtNFV4TVFwRDlYbndyM2FOMnV4ODRBQQ?oc=5" target="_blank" rel="noreferrer">Looking for New Orleans home and garden events? Check out these options. - NOLA.com</a></h3>
         <p class="story-summary">Looking for New Orleans home and garden events? Check out these options. NOLA.com</p>
@@ -325,7 +328,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="music" data-search="musicares brings wellness to new orleans amid industry mental health crisis - briefglance musicares brings wellness to new orleans amid industry mental health crisis briefglance briefglance concerts + music ">
         <div class="story-kicker">Concerts + Music</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQWF8teDczUVdTN0R0ckhQVnpZaEhtQ3F3QW5IUDBCbWYzU3UtaVBZdVFGXzJOVDJtakZvQ0ZqMU9jODdKRGRTQnFfdmdZWW5qV0x4dkduaTgtTjV0N3NaYy01bUd4UWhhTzJzQzlrdVpwSjFCWkRVdkU3MExSNFA2al9wS0VpV2RJaFdfbFpWLVMtX0NfYTBNazRTQTZJRlBKLWFYdlNKRHk1VFkw?oc=5" target="_blank" rel="noreferrer">MusiCares Brings Wellness to New Orleans Amid Industry Mental Health Crisis - BriefGlance</a></h3>
         <p class="story-summary">MusiCares Brings Wellness to New Orleans Amid Industry Mental Health Crisis BriefGlance</p>
@@ -336,7 +339,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="music" data-search="musicares® to host third annual mindful may in new orleans, in partnership with sweetwater, supporting holistic wellness for music professionals - business wire musicares® to host third annual mindful may in new orleans, in partnership with sweetwater, supporting holistic wellness for music professionals business wire business wire concerts + music ">
         <div class="story-kicker">Concerts + Music</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMipAJBVV95cUxPbEZsUGdHeUNYcURISFVSMzBhZm50bnF4bkZzWGVVSzA2eGZJdXVaUUpUVHh2N3JISzNJXzZaSklaRW04VDlfSWNTWHlManFOTTEzWS02NDBqbk1uUDhWVjUzRUdEYUF4VkcyVndheVc5cC1HRWpvWHB0dDhtcDcyVGFqQlpaU3hWWndnajdPRXpvUEVTQzFyTUI1aGxfVnNvdnNpNEZOSGY2aHVrTjE5NlBSNzBhVlpDdk9iTkh2NkpqdDN3UEJuX3RSYzZpbkFTWjdDSVhnX3FRT0c1eUlpRk41VmVCYmt2SFc0N3JLT2diVTRTLVFDcE1xQTh5Z1RQcDF5U1FCWXYyZEFtSGRHM2RKVG5mbEN2T1huMi1uR1VfYnU2?oc=5" target="_blank" rel="noreferrer">MusiCares® to Host Third Annual Mindful May in New Orleans, in Partnership With Sweetwater, Supporting Holistic Wellness for Music Professionals - Business Wire</a></h3>
         <p class="story-summary">MusiCares® to Host Third Annual Mindful May in New Orleans, in Partnership With Sweetwater, Supporting Holistic Wellness for Music Professionals Business Wire</p>
@@ -347,7 +350,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="music" data-search="bayou boogaloo, endangered species day, familee day and more events around new orleans - nola.com bayou boogaloo, endangered species day, familee day and more events around new orleans nola.com nola.com concerts + music ">
         <div class="story-kicker">Concerts + Music</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTI4a2VmcHRmZVZBWWkxaHl5bnhmV2sxOER3bE9aUUpJSDUyZFRtTXdFTG96MUNVUklqdVl3WFRTcU1RanREVlE3b2dQX180NGFlcTlEZGZibEstbzUybWM1QVZ4a3lCUGZvQU5tUXJKQm1GbTRlZFE5ZWNKS0x2azUzQ2k2TWI2eGlfMUYzRHVBODlhTmxXd1pFMTFMYkR3aGJHLXVIbS0xTGY4SHFDYk5uLWdCMXJLUmFCWWJtNXI3NzDSAcgBQVVfeXFMT2dDQk1QRFZuU19takJtM1FRY3lrVTNYY29tSTBBT2FLRFF5Rmd3eXRWSFUzMkxWMWJrLVhiMXlvbEhBTlhaVG1EZGhPZml4ZFFLeUszZEJCakVObzFTeDRtY0l3c3BoVi1PSGgxUTNJanJ6ZEJ5QjJ4d0VfM2VEZm9WeU1Ha1BfLUFCY1U5R0QwN29EQzYxUThOd29zbk8zYkFMb281Tjd6WWlyWno4azkwY3Vqc0FFVmNZTFlNdFlXSHNMa0VvNjk?oc=5" target="_blank" rel="noreferrer">Bayou Boogaloo, Endangered Species Day, Familee Day and more events around New Orleans - NOLA.com</a></h3>
         <p class="story-summary">Bayou Boogaloo, Endangered Species Day, Familee Day and more events around New Orleans NOLA.com</p>
@@ -358,7 +361,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="music" data-search="show review: new orleans jazz &amp; heritage festival 2026 - americana highways show review: new orleans jazz &amp; heritage festival 2026 americana highways americana highways concerts + music ">
         <div class="story-kicker">Concerts + Music</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQX011WUEzbnZEM1RWT2JqSzhyX2RNQnhtdlFKUTVlcmFRbmFKREtwZXpxejRRdHpzcEVwS2JMaTRmV2s2WlgxemItZHJiY1RvZURiZkI1RFJ3TUdjZW0wemRwVU5XaHFpS0R3bV94aU13ekctWUVPRjlVUERyaVRRUUFwTFFnX2J5RDJLYm84b2Q5b0h2ZmZlUtIBngFBVV95cUxOcmRQU3hEZ1RMT2ZQSnhFR0hJZGZWMzl3NUs0aXFtdzEwamNKY3JUT2UwcldjN2N3NERXTnpkc0JwZUxibXMySXlxYlFVUWpJOTRhU1pfSDFQejlrZ2kybzlmV1pvbmJhN2FQVWpEUmZibzZnTG05QjBEel9CclZ2OVFWdUhqNDRFZjgtVzRVMHRCdy0wOG1yYUd3NDJwZw?oc=5" target="_blank" rel="noreferrer">Show Review: New Orleans Jazz &amp; Heritage Festival 2026 - Americana Highways</a></h3>
         <p class="story-summary">Show Review: New Orleans Jazz &amp; Heritage Festival 2026 Americana Highways</p>
@@ -369,7 +372,7 @@
       </article>
     
 
-      <article class="story-card">
+      <article class="story-card" data-section="music" data-search="hotels with live music venues - new orleans tourism website hotels with live music venues new orleans tourism website new orleans tourism website concerts + music ">
         <div class="story-kicker">Concerts + Music</div>
         <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBPQ3FFX1A2Yy01czBYX0dPeW1MZ2Fhd2JINEhkNDhNWDMtck52d0kwNHF3bEhKM3NxZ0pWQUYtVGR3OFRVNmZhTEpQRmFaTldiektEcTRSUmpKZXBDZmRmNVJzb3lUNTFWNDZYUFk3UlBXLUtsSFE?oc=5" target="_blank" rel="noreferrer">Hotels with Live Music Venues - New Orleans Tourism Website</a></h3>
         <p class="story-summary">Hotels with Live Music Venues New Orleans Tourism Website</p>
@@ -379,22 +382,22 @@
         </div>
       </article>
     
-        </div>
-      </section>
+          </div>
+        </section>
     
 
-      <section class="section" id="events">
-        <div class="section-header">
-          <div>
-            <div class="section-eyebrow">Fresh picks</div>
-            <h2>Upcoming Events</h2>
-            <p>Fresh event picks pulled from the WWOZ Livewire calendar, with venue and schedule details.</p>
+        <section class="section" id="events">
+          <div class="section-header">
+            <div>
+              <div class="eyebrow">Fresh picks</div>
+              <h2>Upcoming Events</h2>
+              <p>Fresh event picks pulled from the WWOZ Livewire calendar, with venue and schedule details.</p>
+            </div>
+            <div class="section-count">12 links</div>
           </div>
-          <div class="section-count">12 links</div>
-        </div>
-        <div class="grid story-grid">
-          
-      <article class="story-card story-card-event">
+          <div class="story-grid">
+            
+      <article class="story-card story-card-event" data-section="events" data-search="john lisi &amp; delta funk 21st amendment. tap through for the full listing and latest schedule details. wwoz livewire event 21st amendment">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1340736" target="_blank" rel="noreferrer">John Lisi &amp; Delta Funk</a></h3>
         <p class="story-summary">21st Amendment. Tap through for the full listing and latest schedule details.</p>
@@ -406,7 +409,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="the jelly roll stompers 21st amendment. tap through for the full listing and latest schedule details. wwoz livewire event 21st amendment">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1340756" target="_blank" rel="noreferrer">The Jelly Roll Stompers</a></h3>
         <p class="story-summary">21st Amendment. Tap through for the full listing and latest schedule details.</p>
@@ -418,7 +421,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="jeff chaz blues band 30/90. tap through for the full listing and latest schedule details. wwoz livewire event 30/90">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1345246" target="_blank" rel="noreferrer">Jeff Chaz Blues Band</a></h3>
         <p class="story-summary">30/90. Tap through for the full listing and latest schedule details.</p>
@@ -430,7 +433,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="jenavieve &amp; the winding boys 30/90. tap through for the full listing and latest schedule details. wwoz livewire event 30/90">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1345256" target="_blank" rel="noreferrer">Jenavieve &amp; The Winding Boys</a></h3>
         <p class="story-summary">30/90. Tap through for the full listing and latest schedule details.</p>
@@ -442,7 +445,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="tyler kinchen &amp; the right pieces 30/90. tap through for the full listing and latest schedule details. wwoz livewire event 30/90">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1345266" target="_blank" rel="noreferrer">Tyler Kinchen &amp; The Right Pieces</a></h3>
         <p class="story-summary">30/90. Tap through for the full listing and latest schedule details.</p>
@@ -454,7 +457,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="dj torch 30/90 - upstairs. tap through for the full listing and latest schedule details. wwoz livewire event 30/90 - upstairs">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1345306" target="_blank" rel="noreferrer">DJ Torch</a></h3>
         <p class="story-summary">30/90 - Upstairs. Tap through for the full listing and latest schedule details.</p>
@@ -466,7 +469,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="abita springs opry season finale ft. t marie &amp; bayou juju, spring chickens, amedee frederick &amp; more! abita springs town hall. tap through for the full listing and latest schedule details. wwoz livewire event abita springs town hall">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1322111" target="_blank" rel="noreferrer">Abita Springs Opry Season Finale ft. T Marie &amp; Bayou Juju, Spring Chickens, Amedee Frederick &amp; More!</a></h3>
         <p class="story-summary">Abita Springs Town Hall. Tap through for the full listing and latest schedule details.</p>
@@ -478,7 +481,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="broadville follies allways lounge. tap through for the full listing and latest schedule details. wwoz livewire event allways lounge">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1345316" target="_blank" rel="noreferrer">Broadville Follies</a></h3>
         <p class="story-summary">AllWays Lounge. Tap through for the full listing and latest schedule details.</p>
@@ -490,7 +493,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="smoky greenwell blues band apple barrel. tap through for the full listing and latest schedule details. wwoz livewire event apple barrel">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1338746" target="_blank" rel="noreferrer">Smoky Greenwell Blues Band</a></h3>
         <p class="story-summary">Apple Barrel. Tap through for the full listing and latest schedule details.</p>
@@ -502,7 +505,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="miles berry bacchanal (outdoors). tap through for the full listing and latest schedule details. wwoz livewire event bacchanal (outdoors)">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1340536" target="_blank" rel="noreferrer">Miles Berry</a></h3>
         <p class="story-summary">Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.</p>
@@ -514,7 +517,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="willie green iii bacchanal (outdoors). tap through for the full listing and latest schedule details. wwoz livewire event bacchanal (outdoors)">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1340511" target="_blank" rel="noreferrer">Willie Green III</a></h3>
         <p class="story-summary">Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.</p>
@@ -526,7 +529,7 @@
       </article>
     
 
-      <article class="story-card story-card-event">
+      <article class="story-card story-card-event" data-section="events" data-search="aaron levinson &amp; friends bamboula&#x27;s. tap through for the full listing and latest schedule details. wwoz livewire event bamboula&#x27;s">
         <div class="story-kicker">Event</div>
         <h3><a class="story-link" href="https://www.wwoz.org/events/1341261" target="_blank" rel="noreferrer">Aaron Levinson &amp; Friends</a></h3>
         <p class="story-summary">Bamboula&#x27;s. Tap through for the full listing and latest schedule details.</p>
@@ -537,21 +540,21 @@
         </div>
       </article>
     
-        </div>
-      </section>
+          </div>
+        </section>
     
 
-      <section class="section" id="forecast">
-        <div class="section-header">
-          <div>
-            <div class="section-eyebrow">Weather</div>
-            <h2>7 day forecast</h2>
-            <p>A quick local weather scan for planning the week ahead.</p>
+        <section class="section" id="forecast">
+          <div class="section-header">
+            <div>
+              <div class="eyebrow">Weather</div>
+              <h2>7 day forecast</h2>
+              <p>A quick local weather scan for planning the week ahead.</p>
+            </div>
+            <div class="section-count">7 days</div>
           </div>
-          <div class="section-count">7 days</div>
-        </div>
-        <div class="grid forecast-grid">
-          
+          <div class="forecast-grid">
+            
       <article class="forecast-card">
         <div class="forecast-icon" aria-hidden="true">⛅</div>
         <div class="forecast-copy">
@@ -628,15 +631,45 @@
         </div>
       </article>
     
-        </div>
-      </section>
+          </div>
+        </section>
 
-      
+        
 
-      <footer class="footer">
-        <div class="footer-copy">Built for a calm, readable daily check-in from your phone or laptop.</div>
-        <a href="#top">Back to top</a>
-      </footer>
-    </main>
+        <footer class="footer">
+          <span>Built for a calm, readable daily check-in from your phone or laptop.</span>
+          <a href="#top">Back to top</a>
+        </footer>
+      </main>
+    </div>
+    <script>
+      const search = document.getElementById("search");
+      const filters = document.getElementById("filters");
+      const cards = Array.from(document.querySelectorAll("[data-search]"));
+      let activeFilter = "all";
+
+      function applyFilters() {
+        const query = (search?.value || "").trim().toLowerCase();
+        let visible = 0;
+        cards.forEach((card) => {
+          const matchesQuery = !query || card.dataset.search.includes(query);
+          const matchesFilter = activeFilter === "all" || card.dataset.section === activeFilter;
+          const show = matchesQuery && matchesFilter;
+          card.hidden = !show;
+          if (show) visible += 1;
+        });
+        document.body.classList.toggle("is-filtering", Boolean(query) || activeFilter !== "all");
+        document.documentElement.style.setProperty("--visible-count", `"${visible} results"`);
+      }
+
+      search?.addEventListener("input", applyFilters);
+      filters?.addEventListener("click", (event) => {
+        const button = event.target.closest("[data-filter]");
+        if (!button) return;
+        activeFilter = button.dataset.filter;
+        filters.querySelectorAll(".tag-pill").forEach((pill) => pill.classList.toggle("active", pill === button));
+        applyFilters();
+      });
+    </script>
   </body>
 </html>
