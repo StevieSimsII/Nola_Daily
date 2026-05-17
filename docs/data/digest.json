@@ -1,51 +1,42 @@
 {
-  "generated_at": "2026-05-16T05:30:45.352039-05:00",
-  "generated_label": "May 16, 2026 at 5:30 AM CT",
+  "generated_at": "2026-05-17T05:33:02.728489-05:00",
+  "generated_label": "May 17, 2026 at 5:33 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
-    "temperature": 70,
+    "temperature": 71,
     "temperature_unit": "F",
     "short_forecast": "Partly Cloudy",
-    "detailed_forecast": "Partly cloudy. Low around 70, with temperatures rising to around 72 overnight. Southeast wind around 5 mph.",
+    "detailed_forecast": "Partly cloudy, with a low around 71. Southeast wind around 5 mph.",
     "wind_speed": "5 mph",
     "wind_direction": "SE"
   },
   "seven_day_forecast": [
     {
-      "name": "Saturday",
-      "temperature": 84,
-      "temperature_unit": "F",
-      "short_forecast": "Partly Sunny",
-      "detailed_forecast": "Partly sunny, with a high near 84. Southeast wind 5 to 10 mph.",
-      "wind_speed": "5 to 10 mph",
-      "wind_direction": "SE"
-    },
-    {
       "name": "Sunday",
       "temperature": 84,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms between noon and 5pm. Mostly sunny, with a high near 84. Southeast wind 5 to 15 mph. Chance of precipitation is 30%.",
+      "detailed_forecast": "A chance of showers and thunderstorms after noon. Mostly sunny. High near 84, with temperatures falling to around 82 in the afternoon. Southeast wind 5 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
       "wind_speed": "5 to 15 mph",
       "wind_direction": "SE"
     },
     {
       "name": "Monday",
-      "temperature": 85,
+      "temperature": 86,
       "temperature_unit": "F",
-      "short_forecast": "Partly Sunny",
-      "detailed_forecast": "Partly sunny, with a high near 85. Southeast wind 10 to 15 mph.",
-      "wind_speed": "10 to 15 mph",
+      "short_forecast": "Partly Sunny then Slight Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Partly sunny, with a high near 86. Southeast wind 5 to 15 mph. Chance of precipitation is 20%.",
+      "wind_speed": "5 to 15 mph",
       "wind_direction": "SE"
     },
     {
       "name": "Tuesday",
-      "temperature": 86,
+      "temperature": 85,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 86. Southeast wind 5 to 15 mph.",
-      "wind_speed": "5 to 15 mph",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of rain showers between 7am and 10am, then a chance of showers and thunderstorms. Partly sunny, with a high near 85. Southeast wind 5 to 10 mph. Chance of precipitation is 50%.",
+      "wind_speed": "5 to 10 mph",
       "wind_direction": "SE"
     },
     {
@@ -53,27 +44,36 @@
       "temperature": 85,
       "temperature_unit": "F",
       "short_forecast": "Partly Sunny then Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Partly sunny, with a high near 85. Southeast wind 5 to 10 mph.",
-      "wind_speed": "5 to 10 mph",
+      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Partly sunny, with a high near 85. Southeast wind 0 to 10 mph.",
+      "wind_speed": "0 to 10 mph",
       "wind_direction": "SE"
     },
     {
       "name": "Thursday",
-      "temperature": 85,
+      "temperature": 84,
       "temperature_unit": "F",
       "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms before 1pm, then showers and thunderstorms likely. Partly sunny, with a high near 85. East wind 0 to 5 mph.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "E"
+      "detailed_forecast": "A chance of showers and thunderstorms before 1pm, then showers and thunderstorms likely. Mostly sunny, with a high near 84. Southeast wind 0 to 10 mph.",
+      "wind_speed": "0 to 10 mph",
+      "wind_direction": "SE"
     },
     {
       "name": "Friday",
+      "temperature": 85,
+      "temperature_unit": "F",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms before 7am, then a chance of showers and thunderstorms between 7am and 1pm, then showers and thunderstorms likely. Partly sunny, with a high near 85. South wind 0 to 10 mph.",
+      "wind_speed": "0 to 10 mph",
+      "wind_direction": "S"
+    },
+    {
+      "name": "Saturday",
       "temperature": 84,
       "temperature_unit": "F",
-      "short_forecast": "Showers And Thunderstorms Likely",
-      "detailed_forecast": "A slight chance of rain showers before 7am, then showers and thunderstorms likely. Partly sunny, with a high near 84. Southeast wind 0 to 5 mph.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "SE"
+      "short_forecast": "Showers And Thunderstorms",
+      "detailed_forecast": "Showers and thunderstorms. Partly sunny, with a high near 84. South wind 5 to 10 mph.",
+      "wind_speed": "5 to 10 mph",
+      "wind_direction": "S"
     }
   ],
   "sections": [
@@ -83,6 +83,26 @@
       "description": "New Orleans city government, neighborhoods, public life, and major local developments.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
+        {
+          "title": "Voters re-elect Kenner mayor, pick Slidell police chief in local New Orleans area races - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTEJvQnlCTTVWVFRIc3B0dVN5b1NTZ2kySzZwdGJEUVBXZDZfODZvc1Nhby1yVG8tVlhvQkE3czA3ay1CWWlwT2owRzJwUGl3d0o5VjJpOGFOajhGd2lXRVNHb2ZnblVVdEVRTTJrWWRpSl9VRnZEZFRxbnh0bXhFTXBBWXAzT2tGZGdDSktON0s1ckZrTTVib05iNnJLQXFWaElXN2tzaUt3bmhLQWxhRTVjNlFQUGNsZ09MLVVoX2V0Mm4zY0440gHMAUFVX3lxTE9aU2xody1aS0o5bXRKaDFUWExKVzZSWHNfdFFIVFphdWpEUVhPMXRNaVFmRjRsRzZ4TlI3RVR1QW9hNExfT0xlRW1LU1lyOWVHaHEwX2RVaGJqOEJGMnIwMF9PZzNQOTF0aHdJRTBkRm05RzZwdjcteWlDRlBhVkFNZHdlUHRJV0E4eEpuTUg5b1JSYlNqaDc4X0pFSF9FX2tVWHJPYjBWN2FLQmFIYXVqaWFHT19OVEgtb1NGTm5mQ016dmh5RjdyWmdzdQ?oc=5",
+          "source": "NOLA.com",
+          "summary": "Voters re-elect Kenner mayor, pick Slidell police chief in local New Orleans area races NOLA.com",
+          "published": "May 17, 2026 4:00 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Full results: See the final results from the Louisiana party primary - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1ZYTlB4SU1YVHRpc3JfN2s1dWcyRW13ZDJKakQtaXdjNjc1c0JHVmNhSkp4bG5MdHlJR2FzRmtBYWozUzBRSTBBMlRQZHQtVFhNbTgyZHJnbHhaeEtydDBBSGlyejdGRXFDc1VHbGw3NFZCWE9SWmVzclVXR3lVc2hrM1E?oc=5",
+          "source": "WDSU",
+          "summary": "Full results: See the final results from the Louisiana party primary WDSU",
+          "published": "May 17, 2026 3:48 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
         {
           "title": "Louisiana Supreme Court bars interim Orleans Parish clerk from duties - WDSU",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeF9WLU1wY0F6OW1RMDk0ZFZfeGpVT1VvSTZVdnhjMDlINmJNX0JUTjQwMHNPcXF1UWpuOVUxVlNCaVFpSXBjU05yOWx0WFFRRlRWSnJmRFJVWDdCZTYzYXZDcTlRYXBMcmozUGdzYWhGVFlDM0dDbHFQVlBfeW5LeUJCSVVySHh6aFlZMw?oc=5",
@@ -122,26 +142,6 @@
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "'It's very complex': Orleans Clerk stays in office after Louisiana Supreme Court ruling - WWLTV.com",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWE44VzVxV21LR1pUMG9EQURXbTdoMWhiMkxVWnBLdVlQTG5Wek1aaWRXTlhtVkxXWDBiN0dFQi1DZkpkT21EMTlMbkF4VmlCS05XTTJvYk5pTEVCQlRuTFR2Qi1Kd19qTmNqR2VUZ3kybjVpdkthRFZMdGYxTGxka01YZlRYWm5BV0FnSHdXZmk2RWFSVVEzMGpHY1BDeGI5WFJGY3NlRTdZNDZwYjh2QWtodkdWRmlqMGEtWXhZZzZJRkJpaGdhdVB2UWpjdWh1bHFFRGpjQWNaV2N5QWp0ODVMdXFncnRLaFpVZzZRWjF2azhWQnBtNVRmRXIzaDlfT2JN?oc=5",
-          "source": "WWLTV.com",
-          "summary": "'It's very complex': Orleans Clerk stays in office after Louisiana Supreme Court ruling WWLTV.com",
-          "published": "May 15, 2026 2:57 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Louisiana Supreme Court blocks interim Orleans clerk from taking office - WWLTV.com",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZXNOMVhTM3Mwbzh6Ml9fYVRyWmRKdm9WTUU1N3lFOENCUjNfNXQ0THBSYWFwWGU3eVJFRFFCV3Y4cEREeENyd2doc0lMZFdWSmcyay11REQxYkRjcE11Q3pDcXJvUVVmT2E3c0c2b0tVaGxzX1FjUzI0U3g4Y0h0SHVEMEM3ejdfdGlaLU8td29HblVJOWJzM1lyNGdsVjAtdUI1eEdhU3g2MGY3SUtubkZLdXk0YWZqRHhrTWlnTTRhVUlfd3ZGckpBMUtOVTNrUVF2cklPcXFnZTlfTnhyZ3puQVF4N2lwZGhKMA?oc=5",
-          "source": "WWLTV.com",
-          "summary": "Louisiana Supreme Court blocks interim Orleans clerk from taking office WWLTV.com",
-          "published": "May 14, 2026 11:30 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -162,11 +162,41 @@
           "calendar_url": ""
         },
         {
+          "title": "TikToker Keith Lee\u2019s first FamiLee Day festival is in New Orleans. Here\u2019s what to know. - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2R0N1hzWjR2dUd2cm95MHdub0o3X3paOGNBVHdLQmdxN3NIZWtZZTJTVF9qeHRpaW5qdHZNVGhJTlpOTHB3S3JoODNsR01kS2FwZXBVOXQwNG5EeTBRdndJVlU4THVBdnlROEZ2Y0REakJFaDQ3N0FVNGgtZWNxal9DdzhpMWkwcW5ZM1pTYXFfUUl1WjRKVEQtcEU2bXBCZHQ4LWR6bENFLWF1VlJYVlRfaEFia1ViWFHSAb8BQVVfeXFMTW1icEt3eE1UWUFzSWxzbU1PX2Ntcnp2TkhValY4eDRCRVdVc1FuVWxWUVNqUEctSVNpYXFkLU95Njg2cnpTVm00Q0ZHWVI0TjRsOUhiWTRQWTZuWnRockVQU1B0U2loS2pMMEg2U0U5SXhBcmlfUW16ZnhyWU15dmdFT0RIOURTazFEYzV4dVVWODFfTUh5SDRQSlpkOGRiZnBab09TMHp1YndXZFVZeEdxTGdsY0JmQlNmS2JyY00?oc=5",
+          "source": "NOLA.com",
+          "summary": "TikToker Keith Lee\u2019s first FamiLee Day festival is in New Orleans. Here\u2019s what to know. NOLA.com",
+          "published": "May 15, 2026 9:00 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "New Orleans police seek person of interest in Chef Menteur Highway homicide - fox8live.com",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejQwZjVUUjFpME53MkhxYTJwc0RjSERYTUFDUHl2cUc1Vzg4ZXVZTVBpZ2pkeW1uWFhidHQ1QWxkSXkwQXFyOGJ3NFlqeFdrTThmUWJxUUN1THRIZnI4UFgySFhqNDJOWU90WmNCTmNXUlRxcGhsYnZBSXRfeDB0WHV3WHBRNDNMekRzUnh1eGhSSmpmXzFVZWFkOGdNczBCU2hqNHJfRWRWQdIBvgFBVV95cUxPRUlUb2lTanJDSXNONXVSLXVmS3gwQWJ1UmZDcDdyY0FUMl9hODBMckgwNjBfenlvZzU2UHFHTXJkRS1SSTVwZUVZLXRwLW9hNGVMX1V5UVZZZHNRNU90VTQ3MGk1QkM2SHM2QVUzWDMxQ0s3TVFLWXdGWHc5Q2xYcS1WQzZYTjEza2hZSXBZSDBGWDIyWjZLTjVjNFM2N0RQX0xqekZlbXNIZ2NUMDl1X2Z6dkJOMEwwRkpoYjNR?oc=5",
           "source": "fox8live.com",
           "summary": "New Orleans police seek person of interest in Chef Menteur Highway homicide fox8live.com",
           "published": "May 15, 2026 5:12 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Bringing the taste of New Orleans to Pittsburgh - CBS News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOejBUOWNZbDR3cEgwZDMzcmxpbDRnOGNRWnktRnY5bDVIWFdncUtOeUdJajlZaWFXVUkwQlZKWjg0b3pzYmszTkdTU1hoTmtKWkFOVnh3bWFYNFZrdGItRFdsMnd2RnpWX3BiT2xJYW80bTROTG55R3I2UXVTN003cEZsR0lXU2RBUzlwT1U5RUlsRmM?oc=5",
+          "source": "CBS News",
+          "summary": "Bringing the taste of New Orleans to Pittsburgh CBS News",
+          "published": "May 14, 2026 4:58 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Chef Menteur Bridge Closure Strands New Orleans East Residents - Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXNMSXF5TGR2NzIyWU1YMTV5ZGhtb0dhWmlpcDIwZmJKUWpoVEs2R29JU192d0dRTE1kZzRNV29FWVYySnR0MGNCOV9uakhrVmtMb2p3QVBhd3VEUXBqOEZmY1huNDhMbTdzNy1RRWtiQ2RVc0lKVThuS0wxb2EzX1ZLb01VU0ZXNjVSLUpDa0p1dw?oc=5",
+          "source": "Hoodline",
+          "summary": "Chef Menteur Bridge Closure Strands New Orleans East Residents Hoodline",
+          "published": "May 14, 2026 4:34 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -180,36 +210,6 @@
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "Navy Yard gets a splash of New Orleans - Axios",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2tWN0p3VG9fbi1wZ201aWVUMl9BWHBsOFBvZnItUDhoQ2s4bWlySDhrS3UydF9tUG1VVm1PdDNsbXVPc3dVd3R6bXZqYmR2bkl6SlJ5RndfQnJJMHdZLXJCQ2tuQXY5aDVKUWpMS2VnR3FUV25oWUFPYWFZSEtXZVVaWWxrMXdTRGFfTld6R0dpTkxWeEZvUXVneEZLME0?oc=5",
-          "source": "Axios",
-          "summary": "Navy Yard gets a splash of New Orleans Axios",
-          "published": "May 13, 2026 1:06 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Crustacean Club opens on North Rampart in New Orleans - Hoodline",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2w0RUx0M1NWSFIydVRwb2VZWlpjeVdBRU03QVRfcThjbEVlellHc2FQQUM5ZUx4NFJ3dDhSdE93WDhiQVRIcE42TDhHTXBfZklOVE02MHl0T0p2MFZfc096eHpRNkEtZFQzZ3AyU3FxMU1mZkNBSEw3V2cybm1nX2Zvb1Zlc1lzNEFZODF4Q0pVT1JsVUhDQ25tQzBrb2FpLXJaY1Nn?oc=5",
-          "source": "Hoodline",
-          "summary": "Crustacean Club opens on North Rampart in New Orleans Hoodline",
-          "published": "May 12, 2026 6:00 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans police investigating shooting in Desire neighborhood - WDSU",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUM4cXBHbEI5cjgta0N3UHgtQmljREJHbEtUTGktNUstTlhweU12X01raEktWDV5alltREhsTEdrWDBjdjdPUk16VFM3Z0NpSGNJOHVZZWtIZU9BbXJUUlpvX0YtbUhFVW1ON1lDM0l2ajdIMjFCVV92RlMtcTg5RDJkSHhlRlAxaDRrRDZIdw?oc=5",
-          "source": "WDSU",
-          "summary": "New Orleans police investigating shooting in Desire neighborhood WDSU",
-          "published": "May 11, 2026 8:21 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -220,11 +220,31 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "Vibrant New Orleans Pride Month 2026 Citywide Celebrations, Free Festivals, Parades & Cultural Events Across French Quarter, Marigny & Audubon Park: What You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPZGFBYmo5bU5qYVAxUHA1OTctNkNqM0d4NHhTNmpCTVhuMHJneFp3aS1SN21kYk9BTW5BNFRSWlRWbW9iUVVqUVlQZU5UTDZ6dW5SaEh0Y2otcFVveWF2NFZHeTB3cm15elEzZTU0TnNmQWl6azYtaUFUbklPTkJSZUFXYW9hVEhvZGE1bFFzSE45VS1wMjJOYUpxbmtsZjh5MG93NFpXbUNGSlV6S2l1WHhFZ20wVEdldWUtWXlmSmRrM1lhQmZkUUN1NExaTi1fQ1l4RWktVE5MRnhXemlvV2tvLU5pNTVGM3ViUDhER3RFUFRwQnlldElrYng0Q2xKQUROaHpCQnlmbDFZZmQ0ZW5MdlFpcG52TExEcm1TdXBscUt4NWVZcFU0aGZoT29zd2owSGln?oc=5",
+          "source": "Travel And Tour World",
+          "summary": "Vibrant New Orleans Pride Month 2026 Citywide Celebrations, Free Festivals, Parades & Cultural Events Across French Quarter, Marigny & Audubon Park: What You Need to Know Travel And Tour World",
+          "published": "May 16, 2026 6:03 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "Parkview Tavern set to close 2 years after Blue Oak BBQ bought building: \u2018Hard to replace\u2019 - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNelVGb0hVcGduQkdZLVNPM2drWldvMHBlT1ZZTFNrYzJXTjRKTy00U1BCckMzUi1jbVpPUVQxQmpCVUU2bFk3LTF2dXBXclFHU2tFVHEtQ013ZmdaTHlZdUZXVmNBUGdhbEs0ZjFHQkZzdFljZXFtLXNZNGhDbEE0ektUbnBYNTUtZndzSXVXcjFtSWstZGZXUnFLdjU0T1paOUZfbHV2eUg0elMxTC1iSTBBZGFGVFpEeExoTGlHWFZXOFRkV3oyS1paQnE4LWtOUmfSAdcBQVVfeXFMTUZqSGxBa0VkZExwa3pmY1NORXo0VDNFWnB4WWEwZGNOdmw5a0p6a3JHbHgzNWxpT0gyLVNsVl9jbHgtRkVwT0xfaEUweGJVVmRxWDZpOWtRMEVkNzN4VlA5R3ZLWEZGTjFMQzRkODFoSmhEQVpFTTNtNzVOQjJ4eUJYNHJuVnpxcEhHak0xU1pHSkZvU01OYUhhLXJIQm9LcUVRSVMwX2haRGZIZEQ1MjNZeUc1RXVBZmo2VHBLUEFPNUV2cHBSZFBWMVBuMjVMcHNiUEUwa0k?oc=5",
           "source": "NOLA.com",
           "summary": "Parkview Tavern set to close 2 years after Blue Oak BBQ bought building: \u2018Hard to replace\u2019 NOLA.com",
           "published": "May 15, 2026 12:00 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "TikToker Keith Lee\u2019s first FamiLee Day festival is in New Orleans. Here\u2019s what to know. - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2R0N1hzWjR2dUd2cm95MHdub0o3X3paOGNBVHdLQmdxN3NIZWtZZTJTVF9qeHRpaW5qdHZNVGhJTlpOTHB3S3JoODNsR01kS2FwZXBVOXQwNG5EeTBRdndJVlU4THVBdnlROEZ2Y0REakJFaDQ3N0FVNGgtZWNxal9DdzhpMWkwcW5ZM1pTYXFfUUl1WjRKVEQtcEU2bXBCZHQ4LWR6bENFLWF1VlJYVlRfaEFia1ViWFHSAb8BQVVfeXFMTW1icEt3eE1UWUFzSWxzbU1PX2Ntcnp2TkhValY4eDRCRVdVc1FuVWxWUVNqUEctSVNpYXFkLU95Njg2cnpTVm00Q0ZHWVI0TjRsOUhiWTRQWTZuWnRockVQU1B0U2loS2pMMEg2U0U5SXhBcmlfUW16ZnhyWU15dmdFT0RIOURTazFEYzV4dVVWODFfTUh5SDRQSlpkOGRiZnBab09TMHp1YndXZFVZeEdxTGdsY0JmQlNmS2JyY00?oc=5",
+          "source": "NOLA.com",
+          "summary": "TikToker Keith Lee\u2019s first FamiLee Day festival is in New Orleans. Here\u2019s what to know. NOLA.com",
+          "published": "May 15, 2026 9:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -258,26 +278,6 @@
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "Louisiana Cajun-Zydeco Festival Returns to New Orleans - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmRPaFNKQllCa0ZHTlFQTXVXS0dxeEE5bzJqd2ttaDBIS3BkeERSNWxOMko1TDFIbkpRVDhITkVpSlpPcW9SZ2tWWFIwVmFzRDBLSkxwR3MycmtvNEE4c1JMRU9Oa1RVX1NmRDI3bFlFSElrWWNUeWwxcjVkc2lSNWdsSkgzanpZR0k1bQ?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "Louisiana Cajun-Zydeco Festival Returns to New Orleans New Orleans Magazine",
-          "published": "May 13, 2026 1:28 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Michelle Obama, more big names coming to New Orleans Essence Fest 2026. Here's the lineup. - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVBzR0xoRl81c3BfS3RwLTRWY25GdXYzMlhpR3JRVGZCT0VMem54ZHdvbmJkSEEzY1RnZ2pRVS1sZ0hVR29FZGdHamtoV3NHR3M5Zm1tWXR6bDlTSXBBZ1YxV1V1Q0ZMdnljR3ZZZi1jU0JBYnhqUFlvM2tIZThzeEhONzRjSEJ2OWRQVzhMM29ra2ZEaERjNWZWOUdqc1lTdXViSldoYzFRTFNrbjI1LUViV2lhZVR6aVl1QzgtS2prZ9IBxwFBVV95cUxNVTBwdHo2bWp3U1BBekM0bkJxQlR0SG5VWnBtSl9EZ2hlZW8xc3dDZVhUdDJHcXBUV3FyOTdUWFVGMDR6NFZUanRROGQ0TlFLZDlNbm9KOUNkbUdjbmJwVzBlaFBMdTdmUnZ2cGtDa0NZRDhLaGVYUDVGSmpYWDloRjZ5Z0YzcDJpR0pTSzB0R0t4Ul9pc3ROYjAxbk1tNDBsU0dCbldZYS0tbkI4N1ZXdXUxOENqdkZxVmhDZkRnUDUxWm5hVnFN?oc=5",
-          "source": "NOLA.com",
-          "summary": "Michelle Obama, more big names coming to New Orleans Essence Fest 2026. Here's the lineup. NOLA.com",
-          "published": "May 12, 2026 4:02 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -288,21 +288,11 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Looking for New Orleans home and garden events? Check out these options. - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnZXZjJBQlJxUnFxdzBBaS1aRUZRRUlhNUk3UnNuRnRBT1ZBcUNQdjRaQWc4dzExS05Fb190dGN3WTVBcGVWLXpNTXpXcUNqWWNvc0RzN19jUUlabHFQekpjdGFQeTV5dGJzVUtPQXgtcWtSWGQ4czZSTnN1NEFwZXRudzRVNy1KejZodFBlc1ZwRnhuNXFEaHJYSHlwSkljZDF6Z2xGM3dxZ3dqSHZqMF9rZThiX1RRc3RUMHVxYzRTbGxGOUItZtIBzgFBVV95cUxPWU1qY3ZLb0pweFMzaW02eF9Id01TRkpSTWd3cDZmWXF6TmFvalllWE1UX0hIUHZ6Qzl2Z29lZlBVdFBFSTA1cUxUUEtyakpBVjFnUGRTenByOGktOXIxWUpSRUU1M1FWblg0QnI1R3NqaEUtRUdlbklQamUzMzhDQ29WMWJNc0F0TjBOVWoyOGtnbWJJd1RRZnlHcDlwM1B3aHhXQW5tdHd5RktzX0NkQ19xUmd4dzgtNFV4TVFwRDlYbndyM2FOMnV4ODRBQQ?oc=5",
+          "title": "TikToker Keith Lee\u2019s first FamiLee Day festival is in New Orleans. Here\u2019s what to know. - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2R0N1hzWjR2dUd2cm95MHdub0o3X3paOGNBVHdLQmdxN3NIZWtZZTJTVF9qeHRpaW5qdHZNVGhJTlpOTHB3S3JoODNsR01kS2FwZXBVOXQwNG5EeTBRdndJVlU4THVBdnlROEZ2Y0REakJFaDQ3N0FVNGgtZWNxal9DdzhpMWkwcW5ZM1pTYXFfUUl1WjRKVEQtcEU2bXBCZHQ4LWR6bENFLWF1VlJYVlRfaEFia1ViWFHSAb8BQVVfeXFMTW1icEt3eE1UWUFzSWxzbU1PX2Ntcnp2TkhValY4eDRCRVdVc1FuVWxWUVNqUEctSVNpYXFkLU95Njg2cnpTVm00Q0ZHWVI0TjRsOUhiWTRQWTZuWnRockVQU1B0U2loS2pMMEg2U0U5SXhBcmlfUW16ZnhyWU15dmdFT0RIOURTazFEYzV4dVVWODFfTUh5SDRQSlpkOGRiZnBab09TMHp1YndXZFVZeEdxTGdsY0JmQlNmS2JyY00?oc=5",
           "source": "NOLA.com",
-          "summary": "Looking for New Orleans home and garden events? Check out these options. NOLA.com",
-          "published": "May 15, 2026 2:00 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "MusiCares Brings Wellness to New Orleans Amid Industry Mental Health Crisis - BriefGlance",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWF8teDczUVdTN0R0ckhQVnpZaEhtQ3F3QW5IUDBCbWYzU3UtaVBZdVFGXzJOVDJtakZvQ0ZqMU9jODdKRGRTQnFfdmdZWW5qV0x4dkduaTgtTjV0N3NaYy01bUd4UWhhTzJzQzlrdVpwSjFCWkRVdkU3MExSNFA2al9wS0VpV2RJaFdfbFpWLVMtX0NfYTBNazRTQTZJRlBKLWFYdlNKRHk1VFkw?oc=5",
-          "source": "BriefGlance",
-          "summary": "MusiCares Brings Wellness to New Orleans Amid Industry Mental Health Crisis BriefGlance",
-          "published": "May 14, 2026 6:22 PM",
+          "summary": "TikToker Keith Lee\u2019s first FamiLee Day festival is in New Orleans. Here\u2019s what to know. NOLA.com",
+          "published": "May 15, 2026 9:00 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -346,6 +336,16 @@
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
+        },
+        {
+          "title": "Weekend Picks - New Orleans Tourism Website",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5",
+          "source": "New Orleans Tourism Website",
+          "summary": "Weekend Picks New Orleans Tourism Website",
+          "published": "May 12, 2026 7:00 AM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
         }
       ]
     },
@@ -356,124 +356,124 @@
       "empty_message": "The event calendar could not be refreshed during this run.",
       "items": [
         {
-          "title": "John Lisi & Delta Funk",
-          "url": "https://www.wwoz.org/events/1340736",
+          "title": "Wolfe Johns Blues Band",
+          "url": "https://www.wwoz.org/events/1340801",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 3:00pm",
+          "published": "Sunday, May 17 at 3:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Lisi+%26+Delta+Funk&dates=20260516T150000%2F20260516T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340736&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wolfe+Johns+Blues+Band&dates=20260517T150000%2F20260517T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340801&location=21st+Amendment"
         },
         {
-          "title": "The Jelly Roll Stompers",
-          "url": "https://www.wwoz.org/events/1340756",
+          "title": "Big Mike & The R&B Kings",
+          "url": "https://www.wwoz.org/events/1340816",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 8:00pm",
+          "published": "Sunday, May 17 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Jelly+Roll+Stompers&dates=20260516T200000%2F20260516T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340756&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+Mike+%26+The+R%26B+Kings&dates=20260517T200000%2F20260517T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340816&location=21st+Amendment"
         },
         {
-          "title": "Jeff Chaz Blues Band",
-          "url": "https://www.wwoz.org/events/1345246",
+          "title": "Daphne Parker Powell",
+          "url": "https://www.wwoz.org/events/1345231",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 2:00pm",
+          "published": "Sunday, May 17 at 3:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jeff+Chaz+Blues+Band&dates=20260516T140000%2F20260516T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345246&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Daphne+Parker+Powell&dates=20260517T150000%2F20260517T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345231&location=30%2F90"
         },
         {
-          "title": "Jenavieve & The Winding Boys",
-          "url": "https://www.wwoz.org/events/1345256",
+          "title": "Scotty Yost & The Most",
+          "url": "https://www.wwoz.org/events/1345236",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 5:00pm",
+          "published": "Sunday, May 17 at 6:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jenavieve+%26+The+Winding+Boys&dates=20260516T170000%2F20260516T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345256&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Scotty+Yost+%26+The+Most&dates=20260517T180000%2F20260517T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345236&location=30%2F90"
         },
         {
-          "title": "Tyler Kinchen & The Right Pieces",
-          "url": "https://www.wwoz.org/events/1345266",
+          "title": "SingleMaltPlease",
+          "url": "https://www.wwoz.org/events/1345241",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 8:00pm",
+          "published": "Sunday, May 17 at 9:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tyler+Kinchen+%26+The+Right+Pieces&dates=20260516T200000%2F20260516T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345266&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SingleMaltPlease&dates=20260517T210000%2F20260517T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345241&location=30%2F90"
         },
         {
-          "title": "DJ Torch",
-          "url": "https://www.wwoz.org/events/1345306",
-          "source": "WWOZ Livewire",
-          "summary": "30/90 - Upstairs. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 10:00pm",
-          "eyebrow": "Event",
-          "location": "30/90 - Upstairs",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DJ+Torch&dates=20260516T220000%2F20260517T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345306&location=30%2F90+-+Upstairs"
-        },
-        {
-          "title": "Abita Springs Opry Season Finale ft. T Marie & Bayou Juju, Spring Chickens, Amedee Frederick & More!",
-          "url": "https://www.wwoz.org/events/1322111",
-          "source": "WWOZ Livewire",
-          "summary": "Abita Springs Town Hall. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 7:00pm",
-          "eyebrow": "Event",
-          "location": "Abita Springs Town Hall",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Abita+Springs+Opry+Season+Finale+ft.+T+Marie+%26+Bayou+Juju%2C+Spring+Chickens%2C+Amedee+Frederick+%26+More%21&dates=20260516T190000%2F20260516T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1322111&location=Abita+Springs+Town+Hall"
-        },
-        {
-          "title": "Broadville Follies",
-          "url": "https://www.wwoz.org/events/1345316",
+          "title": "Sunday Swing with Smoking Time Jazz Band",
+          "url": "https://www.wwoz.org/events/1331156",
           "source": "WWOZ Livewire",
           "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 7:30pm",
+          "published": "Sunday, May 17 at 8:00pm",
           "eyebrow": "Event",
           "location": "AllWays Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Broadville+Follies&dates=20260516T193000%2F20260516T213000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345316&location=AllWays+Lounge"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Swing+with+Smoking+Time+Jazz+Band&dates=20260517T200000%2F20260517T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1331156&location=AllWays+Lounge"
         },
         {
-          "title": "Smoky Greenwell Blues Band",
-          "url": "https://www.wwoz.org/events/1338746",
-          "source": "WWOZ Livewire",
-          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 10:30pm",
-          "eyebrow": "Event",
-          "location": "Apple Barrel",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Smoky+Greenwell+Blues+Band&dates=20260516T223000%2F20260517T003000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1338746&location=Apple+Barrel"
-        },
-        {
-          "title": "Miles Berry",
-          "url": "https://www.wwoz.org/events/1340536",
+          "title": "Juan Tigre",
+          "url": "https://www.wwoz.org/events/1340621",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 1:00pm",
+          "published": "Sunday, May 17 at 1:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Miles+Berry&dates=20260516T130000%2F20260516T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340536&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juan+Tigre&dates=20260517T130000%2F20260517T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340621&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Willie Green III",
-          "url": "https://www.wwoz.org/events/1340511",
+          "title": "Noah Young",
+          "url": "https://www.wwoz.org/events/1340556",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 7:00pm",
+          "published": "Sunday, May 17 at 7:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Willie+Green+III&dates=20260516T190000%2F20260516T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340511&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Noah+Young&dates=20260517T190000%2F20260517T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340556&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Aaron Levinson & Friends",
-          "url": "https://www.wwoz.org/events/1341261",
+          "title": "Them Jaywalkers",
+          "url": "https://www.wwoz.org/events/1340921",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 16 at 11:00am",
+          "published": "Sunday, May 17 at 11:00am",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aaron+Levinson+%26+Friends&dates=20260516T110000%2F20260516T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1341261&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Them+Jaywalkers&dates=20260517T110000%2F20260517T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340921&location=Bamboula%27s"
+        },
+        {
+          "title": "Laura Doyle",
+          "url": "https://www.wwoz.org/events/1340946",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, May 17 at 2:15pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laura+Doyle&dates=20260517T141500%2F20260517T161500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340946&location=Bamboula%27s"
+        },
+        {
+          "title": "Midnight Brawlers",
+          "url": "https://www.wwoz.org/events/1340966",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, May 17 at 5:30pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Midnight+Brawlers&dates=20260517T173000%2F20260517T193000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340966&location=Bamboula%27s"
+        },
+        {
+          "title": "Kat Kiley Experience",
+          "url": "https://www.wwoz.org/events/1340986",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, May 17 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kat+Kiley+Experience&dates=20260517T210000%2F20260517T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340986&location=Bamboula%27s"
         }
       ]
     }
