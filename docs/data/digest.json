@@ -1,41 +1,32 @@
 {
-  "generated_at": "2026-05-30T05:37:04.169544-05:00",
-  "generated_label": "May 30, 2026 at 5:37 AM CT",
+  "generated_at": "2026-05-31T05:42:14.828315-05:00",
+  "generated_label": "May 31, 2026 at 5:42 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
-    "temperature": 74,
+    "temperature": 76,
     "temperature_unit": "F",
     "short_forecast": "Partly Cloudy",
-    "detailed_forecast": "Partly cloudy, with a low around 74. Southwest wind around 0 mph.",
-    "wind_speed": "0 mph",
-    "wind_direction": ""
+    "detailed_forecast": "Partly cloudy, with a low around 76. Southwest wind 0 to 5 mph.",
+    "wind_speed": "0 to 5 mph",
+    "wind_direction": "SW"
   },
   "seven_day_forecast": [
     {
-      "name": "Saturday",
-      "temperature": 88,
+      "name": "Sunday",
+      "temperature": 90,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny. High near 88, with temperatures falling to around 86 in the afternoon. West wind 0 to 5 mph.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "W"
-    },
-    {
-      "name": "Sunday",
-      "temperature": 88,
-      "temperature_unit": "F",
-      "short_forecast": "Partly Sunny then Slight Chance Rain Showers",
-      "detailed_forecast": "A slight chance of rain showers between 3pm and 4pm. Partly sunny, with a high near 88. Southwest wind 0 to 5 mph. Chance of precipitation is 20%.",
+      "detailed_forecast": "Mostly sunny. High near 90, with temperatures falling to around 87 in the afternoon. Southwest wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "SW"
     },
     {
       "name": "Monday",
-      "temperature": 88,
+      "temperature": 89,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 88. West wind 0 to 5 mph. Chance of precipitation is 40%.",
+      "short_forecast": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 89. West wind 0 to 5 mph. Chance of precipitation is 20%.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "W"
     },
@@ -44,34 +35,43 @@
       "temperature": 89,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 89. Northwest wind around 5 mph.",
-      "wind_speed": "5 mph",
+      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 89. Northwest wind 0 to 5 mph. Chance of precipitation is 40%.",
+      "wind_speed": "0 to 5 mph",
       "wind_direction": "NW"
     },
     {
       "name": "Wednesday",
-      "temperature": 86,
+      "temperature": 85,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 86. East wind 5 to 10 mph.",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 10am. Partly sunny, with a high near 85. Northeast wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
-      "wind_direction": "E"
+      "wind_direction": "NE"
     },
     {
       "name": "Thursday",
-      "temperature": 84,
+      "temperature": 83,
       "temperature_unit": "F",
       "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms. Mostly sunny, with a high near 84. East wind 5 to 10 mph.",
-      "wind_speed": "5 to 10 mph",
+      "detailed_forecast": "A slight chance of rain showers before 7am, then a chance of showers and thunderstorms between 7am and 1pm, then a chance of showers and thunderstorms. Mostly sunny, with a high near 83. East wind 10 to 15 mph.",
+      "wind_speed": "10 to 15 mph",
       "wind_direction": "E"
     },
     {
       "name": "Friday",
+      "temperature": 84,
+      "temperature_unit": "F",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of rain showers before 7am, then a chance of showers and thunderstorms between 7am and 1pm, then showers and thunderstorms likely. Mostly sunny, with a high near 84. Southeast wind 10 to 15 mph.",
+      "wind_speed": "10 to 15 mph",
+      "wind_direction": "SE"
+    },
+    {
+      "name": "Saturday",
       "temperature": 85,
       "temperature_unit": "F",
       "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms. Mostly sunny, with a high near 85. Southeast wind 5 to 10 mph.",
+      "detailed_forecast": "A slight chance of rain showers before 7am, then a chance of showers and thunderstorms. Partly sunny, with a high near 85. Southeast wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
       "wind_direction": "SE"
     }
@@ -94,31 +94,11 @@
           "calendar_url": ""
         },
         {
-          "title": "L'Isaa LaChandra Gates Obituary (2026) - New Orleans, LA - Rhodes Funeral Home - Washington Avenue - Legacy obituary",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjI0dGZyaERKV0dHVTUwQXhHV3laNks4V3Z1Uzc0VHhCV2xIOVd2VGxKNU9Sczc3NVQ2WEdGaWxsSlVfaE9ZTUc1Ulo5MDVyaGVIZ1VadmN0VjJnWWJXUjdzdGI0alJ4YU9fby1QdTFYY01McEJoTGZLdTJiTldRWQ?oc=5",
-          "source": "Legacy obituary",
-          "summary": "L'Isaa LaChandra Gates Obituary (2026) - New Orleans, LA - Rhodes Funeral Home - Washington Avenue Legacy obituary",
-          "published": "May 28, 2026 9:47 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Sheriff Michelle M. Woodfork welcomed Mayor Helena Moreno for a tour of the Orleans Justice Center, including a walkthrough of Phase 3, which is still under construction. - instagram.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rWGlWeVhpRHkwdmRsRlFDWnRzNDFHSl9ZQ1NWM0ZCbk5ULTk3WkZSMmJMUjVrZ2NHTmxNYm56RHJLNU9ReTlZWDlOSm05aFNtRkljN09R?oc=5",
           "source": "instagram.com",
           "summary": "Sheriff Michelle M. Woodfork welcomed Mayor Helena Moreno for a tour of the Orleans Justice Center, including a walkthrough of Phase 3, which is still under construction. instagram.com",
           "published": "May 27, 2026 10:23 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Former New Orleans councilman Jared Brossett arrested again on drunk driving count, records show - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnJpN2M0dnR4WnBPazhlQ2NPbzNJZnNpZ1BnTzVYeG4wbFF0OUlxSnQxQlMySGtkYms3aDE2SzBMSUVseDhhQ3duZEEwRFJkVVhVSGhldVB6WDhVUmZzdElfemc4U1JpNEhPYmplTkFIZkYySWE1aG1IdjdPWDg1ckNJVnJjbUlySmdlRW50T3FZWDAyRWk3UXBBd2tKOVZNRG1Fa3psQ1RxMVd5Q3ZEN3FYcFEydVFVUVNB0gHAAUFVX3lxTE5tdUZNZWRsbUN4UmZpNGdEVHpjdDVBWldGVTFIQkltMHNKNWowcXVLdFJXMDRQTVZhWTNUM1VBN2hHVUlIUGhISmdtbVBXaTNrT1BTdEI5WDVfTGtoSkxxa1N4TUJ2ZFpzQmtjcEh5ekpHU0pGRTVjMC0zcFp2SC1wREF0V2NqRThvUDRmVkgxS24xSzBVV1BwMWZrMHNfUVlrM3VZckh3Uk0wZFhVc0xPUWNwaDFkUmNHX3Nsa1pReA?oc=5",
-          "source": "NOLA.com",
-          "summary": "Former New Orleans councilman Jared Brossett arrested again on drunk driving count, records show NOLA.com",
-          "published": "May 26, 2026 6:21 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -139,6 +119,26 @@
           "source": "fox8live.com",
           "summary": "Former New Orleans councilman Jared Brossett faces another DWI allegation, records show fox8live.com",
           "published": "May 25, 2026 7:09 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans City Council to discuss legal battle over Clerk of Court - WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdFVKWHBXZ3dNNml6Sjh1SXg2N0tDUWVSNzk0VS1pUUtOT0NXbUVsZFh0QzRFUE56ekgzLWhGOTZZV1NuT2hEcmptbkROMXBrM25EbWhVdFFUN1QwVmptMHpBNkFIemowZktTQ1NrMExzNDdsMFFBZXQ1MHlYdXRwOWJIeUZwSExBQ3BGRmdfVlFzRFFUNEJxcWRlMnZJM1oxckY0Z1h6cmRaZnB3YndWT1NOMHB1UGFuV3JMa0RxVFVhclQyUTc2eTkybWFCOUpfRi1NTkVQM0J4RXduNkFZd1hGSno2aVBYRW1KZGMxQ1dCZDQ?oc=5",
+          "source": "WWLTV.com",
+          "summary": "New Orleans City Council to discuss legal battle over Clerk of Court WWLTV.com",
+          "published": "May 19, 2026 6:09 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "The City of New Orleans Applauds Court Ruling in Wisner Lawsuit and Secures Millions in Recurring Re - New Orleans City Council (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTdILWEtUHY3OWdPREtuQkczN0NsQ3pLcnVkMS1SMXNYcU93YlpwRzd1Y1RtUGhNcXd0WWFzSDB5VFZUUTRXN211ejFkcExQRFhldXJlUmV5V01lWlFzMGJjNW4wU3VOVFJvMjA5aGJLa2ZGUl9adk45czdFMGJSbWZ2WWVoLWplSGNUYXhNNXJSQzI0?oc=5",
+          "source": "New Orleans City Council (.gov)",
+          "summary": "The City of New Orleans Applauds Court Ruling in Wisner Lawsuit and Secures Millions in Recurring Re New Orleans City Council (.gov)",
+          "published": "May 19, 2026 3:33 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -182,16 +182,6 @@
           "calendar_url": ""
         },
         {
-          "title": "The World\u2019s 50 Best Restaurants Announces Its 2026 North America List - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamJoVWFmb0ZTNGw4OFVLcDRCQ2N3R3FQVUFPeklWcm4zcW42cXBwczl1andqV0FNNXpaX3h5dTBHU3AwdHgzcWJoaktfMDRsc3oyd2djSk1Cd1djUnRYSTJRcEg5a21xNDJKOGhBQmdsQzJlWXlyRDNZSFJlTEFzbzBmRlVxUEtCWl82YnowYUZKRTVua2NyWXU2T1dpUGlTN0E?oc=5",
-          "source": "The New York Times",
-          "summary": "The World\u2019s 50 Best Restaurants Announces Its 2026 North America List The New York Times",
-          "published": "May 29, 2026 3:13 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Dakar NOLA, Emeril\u2019s & Acamaya Win Big at North America\u2019s 50 Best Restaurants 2026 - New Orleans Magazine",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXdLakItUk8tUTEwVmV6UENDZnpjbmJhbFFMZE1tSmo1QTBjbmx4VGM3bXZvY3RfRDR5ZFkzU2YyX0xraWdwbHVyTjlKYzlRYkpLM0tKd3RZV0FQRUhRZWhqZEN1VFV0cEtuSGtIZVZsODRZVnNadHNqZXZXYkNiOExTRVpPTTR4QXlMOHh1Vlhyc0M5M0RPZlp1aEExakNDWU5fcm1Sd1V3Q00?oc=5",
           "source": "New Orleans Magazine",
@@ -202,11 +192,21 @@
           "calendar_url": ""
         },
         {
-          "title": "Nunez Culinary Offers Summer Brunch Series with 3 Saturday Class Options - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemhieGM2RFpybVA5alBPckpSSmpZSGloMGF1WXpYek1rMmFBMVZwLTBQU1cyTFVHLUE1WFpJcjFXN3Q2RWlyLTV4MGFaWEVOa1B5N21RZ19GbkJYUm1yTDBKRm43UnZpUXRYUjkwbFlzb2JxWDFyMHREYVF2cVBSOVp2eGQzTXo1bzQtM0pYcDQ5bnNYRFFsZG5rcVJwSmxXZ3pzbw?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "Nunez Culinary Offers Summer Brunch Series with 3 Saturday Class Options New Orleans Magazine",
-          "published": "May 29, 2026 1:35 PM",
+          "title": "Smyth Tops North America\u2019s 50 Best Restaurants 2026 List - Fine Dining Lovers",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWlBNDNibWZpdW1nUTVvYlp5N0RjYjVITUk0UXdoUWRwWG80dGxwUkNaaHZjeDdMV0c4S3V4UFQ5OU5rWlZNc3hrbjRoV080Vy01SzNyckI1OHByUkduYmluVGFSdjNiS09feVpPQmZSdXdWMW5lWlV2cVZjTFhNT2N5bS1XbVExUEJyczJJSmhDdDA?oc=5",
+          "source": "Fine Dining Lovers",
+          "summary": "Smyth Tops North America\u2019s 50 Best Restaurants 2026 List Fine Dining Lovers",
+          "published": "May 29, 2026 5:56 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "The 50 Best Restaurants in North America Are Announced - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamJoVWFmb0ZTNGw4OFVLcDRCQ2N3R3FQVUFPeklWcm4zcW42cXBwczl1andqV0FNNXpaX3h5dTBHU3AwdHgzcWJoaktfMDRsc3oyd2djSk1Cd1djUnRYSTJRcEg5a21xNDJKOGhBQmdsQzJlWXlyRDNZSFJlTEFzbzBmRlVxUEtCWl82YnowYUZKRTVua2NyWXU2T1dpUGlTN0E?oc=5",
+          "source": "The New York Times",
+          "summary": "The 50 Best Restaurants in North America Are Announced The New York Times",
+          "published": "May 29, 2026 4:07 AM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -260,21 +260,21 @@
           "calendar_url": ""
         },
         {
-          "title": "Letters: Jazz Fest organizers need to explain some of their choices - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkVVanZlemdRa0RIS3BoeWM0NDhIUklkMXRkblNQVEdmaklFMmdwSks5Z0tRWEhLMEpwRFhfblZrOEJiOVlmYnZvd015bUVRNFg3S0tuajJrSFBmMjljV3Q2cV9MTGtlT1M1bk14ZUZWLTNJX3NFSmlDaDNBSW9nV2VfamVpYnJ4eUdyTlNha1l1dTRLWWl0ZmU0ZGlYRzJ1RlozX1hWWUE4cU9vYnBtOC0zVjRWOTV3U2VwNHZwRWXSAcYBQVVfeXFMUE1UcjFVaXc5dzZfRW9nSHk0SWN2UmhRc2U5dnRVTy1xOU9FMWVqRG1oX2IxQXZEaVktUUYxeFd5d1ROWnNISlgzZDhWX0tualJGUGRlVGVCVkpKRG9QcC1CZWJFTVQzaG01T0lfNXdNV1NsdU12NkFfU1ZiOXFLR25sZ1poYlZ4QlJ4WmQ4eXdXeU1aZzlkWUw4RUJTYzBldi1pMW5xQmxXZ05GQkg0VGJINHBLUU41ZUNjMjZva1RRZDQyeFZB?oc=5",
-          "source": "NOLA.com",
-          "summary": "Letters: Jazz Fest organizers need to explain some of their choices NOLA.com",
-          "published": "May 27, 2026 5:30 AM",
+          "title": "Weekend Picks - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5",
+          "source": "New Orleans Tourism",
+          "summary": "Weekend Picks New Orleans Tourism",
+          "published": "May 26, 2026 7:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Crawfish Fest will feature Ocean Avenue Stompers, Jersey Shore band with a New Orleans sound - NJArts.net",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSHBXLU50Y1BnMlQxUUlZZlA3dDBxRnM3S29mWFc3TS14aDZuS0NoVTJ0LW10RzZkNUl2YnVOZmluWDBEQ0UyVXZaalBlUU1neFkzbjZFLXA1YTJZbzNjUFJsMFNGMWZLTmJwVnI0c0JpSzNTZmNPWEF4UXVzS3psQmpCSElVNlZTQnNCUTJVblUzd1d2cWVaSHhfVE5kNTVYLXhzRlpxMkU4azV6dWQ0OGFuUnduZw?oc=5",
-          "source": "NJArts.net",
-          "summary": "Crawfish Fest will feature Ocean Avenue Stompers, Jersey Shore band with a New Orleans sound NJArts.net",
-          "published": "May 26, 2026 1:31 PM",
+          "title": "New Orleans events: Cajun-Zydeco Fest, Jean Lafitte Seafood Fest and more May 25-31 - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNE9xWlNrSzBLY3FHUVRKQXdaSm5Yc2RDU09YLWUybUNyekFkT0hSVjM0bjQxeFlpQXVQSkJPSHM4VV8xaWtTVmh1UURyYmRJeW1lUHIzTlplRi1zeS1SZkRLUUs1SzRVeHNjb0hYM3hRbmZqMHctcDRYbkM2YUlKamVoV3JqMU8xRmFYRjE1Y1dPTUFMdUNKeUJkdkRQQmVmMDRiekYyQjlEa2RpTE9ieS1KMmZpN1hhUlBkVFJsN2FfdlhYdDg5LUtESTRqYUlvYkFCZWVRcHZSU3FWaW53TFI0bzcxQjcyb2dKdEZ0VzllVWtlZTV1d3NB?oc=5",
+          "source": "NOLA.com",
+          "summary": "New Orleans events: Cajun-Zydeco Fest, Jean Lafitte Seafood Fest and more May 25-31 NOLA.com",
+          "published": "May 24, 2026 9:00 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -288,11 +288,31 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "For locals, visitors and servicemembers, Sail 250 New Orleans is a special celebration - fox8live.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0JEeGtUdGRCelR2dW1kb1Q3M2g5dW1mQUM5SHlqLVQ4UnlJU2MyelVtMWxiTEh1dWxKeXEzY2FBMmk0anpEM0pjUGFmWDJ6eW9Vc0JuVHN5RE5KTmYxVDdPM3JxYklIaEl4alNxUGRqNFQ0MFN1RzJSY2VtMXExS2lQUlE1enI5em9mS2ZjSnotQXJyOUdnR3V0N25wM01WT2xJa28za3hZdm1oYlFEZ9IBxAFBVV95cUxNczlkeU5PYnFXTEZGbkVFX0ZmV0EtNnN6alhnd0libUxTZkFQSm4tSGFvZjhJWGVLSmg4dWNISnpQY0xDYnRBTG41UWs5R0VzWlROaGJmbFkyVmQzcU5WUU9LRVg3cUxjVllzbnZZbHJ5TjdOWGdhckgyVHF1VFlBck52b2FQZmRfNlZ3Nm1EbDBLN0tFTFVMdGpmMFZxcEpwNEV5ZG5VNjRLbTdzdi1IS29xd2paa0N1M0V3RnZJMHVhUFVZ?oc=5",
+          "source": "fox8live.com",
+          "summary": "For locals, visitors and servicemembers, Sail 250 New Orleans is a special celebration fox8live.com",
+          "published": "May 29, 2026 10:51 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "As He Eyes His 30th Jazz Fest, \"Acousti-Optic\" Painter Frenchy Recalls How New Orleans Shaped Him - Live For Live Music",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQellZRUFZSWJVQ3p5ZXFxdEhHUnVXZUpvX2Y2NUFCX2ZfSlRJaDl5TFVvQjhLWC1vRU93dE1wVG1VbS13dlJxZGF5R2N0elhkcm5qbnlXelJWQ3hadk1IbzRMU1JNanRZSXVfeXV2MHg2M09HNFZZXzRuUFhoTXVqUjdJcUpnd2NJVXBySUs4MFhadVgwcDJtdFl3?oc=5",
           "source": "Live For Live Music",
           "summary": "As He Eyes His 30th Jazz Fest, \"Acousti-Optic\" Painter Frenchy Recalls How New Orleans Shaped Him Live For Live Music",
           "published": "May 29, 2026 5:40 AM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "WHAT TO DO | Line Dancing in the Park; New Orleans Jazz Party; The Pop-Out - JaxToday",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmRFOTY0ZzgtT0V1bzFDb1dFZ2pSQ0tnYXNlMm1UVkdsVGtVMmpSMzNua0g0MHVwdVpib1ozZkd4bWZvRFBpUnRXNTI1WHNZanI4T2V6LS1hM3pyZjFFZmM2UkdsVHc5NFp5cHFkN201dWROOUVydW9vbzNhVHZNVU90WjJqdHMt?oc=5",
+          "source": "JaxToday",
+          "summary": "WHAT TO DO | Line Dancing in the Park; New Orleans Jazz Party; The Pop-Out JaxToday",
+          "published": "May 28, 2026 12:02 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -308,26 +328,6 @@
           "calendar_url": ""
         },
         {
-          "title": "Crawfish Fest will feature Ocean Avenue Stompers, Jersey Shore band with a New Orleans sound - NJArts.net",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSHBXLU50Y1BnMlQxUUlZZlA3dDBxRnM3S29mWFc3TS14aDZuS0NoVTJ0LW10RzZkNUl2YnVOZmluWDBEQ0UyVXZaalBlUU1neFkzbjZFLXA1YTJZbzNjUFJsMFNGMWZLTmJwVnI0c0JpSzNTZmNPWEF4UXVzS3psQmpCSElVNlZTQnNCUTJVblUzd1d2cWVaSHhfVE5kNTVYLXhzRlpxMkU4azV6dWQ0OGFuUnduZw?oc=5",
-          "source": "NJArts.net",
-          "summary": "Crawfish Fest will feature Ocean Avenue Stompers, Jersey Shore band with a New Orleans sound NJArts.net",
-          "published": "May 26, 2026 1:31 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Weekend Picks - New Orleans Tourism",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5",
-          "source": "New Orleans Tourism",
-          "summary": "Weekend Picks New Orleans Tourism",
-          "published": "May 26, 2026 7:00 AM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "26 Things to Do in 2026 - New Orleans Tourism",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONFBaWDdLWUVUUW1tc0puSnczeTdpV0lOOUFfVDdMZG9rb2ctQ3k2X3cySjlkdEIzY2ZpeWNBVjNGbDVkelZaZnRWS3VGdWQtZUZhbmxKQ1U4SERmaUtDNTA1dFlBSGFGeGpqN1cya3g2bVUzaVRjamdNb2twV1ZzTXFB?oc=5",
           "source": "New Orleans Tourism",
@@ -338,11 +338,11 @@
           "calendar_url": ""
         },
         {
-          "title": "Where to See Live Music Every Night of the Week - New Orleans Tourism",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEd6c2YxZ0I4VUZVVHJtdnhzWDlMWUlkUW1PdERCZ29XTDE0T1VPdDdTNm5vN21yWTlVVWVZblloT2pIY1dzbTAyUGhuSWFSdG1yMkg2b24yWGtsbVpUXzVKOVgyclBINmxoV1NJYkt6Wm1sMU8yWFJHZ1AwcWZoRE9nMVF6aU80RDhIdGx3?oc=5",
+          "title": "Hotels with Live Music Venues - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPQ3FFX1A2Yy01czBYX0dPeW1MZ2Fhd2JINEhkNDhNWDMtck52d0kwNHF3bEhKM3NxZ0pWQUYtVGR3OFRVNmZhTEpQRmFaTldiektEcTRSUmpKZXBDZmRmNVJzb3lUNTFWNDZYUFk3UlBXLUtsSFE?oc=5",
           "source": "New Orleans Tourism",
-          "summary": "Where to See Live Music Every Night of the Week New Orleans Tourism",
-          "published": "May 18, 2026 7:00 AM",
+          "summary": "Hotels with Live Music Venues New Orleans Tourism",
+          "published": "May 12, 2026 7:00 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -356,124 +356,124 @@
       "empty_message": "The event calendar could not be refreshed during this run.",
       "items": [
         {
-          "title": "John Lisi & Delta Funk",
-          "url": "https://www.wwoz.org/events/1340751",
+          "title": "Wolfe Johns Blues Band",
+          "url": "https://www.wwoz.org/events/1340806",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 3:00pm",
+          "published": "Sunday, May 31 at 3:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Lisi+%26+Delta+Funk&dates=20260530T150000%2F20260530T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340751&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wolfe+Johns+Blues+Band&dates=20260531T150000%2F20260531T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340806&location=21st+Amendment"
         },
         {
-          "title": "Marty Peters & The Party Meters",
-          "url": "https://www.wwoz.org/events/1340911",
+          "title": "Big Mike & The R&B Kings",
+          "url": "https://www.wwoz.org/events/1340821",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 8:00pm",
+          "published": "Sunday, May 31 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Marty+Peters+%26+The+Party+Meters&dates=20260530T200000%2F20260530T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340911&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+Mike+%26+The+R%26B+Kings&dates=20260531T200000%2F20260531T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340821&location=21st+Amendment"
         },
         {
-          "title": "Justin Donovan",
-          "url": "https://www.wwoz.org/events/1345186",
+          "title": "Jeff Chaz Blues Band",
+          "url": "https://www.wwoz.org/events/1345211",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 2:00pm",
+          "published": "Sunday, May 31 at 3:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Justin+Donovan&dates=20260530T140000%2F20260530T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345186&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jeff+Chaz+Blues+Band&dates=20260531T150000%2F20260531T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345211&location=30%2F90"
         },
         {
-          "title": "The Sleazeball Orchestra",
-          "url": "https://www.wwoz.org/events/1345191",
+          "title": "Mother Ruckus",
+          "url": "https://www.wwoz.org/events/1345206",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 5:00pm",
+          "published": "Sunday, May 31 at 6:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Sleazeball+Orchestra&dates=20260530T170000%2F20260530T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345191&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mother+Ruckus&dates=20260531T180000%2F20260531T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345206&location=30%2F90"
         },
         {
-          "title": "Lyndsey Smith",
-          "url": "https://www.wwoz.org/events/1345196",
+          "title": "SingleMaltPlease",
+          "url": "https://www.wwoz.org/events/1345201",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 11:00pm",
+          "published": "Sunday, May 31 at 9:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lyndsey+Smith&dates=20260530T230000%2F20260531T010000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345196&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SingleMaltPlease&dates=20260531T210000%2F20260531T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345201&location=30%2F90"
         },
         {
-          "title": "DJ London",
-          "url": "https://www.wwoz.org/events/1345296",
+          "title": "Sunday Swing with The Silver Lining Serenaders",
+          "url": "https://www.wwoz.org/events/1323171",
           "source": "WWOZ Livewire",
-          "summary": "30/90 - Upstairs. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 10:00pm",
+          "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, May 31 at 9:00pm",
           "eyebrow": "Event",
-          "location": "30/90 - Upstairs",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DJ+London&dates=20260530T220000%2F20260531T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1345296&location=30%2F90+-+Upstairs"
+          "location": "AllWays Lounge",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Swing+with+The+Silver+Lining+Serenaders&dates=20260531T210000%2F20260531T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1323171&location=AllWays+Lounge"
         },
         {
-          "title": "Smoky Greenwell Blues Band",
-          "url": "https://www.wwoz.org/events/1338756",
+          "title": "Les Femmes Farouches & T Marie",
+          "url": "https://www.wwoz.org/events/1347531",
           "source": "WWOZ Livewire",
           "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 10:30pm",
+          "published": "Sunday, May 31 at 6:00pm",
           "eyebrow": "Event",
           "location": "Apple Barrel",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Smoky+Greenwell+Blues+Band&dates=20260530T223000%2F20260531T003000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1338756&location=Apple+Barrel"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Femmes+Farouches+%26+T+Marie&dates=20260531T180000%2F20260531T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1347531&location=Apple+Barrel"
         },
         {
-          "title": "Miles Berry",
-          "url": "https://www.wwoz.org/events/1340546",
+          "title": "Nahum Zdybel",
+          "url": "https://www.wwoz.org/events/1340636",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 1:00pm",
+          "published": "Sunday, May 31 at 1:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Miles+Berry&dates=20260530T130000%2F20260530T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340546&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nahum+Zdybel&dates=20260531T130000%2F20260531T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340636&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Raphael Bas",
-          "url": "https://www.wwoz.org/events/1340486",
+          "title": "Noah Young",
+          "url": "https://www.wwoz.org/events/1340566",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 7:00pm",
+          "published": "Sunday, May 31 at 7:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Raphael+Bas&dates=20260530T190000%2F20260530T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340486&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Noah+Young&dates=20260531T190000%2F20260531T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340566&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Aaron Levinson & Friends",
-          "url": "https://www.wwoz.org/events/1341271",
+          "title": "Them Jaywalkers",
+          "url": "https://www.wwoz.org/events/1340931",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 11:00am",
+          "published": "Sunday, May 31 at 11:00am",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aaron+Levinson+%26+Friends&dates=20260530T110000%2F20260530T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1341271&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Them+Jaywalkers&dates=20260531T110000%2F20260531T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340931&location=Bamboula%27s"
         },
         {
-          "title": "James McClaskey & The Rhythm Band",
-          "url": "https://www.wwoz.org/events/1341291",
+          "title": "Laura Doyle",
+          "url": "https://www.wwoz.org/events/1340936",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 2:15pm",
+          "published": "Sunday, May 31 at 2:15pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=James+McClaskey+%26+The+Rhythm+Band&dates=20260530T141500%2F20260530T161500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1341291&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laura+Doyle&dates=20260531T141500%2F20260531T161500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340936&location=Bamboula%27s"
         },
         {
-          "title": "Johnny Mastro Blues",
-          "url": "https://www.wwoz.org/events/1325781",
+          "title": "Midnight Brawlers",
+          "url": "https://www.wwoz.org/events/1340956",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, May 30 at 6:30pm",
+          "published": "Sunday, May 31 at 5:30pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Johnny+Mastro+Blues&dates=20260530T183000%2F20260530T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1325781&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Midnight+Brawlers&dates=20260531T173000%2F20260531T193000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1340956&location=Bamboula%27s"
         }
       ]
     }
