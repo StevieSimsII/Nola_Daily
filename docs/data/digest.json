@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-06-27T05:42:36.133210-05:00",
-  "generated_label": "Jun 27, 2026 at 5:42 AM CT",
+  "generated_at": "2026-06-28T05:47:30.200661-05:00",
+  "generated_label": "Jun 28, 2026 at 5:47 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
     "temperature": 79,
     "temperature_unit": "F",
     "short_forecast": "Mostly Clear",
-    "detailed_forecast": "Mostly clear. Low around 79, with temperatures rising to around 81 overnight. South wind around 5 mph.",
+    "detailed_forecast": "Mostly clear, with a low around 79. Southwest wind around 5 mph.",
     "wind_speed": "5 mph",
-    "wind_direction": "S"
+    "wind_direction": "SW"
   },
   "seven_day_forecast": [
     {
-      "name": "Saturday",
-      "temperature": 93,
+      "name": "Sunday",
+      "temperature": 94,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 93. Heat index values as high as 106. South wind 5 to 10 mph.",
-      "wind_speed": "5 to 10 mph",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 94. Heat index values as high as 106. South wind 0 to 5 mph. New rainfall amounts less than a tenth of an inch possible.",
+      "wind_speed": "0 to 5 mph",
       "wind_direction": "S"
     },
     {
-      "name": "Sunday",
-      "temperature": 93,
+      "name": "Monday",
+      "temperature": 94,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 93. Heat index values as high as 106. Southwest wind 0 to 5 mph.",
+      "detailed_forecast": "Sunny, with a high near 94. Heat index values as high as 106. East wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
-      "wind_direction": "SW"
+      "wind_direction": "E"
     },
     {
-      "name": "Monday",
-      "temperature": 93,
+      "name": "Tuesday",
+      "temperature": 94,
       "temperature_unit": "F",
-      "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 93. Northeast wind 0 to 5 mph.",
+      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Sunny, with a high near 94. North wind 0 to 5 mph. Chance of precipitation is 20%.",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "N"
+    },
+    {
+      "name": "Wednesday",
+      "temperature": 92,
+      "temperature_unit": "F",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms. Mostly sunny, with a high near 92. Northeast wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "NE"
     },
     {
-      "name": "Tuesday",
+      "name": "Thursday",
+      "temperature": 92,
+      "temperature_unit": "F",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Sunny, with a high near 92. Northeast wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "NE"
+    },
+    {
+      "name": "Friday",
+      "temperature": 93,
+      "temperature_unit": "F",
+      "short_forecast": "Sunny then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Sunny, with a high near 93. Northeast wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "NE"
+    },
+    {
+      "name": "Independence Day",
       "temperature": 93,
       "temperature_unit": "F",
       "short_forecast": "Sunny then Chance Showers And Thunderstorms",
       "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Sunny, with a high near 93. North wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "N"
-    },
-    {
-      "name": "Wednesday",
-      "temperature": 91,
-      "temperature_unit": "F",
-      "short_forecast": "Showers And Thunderstorms Likely",
-      "detailed_forecast": "Showers and thunderstorms likely. Mostly sunny, with a high near 91. Northeast wind 0 to 5 mph.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "NE"
-    },
-    {
-      "name": "Thursday",
-      "temperature": 91,
-      "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms. Mostly sunny, with a high near 91. East wind 0 to 5 mph.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "E"
-    },
-    {
-      "name": "Friday",
-      "temperature": 92,
-      "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 92. Northwest wind 0 to 5 mph.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "NW"
     }
   ],
   "sections": [
@@ -83,6 +83,26 @@
       "description": "New Orleans city government, neighborhoods, public life, and major local developments.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
+        {
+          "title": "City Council Advances Zoning for 1,000-Room Omni Headquarters Hotel - Canal Street Beat",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVEN5UkdZbnM5Skc1ZHJpX3FrRFB5YkcyenkyamFEVjlqbDlTQUd4aFdrX2k3MUJnRjhkSnhYaWg5UlUweVM2TXhjUnlzbWQxRXNobXcxRHRLcWlnQlVwZjExTGcwcWEtWkhtOXkwSW0xcUFOZm01djFCS0FwQjlNelZ1TWtpdGMyR0ZoSU9JeS1XLUNYTUtWNm9oZw?oc=5",
+          "source": "Canal Street Beat",
+          "summary": "City Council Advances Zoning for 1,000-Room Omni Headquarters Hotel Canal Street Beat",
+          "published": "Jun 28, 2026 9:31 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans City Council approves fortified roof grants - WGNO",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenR3SUhfaDNlTmNLckJzTnpFTl80R1pBUjFDMU1xaUpsNnNsYjlxM0NINGk0VjdMSHRWd0xiVGhEWGx3LS1uUHkxdC0yR3Q1SzUtcVRyTzQ5QUtVSElRRXNwUFdTaTFGWFQzYzU4aFhCVkMtOU93bkllSk1TX0xEVS1wTjh1X0RiMjBmTlo1aEgtQQ?oc=5",
+          "source": "WGNO",
+          "summary": "New Orleans City Council approves fortified roof grants WGNO",
+          "published": "Jun 26, 2026 10:51 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
         {
           "title": "Week-in-Review June 22-26: Groundbreakings, Business Expansions and More - Biz New Orleans",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2h6SDh4MG1HWkFnajlRcE9fVlZpS2d6YUtlUkFJZEJ6cUJOOU5PNGRRSGxoUXRFaHFuZ2FXNlI0QkxmNEszSWVrQk9VV29RQmNvd1oxVTVvRVhTdUhFSDdRbHE3UmFFVnVKdWtIVkRyX2otb3ItdVZqZ3NoUkp5V2t4QnhfMnh2dHQ3SFMzNWVLYXkyNkNLMjg1Z0JmZw?oc=5",
@@ -104,41 +124,21 @@
           "calendar_url": ""
         },
         {
-          "title": "Loyola University graduate turns campus safety idea into New Orleans shuttle startup - New Orleans CityBusiness",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQnNrem1ORm5KQzh1NHpHR3N2VVdJOF9wY2JMdW1MVUgzalFQb1k3U090aEVaVDBZZjBlT0R3NGxYWG9aVHJDUjlCRHByazBRMXVRTlJLY1QyeUg2UUdlV2YwQUQwZC01NkFkTmJ0Q3hLVHpUb3BvUVNubEt2SUx0QVgxLTZiNXlfcmVyTGZZS3JtWlU?oc=5",
-          "source": "New Orleans CityBusiness",
-          "summary": "Loyola University graduate turns campus safety idea into New Orleans shuttle startup New Orleans CityBusiness",
-          "published": "Jun 26, 2026 3:55 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Black educators fighting for equal pay in 1930s New Orleans sparked birth of influential teachers' union - Verite News",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjeFFSaDhaSDVjVmdUZHZUSmdWb3Y3VWt1cnk0bVQyakJKNG8tX2hDeHdUQ0w1QmFQR2ZPanBWTVd5TGFpaENqbEx3amZXaVRPT2JBblAya2NtRi1oNWJyLXoyQjcySUZiUExoTE5XTFFmUTFiRXc?oc=5",
-          "source": "Verite News",
-          "summary": "Black educators fighting for equal pay in 1930s New Orleans sparked birth of influential teachers' union Verite News",
-          "published": "Jun 26, 2026 11:00 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Queer History Exhibit highlights immense record of LGBTQIA+ life in New Orleans - Verite News",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QMHJkWWs4RndqalFCY3U2NnotNEZHVzkxeFNrWlJWOGRKSzBnMUJkU3RFZnVWNDNhS0dtN2xnRHl6ZnR4el9CWWQwS0wtWW9IZkl6LWNGUm5uWTNwX3BGOXhIaWZ3MXA5WmcwX2MwR0d4QkMzM2Nr?oc=5",
-          "source": "Verite News",
-          "summary": "Queer History Exhibit highlights immense record of LGBTQIA+ life in New Orleans Verite News",
-          "published": "Jun 26, 2026 10:00 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Planned convention center Omni hotel a lightning rod of controversy - WWLTV.com",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTFqUG5YajN3ZS1KS1V3Wm9YQlRPWjJ2N2NWUWt4T29uZjRfVHpodGVYWHoyeTFSdDIxclU4NllWYnBZWkVaaG10QldkZEpkcGsxeVBaUnJDZHl6MEt3cFhqRWF5aERYSHlLLVptOUNuU25HX3ZicU51OWpEZDgwcEYtUzcxZGRLdVkyZFFfemhqdFlhNC1LNEFzQ1ZnYS03SThnNTlXYUYtekVkeE5BSXVGSHNkckRqMXo2XzhqRUdCd3pBc1o1MXE0emlveGkxTS11NmxXTVdyN3B6?oc=5",
           "source": "WWLTV.com",
           "summary": "Planned convention center Omni hotel a lightning rod of controversy WWLTV.com",
           "published": "Jun 26, 2026 3:29 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Landry vetoes $36M in funding for New Orleans in state budget - New Orleans CityBusiness",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQV9kN0NRTkZoRFdaVW1sNVBFYnJzQ3NlM0pWS1VqSWdGakhYYy1RdWtDeExyRTFWMlkwRkdXNkFNUE42b25jRERTMWFnRVFmTFM2NDg5MzN1SnNRNGxxaGZGQ1pKdzQ1MmVtUlNtM1lrbDVwdkdNZTdFNU1abVNQZnpiS3ZCMWJXY2dhdmpmczdBUU1YQS0zbA?oc=5",
+          "source": "New Orleans CityBusiness",
+          "summary": "Landry vetoes $36M in funding for New Orleans in state budget New Orleans CityBusiness",
+          "published": "Jun 26, 2026 1:40 AM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -152,11 +152,11 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Marion Allen Obituary (2026) - New Orleans, LA - The Boyd Family Funeral Home - Legacy obituary",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0o1TGxvMEd2SWpodkRicG94cXV5aDhFOWkwSDgwN3FsX081ZG56Y1JQMlRlMk1qemwxNlF4Nld2cVpyNDVKOU1RSWZVMGZHQjlLRnhrMjRPaV9IT21jbllIU1RROVlRSm9CM0VRX3dtSllLV0dOOXFJVl9FcENTcA?oc=5",
-          "source": "Legacy obituary",
-          "summary": "Marion Allen Obituary (2026) - New Orleans, LA - The Boyd Family Funeral Home Legacy obituary",
-          "published": "Jun 26, 2026 10:13 PM",
+          "title": "Orleans Parish election results from the June 27 Louisiana Party Primary - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNVNFcGNHZFEwZmxWUHA3cXFqSkZGbGFyRUt3T0ZtYm1vT0F2b2VkWGt6VThKdkYyeWNaTWh5VnRKWFlwV1gxbWJhNFVqTXd6cjVKLWRMc3UxMmU4MlpnTzBWanNZa3lHLXJFSExqT2g4ZS0wR1JOTGVqaDVnLWFielMtbUR3dldlMkNWaWU1U0xQdw?oc=5",
+          "source": "WDSU",
+          "summary": "Orleans Parish election results from the June 27 Louisiana Party Primary WDSU",
+          "published": "Jun 27, 2026 10:57 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -172,16 +172,6 @@
           "calendar_url": ""
         },
         {
-          "title": "Gris-Gris Launches Original 2018 Menu with Throwback Prices - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlJHRmJnRHpCMm5Pd2J3U1o5Q0g1OU85ZktwVDcxSGdlZGI4T2FNWlp0dUpMZVhIREFWQTdrV3FXNTZ5SFJoTDBCQjUxa29NUEdxY3MtSDEwdU83aUZqazdIU3RWWWlqbnJqMWNPRGk1Ync2bGlyWEhra0JnVGtlQXN3VzFPUHhUUGpXRXptaXlEVGM?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "Gris-Gris Launches Original 2018 Menu with Throwback Prices New Orleans Magazine",
-          "published": "Jun 26, 2026 2:02 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Broussard's, historic French Quarter restaurant since 1920, now has new owners - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNndod0xzN053S01ld0ZiV2loU1dBeXM4QmJsT2JxYXB6ekwweDdyX0RPbEszNDlWaWNRaG1neUVnVDVldXJRWHJpa19TOXY5aVBnSEMzNWFlakQ5azJEcGFXNVFCZkhmUm5JMEZWV1Y0Wk04akxhdjl2ekttU3JuNVRmTkI5QTNXcFJ2X3diRmlvZmZNS1AwYmlWVmxndEpyUmZvcWFZVU52TGFvemV2ZmU2RHBhd2hoZDhZN1k4UW8xeHdmRXhiOUJhZV9qSUNENjBCcDlKNXhWWm5FLVpqclFmcTR2UlJBX3h3YlJ0NkFIVWprQWZPdTR3WVlnQlpDV3FYd0VB0gGLAkFVX3lxTE1xVTBiaXZVaG1GTlFCZkVDYzE2MnJub2g4U2dPWGQ5emIyOHpDR1VrTDYtNklYTFdKUUVMcjhJMDlQSVc3ZlhteE91WDlqNF93MUhwWmNnRTVpUEhFSk1wTWpfTl92YkQ4amItSmNOOE1sbGtYbUg4S2RhVThhMFQ0ZExfd09pb1pGaDR5NGtNWUE0aHJGMU1XbWZ5UnBUOVRDUHMtWkZwNzMtZVdBZVl3c2hsa0lwNmJsQzNZZFlMT0VsY1dQLXo4YWVxbFo3cTRZMHpDaVlEcWdvak9XZkNRblFIYzRRSDJGSGdSWnAwaklaMVU0WHRkQ09wYmxOSEZ3dEp6RVpJUFV6dw?oc=5",
           "source": "NOLA.com",
@@ -192,21 +182,31 @@
           "calendar_url": ""
         },
         {
-          "title": "Jamaican restaurant 14 Parishes closes Uptown location but has more in store for the future - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWNHcHAxV2RqOEN1U2l0ckJrZURNWGFjcEdXc1NVQS1OcTBDQVNGTWxRbzdtaVJSdHloV2ZodHhDU016TzUxRElqdnRySWxQLVdrT3lHZnJDd1o4eF82VDU5SVlLbXptMUJKSDc4anV0X19XLW9rc0xNVjR2VFNvYmhwenZ3V2VFcDh6OUtSOE5CbWVXbGRaRl9tZzMxbmd5Q2Nkc3hLU2w4WTFXOUtmZ0dVRllpc1o2b3VaNDFRR2FBSEZiRFgw0gHMAUFVX3lxTE9JTkFFSUVER0JDX0ttN1BVVzNHY3VKQW5JS043TmF6M19DWDRPSFRPc0gwSUJDU0R2NDVVMmVjcTRRWXBVS2VFUTR0YkNhTEZIRTNOSUdjRTNMM0JpSlp3b0NnaFJjQ08yMFZwWlpvSFhWNFFsX2Y5ZldPQXhVY2lQd04zejRHNUNuVEtWcEZtbjBhQzBUcTlWVlVYZkMzOGFPTHFKYVY0QjVLN2NJcnFmNWtzY3J4ZWp0ZDJ5VHRxcjdIdThfdkFoTVpPNQ?oc=5",
-          "source": "NOLA.com",
-          "summary": "Jamaican restaurant 14 Parishes closes Uptown location but has more in store for the future NOLA.com",
-          "published": "Jun 25, 2026 3:44 PM",
+          "title": "2 injured in New Orleans metro from Tropical Storm Arthur - Axios",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXpnNVoyVDRBaU91endlQmNDTFFjNjBhbkd3RmdHVmV1YkZCNVBVNjhZSklybHdfbmoyczlQNnhvWlVHZnR0ZHRjcTVua0hlYm9jYkVoQWVzcHowaTJPdFZ5UEFmaGo0VXFUVnhmQVZIdFlNR21RNzk0dXdKZHBlMHhFNHd0bmR3MDNfaEwxRmJzcDJGanFHWXRjcmNLUExhZDFTSmVWTk42LWlF?oc=5",
+          "source": "Axios",
+          "summary": "2 injured in New Orleans metro from Tropical Storm Arthur Axios",
+          "published": "Jun 22, 2026 11:55 AM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Tales of the Cocktail Goes Beyond Industry with the Launch of Tales Passport - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWZEVURQRlZIN1YxZjZCbXUzNmtLb1lEU3BmQUstdlkyei12V2trT0dXaEF0cnRVNzJvVUJQZzc0cmV0aTB3T0RhNzI2YlhQSHlBQkJIcDZDclg2OHg2R2h6UDBSRXlNUlB5LUFybWc1VG1KamZMOUFJeGd4OWpMVzEzU0Q2OWRMVDNId0FLRllTeHpyUDhCeEU0YUZxcHg0WVB5WnB2NDdUdw?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "Tales of the Cocktail Goes Beyond Industry with the Launch of Tales Passport New Orleans Magazine",
-          "published": "Jun 25, 2026 2:30 PM",
+          "title": "Nobu New Orleans offers a behind-the-scenes look at the art of sushi - WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMW9RMVNSMjNNcUo1NTU5aE5LY2Z6R0tKS016V0dWai1JR2Z4cTVlLVc0WW1LOWxGdnlIVzVHLUpkUlBJN1l4RFk1eG1sTDlQN0pZY19QLVdMaFB3d1F2MEQ4RjFKcHE3cktRS2loQmtESDYwYzlReVpVbzV6enRTczQ2UVlwRFVJUmhIYUtpYnJYS0MxWFVBbXd0clNSVFNmdlRBQjc0bTFQLXFicWVHalZBQUp5VTBTeURCZVF2OHlQRmxsZ1hYOXNRR0t3WkZua1MtRDRuOVdNSGxaYk8wWmRjTQ?oc=5",
+          "source": "WWLTV.com",
+          "summary": "Nobu New Orleans offers a behind-the-scenes look at the art of sushi WWLTV.com",
+          "published": "Jun 21, 2026 3:45 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Two New Orleans restaurants among Food Network\u2019s top 10 brunches in America - WGNO",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXJILUo4bUtEeFc0NUIzWWg4X2ZNTTVoakttTmp4VTBQMlpMVWQ5TF8xSjhLS3VJcFV2czNGdkNMdjZDYzlkcGxJSUo3Y0t0bzhQN2h1eHRubXVPNE1icURMWE5MWWhqd19KN2VKUmVOSHdHMWc2V1lQeUc1bEp6NDhEdXQza2syeFNFRTh0YUw2dXYwTmpnN0hqQnlNTUNXTklhSmVvbHowdlZYRThoQVZZTTJwMEkzOVJadWhaVdIBxAFBVV95cUxNUDVpOUI1UnZZYzdFN1dIbWpySXJIT2pMNF9ubUhXZ00tdEk5TW1CQXFVMXVuZkYzM3QtX3UyWG1PLTlTR3FFYmZOb1lFTm85cXlKaElkcXlyb05PZ2FUbkRmMmpFcUFfQXFkRlFxbVpXV2xPQ2dXSTQ5d2xuWDBKcFhRT29rV3RKTWN6S0h0cHJJdm1LUzFFWHd3X3lJLWNBbElaWEVsOTB5eVhhOFVmak0zNlpXQkd5b09fb0ZCYmRKRUh6?oc=5",
+          "source": "WGNO",
+          "summary": "Two New Orleans restaurants among Food Network\u2019s top 10 brunches in America WGNO",
+          "published": "Jun 20, 2026 3:41 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -230,11 +230,21 @@
           "calendar_url": ""
         },
         {
-          "title": "New Orleans Joins Los Angeles, San Francisco, San Diego, Chicago, Brooklyn, Cincinnati, and Other US Cities in Celebrating Annual Cultural Events Other Than America\u2019s 250th Anniversary: Take Your Time Out For the Can\u2019t-Be-Missed Festivals! - Travel And Tour World",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CX1BFOHFjeGplamptRGs4SXZ3N2lWYkJwREJfYXl0QzFyTE5VdkZlaDc3V1ZGbWlwWmV3ZkEyYmkxdnFCal9SNDJXZUpKODg0T2NBVG5pWTRoOW5aR1hHMXdGODQ0R0IxUFlESUpn?oc=5",
-          "source": "Travel And Tour World",
-          "summary": "New Orleans Joins Los Angeles, San Francisco, San Diego, Chicago, Brooklyn, Cincinnati, and Other US Cities in Celebrating Annual Cultural Events Other Than America\u2019s 250th Anniversary: Take Your Time Out For the Can\u2019...",
-          "published": "Jun 24, 2026 9:25 PM",
+          "title": "Guest Column: New Orleans and Colombia hit the right notes, even beyond music - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSWowMk9SRWZzQ3VMV3dsV2hsYzdLc1FQM3N4bVo1R1lXeThHSnVkcl9zNUNYNEZTdFhHRmJKZWdwMmNiQm5Sd1cwQ3NBLTNHRGM4MExod2tRN3JmQUlwNEN3anh0QVV5RTBqb2V1YUJnX3V0cVBwcXM5b3I3M1dNSG80MnV6WjV3TnFpRHI2cERtSzEyRlhad01UMnZObU9YZ1hRXzcwQmt4dGNaUmxhd0lfSVY3Zkg5b0tkNlBhaHFJdkNvUkd0d2xmNlFmU3F0eW91aHNWOTlzcWFlTmlfeTgxdmdUM0I4dGpKVTZ2SWx5cGZOODlSTUEtV1Rhd9IBgwJBVV95cUxQbTRPRDB1QUxfMFZfcXRkUDhNLUlWU0RtQzVFNENJQ0UyVnNUWGR0NWV0MXRHSHlPdnJMaWRjUmVhLURkWTNCUjZYTzc2OE1KQ0RUMXlfWWFhZGcxN3JVYmRrWVBtc0lVMVRhVFZtUlFNMFJaNTB4akFFYVFJQXhNU1BteC1GWkZGZzB2Wjk5M1A2MUd0WmVzb3NUOHB3VVUxbHFYMmZDclFsRGNNekFVZDdaeDluZU8xUWtaS2U1T1dId2lfdEswMmtibi1vRVZObHR1NXkxTWR1c1hRVHJ6ZUZfcXlGU3c1MjVPQ2RSR1lJN0lNczI0eGxPYjJYVko4eENv?oc=5",
+          "source": "NOLA.com",
+          "summary": "Guest Column: New Orleans and Colombia hit the right notes, even beyond music NOLA.com",
+          "published": "Jun 26, 2026 9:45 AM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Live Music this July in New Orleans - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FdndPTzhDQi1xWHdSZ2tZcDFXVXFmRHJnTHluTWJ1R3ZUeTJhcHg5cU1ySnk1d1ZjN1QwUzgxeU5WZy0wOTA2Yk9JRFNrQ0NnMENSc19qanRnOVRDVWg3cUFSZ2g4YnkwY09GVWx6MGFQbEFoVUNzMVJHWW1ZZw?oc=5",
+          "source": "New Orleans Tourism",
+          "summary": "Live Music this July in New Orleans New Orleans Tourism",
+          "published": "Jun 23, 2026 7:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -250,21 +260,11 @@
           "calendar_url": ""
         },
         {
-          "title": "Soul Rebels bring New Orleans brass energy to Jazz Fest - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWpad0IzUDQ1cHZrZ05uenprUFg3bVRra2ZYOWlKNGZfM1NraVl5eUdZN1hwYk9NRUZhSzdRbFpYaEZhOVNIS3B1WnlRVU55YmFXVm1WZ3FpNDNKeFhQVVdRbDNMMHhDVHJBNWpBTVdoQjV2Y2tUNDVMSWIwZms2aw?oc=5",
-          "source": "AOL.com",
-          "summary": "Soul Rebels bring New Orleans brass energy to Jazz Fest AOL.com",
-          "published": "Jun 22, 2026 8:27 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Juneteenth, Pride belly dancing and a mini Renaissance Fest - Axios",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUVKeWIwWFY1dzMxQm8wZFF2OEJhRkp6d3dHeFJZUlZhbHRta0hMRThnUE5RTXZjS0ZMdVlrcFowdy1LamdNb0lMWnE0MEJNZ29QcEdkaVVGUVk5dmx1NDhRa1IxWFE5dkEzSm83VE9YeGRVMV9fQnR0NHJ0eUpoLTM3YVJVenRBWEhZTnpISC1EQzhCUWszeVVqNkE?oc=5",
-          "source": "Axios",
-          "summary": "Juneteenth, Pride belly dancing and a mini Renaissance Fest Axios",
-          "published": "Jun 18, 2026 11:22 AM",
+          "title": "Weekend Picks - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5",
+          "source": "New Orleans Tourism",
+          "summary": "Weekend Picks New Orleans Tourism",
+          "published": "Jun 22, 2026 7:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -288,16 +288,6 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Why Rochester keeps bringing New Orleans to Jazz Fest | Exclusive - Democrat and Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUUZEVHAxcHJ1cTdQMkFzeG8tOVZ3YkRsVzM4WHRnSWNabGNTYk5JOEhnVThma29BQmVQMWhiMWVXRXhiX3hSMkxzdFl0R3hsc2RoaDBZQ3dVeGJ0Wl9wNXljeFFiS0xrQUhqZHhBajNVWkh4OU9ydW8zQ1JXQWNIZUxoYUNpd2FqZFZRdlRtc2xzSHRDQ2VNNkIyT1ptSkpQd2lNSC1oSlRseG5FbXpkWDF3YXJXdHJETnlJTEJQN2VXLWg5YmJHQ2lqeUVreDZZaHdER0tkRjZlaVE?oc=5",
-          "source": "Democrat and Chronicle",
-          "summary": "Why Rochester keeps bringing New Orleans to Jazz Fest | Exclusive Democrat and Chronicle",
-          "published": "Jun 25, 2026 9:41 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Where to watch Fourth of July fireworks in and around New Orleans - WWLTV.com",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLWtuWW1UNUNZU09jNXRIZURsRmxuaFVWNWo4UjZRcG5SV2Y4NEtlTExBQ0ExN1YwMDhCM3BCMldfRHJpZVBxVTNLT0dVa1BBQ21FM1FRUERUU2JjU0JEY0VMVjRkd3NKemsxQ3FZMDVWcmItUHl6bFYwMU1JX3ktOUVMWXdjWXVLdHdEcXhyXy1oczdkOGFiSTJzbG9OYUdjN1FnZnZhZlhqa01iV3l5WW9LckVxRmlEUE1zYTNaZ3laZTg4Y2dTS3lkdUxOaUlTRlo5TVlNLXdqQnltRXN2M0F1MUk1Y1JVdFVxb0l3?oc=5",
           "source": "WWLTV.com",
@@ -308,11 +298,11 @@
           "calendar_url": ""
         },
         {
-          "title": "Discover New Orleans' Jazz Scene: A Neighborhood-by-Neighborhood Guide to Brass Bands, Modern Sets, and Street Energy - Nomad Lawyer",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16YmFxYnlsUW1vUjM3c0d5cEF2Z0VzMEhVNW1IUUh2ZnhQbnZ1Ri1Mai1yejhhMjcxUkJ3dU5xRkZ0RUxGZkFaZTFtTjQ2N3gxQ0tfdWdnaEVLeXpxQmJNSXJaRjZqVkZmSmJpRW5pY2w?oc=5",
-          "source": "Nomad Lawyer",
-          "summary": "Discover New Orleans' Jazz Scene: A Neighborhood-by-Neighborhood Guide to Brass Bands, Modern Sets, and Street Energy Nomad Lawyer",
-          "published": "Jun 22, 2026 6:38 PM",
+          "title": "Live Music this July in New Orleans - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FdndPTzhDQi1xWHdSZ2tZcDFXVXFmRHJnTHluTWJ1R3ZUeTJhcHg5cU1ySnk1d1ZjN1QwUzgxeU5WZy0wOTA2Yk9JRFNrQ0NnMENSc19qanRnOVRDVWg3cUFSZ2g4YnkwY09GVWx6MGFQbEFoVUNzMVJHWW1ZZw?oc=5",
+          "source": "New Orleans Tourism",
+          "summary": "Live Music this July in New Orleans New Orleans Tourism",
+          "published": "Jun 23, 2026 7:00 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -346,6 +336,16 @@
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
+        },
+        {
+          "title": "Top Dance Spots in New Orleans - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54d1lZbmQ5VjNJWUkzNEdFZzU3YkhxVDdnX1RWWEdEeXpYSV9tTzZESkNiWE5OZzd0QUUwdldmUmwzd0dRVW1hTGNsYWo2dnoxNTVvSFZKelV2UndwcE12WHppbmhXSE16YTdSWUI2c2NaOFlTbTFr?oc=5",
+          "source": "New Orleans Tourism",
+          "summary": "Top Dance Spots in New Orleans New Orleans Tourism",
+          "published": "Jun 16, 2026 7:00 AM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
         }
       ]
     },
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "John Lisi & Delta Funk",
-          "url": "https://www.wwoz.org/events/1351821",
+          "title": "Lobelia Jazz Band",
+          "url": "https://www.wwoz.org/events/1351896",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 3:00pm",
+          "published": "Sunday, June 28 at 3:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Lisi+%26+Delta+Funk&dates=20260627T150000%2F20260627T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1351821&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lobelia+Jazz+Band&dates=20260628T150000%2F20260628T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1351896&location=21st+Amendment"
         },
         {
-          "title": "Marty Peters & The Party Meters",
-          "url": "https://www.wwoz.org/events/1351781",
+          "title": "The Funky Soles",
+          "url": "https://www.wwoz.org/events/1351836",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 8:00pm",
+          "published": "Sunday, June 28 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Marty+Peters+%26+The+Party+Meters&dates=20260627T200000%2F20260627T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1351781&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Funky+Soles&dates=20260628T200000%2F20260628T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1351836&location=21st+Amendment"
         },
         {
-          "title": "Organami",
-          "url": "https://www.wwoz.org/events/1357021",
+          "title": "Jeff Chaz Blues Band",
+          "url": "https://www.wwoz.org/events/1357186",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 2:00pm",
+          "published": "Sunday, June 28 at 3:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Organami&dates=20260627T140000%2F20260627T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1357021&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jeff+Chaz+Blues+Band&dates=20260628T150000%2F20260628T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1357186&location=30%2F90"
         },
         {
-          "title": "Scotty Yost & The Most",
-          "url": "https://www.wwoz.org/events/1357026",
+          "title": "Mother Ruckus",
+          "url": "https://www.wwoz.org/events/1357191",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 5:00pm",
+          "published": "Sunday, June 28 at 6:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Scotty+Yost+%26+The+Most&dates=20260627T170000%2F20260627T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1357026&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mother+Ruckus&dates=20260628T180000%2F20260628T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1357191&location=30%2F90"
         },
         {
-          "title": "Hotline",
-          "url": "https://www.wwoz.org/events/1357031",
+          "title": "SingleMaltPlease",
+          "url": "https://www.wwoz.org/events/1357196",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 8:00pm",
+          "published": "Sunday, June 28 at 9:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hotline&dates=20260627T200000%2F20260627T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1357031&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SingleMaltPlease&dates=20260628T210000%2F20260628T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1357196&location=30%2F90"
         },
         {
-          "title": "Street Lyfe",
-          "url": "https://www.wwoz.org/events/1357036",
-          "source": "WWOZ Livewire",
-          "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 11:00pm",
-          "eyebrow": "Event",
-          "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Street+Lyfe&dates=20260627T230000%2F20260628T010000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1357036&location=30%2F90"
-        },
-        {
-          "title": "Bayou Blues Burlesque ft. The Delta Revues",
-          "url": "https://www.wwoz.org/events/1357206",
+          "title": "Sunday Swing with High Standards Jazz Band",
+          "url": "https://www.wwoz.org/events/1354981",
           "source": "WWOZ Livewire",
           "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 8:00pm",
+          "published": "Sunday, June 28 at 8:00pm",
           "eyebrow": "Event",
           "location": "AllWays Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bayou+Blues+Burlesque+ft.+The+Delta+Revues&dates=20260627T200000%2F20260627T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1357206&location=AllWays+Lounge"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Swing+with+High+Standards+Jazz+Band&dates=20260628T200000%2F20260628T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1354981&location=AllWays+Lounge"
         },
         {
-          "title": "Miles Berry",
-          "url": "https://www.wwoz.org/events/1348376",
+          "title": "Steve Mignano",
+          "url": "https://www.wwoz.org/events/1358286",
+          "source": "WWOZ Livewire",
+          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, June 28 at 10:30pm",
+          "eyebrow": "Event",
+          "location": "Apple Barrel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Steve+Mignano&dates=20260628T223000%2F20260629T003000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1358286&location=Apple+Barrel"
+        },
+        {
+          "title": "Noah Young",
+          "url": "https://www.wwoz.org/events/1348366",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 7:00pm",
+          "published": "Sunday, June 28 at 7:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Miles+Berry&dates=20260627T190000%2F20260627T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1348376&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Noah+Young&dates=20260628T190000%2F20260628T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1348366&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Aaron Levinson & Friends",
-          "url": "https://www.wwoz.org/events/1350361",
+          "title": "Jay Dufour Band",
+          "url": "https://www.wwoz.org/events/1350441",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 11:00am",
+          "published": "Sunday, June 28 at 11:00am",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aaron+Levinson+%26+Friends&dates=20260627T110000%2F20260627T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1350361&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jay+Dufour+Band&dates=20260628T110000%2F20260628T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1350441&location=Bamboula%27s"
         },
         {
-          "title": "James McClaskey & the Rhythm Band",
-          "url": "https://www.wwoz.org/events/1350381",
+          "title": "Laura Doyle Quartet",
+          "url": "https://www.wwoz.org/events/1350461",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 2:15pm",
+          "published": "Sunday, June 28 at 2:15pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=James+McClaskey+%26+the+Rhythm+Band&dates=20260627T141500%2F20260627T161500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1350381&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laura+Doyle+Quartet&dates=20260628T141500%2F20260628T161500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1350461&location=Bamboula%27s"
         },
         {
-          "title": "Johnny Mastro Blues",
-          "url": "https://www.wwoz.org/events/1350401",
+          "title": "Midnight Brawlers",
+          "url": "https://www.wwoz.org/events/1350481",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, June 27 at 6:30pm",
+          "published": "Sunday, June 28 at 6:30pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Johnny+Mastro+Blues&dates=20260627T183000%2F20260627T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1350401&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Midnight+Brawlers&dates=20260628T183000%2F20260628T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1350481&location=Bamboula%27s"
         }
       ]
     }
