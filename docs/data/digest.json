@@ -1,68 +1,59 @@
 {
-  "generated_at": "2026-07-04T05:40:32.082662-05:00",
-  "generated_label": "Jul 4, 2026 at 5:40 AM CT",
+  "generated_at": "2026-07-05T05:45:46.202336-05:00",
+  "generated_label": "Jul 5, 2026 at 5:45 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
     "temperature": 80,
     "temperature_unit": "F",
-    "short_forecast": "Mostly Clear",
-    "detailed_forecast": "Mostly clear, with a low around 80. West wind around 0 mph.",
-    "wind_speed": "0 mph",
-    "wind_direction": ""
+    "short_forecast": "Partly Cloudy",
+    "detailed_forecast": "Partly cloudy, with a low around 80. West wind around 5 mph.",
+    "wind_speed": "5 mph",
+    "wind_direction": "W"
   },
   "seven_day_forecast": [
-    {
-      "name": "Independence Day",
-      "temperature": 93,
-      "temperature_unit": "F",
-      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms between 2pm and 4pm. Sunny. High near 93, with temperatures falling to around 91 in the afternoon. North wind 0 to 5 mph. Chance of precipitation is 20%.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "N"
-    },
     {
       "name": "Sunday",
       "temperature": 91,
       "temperature_unit": "F",
       "short_forecast": "Showers And Thunderstorms Likely",
-      "detailed_forecast": "Showers and thunderstorms likely after 11am. Mostly sunny, with a high near 91. West wind 0 to 5 mph. Chance of precipitation is 60%.",
-      "wind_speed": "0 to 5 mph",
+      "detailed_forecast": "Showers and thunderstorms likely after 11am. Mostly sunny. High near 91, with temperatures falling to around 88 in the afternoon. West wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
+      "wind_speed": "5 mph",
       "wind_direction": "W"
     },
     {
       "name": "Monday",
-      "temperature": 91,
+      "temperature": 90,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms before 7am, then a chance of showers and thunderstorms between 7am and 10am, then a chance of showers and thunderstorms between 10am and 1pm, then showers and thunderstorms. Mostly sunny, with a high near 91. Southwest wind around 5 mph. Chance of precipitation is 80%.",
+      "short_forecast": "Showers And Thunderstorms Likely",
+      "detailed_forecast": "Showers and thunderstorms likely. Partly sunny, with a high near 90. West wind around 5 mph. Chance of precipitation is 60%.",
       "wind_speed": "5 mph",
-      "wind_direction": "SW"
+      "wind_direction": "W"
     },
     {
       "name": "Tuesday",
       "temperature": 91,
       "temperature_unit": "F",
-      "short_forecast": "Showers And Thunderstorms Likely",
-      "detailed_forecast": "Showers and thunderstorms likely after 7am. Mostly sunny, with a high near 91. West wind around 5 mph.",
+      "short_forecast": "Showers And Thunderstorms",
+      "detailed_forecast": "Showers and thunderstorms. Mostly sunny, with a high near 91. West wind around 5 mph. Chance of precipitation is 80%.",
       "wind_speed": "5 mph",
       "wind_direction": "W"
     },
     {
       "name": "Wednesday",
-      "temperature": 93,
+      "temperature": 91,
       "temperature_unit": "F",
-      "short_forecast": "Sunny then Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Sunny, with a high near 93. West wind around 5 mph.",
+      "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 91. West wind around 5 mph.",
       "wind_speed": "5 mph",
       "wind_direction": "W"
     },
     {
       "name": "Thursday",
-      "temperature": 93,
+      "temperature": 92,
       "temperature_unit": "F",
-      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Sunny, with a high near 93. Southwest wind around 5 mph.",
+      "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 92. Southwest wind around 5 mph.",
       "wind_speed": "5 mph",
       "wind_direction": "SW"
     },
@@ -72,6 +63,15 @@
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
       "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 93. South wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "S"
+    },
+    {
+      "name": "Saturday",
+      "temperature": 93,
+      "temperature_unit": "F",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 93. South wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "S"
     }
@@ -84,6 +84,46 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "State funding for New Orleans takes big hit from Landry vetoes - American Press",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGphZWJBV01xQTU2UEx0SVZNTlZLTWRzdGY0Vi1HS0tvajJBRjhTQnU1eWdjRlpJbEdxNlJlUGtvY1VwMjgxdWFiY1gyN2NQMEFBeTQyaEdoX3dKTUI3NHItY0h4QTIxQ21Odk1nQUZRNzFmMDJ3TWozQUFQVGNYR1BRYzlwd2pqMHJKX0pxODJvaE5rNzQ0d1V5YVNxeEdEeVE?oc=5",
+          "source": "American Press",
+          "summary": "State funding for New Orleans takes big hit from Landry vetoes American Press",
+          "published": "Jul 5, 2026 3:37 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "What a fantastic way to kick off ESSENCE Festival weekend! Sheriff Michelle M. Woodfork was honored to host the Annual 4th of July Festival Weekend Gala alongside former Congressman Cedric Richmond, Congressman Troy Carter, Sr., and Mayor Helena - instagram.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85UTROV1pMenNzLTZYY0FySFBHSUh4cWxHNjhkQjdNb2NpampNcEprMlBYWmZfeVh1YVJ0R05mYUlHdE1icDktM2I5eGxFajJNY3hHN1pR?oc=5",
+          "source": "instagram.com",
+          "summary": "What a fantastic way to kick off ESSENCE Festival weekend! Sheriff Michelle M. Woodfork was honored to host the Annual 4th of July Festival Weekend Gala alongside former Congressman Cedric Richmond, Congressman Troy C...",
+          "published": "Jul 4, 2026 8:20 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Arrest warrant for AG Liz Murrill quashed by Louisiana Supreme Court - Louisiana Illuminator",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ScHFVODhNeHhuMXE0Sl84M1BwSVRpN0t3Z0lKWlJOV19DT0hjbjVSV0RacHIyWlhGUG5nLU9KSHhYWVJSd2xORDlfWHZSTXRiNTBCbmZhemgzNVRRbUdwOEFtVQ?oc=5",
+          "source": "Louisiana Illuminator",
+          "summary": "Arrest warrant for AG Liz Murrill quashed by Louisiana Supreme Court Louisiana Illuminator",
+          "published": "Jul 4, 2026 5:33 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Louisiana Attorney General Liz Murrill indicted on 16 felony counts - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUZKSS1uMEFwNFYyXzNEdHZqZm1aei1QeVdKWi13MHNWdi0tWjEycVBiakhwMVp4d3B1Mm1yRWpydUVCSW96ODlCTEt2RjNpcENIY0pENnlEajZFbEI4SUpyaDR5dm1Hb2JzM2Z5RjBJRDYzazRNZFlDNHo4M3F0enlKQVNlSUVuY0J5Um1KWEI?oc=5",
+          "source": "WDSU",
+          "summary": "Louisiana Attorney General Liz Murrill indicted on 16 felony counts WDSU",
+          "published": "Jul 4, 2026 3:18 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "Political fight between Baton Rouge and New Orleans plays out in courts, budget cuts - fox8live.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaEI0NVFRT1l3dFVQcEpxZmhDSEgzX2xkNTZqNWYwWncxMnY5NGplVTUyUTJtN3hnLVY2TTZOTC1BRWc3enZEWkNUQ2RZOFduTkdWNzBXY2V3YVdTWWlIYklXcnRXRGVqTmFSTzJIOEJUMElwSnNLU3pvMFVoUDhXX0pvSFEwSl9GQlZ2V043bDFHOWl5UVRRQm5ya2lYVlF3UVgxRWw0WlJxendMczI3aGR1NNIBxwFBVV95cUxORWcydUt4a2RhNF9vaTA3cVpUQTE0UDBqV1FkVHZXVDlUZWFBN0tCUUlCdDJLeHZXdG1aX1liMzdEOHNIQTY1OXpzWDJ3WU11S2F3aVdMdVgtSHl1dkNtMFFUWWtjN2RoSS1wZVVwblEwQ1MzcDV0UWY3eHE2Mk5SNWFtbU1fQ1NxRGhXemhXV0Y0QVpEX29RZ0NDY21ROFpVZWQ3TkdTQWI2M2hnSWhVWnJXQWVNbEtiLUt3dWFydDN3Sm9Ud1dB?oc=5",
           "source": "fox8live.com",
@@ -94,51 +134,11 @@
           "calendar_url": ""
         },
         {
-          "title": "Louisiana Attorney General Liz Murrill indicted on 16 felony counts - WDSU",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUZKSS1uMEFwNFYyXzNEdHZqZm1aei1QeVdKWi13MHNWdi0tWjEycVBiakhwMVp4d3B1Mm1yRWpydUVCSW96ODlCTEt2RjNpcENIY0pENnlEajZFbEI4SUpyaDR5dm1Hb2JzM2Z5RjBJRDYzazRNZFlDNHo4M3F0enlKQVNlSUVuY0J5Um1KWEI?oc=5",
-          "source": "WDSU",
-          "summary": "Louisiana Attorney General Liz Murrill indicted on 16 felony counts WDSU",
-          "published": "Jul 3, 2026 10:55 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Week-in-Review June 29 \u2013 July 3: Office Market Growth, Startup Milestones & More - Biz New Orleans",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWG9NVFN1b0hsOG1YWWhCV2dDeW8yVXE2dEVOdEw0bUdmZjh6Q0hIT09GV1BsRlhURF9JX01mbVFVdkpfU3N2MFUtUUtCRXVLdHB4czNPb0JMeGZ2bklvOGhsRkFXWjdVUHQyTjhROGhTTDBGZnczcE5nSE1wdlFrNE9VTGd2U0JPVElpUXJNdVdxQlFuVWVyYVFBaEg4aXNXUVFB?oc=5",
-          "source": "Biz New Orleans",
-          "summary": "Week-in-Review June 29 \u2013 July 3: Office Market Growth, Startup Milestones & More Biz New Orleans",
-          "published": "Jul 3, 2026 10:00 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "What an outstanding evening! Sheriff Michelle M. Woodfork was honored to be a special guest at the LA Legislative Black Caucus Foundation ESSENCE Welcome Reception. It was a wonderful opportunity to connect with leaders, advocates, and community p - instagram.com",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBacUxUS3RCR2JFckVRTE9EUlF2VEF5UGRLcHhtUXZwZjI1SFpoZWVjSktJcUlwOWNRXzhCZDJtSkFIck04dElZQmN5dXI2VDlKWkE?oc=5",
-          "source": "instagram.com",
-          "summary": "What an outstanding evening! Sheriff Michelle M. Woodfork was honored to be a special guest at the LA Legislative Black Caucus Foundation ESSENCE Welcome Reception. It was a wonderful opportunity to connect with leade...",
-          "published": "Jul 3, 2026 9:00 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "SWBNO defends $300M power complex after pump failure - WWLTV.com",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXVPS3VVeGFNYXFXbWRiX3BPblVlY1RjZ24zYjJTelBvYzUyWlVRZ3VsS0t2UEtVQU56SWN1MWZzdkFVOG1yWWEtOUxwNENnVTJDTnBGM1VpeS1RQ3VCc0FIMm9GbzRBdDVqandrQW5IQld2M2xvTTZENXowSTNmV2hmMk9sM0ZmTkN2WG1MeW5qUjJPMW5MdHpGTXJwY1c4U0J3UnVxblRrdjkwUV81TENsVk80RTNnLTNKcTQxcnZnNTY0bEdHck5aaFF0OWxqS1ZwRV8xc3dCbzNhaFBGclFn?oc=5",
           "source": "WWLTV.com",
           "summary": "SWBNO defends $300M power complex after pump failure WWLTV.com",
           "published": "Jul 3, 2026 6:15 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Louisiana's top court halts the criminal case against the state attorney general - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObGV0MUR0Q2lZRThoQVU5RzVsRGlwazZVX1VoNFJieVpHNVphMGJZNGF5ZWhtUmdDRG02U1Q4a2hnQUtxVEZwZmpSb3FVUVBFSXpLQXJSY2VFLWlicXlLWmVRcGU4ZVktT0d0TkZvZXZrYWNZdm9hQmt1V3IyOWhnbXV5ZkZ4b3YycFlUa0llRWhDNGZhWk1kcG1Ra1QtRkczNXFtdmNaUjRucldhOS1VR0huTEJHN0dtc1JuRHFoTG5MUDJBRE4xUG9SRVFHR2NsRnFoWWVkNDdWd2FPWnZHNnBkRQ?oc=5",
-          "source": "The Washington Post",
-          "summary": "Louisiana's top court halts the criminal case against the state attorney general The Washington Post",
-          "published": "Jul 3, 2026 5:38 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -220,11 +220,41 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "Advance Transportation Reservations Can Help Travelers Navigate Major Events in New Orleans - EIN News",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUGY1RVRfNWJKZ241dkZWd0dqM2w2LXZRRVlFZEJXRzRGei05ZWc0LV9HOC1ZUWxOMl9uUTJjbjA4anY4bG1wbTZfOTZ3TVNTd2NneVRhSGg4X3Izci1UbG9YeVVNVWs0RmhzWVNQV0ttZ0JoYnhDa1ZTeWtJdjNSaUxEVDRmVUNNWlVlXzRwSExPOGhxVmpNVVFfV3lVX044WGpkaTFrc01KT3QwaEktbDFrN2xwcENveHhIeGZsWU5KZkVvQ01pclhUc2Q5VC1iano00gHTAUFVX3lxTE5QZjVFVF81YkpnbjV2RlZ3R2ozbDYtdlFFWUVkQldHNEZ6LTllZzQtX0c4LVlRbE4yX25RMmNuMDhqdjhsbXBtNl85NndNU1N3Y2d5VGFIaDhfcjNyLVRsb1h5VU1VazRGaHNZU1BXS21nQmhieENrVlN5a0l2M1JpTERUNGZVQ01aVWVfNHBITE84aHFWak1VUV9XeVVfTjhYamRpMWtzTUpPdDBoSS1sMWs3bHBwQ294eEh4ZmxZTkpmRW9DTWlyWFRzZDlULWJqejQ?oc=5",
+          "source": "EIN News",
+          "summary": "Advance Transportation Reservations Can Help Travelers Navigate Major Events in New Orleans EIN News",
+          "published": "Jul 5, 2026 3:22 AM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Cardi B, Michelle Obama, Kehlani, Latto kick off 2026 Essence Fest's opening night - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVJza3JpQVRmNWhqN2JKTTNMeGwzZXY3dDZwS1RTWGYyNDQzWEhFRi1OZEU4RVJHanJTc2l5Qlk2d2xNWlhUemxTSlZiNmwtMUV3a05QVlk5NlYweHVqemQ2bnlsYmFNZk42MzhNS2dpWmhBTFlRY2xOQ0RqR2t6Yy01b0pkMFlQM3FTR1VZcG92a0hNWno2QkV2ajJMMmVqTUREc1ZoMndraDU3M1NTUnRTaDR1ZTc4SUxoWVZuU3bSAcYBQVVfeXFMUDlIVzd6OEo5Qm16U1psNGcxNnZvT2dIOWhDTmxZdVpSd2pjY0laaVVYOGkxbWp3ZGFxMzZfVUdENTFjV1dnX0pSS0c1MFBrWEg4U1NUWk1TaDJIblNDWmpWRFE0cDNyeXN0Vmg4UkpvRXFLWUM2TExNakh3WS1mZ0FOaVVULTVFYlU3bGFUTVg1bVpBTkZHQXhvdkZCZ19oaEkxTW9hdjZWcWd3cjVrQWZNNkhJQ01GOFIxbEFKMEN6NUstcGZ3?oc=5",
+          "source": "NOLA.com",
+          "summary": "Cardi B, Michelle Obama, Kehlani, Latto kick off 2026 Essence Fest's opening night NOLA.com",
+          "published": "Jul 4, 2026 9:00 AM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "'We in N'awlins.' Cardi B posts about Superdome, oysters ahead of Essence Fest set. - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUcteDdUSzFzbzI3d1I1cHZCODhYaUU4bHZYNlhOVF9sbmQ5NVNrUm5lTTFybHpZZ0NvTWhpY05VRVJMSmJwMnlkMnFsemtaNkJEb2daNVRtbGVPbDl0TDhJaEo1Y2RiSjF4YWJoNjh1aC1lZ29hTlJ6T09fU3RXM0FzQ0xtMGVQQ3oxS05RT1FEU0ZIU2g0Y1l6SjB3dnZ5VVJJYmxiLTlZbEQwNFBXbG9n0gG3AUFVX3lxTFBqVDRHRG1tRGExcXFrb3JwTjRKa2NtV3Fpc2R3YURzTHFNR3dZV3IxS2VzbUhQQnkyalA2d1NFdWlUeGlaTExQel9uNXVJWmhfRWpSUi1BU1JSdGFvTkNHUEVmNGxWWkhTMTJRQzRnSmUxMjA0ZDZfXzJTVXVoMzA0WkRTbzMyZ1NfN3lVYWhjMEUwVFpJd2R6d2NWcmc1STZtdFNsbHZFR3pERnVGck9oWElacUlxVQ?oc=5",
           "source": "NOLA.com",
           "summary": "'We in N'awlins.' Cardi B posts about Superdome, oysters ahead of Essence Fest set. NOLA.com",
           "published": "Jul 3, 2026 8:43 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Will Sutton: Essence is back. Not the festival. The magazine. Another way to say they love Louisiana - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeU1IS3pXbklUYjNPZTFXZlN1VVZJS3E5dWJOU1ZyZ1dxV0dVRXdrNUVEYmxLb0dSME9iTlZQRXNqbm02UHcxZkR5XzZOZnlfei1YVjlUUk82QjNaWHhpS1h2ZnY5ZXQ0WTh6SXQ3MkIwbzVBa1VleDc2ZDJwa3V4dlZzdEJGcmhQVUVvalNNT29MSTJ4N3c0Z0VzbGd2RG9UMG9fQTNfdVEyUElMczZiSU12NkVZdmloY1VHMNIBwgFBVV95cUxNNGpZQnpaa29iVlRnejBGNUtmdDlCZ2FqXzJBWlBOeEc0dGkzWGxWU2hmRVpzd0pFbV9QZVN3UnhHcGhWWFNFX2o4MXB6QXBSNkN0TVlPNGk0dnZUNXJuZ2ttNUlJTTlKdDBRc2RjWEtXM3RsTDFMd3lKckV5TGFmOHVMZ045MGNybkNvWFBfT0JUdjNMUHFSQWp5MU01YzdlT04xTzJ0bE1mTjBFM09hZmxUMmxOYVRfeGJseW5IMmJkQQ?oc=5",
+          "source": "NOLA.com",
+          "summary": "Will Sutton: Essence is back. Not the festival. The magazine. Another way to say they love Louisiana NOLA.com",
+          "published": "Jul 3, 2026 2:30 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -248,36 +278,6 @@
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "Looking for live music in New Orleans beyond the 2026 Essence Fest? Here are options - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNXp2dkRvWE5aajFKdDhLdF9BVEgtdndtbUJEU3BfOUQ0bWg4ZmxmVG0xSTNqaHFhSzJhdThNVmlIcExaeTRsa2hMSE1mZmxMMUFYQUN5TnVnTGNxY1hUWmx0WWRTV1JVQzh4cFFzVEJOQnRvYUFsWklCT2QyNFFhMnY5UktDcjBwdzNqX1NvaHlsTkloY0QtV0JDcWF3LWF3UVRrQlNPdzcyVjFvbGdtNXVDYlo5NGs3R3NvN2lTc1dqTlBsakJfOWFLQndMS3JiekVITllZclBicGk2aTZTazFYS1lpRUloaWR3QjRIVkQ1Z0Y1bVczV3pMdHZRMEZUVzF6V0hBb2lZQUZRR2N6aHM1WdIBmAJBVV95cUxNSDh6aTVfWVNmdkVnRWQ5Y0hUVzhsZm8zQk1xY18wTGcyRzJKWXZGTFhFWTRrM1F4aVM4dktXa1lVNFhHS3diclNLYUpxcGx6OFRHYW1XNXk1anRRVF9Td195NXVIb2lHSnpZTzFoZ3pNVENvUmltVFIzT0lHbm92czBNRWFWZnduTTBDQ2VqNU40MUNGT1F4THhqN2tiNW9mbzlSS3BKRm9tRGV2X1dObVR0SWpWYTNsblJiY0x3eDNYV0Y5ZVpISXVHOHU3UEY1WUNNSVRiWTgtMmI1SUtaWFVXZ3BRRzFzMmwxV3J5UVphbVNBQkU2aTZuSXFtYkdFWGt5TEJOczBBclVCRllaWi1EdzFoOFp3?oc=5",
-          "source": "NOLA.com",
-          "summary": "Looking for live music in New Orleans beyond the 2026 Essence Fest? Here are options NOLA.com",
-          "published": "Jul 2, 2026 7:00 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Will Sutton: For Essence Fest, here\u2019s where to see Black culture, Black excellence in New Orleans - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYUJKdWJxOHJvekpmVm93VG9kcXhzTTBrVUN5OEM0c0V4V1M2Y29LMVpYd1RERVFlZG9DSGFJeXdYQVNPV1dnRnVxZTFpOXVrbzRrTk84d1E1SGV5VDZqeG9WeE83R1FrTExHSDk5VmhONHJaSk1iM1gyYXFiVW5ldkFnN0lzdVZmYnhueFRmaUREcHVOUlpvQlFzUmg3ZWtGWGU1LUNEbWRXTzlzSE1JOXJ5SFlDbFNLX2NxOHVTSG8tS3Fic2lJcXF2elhtMlVBaWt6U0s2bm9RZm9r0gHiAUFVX3lxTE85Z2ZEb2JnZm1ZV1dnVGwtTXIyd2pFT05rc0w5OVg4VmhDNm92Y3BuT2VqcjJRaTV5UnZPV203M3VoOW9zbjNBcmZiWXJ2a2lKeElIbm1LY3JqdjFwaGthbE5WSTlYbzZIeVZKeGQtM0lQeS0wYW5rRE4yZjFKTnloU2g5Yi1NT2tSSTZSQ0ZFR0dvRkJXSlJaUVBKVEVvQWstbUctSFNmWXBMMURIUXZwdmdmRXh2WVF3Xzd2d2syNzFCX25IZktjYW9VVWZLTmJTdHAzNldzMlFIRGZxelVVR1E?oc=5",
-          "source": "NOLA.com",
-          "summary": "Will Sutton: For Essence Fest, here\u2019s where to see Black culture, Black excellence in New Orleans NOLA.com",
-          "published": "Jul 2, 2026 6:00 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Breaking down the 2026 Essence Fest lineup, from Cardi B to Babyface to Michelle Obama - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQU1vMGxGRDg5Y1htc1EzdmFaem9ubVdiLWV6MUp3dWxPLXBLajJsQXF0SFNWZFZZblRCVXVXZjYxeEVwUE94cXREY015SHc0Q1lxT2c0QjYtMGJMdDBvOTBLeVZEYkRJS2NtVUppX3VidTdEMGRrOWhrN1hYeV9ETTZ2U3ZfcG9ZZzV0R0FZZWZxVm43ZGhzcGpPQzFxZWRBd3I4R24tcHdwU0VKY204RGFCTDVvMnZyRkFF0gHAAUFVX3lxTE5jcXRFWVI5V0s1WVlxSzFHZHhZeE4xNTFNUktWNmhaaXJfQ2RSN3E0M1cteHZGREpTQnQtd0huM1pKc2o2WXVRNENoVEJkQnNLMDRWRjEzOW5PRzV3REZla2VHUDcya19ESmF5Nlk5VlZOSnkydklNRjJwXzY4WGN1bkxjTS1VdkFmNGF4QU81N0c1b2NEOWhFWVdFM1lZR19fTlVwWWtZTUNaY0FrWWJkNVZvcjBldndYUVZEUzhnZQ?oc=5",
-          "source": "NOLA.com",
-          "summary": "Breaking down the 2026 Essence Fest lineup, from Cardi B to Babyface to Michelle Obama NOLA.com",
-          "published": "Jul 2, 2026 12:00 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -287,6 +287,16 @@
       "description": "Live music headlines, concert coverage, and stories tied to New Orleans stages and performers.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
+        {
+          "title": "Burris: A New Orleans Songwriter Protest Album Release Benefit Show ft. Paul Faith & Friends - hammondstar.com",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQalNIcEtpeDdNOWZSWWQ4VTlwVExxTHliUmpQVDYxQ09CN2dBQTZDc0xYV2U1U2lIR3FBbjlmMGhYU1FtOE84QTB4em00WDFCNVBfRkZxU3V4YzhrUUpwTzlManU5Um5oMFh2ZjdrUU1wN3I3MHNRLTZyWDZEUU5IRFg2dHpOb3NLSlFXakRYTmp1Um9lTGxqeXRRV0tTM0RTc21UTnVRcmZiWUlfYnY0c3lreUpLVjNtbXkxbS05bWsyUG91Zm9wZ2xiWk5sUHlPZkZQSEpoTnl3VWlDY3RlNmQ5RUtZeG1Ld1M1ZXM4SmVYblho?oc=5",
+          "source": "hammondstar.com",
+          "summary": "Burris: A New Orleans Songwriter Protest Album Release Benefit Show ft. Paul Faith & Friends hammondstar.com",
+          "published": "Jul 4, 2026 2:24 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
         {
           "title": "Looking for live music in New Orleans beyond the 2026 Essence Fest? Here are options - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNXp2dkRvWE5aajFKdDhLdF9BVEgtdndtbUJEU3BfOUQ0bWg4ZmxmVG0xSTNqaHFhSzJhdThNVmlIcExaeTRsa2hMSE1mZmxMMUFYQUN5TnVnTGNxY1hUWmx0WWRTV1JVQzh4cFFzVEJOQnRvYUFsWklCT2QyNFFhMnY5UktDcjBwdzNqX1NvaHlsTkloY0QtV0JDcWF3LWF3UVRrQlNPdzcyVjFvbGdtNXVDYlo5NGs3R3NvN2lTc1dqTlBsakJfOWFLQndMS3JiekVITllZclBicGk2aTZTazFYS1lpRUloaWR3QjRIVkQ1Z0Y1bVczV3pMdHZRMEZUVzF6V0hBb2lZQUZRR2N6aHM1WdIBmAJBVV95cUxNSDh6aTVfWVNmdkVnRWQ5Y0hUVzhsZm8zQk1xY18wTGcyRzJKWXZGTFhFWTRrM1F4aVM4dktXa1lVNFhHS3diclNLYUpxcGx6OFRHYW1XNXk1anRRVF9Td195NXVIb2lHSnpZTzFoZ3pNVENvUmltVFIzT0lHbm92czBNRWFWZnduTTBDQ2VqNU40MUNGT1F4THhqN2tiNW9mbzlSS3BKRm9tRGV2X1dObVR0SWpWYTNsblJiY0x3eDNYV0Y5ZVpISXVHOHU3UEY1WUNNSVRiWTgtMmI1SUtaWFVXZ3BRRzFzMmwxV3J5UVphbVNBQkU2aTZuSXFtYkdFWGt5TEJOczBBclVCRllaWi1EdzFoOFp3?oc=5",
@@ -336,16 +346,6 @@
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "'Music is a Universal Language' - Veterans of Foreign Wars (VFW)",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeEluLU5sV2tIQjhReUNNNThJcG1JZnVWNm5kbkJqWG5BTkZFa3dzRHBHTElaR09GUGs1ekJERG9GU1RlbUlwSUM0RlZkZnpEME9HUlNwQ3h4cTFxSG9wb3htZ2dUV0lHVUZMWXVMdVhzQllMNjBuQjREWVdUQ3ZGQ1V3RWJKR0Q2MEZick9ZazdSSldyd2sxVC1YWmxNNzQ?oc=5",
-          "source": "Veterans of Foreign Wars (VFW)",
-          "summary": "'Music is a Universal Language' Veterans of Foreign Wars (VFW)",
-          "published": "Jun 10, 2026 7:00 AM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "Tetrad",
-          "url": "https://www.wwoz.org/events/1365986",
+          "title": "Knee Deep",
+          "url": "https://www.wwoz.org/events/1366016",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 5:00pm",
+          "published": "Sunday, July 5 at 3:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tetrad&dates=20260704T170000%2F20260704T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1365986&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Knee+Deep&dates=20260705T150000%2F20260705T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366016&location=30%2F90"
         },
         {
-          "title": "Sporty's Brass Band",
-          "url": "https://www.wwoz.org/events/1366001",
+          "title": "The Andre Lovett Band",
+          "url": "https://www.wwoz.org/events/1366021",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 8:00pm",
+          "published": "Sunday, July 5 at 6:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sporty%27s+Brass+Band&dates=20260704T200000%2F20260704T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366001&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Andre+Lovett+Band&dates=20260705T180000%2F20260705T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366021&location=30%2F90"
         },
         {
-          "title": "The Soulcial Club",
-          "url": "https://www.wwoz.org/events/1366006",
+          "title": "Manic Mixtape",
+          "url": "https://www.wwoz.org/events/1366126",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 11:00pm",
+          "published": "Sunday, July 5 at 9:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Soulcial+Club&dates=20260704T230000%2F20260705T010000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366006&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Manic+Mixtape&dates=20260705T210000%2F20260705T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366126&location=30%2F90"
         },
         {
-          "title": "Cristen Spencer",
-          "url": "https://www.wwoz.org/events/1361971",
+          "title": "Les Femmes Farouches",
+          "url": "https://www.wwoz.org/events/1362486",
+          "source": "WWOZ Livewire",
+          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, July 5 at 6:00pm",
+          "eyebrow": "Event",
+          "location": "Apple Barrel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Femmes+Farouches&dates=20260705T180000%2F20260705T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1362486&location=Apple+Barrel"
+        },
+        {
+          "title": "Steve Mignano",
+          "url": "https://www.wwoz.org/events/1358291",
+          "source": "WWOZ Livewire",
+          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, July 5 at 10:30pm",
+          "eyebrow": "Event",
+          "location": "Apple Barrel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Steve+Mignano&dates=20260705T223000%2F20260706T003000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1358291&location=Apple+Barrel"
+        },
+        {
+          "title": "Noah Young",
+          "url": "https://www.wwoz.org/events/1361976",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 6:00pm",
+          "published": "Sunday, July 5 at 7:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cristen+Spencer&dates=20260704T180000%2F20260704T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1361971&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Noah+Young&dates=20260705T190000%2F20260705T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1361976&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Mark Appleford",
-          "url": "https://www.wwoz.org/events/1359991",
-          "source": "WWOZ Livewire",
-          "summary": "Bamboula's - Festival Hall. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 7:00pm",
-          "eyebrow": "Event",
-          "location": "Bamboula's - Festival Hall",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mark+Appleford&dates=20260704T190000%2F20260704T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1359991&location=Bamboula%27s+-+Festival+Hall"
-        },
-        {
-          "title": "Joshua Starkman & Friends ft. Clint Maedgen",
-          "url": "https://www.wwoz.org/events/1365166",
+          "title": "James McClaskey & the Rhythm Band",
+          "url": "https://www.wwoz.org/events/1365171",
           "source": "WWOZ Livewire",
           "summary": "BJ's Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 9:00pm",
+          "published": "Sunday, July 5 at 9:00pm",
           "eyebrow": "Event",
           "location": "BJ's Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Joshua+Starkman+%26+Friends+ft.+Clint+Maedgen&dates=20260704T210000%2F20260704T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1365166&location=BJ%27s+Lounge"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=James+McClaskey+%26+the+Rhythm+Band&dates=20260705T210000%2F20260705T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1365171&location=BJ%27s+Lounge"
         },
         {
-          "title": "Afrobeat NOLA",
-          "url": "https://www.wwoz.org/events/1356806",
-          "source": "WWOZ Livewire",
-          "summary": "Blue Nile. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 10:00pm",
-          "eyebrow": "Event",
-          "location": "Blue Nile",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Afrobeat+NOLA&dates=20260704T220000%2F20260705T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1356806&location=Blue+Nile"
-        },
-        {
-          "title": "The Next Level Band",
-          "url": "https://www.wwoz.org/events/1363486",
-          "source": "WWOZ Livewire",
-          "summary": "Blue Nile - Balcony Room. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 10:00pm",
-          "eyebrow": "Event",
-          "location": "Blue Nile - Balcony Room",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Next+Level+Band&dates=20260704T220000%2F20260705T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1363486&location=Blue+Nile+-+Balcony+Room"
-        },
-        {
-          "title": "Christian Coleman Duo",
-          "url": "https://www.wwoz.org/events/1362256",
-          "source": "WWOZ Livewire",
-          "summary": "B Mac's (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 7:00pm",
-          "eyebrow": "Event",
-          "location": "B Mac's (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Christian+Coleman+Duo&dates=20260704T190000%2F20260704T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1362256&location=B+Mac%27s+%28OUTDOORS%29"
-        },
-        {
-          "title": "Tropical Weather",
-          "url": "https://www.wwoz.org/events/1360806",
+          "title": "Sierra & The Green Notes",
+          "url": "https://www.wwoz.org/events/1360821",
           "source": "WWOZ Livewire",
           "summary": "BMC. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 3:00pm",
+          "published": "Sunday, July 5 at 3:00pm",
           "eyebrow": "Event",
           "location": "BMC",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tropical+Weather&dates=20260704T150000%2F20260704T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1360806&location=BMC"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sierra+%26+The+Green+Notes&dates=20260705T150000%2F20260705T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1360821&location=BMC"
         },
         {
-          "title": "John Lisi & Delta Funk",
-          "url": "https://www.wwoz.org/events/1360811",
+          "title": "Josh Benitez Band",
+          "url": "https://www.wwoz.org/events/1360831",
           "source": "WWOZ Livewire",
           "summary": "BMC. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 4 at 6:00pm",
+          "published": "Sunday, July 5 at 6:00pm",
           "eyebrow": "Event",
           "location": "BMC",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Lisi+%26+Delta+Funk&dates=20260704T180000%2F20260704T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1360811&location=BMC"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Josh+Benitez+Band&dates=20260705T180000%2F20260705T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1360831&location=BMC"
+        },
+        {
+          "title": "Maurice Cade & ESS",
+          "url": "https://www.wwoz.org/events/1360836",
+          "source": "WWOZ Livewire",
+          "summary": "BMC. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, July 5 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "BMC",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maurice+Cade+%26+ESS&dates=20260705T210000%2F20260705T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1360836&location=BMC"
+        },
+        {
+          "title": "Batucada Futebol Clube X Choro Collective: Brasil Vs. Norway with DJ C'est Funk & Amigos Do Samba",
+          "url": "https://www.wwoz.org/events/1365381",
+          "source": "WWOZ Livewire",
+          "summary": "Broadside. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, July 5 at 2:00pm",
+          "eyebrow": "Event",
+          "location": "Broadside",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Batucada+Futebol+Clube+X+Choro+Collective%3A+Brasil+Vs.+Norway+with+DJ+C%27est+Funk+%26+Amigos+Do+Samba&dates=20260705T140000%2F20260705T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1365381&location=Broadside"
         }
       ]
     }
