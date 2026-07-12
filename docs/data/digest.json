@@ -1,32 +1,23 @@
 {
-  "generated_at": "2026-07-11T05:28:18.386972-05:00",
-  "generated_label": "Jul 11, 2026 at 5:28 AM CT",
+  "generated_at": "2026-07-12T05:32:24.784062-05:00",
+  "generated_label": "Jul 12, 2026 at 5:32 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
-    "temperature": 80,
+    "temperature": 79,
     "temperature_unit": "F",
     "short_forecast": "Mostly Clear",
-    "detailed_forecast": "Mostly clear, with a low around 80. Southeast wind around 0 mph.",
-    "wind_speed": "0 mph",
-    "wind_direction": ""
+    "detailed_forecast": "Mostly clear, with a low around 79. South wind 0 to 5 mph.",
+    "wind_speed": "0 to 5 mph",
+    "wind_direction": "S"
   },
   "seven_day_forecast": [
-    {
-      "name": "Saturday",
-      "temperature": 91,
-      "temperature_unit": "F",
-      "short_forecast": "Showers And Thunderstorms Likely",
-      "detailed_forecast": "Showers and thunderstorms likely after 11am. Mostly sunny. High near 91, with temperatures falling to around 88 in the afternoon. Heat index values as high as 105. Southeast wind 0 to 5 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "SE"
-    },
     {
       "name": "Sunday",
       "temperature": 90,
       "temperature_unit": "F",
-      "short_forecast": "Showers And Thunderstorms",
-      "detailed_forecast": "Showers and thunderstorms. Mostly sunny, with a high near 90. Southwest wind 0 to 10 mph. Chance of precipitation is 80%.",
+      "short_forecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
+      "detailed_forecast": "A chance of showers and thunderstorms between 7am and 8am, then showers and thunderstorms likely between 8am and 9am, then a chance of showers and thunderstorms between 9am and noon, then showers and thunderstorms likely between noon and 1pm, then showers and thunderstorms. Partly sunny. High near 90, with temperatures falling to around 86 in the afternoon. Southwest wind 0 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "wind_speed": "0 to 10 mph",
       "wind_direction": "SW"
     },
@@ -34,44 +25,53 @@
       "name": "Monday",
       "temperature": 85,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms before 7am, then showers and thunderstorms between 7am and 1pm, then showers and thunderstorms between 1pm and 4pm, then showers and thunderstorms. Mostly cloudy, with a high near 85. West wind 5 to 10 mph. Chance of precipitation is 90%.",
+      "short_forecast": "Showers And Thunderstorms Likely",
+      "detailed_forecast": "A chance of showers and thunderstorms before 7am, then showers and thunderstorms between 7am and 10am, then showers and thunderstorms likely between 10am and 4pm, then showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 85. West wind 5 to 10 mph. Chance of precipitation is 90%.",
       "wind_speed": "5 to 10 mph",
       "wind_direction": "W"
     },
     {
       "name": "Tuesday",
-      "temperature": 88,
+      "temperature": 86,
       "temperature_unit": "F",
       "short_forecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-      "detailed_forecast": "A chance of showers and thunderstorms before 7am, then showers and thunderstorms likely between 7am and 1pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 88. West wind 5 to 10 mph.",
+      "detailed_forecast": "A chance of showers and thunderstorms before 7am, then showers and thunderstorms likely between 7am and 1pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 86. West wind 5 to 10 mph. Chance of precipitation is 70%.",
       "wind_speed": "5 to 10 mph",
       "wind_direction": "W"
     },
     {
       "name": "Wednesday",
-      "temperature": 91,
+      "temperature": 90,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 91. Northwest wind 0 to 5 mph.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "NW"
+      "short_forecast": "Partly Sunny then Slight Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Partly sunny, with a high near 90. West wind around 5 mph.",
+      "wind_speed": "5 mph",
+      "wind_direction": "W"
     },
     {
       "name": "Thursday",
       "temperature": 92,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 92. Northwest wind around 5 mph.",
-      "wind_speed": "5 mph",
+      "short_forecast": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of rain showers before 7am, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 92. Northwest wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
       "wind_direction": "NW"
     },
     {
       "name": "Friday",
-      "temperature": 92,
+      "temperature": 94,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms. Mostly sunny, with a high near 92. Northwest wind around 5 mph.",
+      "short_forecast": "Mostly Sunny",
+      "detailed_forecast": "Mostly sunny, with a high near 94. Northwest wind around 5 mph.",
+      "wind_speed": "5 mph",
+      "wind_direction": "NW"
+    },
+    {
+      "name": "Saturday",
+      "temperature": 94,
+      "temperature_unit": "F",
+      "short_forecast": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 94. Northwest wind around 5 mph.",
       "wind_speed": "5 mph",
       "wind_direction": "NW"
     }
@@ -83,6 +83,16 @@
       "description": "New Orleans city government, neighborhoods, public life, and major local developments.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
+        {
+          "title": "New Orleans City Council OKs 40-Year PILOT for Rivana Apartments - Canal Street Beat",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkQ0enBkdFZqUlByS3VpMlJ1Q3pRVEt0WWpYYTRKazlSTThxTUFJOWV5U1Jfdi03RWpmaVhMdDhEV1l2SmxWaWVaQUt2RHVlYWRIeDRpS0YzMTc2dXRpVUhWNWpxLTBQckpVMm1UNFVhSjBhNWhOVGs2TF96cWZ0MlVwTUFfMmxxZEFUbFNxSm92a1BMMGcwOQ?oc=5",
+          "source": "Canal Street Beat",
+          "summary": "New Orleans City Council OKs 40-Year PILOT for Rivana Apartments Canal Street Beat",
+          "published": "Jul 11, 2026 2:21 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
         {
           "title": "Legal analyst: Murrill preservation letters may signal push to examine grand jury process - fox8live.com",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzhrUFpJOWRrYzNiSVdSNHdTanBvX3NFWkJhM01hWUtCY1dzcnRqcjIzNEJEVmNCS04wZlRTZ1RxVGMwc3RlUVA5TFdOUzR1NjFpTzR2UFp6cFhwdjFobmRoVUhTU1BTQ3hBRTVNTjZ4aWtEOWM0MFRnTGtIQkJ6bWRqTWpFNVd2cThMdkFtNGNKeG5BajZPMTJuXzIxQlZjbEtsbW1taWplMFFlU21UcjRMbXhFT0VTUS1TdDdwTdIB0wFBVV95cUxQR1NDTDh5Z09YY3hPZHlURldWdjdXaVZyS0N0SktXSzhIcVFObldyazRSRUhKeGRBOTA5M3dJb3BNZXNuZzd0WVZ3UzhpMTNocWs2V05wWndtRkd0V0VHckhIVUJ5SDBuU0RiSWZ1TzNOOTRHcDdxNkR1Qk90ZU80SlpXa2pwVHNFcnB4NEJwQzVpR3lRT2F1NExOS2RZdUxiNHRLRkFDWGxZek94T3F1TzFkRy1OTVN2TTlUNUd5R1lyNHBHNE0xRnk1TDk2LWE0Z3hF?oc=5",
@@ -108,16 +118,6 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUtYbUxGYnZPamJkbXlES0IxV2pxanR6cUhOUHBCbnlubHZYTmtpRHRyaWlZaENBcmJOX1BteDJPR2N5SG5WUmVVTXhyRGVFU3BBeFgwZ2cxNXBpQ0RBRnYtbjlqYko3NUtRVUpBRUQzYzRfbU13QUpHVzBtTXFEMHBoV3UwMVZzS05ReDBRTU4wWGdIVHBDdTdSSQ?oc=5",
           "source": "New Orleans CityBusiness",
           "summary": "New Orleans City Council approves River District housing tax incentive New Orleans CityBusiness",
-          "published": "Jul 10, 2026 8:58 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans home sales cool in June - New Orleans CityBusiness",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXUwNnJ2eUpwekpTR3FqaTlLYW5LamtxYjM0WHMwSWlmZXFlVDlUbjR3bmtROC1lLVNVU2plVnpsdmhLUGZuTjRucGFnaXlnMnRlT0pPWWN1MFBwM3hGVElGMl9sOFhnUk5PdHFOOFd4Mzg5SkI4N0ZROEl1enltVHRtV1ozM1kyWG9rMA?oc=5",
-          "source": "New Orleans CityBusiness",
-          "summary": "New Orleans home sales cool in June New Orleans CityBusiness",
           "published": "Jul 10, 2026 8:58 PM",
           "eyebrow": "City News",
           "location": "",
@@ -162,6 +162,26 @@
           "calendar_url": ""
         },
         {
+          "title": "Chef Kevin Belton remembers New Orleans' Leni's Cafe with memories, skillet cornbread recipe - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEVjbmN4a1FOOVJIcl9jX3JfZGdaeDhOQ2F6TWFOZXYyeE1pc3ZwY0pteVNVTk1NOWZYNEM3LXJTNnNUWlAzVWxnQ1JVdkNrT24tV2VfSjJGWTkzQ01Fdk4xdTFmN1paXzhIT2dXbDBXcGY2cS02S2RDR1g5aUZpcTZBWHN6bVEtSmpIMHhUOUtBem8tWmNya3VWOUliLW1jS2FQd0tpc044MTJERGVqU0p5d2RyVGpqYTYyQkNJd9IBxAFBVV95cUxPOXJxM1Z2S19Na2p5VWlzQ2g2YV82RFBCblBsaHk4RF9fRVlTZEtaTnFwdW1scm1KeHZnUmxDLUtTVzh2UFdkWmJRZjdzTFJBa0dpdi1janZacU5uOUUwRVdsMndxdjRxa2c5Y01xZmFyU1NsUjF2OG1lUnd1c1hWNTVOUVloYmJkMElqUWJCV1hsNjZ4WmhvY3E2RUdOV2JxallOb0ljbDNveG92TGs0NDZmVXltM3l0akF1S2ZCT0t1Tnk5?oc=5",
+          "source": "NOLA.com",
+          "summary": "Chef Kevin Belton remembers New Orleans' Leni's Cafe with memories, skillet cornbread recipe NOLA.com",
+          "published": "Jul 9, 2026 5:00 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Just Opened: Best New Restaurants in New Orleans - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Qa3dqTE5iNUZkTHZpLVJPS0s2SGw3c0g2OGloMW5QVUxfWEczNENxclV2LWxlNU0yd2pMMkw0UmhzNmJMNWtSX0w2V2x1Vk13TXJLNkMwY1JhXzVWR3JsYTJOTW56ZjJqVXRHVnc1WWhWZXJROEdTRElR?oc=5",
+          "source": "New Orleans Tourism",
+          "summary": "Just Opened: Best New Restaurants in New Orleans New Orleans Tourism",
+          "published": "Jul 9, 2026 7:00 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "New 'hidden' downtown NOLA restaurant is a great find for cocktails, bites and more - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazRYN09FRHM5ZHdieDBfdXVyaERkMURiMDc2SEZkZnNTR3VHSHJGdHdTWm9ubHkzSDA3WmYxa0NSLTdWR3ZWQmZseWVjaHdVcFp0N0FQT0xNOS1JR2Jua3FXTEYtLXljSVh0d2FiR1pWNGowS0ZMcFhYQnVVTzNlbjhKUm9FMVZjTG5jUFpZX0VmQ29udHFXVkpDbXBoeXVTMmdRc2NhVVluVld5dGJNbjc4VdIBuAFBVV95cUxPaTdVVXV1VjRuZzhSdmV2V20zUGE5Wl9WcE52WVRRM2g2M1UtTGc0Q09XdHZWR1dPaTBUSTk1R1JEWkluUHZvYVRrTEJtYzhCTWlucC1DLTlCbHVjMnBrbURDS2pWcW83aDV4ZXRWazFmZW1HaTR1a2dyVlp1dWlWeHNUMUVlRWVLanEwc25MNFc1bV9mNXRmSFlEcHF2NXhHNkNUSlBfZkRDRHdNeUZRUmJjc0JXX3BF?oc=5",
           "source": "NOLA.com",
@@ -190,26 +210,6 @@
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "Ramen dish at this New Orleans restaurant among Food Network\u2019s top 10 noodles in America - WGNO",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM3Y5Y0x0U2dRdHdpX0JwNnhCcThXOWdVU2MtTXZoQm5kZXhWNUFDbUZuUDFMVUFBUmhJeURmQ1pqT3ZRY2RJQnI0TWlxQnF5N1UxR0JKY2l2ODc3a3NZRkVTTVBKQlVqLUp5a1FFNXhmc1VIemF4NXM1VWRJMzRiUTRKUUJrcTlJaWpfMnpPcS1XZjdzc1FEcGU1LTI1Z2hXTWJfVTVCUEVzMkxLckxWSHVEYVJJNjNJSlExY3U4ZTR0NnhiRDZ4OFRORmJvaG4x0gHWAUFVX3lxTE1ETjNiUHpKbGFpeEl2UWdrX3VPTGZmZDh2a1NsNlNlUGFsU1FlRHR3TFZlaklFU0p5dWJUMFRoU0s5dHBlQ0swYnlQZkl0Rm5tOXp4Qm5YaFFhZ0Y0aGlfblNZVlgyTDQ2REVLdFdrT2F3Nl9rSGdlcnZpOVZkVC1qR2prdXdLeVB3Y3NXS2pFR3NoZzZSUGZxdmdsYjJDQ3BIZlBTVDU5Z2lMeEZMM0dCRzZraVZ6aDZ6dGFjTUlNenM1VFlyWlpWek10RkttY3RCRDV0SEE?oc=5",
-          "source": "WGNO",
-          "summary": "Ramen dish at this New Orleans restaurant among Food Network\u2019s top 10 noodles in America WGNO",
-          "published": "Jul 6, 2026 9:37 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans Restaurant raises money for Venezuela recovery - WDSU",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0piWnlta2JRSFBSTlRQbzBWdmpVQXRNRlRybEpSU012bFFQYURhZDdaZk5jaVpXa3NraFEwUS1QZTZGY3A1SWk5LWtLc2V3RTBhRkNYWDkyNGxIMFk5YWhTVHVuRHJRTE9VVVQzT1JOVHJoNzNPUXNmWkZrVkFRX2MxLUE2MHh6RzFuZ3pNYkwxQXY2NmtuQ1N2Zm9pZjBwc1FpX2ZBOHNySGhsaExsN1RB?oc=5",
-          "source": "WDSU",
-          "summary": "New Orleans Restaurant raises money for Venezuela recovery WDSU",
-          "published": "Jul 6, 2026 5:47 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -219,16 +219,6 @@
       "description": "Arts, culture, nightlife, festivals, and local entertainment headlines.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
-        {
-          "title": "Essence Festival wraps amid ongoing negotiations over New Orleans future - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTkVwQUgydlRWdk9MOEJoUmNFV2ZoMjVxOHdUZlJVRHhyRV8tNjMxemlKaUxNYXdHMm9UMEVZQ19jb1V6OWtPNnRMamFaSVVYd3FYTDBVcVNGUkhZZ0w0OEtFY0Y0NFNpQkw1aU5nOGx4aGk5VmpQcVJkbnZqUEd4dw?oc=5",
-          "source": "AOL.com",
-          "summary": "Essence Festival wraps amid ongoing negotiations over New Orleans future AOL.com",
-          "published": "Jul 11, 2026 2:28 AM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
         {
           "title": "James Rivers, New Orleans jazz musician who played on Clint Eastwood movies, dies at 89 - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTFPVm1IVER6TENoMkRUd1IyNGdYejBRRFZlUGRxWFJyRDBpMEFvYWRSbmpCTktUZ0x3WjY3S183RDZ5ZHJDRE5fcHBCVU81U25YelFSM0liTWxCWHU5NlpIdWNwbWMxaXMxYmxoZ0FqTzU4VlZrZGlrNUpUSmFKaEFhNDdHaVJJb29xaFNDbGlCa0QxOW1LMTJKVVBUclJmcnBza1ZVUUctcS1uYWVTdm84WdIBuAFBVV95cUxPX1lWNC1EV0ZaQnotRTJSa1Z2SWsyY1Y4UHVBdHAzRE5waFlkeHFIOGZQR0J6clpjU0NZVTdlWWFwQnFaa1B1Nzg3WnN0bTZBaWpWejBnOXRXWDVBOFRHUTNOdUoweVo2TXFfWkVWLVVzOWp2STdhZEczdnJJUWNCUVNTMW5sM0txaFliQjg0TUJtOWl4NkNaZENQN2JrRTM1UjJmYktsaVNrbE1tS1BSZElaV042MmN4?oc=5",
@@ -260,21 +250,31 @@
           "calendar_url": ""
         },
         {
-          "title": "Joseph Young Jr., who helped save the New Orleans opera, dies at age 96 - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFQxVmpMNFlmZ0ZfWERGMkQwYWlqeUxtbkNhX0lXVWdsQ1BWeHptREpEYW1lTDJ0Nk1ZcVIzbm42cnNKUXdZTFZmN1RzOHZmbm00MVVvek9DQWpnSWNVMTF3RkNacGlXeHZ6c1RpMzJDOWJpejctVWJ6aWlZSXlxLUxFNk02ZDZvdjdPZUlOX0RNQzhObjRoZTNWMmY3YkwyZkRud1RFNU44QjTSAbABQVVfeXFMUHNJWUJfdHE2eTU0R0d5dUtuMDZlaHNGYjB3dXh1Q18zWTE5WllUeU1yc3BVRnM3MXJPb2JUR3dpc2FGb0NGZTZPbFQtcVhhY3lRdGxaRDBCWkxTblJFcGdEWTdIUDRObWE1aWpOcjl1R21BOVh0YnlwNFgzYXZZN082RUFlRzJYeWs2WnRHaHBVS25CNzFlSVpHOV9oazBGWldubGlqeS1hbE9DWWptMFY?oc=5",
-          "source": "NOLA.com",
-          "summary": "Joseph Young Jr., who helped save the New Orleans opera, dies at age 96 NOLA.com",
-          "published": "Jul 10, 2026 11:00 AM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Kanye West, aka Ye, announces concert at New Orleans' Superdome this summer - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVpHSk9rdVJsOE9vSVp3SUI5ZS03Z3VTTXRZczk1WHRnYTloOXNrZThQeHRTT3NPSEgzVGZXQm5DckhLR1VVOEZaby1Lb3JENzZXNGxJODZKTUZhYkUxdUFwNVZhQ1Ryamt3cVQ4bkpEcmRJdjZXWGlsY2NnazdzZkJ5X0lFM202M1hPUkdNR3Z4Nmo2anQwTUNJMUJBT2tFUXk3VnNXWXFZbjc0aGfSAbMBQVVfeXFMTXhFR0pGWi1yWlRIdXR0Y2FQanJQd2ZYcy1vLVVaNFp3VzNOM2VTMng5Rk80WGpMa1lwNVJDbmxudDlscTQ0V3V2UGFzUTVPOW81aTJiVmhmR1dDREthZS1GenZVQ1pSTDZiTGxQbDktcmx3ZEVfNFJSVExDMjd6UVJnWXZIRG5LS1pVMWN2TlhZM1pnVTNoVUFVMHdBZElJRUxYYUdUZk5rSXdfS0E3QU56VFE?oc=5",
           "source": "NOLA.com",
           "summary": "Kanye West, aka Ye, announces concert at New Orleans' Superdome this summer NOLA.com",
           "published": "Jul 9, 2026 9:11 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Beatles Fest, Tori Amos, and more music in New Orleans the week of July 9-15, 2026 - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGt1VFliaWliWGNDcmxMWjNhTEhkWnRQVExHQWhSZkZ1cDN3OGpyTUl5OE1BZWFHUkh0NXVmeHRESEhEejRmRVJCZ2ZPZUJXRGFiRVlYdGxuMDhSYW9JbmlxNGtzU0VYRUpKSjFBQ2NxTW1GbWt1dkxleE4yRmJXdF9rbEFDSUYyWWpwQjA0SHZTZm1xbnh2cFpTMTh6RGprTTdSU2t6Xy15blYwVTZmUlc3LUc4a2N6Q3BxbNIBwgFBVV95cUxNZWZ1WWhDd2FIb2h5aUZUT0hocVlSMzdNRDItQ3FEeThyVC16NDhDYTFMVkV0TlJ1X2NjSDIyYWRsLThDQVBPQVh3c2ZNQ0JrUUtFUE5ZZnpUT1pjalZPXzhsZTRfSmF1cy1OdS1XYU8yUnRZNXVrcHVYMFZOR2w2Q19OTzZWd2ZZenpBMlBpdzBmWU9yVUd3MF9uQWFsRnBoSGY4WkVWMWtTREJUNjlKMmZ4WTlRVmJTOFFPZTZIR3ZIUQ?oc=5",
+          "source": "NOLA.com",
+          "summary": "Beatles Fest, Tori Amos, and more music in New Orleans the week of July 9-15, 2026 NOLA.com",
+          "published": "Jul 9, 2026 6:00 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Weekend Picks - New Orleans Tourism",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5",
+          "source": "New Orleans Tourism",
+          "summary": "Weekend Picks New Orleans Tourism",
+          "published": "Jul 9, 2026 7:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "John Lisi & Delta Funk",
-          "url": "https://www.wwoz.org/events/1364921",
+          "title": "The Jelly Roll Stompers",
+          "url": "https://www.wwoz.org/events/1364946",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 3:00pm",
+          "published": "Sunday, July 12 at 3:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Lisi+%26+Delta+Funk&dates=20260711T150000%2F20260711T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364921&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Jelly+Roll+Stompers&dates=20260712T150000%2F20260712T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364946&location=21st+Amendment"
         },
         {
-          "title": "Marty Peters Gets Organized",
-          "url": "https://www.wwoz.org/events/1364906",
+          "title": "Big Mike & The R&B Kings",
+          "url": "https://www.wwoz.org/events/1364951",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 8:00pm",
+          "published": "Sunday, July 12 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Marty+Peters+Gets+Organized&dates=20260711T200000%2F20260711T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364906&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+Mike+%26+The+R%26B+Kings&dates=20260712T200000%2F20260712T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364951&location=21st+Amendment"
         },
         {
-          "title": "St. Julien X",
-          "url": "https://www.wwoz.org/events/1365991",
+          "title": "Funhouse",
+          "url": "https://www.wwoz.org/events/1366026",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 5:00pm",
+          "published": "Sunday, July 12 at 3:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=St.+Julien+X&dates=20260711T170000%2F20260711T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1365991&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Funhouse&dates=20260712T150000%2F20260712T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366026&location=30%2F90"
         },
         {
-          "title": "Deltaphonic",
-          "url": "https://www.wwoz.org/events/1365996",
+          "title": "Anne Elise & the Swamp Circus",
+          "url": "https://www.wwoz.org/events/1366031",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 8:00pm",
+          "published": "Sunday, July 12 at 6:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deltaphonic&dates=20260711T200000%2F20260711T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1365996&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Anne+Elise+%26+the+Swamp+Circus&dates=20260712T180000%2F20260712T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366031&location=30%2F90"
         },
         {
-          "title": "The Kazzettes",
-          "url": "https://www.wwoz.org/events/1366221",
+          "title": "SingleMaltPlease",
+          "url": "https://www.wwoz.org/events/1366111",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 11:00pm",
+          "published": "Sunday, July 12 at 9:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Kazzettes&dates=20260711T230000%2F20260712T010000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366221&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SingleMaltPlease&dates=20260712T210000%2F20260712T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366111&location=30%2F90"
         },
         {
-          "title": "N.e.R.f the World",
-          "url": "https://www.wwoz.org/events/1368661",
-          "source": "WWOZ Livewire",
-          "summary": "Avenue Club, The. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 9:00pm",
-          "eyebrow": "Event",
-          "location": "Avenue Club, The",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=N.e.R.f+the+World&dates=20260711T210000%2F20260711T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368661&location=Avenue+Club%2C+The"
-        },
-        {
-          "title": "Raphael Bas",
-          "url": "https://www.wwoz.org/events/1364681",
+          "title": "Pete Olynciw",
+          "url": "https://www.wwoz.org/events/1364686",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 7:00pm",
+          "published": "Sunday, July 12 at 7:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Raphael+Bas&dates=20260711T190000%2F20260711T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364681&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pete+Olynciw&dates=20260712T190000%2F20260712T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364686&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Aaron Levinson & Friends",
-          "url": "https://www.wwoz.org/events/1368226",
+          "title": "The Jay Dufour Band",
+          "url": "https://www.wwoz.org/events/1368261",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 11:00am",
+          "published": "Sunday, July 12 at 11:00am",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aaron+Levinson+%26+Friends&dates=20260711T110000%2F20260711T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368226&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Jay+Dufour+Band&dates=20260712T110000%2F20260712T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368261&location=Bamboula%27s"
+        },
+        {
+          "title": "Laura Doyle Quartet",
+          "url": "https://www.wwoz.org/events/1368256",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, July 12 at 2:15pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laura+Doyle+Quartet&dates=20260712T141500%2F20260712T161500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368256&location=Bamboula%27s"
+        },
+        {
+          "title": "The Midnight Brawlers",
+          "url": "https://www.wwoz.org/events/1368251",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, July 12 at 6:30pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Midnight+Brawlers&dates=20260712T183000%2F20260712T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368251&location=Bamboula%27s"
+        },
+        {
+          "title": "Kat Kiley Experience",
+          "url": "https://www.wwoz.org/events/1368246",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, July 12 at 10:00pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kat+Kiley+Experience&dates=20260712T220000%2F20260713T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368246&location=Bamboula%27s"
         },
         {
           "title": "James McClaskey & The Rhythm Band",
-          "url": "https://www.wwoz.org/events/1368231",
+          "url": "https://www.wwoz.org/events/1367346",
           "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 2:15pm",
+          "summary": "BJ's Lounge. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, July 12 at 9:00pm",
           "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=James+McClaskey+%26+The+Rhythm+Band&dates=20260711T141500%2F20260711T161500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368231&location=Bamboula%27s"
-        },
-        {
-          "title": "Johnny Mastro Blues",
-          "url": "https://www.wwoz.org/events/1368236",
-          "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 6:30pm",
-          "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Johnny+Mastro+Blues&dates=20260711T183000%2F20260711T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368236&location=Bamboula%27s"
-        },
-        {
-          "title": "Paggy Prine & Southern Soul",
-          "url": "https://www.wwoz.org/events/1368241",
-          "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, July 11 at 10:00pm",
-          "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Paggy+Prine+%26+Southern+Soul&dates=20260711T220000%2F20260712T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368241&location=Bamboula%27s"
+          "location": "BJ's Lounge",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=James+McClaskey+%26+The+Rhythm+Band&dates=20260712T210000%2F20260712T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1367346&location=BJ%27s+Lounge"
         }
       ]
     }
