@@ -3,672 +3,356 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Nola Daily</title>
-    <meta name="description" content="Daily New Orleans news, dining, entertainment, live music, events, and weather.">
-    <meta name="theme-color" content="#0d1117">
+    <title>Nola Daily — Tonight in the Quarter</title>
+    <meta name="description" content="Daily New Orleans news, dining, entertainment, live music, events, and weather — refreshed every morning.">
+    <meta name="theme-color" content="#0a1210">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Manrope:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@1,500;1,600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/styles.css">
   </head>
   <body>
-    <div class="app" id="top">
-      <aside class="sidebar">
-        <div class="sidebar-header">
-          <a class="brand" href="#top" aria-label="Nola Daily home">
-            <span class="brand-mark">ND</span>
-            <span>
-              <strong>Nola Daily</strong>
-              <em>New Orleans refreshed daily.</em>
-            </span>
-          </a>
-          <div class="count">36 links &middot; 12 events</div>
-        </div>
-        <div class="search-wrap">
-          <input id="search" type="search" placeholder="Search Nola Daily..." autocomplete="off">
-        </div>
-        <div class="tags-wrap" id="filters">
-          <button class="tag-pill active" type="button" data-filter="all">All</button>
-          <button class="tag-pill" type="button" data-filter="city-news">City News</button><button class="tag-pill" type="button" data-filter="restaurants">Restaurants</button><button class="tag-pill" type="button" data-filter="entertainment">Entertainment</button><button class="tag-pill" type="button" data-filter="music">Concerts + Music</button><button class="tag-pill" type="button" data-filter="events">Upcoming Events</button>
-        </div>
-        <nav class="nav-list" aria-label="Section navigation">
-          <a class="nav-link" href="#city-news"><span>City News</span><strong>6</strong></a><a class="nav-link" href="#restaurants"><span>Restaurants</span><strong>6</strong></a><a class="nav-link" href="#entertainment"><span>Entertainment</span><strong>6</strong></a><a class="nav-link" href="#music"><span>Concerts + Music</span><strong>6</strong></a><a class="nav-link" href="#events"><span>Upcoming Events</span><strong>12</strong></a><a class="nav-link" href="#forecast"><span>Forecast</span><strong>7</strong></a>
-        </nav>
-        
-        <aside class="weather-panel">
-          <div class="eyebrow">Current weather</div>
-          <div class="weather-row">
-            <div class="weather-icon" aria-hidden="true">☀️</div>
-            <div>
-              <h2>Overnight</h2>
-              <div class="weather-temp">79&deg;F</div>
-            </div>
-          </div>
-          <p>Mostly Clear</p>
-          <div class="weather-meta">
-            <span>S 0 to 5 mph</span>
-          </div>
-        </aside>
-    
-        <div class="sidebar-footer">
-          <span>Jul 12, 2026 at 5:32 AM CT</span>
-          <a href="https://steviesimsii.github.io/Second_Brain/" target="_blank" rel="noopener">Second Brain</a>
-        </div>
-      </aside>
+    <div class="grain" aria-hidden="true"></div>
 
-      <main class="main">
-        <section class="welcome">
-          <div class="eyebrow">Daily digest</div>
-          <h1>The city in one focused scan.</h1>
-          <p>A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.</p>
-          <div class="hero-stats" aria-label="Digest summary">
-            <span>Jul 12, 2026 at 5:32 AM CT</span>
-            <span>36 fresh links</span>
-            <span>12 event picks</span>
-          </div>
-        </section>
+    <header class="topbar" id="topbar">
+      <a class="brand" href="#top">
+        <span class="brand-mark" aria-hidden="true">✦</span>
+        <span class="brand-name">Nola&nbsp;Daily</span>
+      </a>
+      <nav class="topnav" id="topnav" aria-label="Sections"></nav>
+      <div class="topbar-date" id="topbar-date"></div>
+    </header>
 
-        
-        <section class="section" id="city-news">
-          <div class="section-header">
-            <div>
-              <div class="eyebrow">Fresh picks</div>
-              <h2>City News</h2>
-              <p>New Orleans city government, neighborhoods, public life, and major local developments.</p>
-            </div>
-            <div class="section-count">6 links</div>
-          </div>
-          <div class="story-grid">
-            
-      <article class="story-card" data-section="city-news" data-search="new orleans city council oks 40-year pilot for rivana apartments - canal street beat new orleans city council oks 40-year pilot for rivana apartments canal street beat canal street beat city news ">
-        <div class="story-kicker">City News</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkQ0enBkdFZqUlByS3VpMlJ1Q3pRVEt0WWpYYTRKazlSTThxTUFJOWV5U1Jfdi03RWpmaVhMdDhEV1l2SmxWaWVaQUt2RHVlYWRIeDRpS0YzMTc2dXRpVUhWNWpxLTBQckpVMm1UNFVhSjBhNWhOVGs2TF96cWZ0MlVwTUFfMmxxZEFUbFNxSm92a1BMMGcwOQ?oc=5" target="_blank" rel="noreferrer">New Orleans City Council OKs 40-Year PILOT for Rivana Apartments - Canal Street Beat</a></h3>
-        <p class="story-summary">New Orleans City Council OKs 40-Year PILOT for Rivana Apartments Canal Street Beat</p>
-        <div class="card-meta"><span>Jul 11, 2026 2:21 PM</span><span>Canal Street Beat</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkQ0enBkdFZqUlByS3VpMlJ1Q3pRVEt0WWpYYTRKazlSTThxTUFJOWV5U1Jfdi03RWpmaVhMdDhEV1l2SmxWaWVaQUt2RHVlYWRIeDRpS0YzMTc2dXRpVUhWNWpxLTBQckpVMm1UNFVhSjBhNWhOVGs2TF96cWZ0MlVwTUFfMmxxZEFUbFNxSm92a1BMMGcwOQ?oc=5" target="_blank" rel="noreferrer">Read story</a>
+    <!-- ============ HERO ============ -->
+    <section class="hero" id="top">
+      <div class="hero-sky" aria-hidden="true">
+        <div class="sky-gradient"></div>
+        <div class="stars" id="stars"></div>
+        <div class="rain" id="rain"></div>
+        <div class="fog fog-a"></div>
+        <div class="fog fog-b"></div>
+      </div>
+
+      <!-- French Quarter skyline, layered for parallax -->
+      <svg class="skyline skyline-far" data-parallax="0.15" viewBox="0 0 1440 240" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+        <path fill="currentColor" d="M0 240V150h40v-20h18v20h30V96h14l6-24 6 24h12v54h36v-30h50v30h28V120h44v30h24v-40h16l4-16 4 16h14v40h36v-26h48v26h30V110h52v40h26v-58h12l7-30 7 30h10v58h40v-24h54v24h26v-36h46v36h30V128h56v22h24v-44h14l5-18 5 18h12v44h34v-28h52v28h28v-40h48v40h22V116h58v34h180v90z"/>
+      </svg>
+      <svg class="skyline skyline-near" data-parallax="0.32" viewBox="0 0 1440 200" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+        <g fill="currentColor">
+          <path d="M0 200v-70h90v-18h8v-8h72v8h8v18h60V88h10l8-34 8 34h10v42h80v-20h96v20h56v-52h108v52h48v-30h8v-10h84v10h8v30h72V96h12l9-40 9 40h12v34h92v-22h104v22h60v-46h116v46h40v-26h10v-8h78v8h10v26h132v70z"/>
+          <!-- wrought-iron balcony rails -->
+          <rect x="260" y="118" width="96" height="3"/>
+          <rect x="612" y="98" width="84" height="3"/>
+          <rect x="1074" y="122" width="78" height="3"/>
+        </g>
+      </svg>
+
+      <!-- gas lamp -->
+      <div class="lamp" data-parallax="0.4" aria-hidden="true">
+        <div class="lamp-post"></div>
+        <div class="lamp-head"><span class="lamp-flame"></span></div>
+        <div class="lamp-glow"></div>
+      </div>
+
+      <div class="hero-content">
+        <p class="hero-eyebrow reveal">The daily dispatch · New Orleans</p>
+        <h1 class="hero-title">
+          <span class="reveal">Tonight in</span>
+          <span class="reveal hero-title-accent">the&nbsp;Quarter<em>.</em></span>
+        </h1>
+        <p class="hero-lead reveal" id="hero-lead">Loading today’s edition…</p>
+        <div class="hero-meta reveal" id="hero-meta"></div>
+        <div class="hero-actions reveal">
+          <a class="btn btn-gold" href="#city-news">Start reading</a>
+          <a class="btn btn-ghost" href="#forecast">Seven-day sky</a>
         </div>
-      </article>
-    
+      </div>
 
-      <article class="story-card" data-section="city-news" data-search="legal analyst: murrill preservation letters may signal push to examine grand jury process - fox8live.com legal analyst: murrill preservation letters may signal push to examine grand jury process fox8live.com fox8live.com city news ">
-        <div class="story-kicker">City News</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzhrUFpJOWRrYzNiSVdSNHdTanBvX3NFWkJhM01hWUtCY1dzcnRqcjIzNEJEVmNCS04wZlRTZ1RxVGMwc3RlUVA5TFdOUzR1NjFpTzR2UFp6cFhwdjFobmRoVUhTU1BTQ3hBRTVNTjZ4aWtEOWM0MFRnTGtIQkJ6bWRqTWpFNVd2cThMdkFtNGNKeG5BajZPMTJuXzIxQlZjbEtsbW1taWplMFFlU21UcjRMbXhFT0VTUS1TdDdwTdIB0wFBVV95cUxQR1NDTDh5Z09YY3hPZHlURldWdjdXaVZyS0N0SktXSzhIcVFObldyazRSRUhKeGRBOTA5M3dJb3BNZXNuZzd0WVZ3UzhpMTNocWs2V05wWndtRkd0V0VHckhIVUJ5SDBuU0RiSWZ1TzNOOTRHcDdxNkR1Qk90ZU80SlpXa2pwVHNFcnB4NEJwQzVpR3lRT2F1NExOS2RZdUxiNHRLRkFDWGxZek94T3F1TzFkRy1OTVN2TTlUNUd5R1lyNHBHNE0xRnk1TDk2LWE0Z3hF?oc=5" target="_blank" rel="noreferrer">Legal analyst: Murrill preservation letters may signal push to examine grand jury process - fox8live.com</a></h3>
-        <p class="story-summary">Legal analyst: Murrill preservation letters may signal push to examine grand jury process fox8live.com</p>
-        <div class="card-meta"><span>Jul 11, 2026 1:56 AM</span><span>fox8live.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzhrUFpJOWRrYzNiSVdSNHdTanBvX3NFWkJhM01hWUtCY1dzcnRqcjIzNEJEVmNCS04wZlRTZ1RxVGMwc3RlUVA5TFdOUzR1NjFpTzR2UFp6cFhwdjFobmRoVUhTU1BTQ3hBRTVNTjZ4aWtEOWM0MFRnTGtIQkJ6bWRqTWpFNVd2cThMdkFtNGNKeG5BajZPMTJuXzIxQlZjbEtsbW1taWplMFFlU21UcjRMbXhFT0VTUS1TdDdwTdIB0wFBVV95cUxQR1NDTDh5Z09YY3hPZHlURldWdjdXaVZyS0N0SktXSzhIcVFObldyazRSRUhKeGRBOTA5M3dJb3BNZXNuZzd0WVZ3UzhpMTNocWs2V05wWndtRkd0V0VHckhIVUJ5SDBuU0RiSWZ1TzNOOTRHcDdxNkR1Qk90ZU80SlpXa2pwVHNFcnB4NEJwQzVpR3lRT2F1NExOS2RZdUxiNHRLRkFDWGxZek94T3F1TzFkRy1OTVN2TTlUNUd5R1lyNHBHNE0xRnk1TDk2LWE0Z3hF?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
+      <aside class="hero-weather reveal" id="hero-weather" aria-label="Current weather"></aside>
 
-      <article class="story-card" data-section="city-news" data-search="new orleans withdraws request for loan approval from state following murrill indictment kerfuffle - louisiana illuminator new orleans withdraws request for loan approval from state following murrill indictment kerfuffle louisiana illuminator louisiana illuminator city news ">
-        <div class="story-kicker">City News</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHVPdmtjSG1hVThHaWZvX0s4RXFpbXg5WFA2WkdYZUNTYjN2LTBGNGF1UXZtVm04ajBvT0ZsTmFzOGRxUmRhdUJJbUdjQUx4dW9uQ19IU0U5S1pqaWRYUFF3SHVKd29RZmpZMjJFZzZHczNROTcxblpRaXNtN3B1andSY0taMWtMdG9zcDVlMmp5RWNVajFNdzQxMW1RV0JtbGFBV25ZUm56LTQwSkNPY09LTlpxRGdrY0ZjN2wyVUhJdE5BV2plX213UVR2dW1u?oc=5" target="_blank" rel="noreferrer">New Orleans withdraws request for loan approval from state following Murrill indictment kerfuffle - Louisiana Illuminator</a></h3>
-        <p class="story-summary">New Orleans withdraws request for loan approval from state following Murrill indictment kerfuffle Louisiana Illuminator</p>
-        <div class="card-meta"><span>Jul 10, 2026 9:42 PM</span><span>Louisiana Illuminator</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHVPdmtjSG1hVThHaWZvX0s4RXFpbXg5WFA2WkdYZUNTYjN2LTBGNGF1UXZtVm04ajBvT0ZsTmFzOGRxUmRhdUJJbUdjQUx4dW9uQ19IU0U5S1pqaWRYUFF3SHVKd29RZmpZMjJFZzZHczNROTcxblpRaXNtN3B1andSY0taMWtMdG9zcDVlMmp5RWNVajFNdzQxMW1RV0JtbGFBV25ZUm56LTQwSkNPY09LTlpxRGdrY0ZjN2wyVUhJdE5BV2plX213UVR2dW1u?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
+      <div class="scroll-cue" aria-hidden="true"><span></span></div>
+    </section>
 
-      <article class="story-card" data-section="city-news" data-search="new orleans city council approves river district housing tax incentive - new orleans citybusiness new orleans city council approves river district housing tax incentive new orleans citybusiness new orleans citybusiness city news ">
-        <div class="story-kicker">City News</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUtYbUxGYnZPamJkbXlES0IxV2pxanR6cUhOUHBCbnlubHZYTmtpRHRyaWlZaENBcmJOX1BteDJPR2N5SG5WUmVVTXhyRGVFU3BBeFgwZ2cxNXBpQ0RBRnYtbjlqYko3NUtRVUpBRUQzYzRfbU13QUpHVzBtTXFEMHBoV3UwMVZzS05ReDBRTU4wWGdIVHBDdTdSSQ?oc=5" target="_blank" rel="noreferrer">New Orleans City Council approves River District housing tax incentive - New Orleans CityBusiness</a></h3>
-        <p class="story-summary">New Orleans City Council approves River District housing tax incentive New Orleans CityBusiness</p>
-        <div class="card-meta"><span>Jul 10, 2026 8:58 PM</span><span>New Orleans CityBusiness</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUtYbUxGYnZPamJkbXlES0IxV2pxanR6cUhOUHBCbnlubHZYTmtpRHRyaWlZaENBcmJOX1BteDJPR2N5SG5WUmVVTXhyRGVFU3BBeFgwZ2cxNXBpQ0RBRnYtbjlqYko3NUtRVUpBRUQzYzRfbU13QUpHVzBtTXFEMHBoV3UwMVZzS05ReDBRTU4wWGdIVHBDdTdSSQ?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
+    <!-- ============ SECTIONS ============ -->
+    <main id="digest" class="digest">
+      <div class="digest-loading" id="digest-loading">
+        <span class="loading-flame" aria-hidden="true"></span>
+        <p>Lighting the lamps…</p>
+      </div>
+    </main>
 
-      <article class="story-card" data-section="city-news" data-search="landry accuses new orleans of treating state as ‘atm’ - new orleans citybusiness landry accuses new orleans of treating state as ‘atm’ new orleans citybusiness new orleans citybusiness city news ">
-        <div class="story-kicker">City News</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOUm5wRXNoUHV4dlFIZ09YdVkyTDVTWnlYMWx5VzU2UWM2TVdvaEpMQWhPYXI1ZzJkUkgtY3Q5bnJOSTlJa3ZlS2V6ZXd6U0I5b1R1Y1J2UkpIbWNjdlVlNC1xdjRoZnFaaUpLcE9IbmR6TXhSZjExRGxpby1IeUFubEEyMlI5TWhqS21rQlRaMA?oc=5" target="_blank" rel="noreferrer">Landry accuses New Orleans of treating state as ‘ATM’ - New Orleans CityBusiness</a></h3>
-        <p class="story-summary">Landry accuses New Orleans of treating state as ‘ATM’ New Orleans CityBusiness</p>
-        <div class="card-meta"><span>Jul 10, 2026 8:44 PM</span><span>New Orleans CityBusiness</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOUm5wRXNoUHV4dlFIZ09YdVkyTDVTWnlYMWx5VzU2UWM2TVdvaEpMQWhPYXI1ZzJkUkgtY3Q5bnJOSTlJa3ZlS2V6ZXd6U0I5b1R1Y1J2UkpIbWNjdlVlNC1xdjRoZnFaaUpLcE9IbmR6TXhSZjExRGxpby1IeUFubEEyMlI5TWhqS21rQlRaMA?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
+    <!-- ============ FORECAST ============ -->
+    <section class="forecast" id="forecast">
+      <div class="section-head reveal">
+        <p class="section-eyebrow">Nº — Weather</p>
+        <h2 class="section-title">The seven-day sky</h2>
+        <p class="section-desc">NOAA’s local read on the week ahead.</p>
+      </div>
+      <div class="forecast-strip" id="forecast-strip"></div>
+    </section>
 
-      <article class="story-card" data-section="city-news" data-search="delta reaffirms forecast despite fuel price volatility - new orleans citybusiness delta reaffirms forecast despite fuel price volatility new orleans citybusiness new orleans citybusiness city news ">
-        <div class="story-kicker">City News</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHREZU1qeDd3c2syWGdVQnBBMHk2UFVlMmJ6a09ORHN3TEFyUnctaHVUVVp0VXpwLTJLeFYwTE8xSXFvdEpfdVluN1piZ2N0TlhqRjdTM1l2ZVVnZlJqTmNCU0NBLS1ORTRQRGtadS1YaURheS1jREE5VHBJZ3BMblp1VTdVZkh2NlpXTVR5WkUzNVJJcXJqU3hn?oc=5" target="_blank" rel="noreferrer">Delta reaffirms forecast despite fuel price volatility - New Orleans CityBusiness</a></h3>
-        <p class="story-summary">Delta reaffirms forecast despite fuel price volatility New Orleans CityBusiness</p>
-        <div class="card-meta"><span>Jul 10, 2026 8:44 PM</span><span>New Orleans CityBusiness</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHREZU1qeDd3c2syWGdVQnBBMHk2UFVlMmJ6a09ORHN3TEFyUnctaHVUVVp0VXpwLTJLeFYwTE8xSXFvdEpfdVluN1piZ2N0TlhqRjdTM1l2ZVVnZlJqTmNCU0NBLS1ORTRQRGtadS1YaURheS1jREE5VHBJZ3BMblp1VTdVZkh2NlpXTVR5WkUzNVJJcXJqU3hn?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-          </div>
-        </section>
-    
+    <div id="source-notes"></div>
 
-        <section class="section" id="restaurants">
-          <div class="section-header">
-            <div>
-              <div class="eyebrow">Fresh picks</div>
-              <h2>Restaurants</h2>
-              <p>Restaurant openings, dining coverage, chef news, and standout food reporting around the city.</p>
-            </div>
-            <div class="section-count">6 links</div>
-          </div>
-          <div class="story-grid">
-            
-      <article class="story-card" data-section="restaurants" data-search="nrf honors jambalaya girl as ‘america’s retail champion’ - biz new orleans nrf honors jambalaya girl as ‘america’s retail champion’ biz new orleans biz new orleans restaurants ">
-        <div class="story-kicker">Restaurants</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQOEdLV3NVVU9ZTHRxMFprV25DTVJQMjlzUTRvV3RhbXV2TFlXdHI2dFJkM0hWdDY4dzlxblRGelE4MU1hN3V2bFY1T1o4YXdxLWhDVS1hN2UzbXZPTFZCZTRsN0RVaUtJcENRQXJQNzR5NVQ3b0ROdFVPQWxWUFdDbG51Vm94V1U?oc=5" target="_blank" rel="noreferrer">NRF Honors Jambalaya Girl as ‘America’s Retail Champion’ - Biz New Orleans</a></h3>
-        <p class="story-summary">NRF Honors Jambalaya Girl as ‘America’s Retail Champion’ Biz New Orleans</p>
-        <div class="card-meta"><span>Jul 10, 2026 4:31 PM</span><span>Biz New Orleans</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQOEdLV3NVVU9ZTHRxMFprV25DTVJQMjlzUTRvV3RhbXV2TFlXdHI2dFJkM0hWdDY4dzlxblRGelE4MU1hN3V2bFY1T1o4YXdxLWhDVS1hN2UzbXZPTFZCZTRsN0RVaUtJcENRQXJQNzR5NVQ3b0ROdFVPQWxWUFdDbG51Vm94V1U?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
+    <footer class="footer">
+      <div class="footer-inner">
+        <p class="footer-sig">Nola&nbsp;Daily <span aria-hidden="true">✦</span> <em>laissez les bons temps rouler</em></p>
+        <p class="footer-copy" id="footer-generated"></p>
+        <a class="footer-top" href="#top">Back to the balcony ↑</a>
+      </div>
+    </footer>
 
-      <article class="story-card" data-section="restaurants" data-search="chef kevin belton remembers new orleans&#x27; leni&#x27;s cafe with memories, skillet cornbread recipe - nola.com chef kevin belton remembers new orleans&#x27; leni&#x27;s cafe with memories, skillet cornbread recipe nola.com nola.com restaurants ">
-        <div class="story-kicker">Restaurants</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEVjbmN4a1FOOVJIcl9jX3JfZGdaeDhOQ2F6TWFOZXYyeE1pc3ZwY0pteVNVTk1NOWZYNEM3LXJTNnNUWlAzVWxnQ1JVdkNrT24tV2VfSjJGWTkzQ01Fdk4xdTFmN1paXzhIT2dXbDBXcGY2cS02S2RDR1g5aUZpcTZBWHN6bVEtSmpIMHhUOUtBem8tWmNya3VWOUliLW1jS2FQd0tpc044MTJERGVqU0p5d2RyVGpqYTYyQkNJd9IBxAFBVV95cUxPOXJxM1Z2S19Na2p5VWlzQ2g2YV82RFBCblBsaHk4RF9fRVlTZEtaTnFwdW1scm1KeHZnUmxDLUtTVzh2UFdkWmJRZjdzTFJBa0dpdi1janZacU5uOUUwRVdsMndxdjRxa2c5Y01xZmFyU1NsUjF2OG1lUnd1c1hWNTVOUVloYmJkMElqUWJCV1hsNjZ4WmhvY3E2RUdOV2JxallOb0ljbDNveG92TGs0NDZmVXltM3l0akF1S2ZCT0t1Tnk5?oc=5" target="_blank" rel="noreferrer">Chef Kevin Belton remembers New Orleans&#x27; Leni&#x27;s Cafe with memories, skillet cornbread recipe - NOLA.com</a></h3>
-        <p class="story-summary">Chef Kevin Belton remembers New Orleans&#x27; Leni&#x27;s Cafe with memories, skillet cornbread recipe NOLA.com</p>
-        <div class="card-meta"><span>Jul 9, 2026 5:00 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEVjbmN4a1FOOVJIcl9jX3JfZGdaeDhOQ2F6TWFOZXYyeE1pc3ZwY0pteVNVTk1NOWZYNEM3LXJTNnNUWlAzVWxnQ1JVdkNrT24tV2VfSjJGWTkzQ01Fdk4xdTFmN1paXzhIT2dXbDBXcGY2cS02S2RDR1g5aUZpcTZBWHN6bVEtSmpIMHhUOUtBem8tWmNya3VWOUliLW1jS2FQd0tpc044MTJERGVqU0p5d2RyVGpqYTYyQkNJd9IBxAFBVV95cUxPOXJxM1Z2S19Na2p5VWlzQ2g2YV82RFBCblBsaHk4RF9fRVlTZEtaTnFwdW1scm1KeHZnUmxDLUtTVzh2UFdkWmJRZjdzTFJBa0dpdi1janZacU5uOUUwRVdsMndxdjRxa2c5Y01xZmFyU1NsUjF2OG1lUnd1c1hWNTVOUVloYmJkMElqUWJCV1hsNjZ4WmhvY3E2RUdOV2JxallOb0ljbDNveG92TGs0NDZmVXltM3l0akF1S2ZCT0t1Tnk5?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="restaurants" data-search="just opened: best new restaurants in new orleans - new orleans tourism just opened: best new restaurants in new orleans new orleans tourism new orleans tourism restaurants ">
-        <div class="story-kicker">Restaurants</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiekFVX3lxTE9Qa3dqTE5iNUZkTHZpLVJPS0s2SGw3c0g2OGloMW5QVUxfWEczNENxclV2LWxlNU0yd2pMMkw0UmhzNmJMNWtSX0w2V2x1Vk13TXJLNkMwY1JhXzVWR3JsYTJOTW56ZjJqVXRHVnc1WWhWZXJROEdTRElR?oc=5" target="_blank" rel="noreferrer">Just Opened: Best New Restaurants in New Orleans - New Orleans Tourism</a></h3>
-        <p class="story-summary">Just Opened: Best New Restaurants in New Orleans New Orleans Tourism</p>
-        <div class="card-meta"><span>Jul 9, 2026 7:00 AM</span><span>New Orleans Tourism</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMiekFVX3lxTE9Qa3dqTE5iNUZkTHZpLVJPS0s2SGw3c0g2OGloMW5QVUxfWEczNENxclV2LWxlNU0yd2pMMkw0UmhzNmJMNWtSX0w2V2x1Vk13TXJLNkMwY1JhXzVWR3JsYTJOTW56ZjJqVXRHVnc1WWhWZXJROEdTRElR?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="restaurants" data-search="new &#x27;hidden&#x27; downtown nola restaurant is a great find for cocktails, bites and more - nola.com new &#x27;hidden&#x27; downtown nola restaurant is a great find for cocktails, bites and more nola.com nola.com restaurants ">
-        <div class="story-kicker">Restaurants</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNazRYN09FRHM5ZHdieDBfdXVyaERkMURiMDc2SEZkZnNTR3VHSHJGdHdTWm9ubHkzSDA3WmYxa0NSLTdWR3ZWQmZseWVjaHdVcFp0N0FQT0xNOS1JR2Jua3FXTEYtLXljSVh0d2FiR1pWNGowS0ZMcFhYQnVVTzNlbjhKUm9FMVZjTG5jUFpZX0VmQ29udHFXVkpDbXBoeXVTMmdRc2NhVVluVld5dGJNbjc4VdIBuAFBVV95cUxPaTdVVXV1VjRuZzhSdmV2V20zUGE5Wl9WcE52WVRRM2g2M1UtTGc0Q09XdHZWR1dPaTBUSTk1R1JEWkluUHZvYVRrTEJtYzhCTWlucC1DLTlCbHVjMnBrbURDS2pWcW83aDV4ZXRWazFmZW1HaTR1a2dyVlp1dWlWeHNUMUVlRWVLanEwc25MNFc1bV9mNXRmSFlEcHF2NXhHNkNUSlBfZkRDRHdNeUZRUmJjc0JXX3BF?oc=5" target="_blank" rel="noreferrer">New &#x27;hidden&#x27; downtown NOLA restaurant is a great find for cocktails, bites and more - NOLA.com</a></h3>
-        <p class="story-summary">New &#x27;hidden&#x27; downtown NOLA restaurant is a great find for cocktails, bites and more NOLA.com</p>
-        <div class="card-meta"><span>Jul 8, 2026 12:00 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNazRYN09FRHM5ZHdieDBfdXVyaERkMURiMDc2SEZkZnNTR3VHSHJGdHdTWm9ubHkzSDA3WmYxa0NSLTdWR3ZWQmZseWVjaHdVcFp0N0FQT0xNOS1JR2Jua3FXTEYtLXljSVh0d2FiR1pWNGowS0ZMcFhYQnVVTzNlbjhKUm9FMVZjTG5jUFpZX0VmQ29udHFXVkpDbXBoeXVTMmdRc2NhVVluVld5dGJNbjc4VdIBuAFBVV95cUxPaTdVVXV1VjRuZzhSdmV2V20zUGE5Wl9WcE52WVRRM2g2M1UtTGc0Q09XdHZWR1dPaTBUSTk1R1JEWkluUHZvYVRrTEJtYzhCTWlucC1DLTlCbHVjMnBrbURDS2pWcW83aDV4ZXRWazFmZW1HaTR1a2dyVlp1dWlWeHNUMUVlRWVLanEwc25MNFc1bV9mNXRmSFlEcHF2NXhHNkNUSlBfZkRDRHdNeUZRUmJjc0JXX3BF?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="restaurants" data-search="new orleans police seeking car, occupants in deadly hit-and-run - wdsu new orleans police seeking car, occupants in deadly hit-and-run wdsu wdsu restaurants ">
-        <div class="story-kicker">Restaurants</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3Q5Q1BrNnFqeEN4bUEwNlVBZnlsUGdMWXFmTGNKMWFZQlF1UmJWY1kxUzFwMk1QYUYzVUVRaEhMUnZISU9JdnhYZjdRWG9UOUhGZUhndzRoS19zek1IODBhYTJVYlp6SEFIQnlRUlVzQWliMV9tRkZDQmtYdUdQTUpXT0pINmRudkdsMmxXRXFOaVd5T3JSMFdB?oc=5" target="_blank" rel="noreferrer">New Orleans police seeking car, occupants in deadly hit-and-run - WDSU</a></h3>
-        <p class="story-summary">New Orleans police seeking car, occupants in deadly hit-and-run WDSU</p>
-        <div class="card-meta"><span>Jul 7, 2026 9:43 PM</span><span>WDSU</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3Q5Q1BrNnFqeEN4bUEwNlVBZnlsUGdMWXFmTGNKMWFZQlF1UmJWY1kxUzFwMk1QYUYzVUVRaEhMUnZISU9JdnhYZjdRWG9UOUhGZUhndzRoS19zek1IODBhYTJVYlp6SEFIQnlRUlVzQWliMV9tRkZDQmtYdUdQTUpXT0pINmRudkdsMmxXRXFOaVd5T3JSMFdB?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="restaurants" data-search="new orleans restaurant gris-gris to close later this month - axios new orleans restaurant gris-gris to close later this month axios axios restaurants ">
-        <div class="story-kicker">Restaurants</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQd1lkYWlqVVVyX1d1b3I1Q1NYbWVfZkNKRURxWkItbFhydW9EQWRJaU5sUXpSNWw0SFBwdGdRUzl0dktjM3VmcWlWcXAwcHhRdFFIb1NYVDFjazQtbllZdEc0ZS03SlRNM1dqZ1dteUlLR1dzQXd2WmJmUGRvNXVENUN6Rk40a20zdEhNTWFKS0JUbzdoRnV0TW5KZTRIVkx1WVRja28wNGdRQ1UxakE?oc=5" target="_blank" rel="noreferrer">New Orleans restaurant Gris-Gris to close later this month - Axios</a></h3>
-        <p class="story-summary">New Orleans restaurant Gris-Gris to close later this month Axios</p>
-        <div class="card-meta"><span>Jul 7, 2026 11:38 AM</span><span>Axios</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQd1lkYWlqVVVyX1d1b3I1Q1NYbWVfZkNKRURxWkItbFhydW9EQWRJaU5sUXpSNWw0SFBwdGdRUzl0dktjM3VmcWlWcXAwcHhRdFFIb1NYVDFjazQtbllZdEc0ZS03SlRNM1dqZ1dteUlLR1dzQXd2WmJmUGRvNXVENUN6Rk40a20zdEhNTWFKS0JUbzdoRnV0TW5KZTRIVkx1WVRja28wNGdRQ1UxakE?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-          </div>
-        </section>
-    
-
-        <section class="section" id="entertainment">
-          <div class="section-header">
-            <div>
-              <div class="eyebrow">Fresh picks</div>
-              <h2>Entertainment</h2>
-              <p>Arts, culture, nightlife, festivals, and local entertainment headlines.</p>
-            </div>
-            <div class="section-count">6 links</div>
-          </div>
-          <div class="story-grid">
-            
-      <article class="story-card" data-section="entertainment" data-search="james rivers, new orleans jazz musician who played on clint eastwood movies, dies at 89 - nola.com james rivers, new orleans jazz musician who played on clint eastwood movies, dies at 89 nola.com nola.com entertainment ">
-        <div class="story-kicker">Entertainment</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTFPVm1IVER6TENoMkRUd1IyNGdYejBRRFZlUGRxWFJyRDBpMEFvYWRSbmpCTktUZ0x3WjY3S183RDZ5ZHJDRE5fcHBCVU81U25YelFSM0liTWxCWHU5NlpIdWNwbWMxaXMxYmxoZ0FqTzU4VlZrZGlrNUpUSmFKaEFhNDdHaVJJb29xaFNDbGlCa0QxOW1LMTJKVVBUclJmcnBza1ZVUUctcS1uYWVTdm84WdIBuAFBVV95cUxPX1lWNC1EV0ZaQnotRTJSa1Z2SWsyY1Y4UHVBdHAzRE5waFlkeHFIOGZQR0J6clpjU0NZVTdlWWFwQnFaa1B1Nzg3WnN0bTZBaWpWejBnOXRXWDVBOFRHUTNOdUoweVo2TXFfWkVWLVVzOWp2STdhZEczdnJJUWNCUVNTMW5sM0txaFliQjg0TUJtOWl4NkNaZENQN2JrRTM1UjJmYktsaVNrbE1tS1BSZElaV042MmN4?oc=5" target="_blank" rel="noreferrer">James Rivers, New Orleans jazz musician who played on Clint Eastwood movies, dies at 89 - NOLA.com</a></h3>
-        <p class="story-summary">James Rivers, New Orleans jazz musician who played on Clint Eastwood movies, dies at 89 NOLA.com</p>
-        <div class="card-meta"><span>Jul 10, 2026 3:41 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTFPVm1IVER6TENoMkRUd1IyNGdYejBRRFZlUGRxWFJyRDBpMEFvYWRSbmpCTktUZ0x3WjY3S183RDZ5ZHJDRE5fcHBCVU81U25YelFSM0liTWxCWHU5NlpIdWNwbWMxaXMxYmxoZ0FqTzU4VlZrZGlrNUpUSmFKaEFhNDdHaVJJb29xaFNDbGlCa0QxOW1LMTJKVVBUclJmcnBza1ZVUUctcS1uYWVTdm84WdIBuAFBVV95cUxPX1lWNC1EV0ZaQnotRTJSa1Z2SWsyY1Y4UHVBdHAzRE5waFlkeHFIOGZQR0J6clpjU0NZVTdlWWFwQnFaa1B1Nzg3WnN0bTZBaWpWejBnOXRXWDVBOFRHUTNOdUoweVo2TXFfWkVWLVVzOWp2STdhZEczdnJJUWNCUVNTMW5sM0txaFliQjg0TUJtOWl4NkNaZENQN2JrRTM1UjJmYktsaVNrbE1tS1BSZElaV042MmN4?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="entertainment" data-search="will sutton: an improved essence festival deserves financial investment - nola.com will sutton: an improved essence festival deserves financial investment nola.com nola.com entertainment ">
-        <div class="story-kicker">Entertainment</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGtEaWp6SUxrSnZpNExjcWcySTNBNTY1QWd4N2ZBRzFsTXkwUHVOd0ttNDhiMENQR0RzUVQzcHJQb2V2NXd0MlFDbzhYOFROQUxnanBkdW1KNUpuVnR0bnl0U3FYWW9MMEFaeVdBRXVYT01DdzBTZ25CZWgwTlFsbk5CdUZpSC0tNHBkODAtdXVjblZhVGFoei1zMmNUSTZoMWplS3RGN19MZ2JudS1OSi1lVlhBaEnSAbwBQVVfeXFMTThOQ2Z0T1EycmF2UG9OdTkxTjlkRGRHdFREYnVsWTFtSGRWOHhpa1kxMDU2TGVrTS03S3ZqMi04UUFFRmJtSU9taUt3YmRaaktySUQxRTJGY0J3VEZRVm5lRHBMbjJ4ejBNZlF1ZzdIT0dhRXdCTE5zWkhMbENjemZlSXBJQXlSNG91N1RnNWtlQ1hERTA4ZlhHNThXSkk4ZzR0bWM5VG9mbWpnRGpDRzN1WmJJZUlKbS1rX1I?oc=5" target="_blank" rel="noreferrer">Will Sutton: An improved Essence Festival deserves financial investment - NOLA.com</a></h3>
-        <p class="story-summary">Will Sutton: An improved Essence Festival deserves financial investment NOLA.com</p>
-        <div class="card-meta"><span>Jul 10, 2026 2:25 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGtEaWp6SUxrSnZpNExjcWcySTNBNTY1QWd4N2ZBRzFsTXkwUHVOd0ttNDhiMENQR0RzUVQzcHJQb2V2NXd0MlFDbzhYOFROQUxnanBkdW1KNUpuVnR0bnl0U3FYWW9MMEFaeVdBRXVYT01DdzBTZ25CZWgwTlFsbk5CdUZpSC0tNHBkODAtdXVjblZhVGFoei1zMmNUSTZoMWplS3RGN19MZ2JudS1OSi1lVlhBaEnSAbwBQVVfeXFMTThOQ2Z0T1EycmF2UG9OdTkxTjlkRGRHdFREYnVsWTFtSGRWOHhpa1kxMDU2TGVrTS03S3ZqMi04UUFFRmJtSU9taUt3YmRaaktySUQxRTJGY0J3VEZRVm5lRHBMbjJ4ejBNZlF1ZzdIT0dhRXdCTE5zWkhMbENjemZlSXBJQXlSNG91N1RnNWtlQ1hERTA4ZlhHNThXSkk4ZzR0bWM5VG9mbWpnRGpDRzN1WmJJZUlKbS1rX1I?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="entertainment" data-search="keith spera: here&#x27;s what the 2026 essence fest got right and what needs to be improved - nola.com keith spera: here&#x27;s what the 2026 essence fest got right and what needs to be improved nola.com nola.com entertainment ">
-        <div class="story-kicker">Entertainment</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFRXek16MnFOSWQtbHVCVHFpWjR2NWJ5NThMV3o2SnBQbVZjVmg1N2NXQ09DTFZDUEZja2JXNXhHTmticDRiMDlmeDlBc3VNa2REQWVnSHZqaGFpWmV2UmxpdWxYUWlGOGthUlN3NkE5QlhrYlNGaG5FcWhVUXpmNC1hT3FsNXBqM2plTjJ3eWw5NEhOU09RNVJFamowbnlQNE1wN18xM01OY1huVUJDcjNpY1RZTUROMGp0cWZJUmxoUdIBxwFBVV95cUxOY1o0dndBTG13LVF6a1NrU0hJZUhqdm92Y2V5cGp0UDdoRDBBUFFaQkY4WGR3Zm5YbXEyQm5kVmpkLWt1ZGFtdTcwODh2Yy1peHh0Rk5aR2t0LUJVTWVkQl95UEVqS1laYjk4c1czbEtUVFN1QmJueEpacjZWd1QzNTlyeHZGMUFSZzhzY1VyRkZZdHQ3VkI5VWVjc3JwTEQ0alRYankwY29sYW5lTHlDS19uYjNQUHdpYjVldGJoWGtjcS1oYWlv?oc=5" target="_blank" rel="noreferrer">Keith Spera: Here&#x27;s what the 2026 Essence Fest got right and what needs to be improved - NOLA.com</a></h3>
-        <p class="story-summary">Keith Spera: Here&#x27;s what the 2026 Essence Fest got right and what needs to be improved NOLA.com</p>
-        <div class="card-meta"><span>Jul 10, 2026 12:00 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFRXek16MnFOSWQtbHVCVHFpWjR2NWJ5NThMV3o2SnBQbVZjVmg1N2NXQ09DTFZDUEZja2JXNXhHTmticDRiMDlmeDlBc3VNa2REQWVnSHZqaGFpWmV2UmxpdWxYUWlGOGthUlN3NkE5QlhrYlNGaG5FcWhVUXpmNC1hT3FsNXBqM2plTjJ3eWw5NEhOU09RNVJFamowbnlQNE1wN18xM01OY1huVUJDcjNpY1RZTUROMGp0cWZJUmxoUdIBxwFBVV95cUxOY1o0dndBTG13LVF6a1NrU0hJZUhqdm92Y2V5cGp0UDdoRDBBUFFaQkY4WGR3Zm5YbXEyQm5kVmpkLWt1ZGFtdTcwODh2Yy1peHh0Rk5aR2t0LUJVTWVkQl95UEVqS1laYjk4c1czbEtUVFN1QmJueEpacjZWd1QzNTlyeHZGMUFSZzhzY1VyRkZZdHQ3VkI5VWVjc3JwTEQ0alRYankwY29sYW5lTHlDS19uYjNQUHdpYjVldGJoWGtjcS1oYWlv?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="entertainment" data-search="kanye west, aka ye, announces concert at new orleans&#x27; superdome this summer - nola.com kanye west, aka ye, announces concert at new orleans&#x27; superdome this summer nola.com nola.com entertainment ">
-        <div class="story-kicker">Entertainment</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVpHSk9rdVJsOE9vSVp3SUI5ZS03Z3VTTXRZczk1WHRnYTloOXNrZThQeHRTT3NPSEgzVGZXQm5DckhLR1VVOEZaby1Lb3JENzZXNGxJODZKTUZhYkUxdUFwNVZhQ1Ryamt3cVQ4bkpEcmRJdjZXWGlsY2NnazdzZkJ5X0lFM202M1hPUkdNR3Z4Nmo2anQwTUNJMUJBT2tFUXk3VnNXWXFZbjc0aGfSAbMBQVVfeXFMTXhFR0pGWi1yWlRIdXR0Y2FQanJQd2ZYcy1vLVVaNFp3VzNOM2VTMng5Rk80WGpMa1lwNVJDbmxudDlscTQ0V3V2UGFzUTVPOW81aTJiVmhmR1dDREthZS1GenZVQ1pSTDZiTGxQbDktcmx3ZEVfNFJSVExDMjd6UVJnWXZIRG5LS1pVMWN2TlhZM1pnVTNoVUFVMHdBZElJRUxYYUdUZk5rSXdfS0E3QU56VFE?oc=5" target="_blank" rel="noreferrer">Kanye West, aka Ye, announces concert at New Orleans&#x27; Superdome this summer - NOLA.com</a></h3>
-        <p class="story-summary">Kanye West, aka Ye, announces concert at New Orleans&#x27; Superdome this summer NOLA.com</p>
-        <div class="card-meta"><span>Jul 9, 2026 9:11 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVpHSk9rdVJsOE9vSVp3SUI5ZS03Z3VTTXRZczk1WHRnYTloOXNrZThQeHRTT3NPSEgzVGZXQm5DckhLR1VVOEZaby1Lb3JENzZXNGxJODZKTUZhYkUxdUFwNVZhQ1Ryamt3cVQ4bkpEcmRJdjZXWGlsY2NnazdzZkJ5X0lFM202M1hPUkdNR3Z4Nmo2anQwTUNJMUJBT2tFUXk3VnNXWXFZbjc0aGfSAbMBQVVfeXFMTXhFR0pGWi1yWlRIdXR0Y2FQanJQd2ZYcy1vLVVaNFp3VzNOM2VTMng5Rk80WGpMa1lwNVJDbmxudDlscTQ0V3V2UGFzUTVPOW81aTJiVmhmR1dDREthZS1GenZVQ1pSTDZiTGxQbDktcmx3ZEVfNFJSVExDMjd6UVJnWXZIRG5LS1pVMWN2TlhZM1pnVTNoVUFVMHdBZElJRUxYYUdUZk5rSXdfS0E3QU56VFE?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="entertainment" data-search="beatles fest, tori amos, and more music in new orleans the week of july 9-15, 2026 - nola.com beatles fest, tori amos, and more music in new orleans the week of july 9-15, 2026 nola.com nola.com entertainment ">
-        <div class="story-kicker">Entertainment</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGt1VFliaWliWGNDcmxMWjNhTEhkWnRQVExHQWhSZkZ1cDN3OGpyTUl5OE1BZWFHUkh0NXVmeHRESEhEejRmRVJCZ2ZPZUJXRGFiRVlYdGxuMDhSYW9JbmlxNGtzU0VYRUpKSjFBQ2NxTW1GbWt1dkxleE4yRmJXdF9rbEFDSUYyWWpwQjA0SHZTZm1xbnh2cFpTMTh6RGprTTdSU2t6Xy15blYwVTZmUlc3LUc4a2N6Q3BxbNIBwgFBVV95cUxNZWZ1WWhDd2FIb2h5aUZUT0hocVlSMzdNRDItQ3FEeThyVC16NDhDYTFMVkV0TlJ1X2NjSDIyYWRsLThDQVBPQVh3c2ZNQ0JrUUtFUE5ZZnpUT1pjalZPXzhsZTRfSmF1cy1OdS1XYU8yUnRZNXVrcHVYMFZOR2w2Q19OTzZWd2ZZenpBMlBpdzBmWU9yVUd3MF9uQWFsRnBoSGY4WkVWMWtTREJUNjlKMmZ4WTlRVmJTOFFPZTZIR3ZIUQ?oc=5" target="_blank" rel="noreferrer">Beatles Fest, Tori Amos, and more music in New Orleans the week of July 9-15, 2026 - NOLA.com</a></h3>
-        <p class="story-summary">Beatles Fest, Tori Amos, and more music in New Orleans the week of July 9-15, 2026 NOLA.com</p>
-        <div class="card-meta"><span>Jul 9, 2026 6:00 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGt1VFliaWliWGNDcmxMWjNhTEhkWnRQVExHQWhSZkZ1cDN3OGpyTUl5OE1BZWFHUkh0NXVmeHRESEhEejRmRVJCZ2ZPZUJXRGFiRVlYdGxuMDhSYW9JbmlxNGtzU0VYRUpKSjFBQ2NxTW1GbWt1dkxleE4yRmJXdF9rbEFDSUYyWWpwQjA0SHZTZm1xbnh2cFpTMTh6RGprTTdSU2t6Xy15blYwVTZmUlc3LUc4a2N6Q3BxbNIBwgFBVV95cUxNZWZ1WWhDd2FIb2h5aUZUT0hocVlSMzdNRDItQ3FEeThyVC16NDhDYTFMVkV0TlJ1X2NjSDIyYWRsLThDQVBPQVh3c2ZNQ0JrUUtFUE5ZZnpUT1pjalZPXzhsZTRfSmF1cy1OdS1XYU8yUnRZNXVrcHVYMFZOR2w2Q19OTzZWd2ZZenpBMlBpdzBmWU9yVUd3MF9uQWFsRnBoSGY4WkVWMWtTREJUNjlKMmZ4WTlRVmJTOFFPZTZIR3ZIUQ?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="entertainment" data-search="weekend picks - new orleans tourism weekend picks new orleans tourism new orleans tourism entertainment ">
-        <div class="story-kicker">Entertainment</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5" target="_blank" rel="noreferrer">Weekend Picks - New Orleans Tourism</a></h3>
-        <p class="story-summary">Weekend Picks New Orleans Tourism</p>
-        <div class="card-meta"><span>Jul 9, 2026 7:00 AM</span><span>New Orleans Tourism</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-          </div>
-        </section>
-    
-
-        <section class="section" id="music">
-          <div class="section-header">
-            <div>
-              <div class="eyebrow">Fresh picks</div>
-              <h2>Concerts + Music</h2>
-              <p>Live music headlines, concert coverage, and stories tied to New Orleans stages and performers.</p>
-            </div>
-            <div class="section-count">6 links</div>
-          </div>
-          <div class="story-grid">
-            
-      <article class="story-card" data-section="music" data-search="beatles fest, tori amos, and more music in new orleans the week of july 9-15, 2026 - nola.com beatles fest, tori amos, and more music in new orleans the week of july 9-15, 2026 nola.com nola.com concerts + music ">
-        <div class="story-kicker">Concerts + Music</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGt1VFliaWliWGNDcmxMWjNhTEhkWnRQVExHQWhSZkZ1cDN3OGpyTUl5OE1BZWFHUkh0NXVmeHRESEhEejRmRVJCZ2ZPZUJXRGFiRVlYdGxuMDhSYW9JbmlxNGtzU0VYRUpKSjFBQ2NxTW1GbWt1dkxleE4yRmJXdF9rbEFDSUYyWWpwQjA0SHZTZm1xbnh2cFpTMTh6RGprTTdSU2t6Xy15blYwVTZmUlc3LUc4a2N6Q3BxbNIBwgFBVV95cUxNZWZ1WWhDd2FIb2h5aUZUT0hocVlSMzdNRDItQ3FEeThyVC16NDhDYTFMVkV0TlJ1X2NjSDIyYWRsLThDQVBPQVh3c2ZNQ0JrUUtFUE5ZZnpUT1pjalZPXzhsZTRfSmF1cy1OdS1XYU8yUnRZNXVrcHVYMFZOR2w2Q19OTzZWd2ZZenpBMlBpdzBmWU9yVUd3MF9uQWFsRnBoSGY4WkVWMWtTREJUNjlKMmZ4WTlRVmJTOFFPZTZIR3ZIUQ?oc=5" target="_blank" rel="noreferrer">Beatles Fest, Tori Amos, and more music in New Orleans the week of July 9-15, 2026 - NOLA.com</a></h3>
-        <p class="story-summary">Beatles Fest, Tori Amos, and more music in New Orleans the week of July 9-15, 2026 NOLA.com</p>
-        <div class="card-meta"><span>Jul 9, 2026 6:00 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGt1VFliaWliWGNDcmxMWjNhTEhkWnRQVExHQWhSZkZ1cDN3OGpyTUl5OE1BZWFHUkh0NXVmeHRESEhEejRmRVJCZ2ZPZUJXRGFiRVlYdGxuMDhSYW9JbmlxNGtzU0VYRUpKSjFBQ2NxTW1GbWt1dkxleE4yRmJXdF9rbEFDSUYyWWpwQjA0SHZTZm1xbnh2cFpTMTh6RGprTTdSU2t6Xy15blYwVTZmUlc3LUc4a2N6Q3BxbNIBwgFBVV95cUxNZWZ1WWhDd2FIb2h5aUZUT0hocVlSMzdNRDItQ3FEeThyVC16NDhDYTFMVkV0TlJ1X2NjSDIyYWRsLThDQVBPQVh3c2ZNQ0JrUUtFUE5ZZnpUT1pjalZPXzhsZTRfSmF1cy1OdS1XYU8yUnRZNXVrcHVYMFZOR2w2Q19OTzZWd2ZZenpBMlBpdzBmWU9yVUd3MF9uQWFsRnBoSGY4WkVWMWtTREJUNjlKMmZ4WTlRVmJTOFFPZTZIR3ZIUQ?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="music" data-search="running of the bulls, bastille day, watermelon fest and more events around new orleans - nola.com running of the bulls, bastille day, watermelon fest and more events around new orleans nola.com nola.com concerts + music ">
-        <div class="story-kicker">Concerts + Music</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWJzNnhJMFhNbzBDX1Y5SDl2d05ULUtyMHhNeWwyMGNlSDVEWUpCNGNvXzFZOWdSN2RVZm5XbnB1d3M4UHhBY09OMkxzWWsyWS1tcHpKektmVXdkNmJ2cXNlLVFsTi1pM01XYlFYNlVmZGd5N3hmVXc3TmxONExCeTNuUlE1WTNKS0dGdGNwS3B1TnI5eWw1eTlFOVVOVjljWENGbUJzWG5qdVVjWjM5emJkZUtkb1N0SzIzakQ2dU9HSGvSAcgBQVVfeXFMUEJqNllhS3ZNbUZjSUlUU0R5eV9fNHNpWEJtckZWd1U0SFJpOTBZZjBYU1ppLUVBamtfUzE4N2FLTXFtZG95a0hqOFFYek16VWRsNHQxVDQ1VXBDRU9qQjV2MXZjY3hGUFV5V2lReVl0eXdMbW9neXR3VG05M09DOVJQSTBVZ3J5Yzg3Smw1eFZ0YkVvYXZoNzQ1U0NtX1RrNk5qbVNWNmZGOWdheTB1YVpWeDl2RUJaci01MmEwaEdCM0RtUG4xbm0?oc=5" target="_blank" rel="noreferrer">Running of the Bulls, Bastille Day, Watermelon Fest and more events around New Orleans - NOLA.com</a></h3>
-        <p class="story-summary">Running of the Bulls, Bastille Day, Watermelon Fest and more events around New Orleans NOLA.com</p>
-        <div class="card-meta"><span>Jul 8, 2026 5:00 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWJzNnhJMFhNbzBDX1Y5SDl2d05ULUtyMHhNeWwyMGNlSDVEWUpCNGNvXzFZOWdSN2RVZm5XbnB1d3M4UHhBY09OMkxzWWsyWS1tcHpKektmVXdkNmJ2cXNlLVFsTi1pM01XYlFYNlVmZGd5N3hmVXc3TmxONExCeTNuUlE1WTNKS0dGdGNwS3B1TnI5eWw1eTlFOVVOVjljWENGbUJzWG5qdVVjWjM5emJkZUtkb1N0SzIzakQ2dU9HSGvSAcgBQVVfeXFMUEJqNllhS3ZNbUZjSUlUU0R5eV9fNHNpWEJtckZWd1U0SFJpOTBZZjBYU1ppLUVBamtfUzE4N2FLTXFtZG95a0hqOFFYek16VWRsNHQxVDQ1VXBDRU9qQjV2MXZjY3hGUFV5V2lReVl0eXdMbW9neXR3VG05M09DOVJQSTBVZ3J5Yzg3Smw1eFZ0YkVvYXZoNzQ1U0NtX1RrNk5qbVNWNmZGOWdheTB1YVpWeDl2RUJaci01MmEwaEdCM0RtUG4xbm0?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="music" data-search="12 popular music tours in new orleans: second line, jazz history, &amp; more - travelawaits 12 popular music tours in new orleans: second line, jazz history, &amp; more travelawaits travelawaits concerts + music ">
-        <div class="story-kicker">Concerts + Music</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU09jLXdUZ095Zl91OG1vMU1ZLTFSN1MwR0lmQWVSazdTQjQzMW5UelRpaklOVHFPZ1ZuYVZTeUZ4WmxzTm96dHRNSTZWbWhsRWlkaFNMMmRGUkhBX1N0V2MwNmNRXzJVWmlNQ0tkR2xHNUhXSi0xLWRIMkR6RmFXMHQ1a3VhM2Uyc2RNelhFczdxOUhYZlp2UzNCMHpoR2JYU00ybTdkWEVXUQ?oc=5" target="_blank" rel="noreferrer">12 Popular Music Tours in New Orleans: Second Line, Jazz History, &amp; More - TravelAwaits</a></h3>
-        <p class="story-summary">12 Popular Music Tours in New Orleans: Second Line, Jazz History, &amp; More TravelAwaits</p>
-        <div class="card-meta"><span>Jul 7, 2026 12:08 PM</span><span>TravelAwaits</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU09jLXdUZ095Zl91OG1vMU1ZLTFSN1MwR0lmQWVSazdTQjQzMW5UelRpaklOVHFPZ1ZuYVZTeUZ4WmxzTm96dHRNSTZWbWhsRWlkaFNMMmRGUkhBX1N0V2MwNmNRXzJVWmlNQ0tkR2xHNUhXSi0xLWRIMkR6RmFXMHQ1a3VhM2Uyc2RNelhFczdxOUhYZlp2UzNCMHpoR2JYU00ybTdkWEVXUQ?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="music" data-search="looking for live music in new orleans beyond the 2026 essence fest? here are options - nola.com looking for live music in new orleans beyond the 2026 essence fest? here are options nola.com nola.com concerts + music ">
-        <div class="story-kicker">Concerts + Music</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMikwJBVV95cUxNNXp2dkRvWE5aajFKdDhLdF9BVEgtdndtbUJEU3BfOUQ0bWg4ZmxmVG0xSTNqaHFhSzJhdThNVmlIcExaeTRsa2hMSE1mZmxMMUFYQUN5TnVnTGNxY1hUWmx0WWRTV1JVQzh4cFFzVEJOQnRvYUFsWklCT2QyNFFhMnY5UktDcjBwdzNqX1NvaHlsTkloY0QtV0JDcWF3LWF3UVRrQlNPdzcyVjFvbGdtNXVDYlo5NGs3R3NvN2lTc1dqTlBsakJfOWFLQndMS3JiekVITllZclBicGk2aTZTazFYS1lpRUloaWR3QjRIVkQ1Z0Y1bVczV3pMdHZRMEZUVzF6V0hBb2lZQUZRR2N6aHM1WdIBmAJBVV95cUxNSDh6aTVfWVNmdkVnRWQ5Y0hUVzhsZm8zQk1xY18wTGcyRzJKWXZGTFhFWTRrM1F4aVM4dktXa1lVNFhHS3diclNLYUpxcGx6OFRHYW1XNXk1anRRVF9Td195NXVIb2lHSnpZTzFoZ3pNVENvUmltVFIzT0lHbm92czBNRWFWZnduTTBDQ2VqNU40MUNGT1F4THhqN2tiNW9mbzlSS3BKRm9tRGV2X1dObVR0SWpWYTNsblJiY0x3eDNYV0Y5ZVpISXVHOHU3UEY1WUNNSVRiWTgtMmI1SUtaWFVXZ3BRRzFzMmwxV3J5UVphbVNBQkU2aTZuSXFtYkdFWGt5TEJOczBBclVCRllaWi1EdzFoOFp3?oc=5" target="_blank" rel="noreferrer">Looking for live music in New Orleans beyond the 2026 Essence Fest? Here are options - NOLA.com</a></h3>
-        <p class="story-summary">Looking for live music in New Orleans beyond the 2026 Essence Fest? Here are options NOLA.com</p>
-        <div class="card-meta"><span>Jul 2, 2026 7:00 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMikwJBVV95cUxNNXp2dkRvWE5aajFKdDhLdF9BVEgtdndtbUJEU3BfOUQ0bWg4ZmxmVG0xSTNqaHFhSzJhdThNVmlIcExaeTRsa2hMSE1mZmxMMUFYQUN5TnVnTGNxY1hUWmx0WWRTV1JVQzh4cFFzVEJOQnRvYUFsWklCT2QyNFFhMnY5UktDcjBwdzNqX1NvaHlsTkloY0QtV0JDcWF3LWF3UVRrQlNPdzcyVjFvbGdtNXVDYlo5NGs3R3NvN2lTc1dqTlBsakJfOWFLQndMS3JiekVITllZclBicGk2aTZTazFYS1lpRUloaWR3QjRIVkQ1Z0Y1bVczV3pMdHZRMEZUVzF6V0hBb2lZQUZRR2N6aHM1WdIBmAJBVV95cUxNSDh6aTVfWVNmdkVnRWQ5Y0hUVzhsZm8zQk1xY18wTGcyRzJKWXZGTFhFWTRrM1F4aVM4dktXa1lVNFhHS3diclNLYUpxcGx6OFRHYW1XNXk1anRRVF9Td195NXVIb2lHSnpZTzFoZ3pNVENvUmltVFIzT0lHbm92czBNRWFWZnduTTBDQ2VqNU40MUNGT1F4THhqN2tiNW9mbzlSS3BKRm9tRGV2X1dObVR0SWpWYTNsblJiY0x3eDNYV0Y5ZVpISXVHOHU3UEY1WUNNSVRiWTgtMmI1SUtaWFVXZ3BRRzFzMmwxV3J5UVphbVNBQkU2aTZuSXFtYkdFWGt5TEJOczBBclVCRllaWi1EdzFoOFp3?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="music" data-search="looking for live music in new orleans the last week in june? here are your best bets - nola.com looking for live music in new orleans the last week in june? here are your best bets nola.com nola.com concerts + music ">
-        <div class="story-kicker">Concerts + Music</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOa21PcjFVUG1aTGxvLXNmUUtHVTFaMF9PUFhiNnFLTEdFbkFIa3Z6ZHhuVUlJZTJaWnhBQ2xJRjk5dUVHd3NXMHU3X0Z1NWJzTmZqMkh3WjlvblBtRGx1bkNlZ2xKRGdRNkJYd0VBRnVEOVRiVmJWTGtMX0JNY0ZjWkxYSDFIeHAxV2F0SjVHNXFuSG5FbFNDcXNfVV9VWjZkODY1R2NzLWtEbm9EZi1SeVQ2ZGc2QkXSAbwBQVVfeXFMT1RYSUs4eXJCaTllYnhCaFlVVWxIZ3dqQjN6cnpUblFzRGZlWGNIWlF3TkUtWEpQNGYzZHhGd2JYTGRGdThRc2pEbWhZNHJHSndvWGlIeEtoVWxlLXV2WFVKX3pKcHVMQXpFZUVUZGVkMG9HZ3hzbHRJeWJReW1TbmVpUEd3cTQ4UkJuTzQ2VjVjdzlsRG5ZOE4tbkFid0Jhd3NCS3ZWUEFsNWdHbjE0YllMNXBjNVlYNDI4RUk?oc=5" target="_blank" rel="noreferrer">Looking for live music in New Orleans the last week in June? Here are your best bets - NOLA.com</a></h3>
-        <p class="story-summary">Looking for live music in New Orleans the last week in June? Here are your best bets NOLA.com</p>
-        <div class="card-meta"><span>Jun 25, 2026 6:00 PM</span><span>NOLA.com</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOa21PcjFVUG1aTGxvLXNmUUtHVTFaMF9PUFhiNnFLTEdFbkFIa3Z6ZHhuVUlJZTJaWnhBQ2xJRjk5dUVHd3NXMHU3X0Z1NWJzTmZqMkh3WjlvblBtRGx1bkNlZ2xKRGdRNkJYd0VBRnVEOVRiVmJWTGtMX0JNY0ZjWkxYSDFIeHAxV2F0SjVHNXFuSG5FbFNDcXNfVV9VWjZkODY1R2NzLWtEbm9EZi1SeVQ2ZGc2QkXSAbwBQVVfeXFMT1RYSUs4eXJCaTllYnhCaFlVVWxIZ3dqQjN6cnpUblFzRGZlWGNIWlF3TkUtWEpQNGYzZHhGd2JYTGRGdThRc2pEbWhZNHJHSndvWGlIeEtoVWxlLXV2WFVKX3pKcHVMQXpFZUVUZGVkMG9HZ3hzbHRJeWJReW1TbmVpUEd3cTQ4UkJuTzQ2VjVjdzlsRG5ZOE4tbkFid0Jhd3NCS3ZWUEFsNWdHbjE0YllMNXBjNVlYNDI4RUk?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card" data-section="music" data-search="new orleans teens are keeping jazz alive through the trombone shorty academy - capital b news new orleans teens are keeping jazz alive through the trombone shorty academy capital b news capital b news concerts + music ">
-        <div class="story-kicker">Concerts + Music</div>
-        <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5RWmI1R3RlUGdxOTVRVWJXSFoydndIRUhLdUVJbGUwYWt0V0VDWFhFT21lU2RNUVcxNWJ1THlVSXEzZXVabDFSN2ViY1dPY3J0S3BYdk9FQl9pNzBIXzF2SnhVLWlNTnU1NWRWQ1Iwajg3RldH?oc=5" target="_blank" rel="noreferrer">New Orleans Teens Are Keeping Jazz Alive Through the Trombone Shorty Academy - Capital B News</a></h3>
-        <p class="story-summary">New Orleans Teens Are Keeping Jazz Alive Through the Trombone Shorty Academy Capital B News</p>
-        <div class="card-meta"><span>Jun 18, 2026 7:00 AM</span><span>Capital B News</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5RWmI1R3RlUGdxOTVRVWJXSFoydndIRUhLdUVJbGUwYWt0V0VDWFhFT21lU2RNUVcxNWJ1THlVSXEzZXVabDFSN2ViY1dPY3J0S3BYdk9FQl9pNzBIXzF2SnhVLWlNTnU1NWRWQ1Iwajg3RldH?oc=5" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-          </div>
-        </section>
-    
-
-        <section class="section" id="events">
-          <div class="section-header">
-            <div>
-              <div class="eyebrow">Fresh picks</div>
-              <h2>Upcoming Events</h2>
-              <p>Fresh event picks pulled from the WWOZ Livewire calendar, with venue and schedule details.</p>
-            </div>
-            <div class="section-count">12 links</div>
-          </div>
-          <div class="story-grid">
-            
-      <article class="story-card" data-section="events" data-search="wwoz groove gala wwoz. tap through for the full listing and latest schedule details. wwoz livewire event wwoz">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1355991" target="_blank" rel="noreferrer">WWOZ Groove Gala</a></h3>
-        <p class="story-summary">WWOZ. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>See event page for timing</span><span>WWOZ Livewire</span><span>WWOZ</span></div>
-        <div class="card-actions">
-          <a class="card-action ghost" href="https://www.wwoz.org/events/1355991" target="_blank" rel="noreferrer">Read story</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="the jelly roll stompers 21st amendment. tap through for the full listing and latest schedule details. wwoz livewire event 21st amendment">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1364946" target="_blank" rel="noreferrer">The Jelly Roll Stompers</a></h3>
-        <p class="story-summary">21st Amendment. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 3:00pm</span><span>21st Amendment</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1364946" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=The+Jelly+Roll+Stompers&amp;dates=20260712T150000%2F20260712T170000&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364946&amp;location=21st+Amendment" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="big mike &amp; the r&amp;b kings 21st amendment. tap through for the full listing and latest schedule details. wwoz livewire event 21st amendment">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1364951" target="_blank" rel="noreferrer">Big Mike &amp; The R&amp;B Kings</a></h3>
-        <p class="story-summary">21st Amendment. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 8:00pm</span><span>21st Amendment</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1364951" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Big+Mike+%26+The+R%26B+Kings&amp;dates=20260712T200000%2F20260712T220000&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364951&amp;location=21st+Amendment" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="funhouse 30/90. tap through for the full listing and latest schedule details. wwoz livewire event 30/90">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1366026" target="_blank" rel="noreferrer">Funhouse</a></h3>
-        <p class="story-summary">30/90. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 3:00pm</span><span>30/90</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1366026" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Funhouse&amp;dates=20260712T150000%2F20260712T170000&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366026&amp;location=30%2F90" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="anne elise &amp; the swamp circus 30/90. tap through for the full listing and latest schedule details. wwoz livewire event 30/90">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1366031" target="_blank" rel="noreferrer">Anne Elise &amp; the Swamp Circus</a></h3>
-        <p class="story-summary">30/90. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 6:00pm</span><span>30/90</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1366031" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Anne+Elise+%26+the+Swamp+Circus&amp;dates=20260712T180000%2F20260712T200000&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366031&amp;location=30%2F90" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="singlemaltplease 30/90. tap through for the full listing and latest schedule details. wwoz livewire event 30/90">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1366111" target="_blank" rel="noreferrer">SingleMaltPlease</a></h3>
-        <p class="story-summary">30/90. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 9:00pm</span><span>30/90</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1366111" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=SingleMaltPlease&amp;dates=20260712T210000%2F20260712T230000&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366111&amp;location=30%2F90" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="pete olynciw bacchanal (outdoors). tap through for the full listing and latest schedule details. wwoz livewire event bacchanal (outdoors)">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1364686" target="_blank" rel="noreferrer">Pete Olynciw</a></h3>
-        <p class="story-summary">Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 7:00pm</span><span>Bacchanal (OUTDOORS)</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1364686" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Pete+Olynciw&amp;dates=20260712T190000%2F20260712T210000&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364686&amp;location=Bacchanal+%28OUTDOORS%29" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="the jay dufour band bamboula&#x27;s. tap through for the full listing and latest schedule details. wwoz livewire event bamboula&#x27;s">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1368261" target="_blank" rel="noreferrer">The Jay Dufour Band</a></h3>
-        <p class="story-summary">Bamboula&#x27;s. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 11:00am</span><span>Bamboula&#x27;s</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1368261" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=The+Jay+Dufour+Band&amp;dates=20260712T110000%2F20260712T130000&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368261&amp;location=Bamboula%27s" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="laura doyle quartet bamboula&#x27;s. tap through for the full listing and latest schedule details. wwoz livewire event bamboula&#x27;s">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1368256" target="_blank" rel="noreferrer">Laura Doyle Quartet</a></h3>
-        <p class="story-summary">Bamboula&#x27;s. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 2:15pm</span><span>Bamboula&#x27;s</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1368256" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Laura+Doyle+Quartet&amp;dates=20260712T141500%2F20260712T161500&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368256&amp;location=Bamboula%27s" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="the midnight brawlers bamboula&#x27;s. tap through for the full listing and latest schedule details. wwoz livewire event bamboula&#x27;s">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1368251" target="_blank" rel="noreferrer">The Midnight Brawlers</a></h3>
-        <p class="story-summary">Bamboula&#x27;s. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 6:30pm</span><span>Bamboula&#x27;s</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1368251" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=The+Midnight+Brawlers&amp;dates=20260712T183000%2F20260712T203000&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368251&amp;location=Bamboula%27s" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="kat kiley experience bamboula&#x27;s. tap through for the full listing and latest schedule details. wwoz livewire event bamboula&#x27;s">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1368246" target="_blank" rel="noreferrer">Kat Kiley Experience</a></h3>
-        <p class="story-summary">Bamboula&#x27;s. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 10:00pm</span><span>Bamboula&#x27;s</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1368246" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Kat+Kiley+Experience&amp;dates=20260712T220000%2F20260713T000000&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368246&amp;location=Bamboula%27s" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-
-      <article class="story-card story-card-event" data-section="events" data-search="james mcclaskey &amp; the rhythm band bj&#x27;s lounge. tap through for the full listing and latest schedule details. wwoz livewire event bj&#x27;s lounge">
-        <div class="story-kicker">Event</div>
-        <h3><a class="story-link" href="https://www.wwoz.org/events/1367346" target="_blank" rel="noreferrer">James McClaskey &amp; The Rhythm Band</a></h3>
-        <p class="story-summary">BJ&#x27;s Lounge. Tap through for the full listing and latest schedule details.</p>
-        <div class="card-meta"><span>Sunday, July 12 at 9:00pm</span><span>BJ&#x27;s Lounge</span><span>WWOZ Livewire</span></div>
-        <div class="card-actions">
-          <a class="card-action primary" href="https://www.wwoz.org/events/1367346" target="_blank" rel="noreferrer">Open event</a>
-          <a class="card-action secondary" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=James+McClaskey+%26+The+Rhythm+Band&amp;dates=20260712T210000%2F20260712T230000&amp;ctz=America%2FChicago&amp;details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1367346&amp;location=BJ%27s+Lounge" target="_blank" rel="noreferrer">Add to calendar</a>
-        </div>
-      </article>
-    
-          </div>
-        </section>
-    
-
-        <section class="section" id="forecast">
-          <div class="section-header">
-            <div>
-              <div class="eyebrow">Weather</div>
-              <h2>7 day forecast</h2>
-              <p>A quick local weather scan for planning the week ahead.</p>
-            </div>
-            <div class="section-count">7 days</div>
-          </div>
-          <div class="forecast-grid">
-            
-      <article class="forecast-card">
-        <div class="forecast-icon" aria-hidden="true">⛈️</div>
-        <div class="forecast-copy">
-          <h3>Sunday</h3>
-          <div class="forecast-temp">90&deg;F</div>
-          <p>Chance Showers And Thunderstorms then Showers And Thunderstorms Likely</p>
-          <p class="card-meta"><span>SW 0 to 10 mph</span></p>
-        </div>
-      </article>
-    
-
-      <article class="forecast-card">
-        <div class="forecast-icon" aria-hidden="true">⛈️</div>
-        <div class="forecast-copy">
-          <h3>Monday</h3>
-          <div class="forecast-temp">85&deg;F</div>
-          <p>Showers And Thunderstorms Likely</p>
-          <p class="card-meta"><span>W 5 to 10 mph</span></p>
-        </div>
-      </article>
-    
-
-      <article class="forecast-card">
-        <div class="forecast-icon" aria-hidden="true">⛈️</div>
-        <div class="forecast-copy">
-          <h3>Tuesday</h3>
-          <div class="forecast-temp">86&deg;F</div>
-          <p>Chance Showers And Thunderstorms then Showers And Thunderstorms Likely</p>
-          <p class="card-meta"><span>W 5 to 10 mph</span></p>
-        </div>
-      </article>
-    
-
-      <article class="forecast-card">
-        <div class="forecast-icon" aria-hidden="true">⛈️</div>
-        <div class="forecast-copy">
-          <h3>Wednesday</h3>
-          <div class="forecast-temp">90&deg;F</div>
-          <p>Partly Sunny then Slight Chance Showers And Thunderstorms</p>
-          <p class="card-meta"><span>W 5 mph</span></p>
-        </div>
-      </article>
-    
-
-      <article class="forecast-card">
-        <div class="forecast-icon" aria-hidden="true">⛈️</div>
-        <div class="forecast-copy">
-          <h3>Thursday</h3>
-          <div class="forecast-temp">92&deg;F</div>
-          <p>Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms</p>
-          <p class="card-meta"><span>NW 0 to 5 mph</span></p>
-        </div>
-      </article>
-    
-
-      <article class="forecast-card">
-        <div class="forecast-icon" aria-hidden="true">☀️</div>
-        <div class="forecast-copy">
-          <h3>Friday</h3>
-          <div class="forecast-temp">94&deg;F</div>
-          <p>Mostly Sunny</p>
-          <p class="card-meta"><span>NW 5 mph</span></p>
-        </div>
-      </article>
-    
-
-      <article class="forecast-card">
-        <div class="forecast-icon" aria-hidden="true">⛈️</div>
-        <div class="forecast-copy">
-          <h3>Saturday</h3>
-          <div class="forecast-temp">94&deg;F</div>
-          <p>Mostly Sunny then Slight Chance Showers And Thunderstorms</p>
-          <p class="card-meta"><span>NW 5 mph</span></p>
-        </div>
-      </article>
-    
-          </div>
-        </section>
-
-        
-
-        <footer class="footer">
-          <span>Built for a calm, readable daily check-in from your phone or laptop.</span>
-          <a href="#top">Back to top</a>
-        </footer>
-      </main>
-    </div>
     <script>
-      const search = document.getElementById("search");
-      const filters = document.getElementById("filters");
-      const cards = Array.from(document.querySelectorAll("[data-search]"));
-      let activeFilter = "all";
+    (function () {
+      "use strict";
 
-      function applyFilters() {
-        const query = (search?.value || "").trim().toLowerCase();
-        let visible = 0;
-        cards.forEach((card) => {
-          const matchesQuery = !query || card.dataset.search.includes(query);
-          const matchesFilter = activeFilter === "all" || card.dataset.section === activeFilter;
-          const show = matchesQuery && matchesFilter;
-          card.hidden = !show;
-          if (show) visible += 1;
+      var REDUCED = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+      /* ---------- data ---------- */
+      fetch("data/digest.json", { cache: "no-store" })
+        .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+        .then(render)
+        .catch(function (err) {
+          var el = document.getElementById("digest-loading");
+          if (el) el.innerHTML = "<p>The daily edition couldn’t be loaded (" + esc(String(err.message || err)) +
+            "). Try a refresh, or check back after the morning run.</p>";
         });
-        document.body.classList.toggle("is-filtering", Boolean(query) || activeFilter !== "all");
-        document.documentElement.style.setProperty("--visible-count", `"${visible} results"`);
+
+      function esc(s) {
+        return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+          return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+        });
       }
 
-      search?.addEventListener("input", applyFilters);
-      filters?.addEventListener("click", (event) => {
-        const button = event.target.closest("[data-filter]");
-        if (!button) return;
-        activeFilter = button.dataset.filter;
-        filters.querySelectorAll(".tag-pill").forEach((pill) => pill.classList.toggle("active", pill === button));
-        applyFilters();
+      function safeUrl(u) {
+        u = String(u || "").trim();
+        return /^https?:\/\//i.test(u) ? u : "";
+      }
+
+      var ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"];
+
+      function render(d) {
+        var sections = d.sections || [];
+
+        /* nav */
+        var nav = document.getElementById("topnav");
+        nav.innerHTML = sections.map(function (s) {
+          return '<a href="#' + esc(s.slug) + '">' + esc(s.title) + "</a>";
+        }).join("") + '<a href="#forecast">Forecast</a>';
+
+        /* hero */
+        document.getElementById("hero-lead").textContent = d.lead || "";
+        var total = sections.reduce(function (n, s) { return n + (s.items || []).length; }, 0);
+        var events = sections.filter(function (s) { return s.slug === "events"; })[0];
+        document.getElementById("hero-meta").innerHTML =
+          "<span>" + esc(d.generated_label || "") + "</span>" +
+          "<span>" + total + " fresh links</span>" +
+          "<span>" + ((events && events.items) ? events.items.length : 0) + " event picks</span>";
+        document.getElementById("topbar-date").textContent = (d.generated_label || "").split(" at ")[0];
+        document.getElementById("footer-generated").textContent =
+          "Edition generated " + (d.generated_label || "") + " · refreshed every morning at 5 AM.";
+
+        renderHeroWeather(d.current_forecast);
+        setSkyMood(d.current_forecast, d.seven_day_forecast);
+
+        /* sections */
+        var main = document.getElementById("digest");
+        main.innerHTML = sections.map(function (s, i) { return sectionHtml(s, i); }).join("");
+
+        /* forecast */
+        document.getElementById("forecast-strip").innerHTML =
+          (d.seven_day_forecast || []).map(forecastHtml).join("") ||
+          '<p class="empty-note">The NOAA feed was unavailable this run.</p>';
+        var fcEyebrow = document.querySelector("#forecast .section-eyebrow");
+        if (fcEyebrow) fcEyebrow.textContent = "Nº " + (ROMAN[sections.length] || sections.length + 1) + " — Weather";
+
+        /* source notes */
+        if ((d.source_notes || []).length) {
+          document.getElementById("source-notes").innerHTML =
+            '<section class="notes reveal"><p class="section-eyebrow">Run notes</p><ul>' +
+            d.source_notes.map(function (n) { return "<li>" + esc(n) + "</li>"; }).join("") +
+            "</ul></section>";
+        }
+
+        initReveals();
+        initParallax();
+      }
+
+      function sectionHtml(s, i) {
+        var items = s.items || [];
+        var isEvents = s.slug === "events";
+        var body;
+
+        if (!items.length) {
+          body = '<p class="empty-note">' + esc(s.empty_message || "Nothing fresh this run.") + "</p>";
+        } else if (isEvents) {
+          body = '<div class="event-list">' + items.map(eventHtml).join("") + "</div>";
+        } else {
+          var lead = items[0], rest = items.slice(1);
+          body = featureHtml(lead) +
+            (rest.length ? '<div class="story-grid">' + rest.map(storyHtml).join("") + "</div>" : "");
+        }
+
+        return '<section class="section reveal-group" id="' + esc(s.slug) + '">' +
+          '<div class="section-head reveal">' +
+            '<p class="section-eyebrow">Nº ' + (ROMAN[i] || i + 1) + " — " + esc(s.title) + "</p>" +
+            '<h2 class="section-title">' + esc(s.title) + "</h2>" +
+            '<p class="section-desc">' + esc(s.description || "") + "</p>" +
+          "</div>" + body +
+        "</section>";
+      }
+
+      function metaHtml(bits) {
+        return bits.filter(Boolean).map(function (b) { return "<span>" + esc(b) + "</span>"; }).join("");
+      }
+
+      function featureHtml(it) {
+        var url = safeUrl(it.url);
+        return '<article class="feature reveal">' +
+          '<p class="kicker">' + esc(it.eyebrow || it.source || "") + "</p>" +
+          '<h3><a href="' + esc(url) + '" target="_blank" rel="noreferrer noopener">' + esc(it.title) + "</a></h3>" +
+          '<p class="feature-summary">' + esc(it.summary || "") + "</p>" +
+          '<div class="meta">' + metaHtml([it.published, it.source, it.location]) + "</div>" +
+        "</article>";
+      }
+
+      function storyHtml(it) {
+        var url = safeUrl(it.url);
+        return '<article class="story reveal">' +
+          '<p class="kicker">' + esc(it.source || it.eyebrow || "") + "</p>" +
+          '<h3><a href="' + esc(url) + '" target="_blank" rel="noreferrer noopener">' + esc(it.title) + "</a></h3>" +
+          '<p class="story-summary">' + esc(it.summary || "") + "</p>" +
+          '<div class="meta">' + metaHtml([it.published]) + "</div>" +
+        "</article>";
+      }
+
+      function eventHtml(it) {
+        var url = safeUrl(it.url);
+        var cal = safeUrl(it.calendar_url);
+        return '<article class="event reveal">' +
+          '<div class="event-when">' + esc(it.published || "See listing") + "</div>" +
+          '<div class="event-body">' +
+            '<h3><a href="' + esc(url) + '" target="_blank" rel="noreferrer noopener">' + esc(it.title) + "</a></h3>" +
+            '<div class="meta">' + metaHtml([it.location, it.source]) + "</div>" +
+          "</div>" +
+          '<div class="event-actions">' +
+            '<a class="btn btn-small btn-gold" href="' + esc(url) + '" target="_blank" rel="noreferrer noopener">Listing</a>' +
+            (cal ? '<a class="btn btn-small btn-ghost" href="' + esc(cal) + '" target="_blank" rel="noreferrer noopener">+ Calendar</a>' : "") +
+          "</div>" +
+        "</article>";
+      }
+
+      /* ---------- weather ---------- */
+      function icon(sf) {
+        var t = String(sf || "").toLowerCase();
+        if (t.indexOf("thunder") > -1) return "⛈";
+        if (/snow|sleet|ice/.test(t)) return "❄";
+        if (/rain|shower|drizzle/.test(t)) return "🌧";
+        if (/fog|mist|haze/.test(t)) return "🌫";
+        if (/wind|breez/.test(t)) return "💨";
+        if (/cloud|partly/.test(t)) return "⛅";
+        if (/sunny|clear/.test(t)) return "☀";
+        return "🌙";
+      }
+
+      function renderHeroWeather(w) {
+        var el = document.getElementById("hero-weather");
+        if (!w) { el.innerHTML = '<p class="hw-label">Current weather</p><p>Unavailable this run.</p>'; return; }
+        el.innerHTML =
+          '<p class="hw-label">' + esc(w.name || "Now") + "</p>" +
+          '<div class="hw-main"><span class="hw-icon" aria-hidden="true">' + icon(w.short_forecast) + "</span>" +
+          '<span class="hw-temp">' + esc(w.temperature) + "°<small>" + esc(w.temperature_unit || "F") + "</small></span></div>" +
+          '<p class="hw-desc">' + esc(w.short_forecast || "") + "</p>" +
+          '<p class="hw-wind">' + esc((w.wind_direction || "") + " " + (w.wind_speed || "")) + "</p>";
+      }
+
+      function forecastHtml(p) {
+        return '<article class="fc-card reveal">' +
+          '<p class="fc-name">' + esc(p.name) + "</p>" +
+          '<div class="fc-icon" aria-hidden="true">' + icon(p.short_forecast) + "</div>" +
+          '<p class="fc-temp">' + esc(p.temperature) + "°" + esc(p.temperature_unit || "F") + "</p>" +
+          '<p class="fc-desc">' + esc(p.short_forecast || "") + "</p>" +
+        "</article>";
+      }
+
+      /* weather-reactive hero sky */
+      function setSkyMood(current, week) {
+        var text = ((current && current.short_forecast) || (week && week[0] && week[0].short_forecast) || "").toLowerCase();
+        var rainy = /rain|shower|drizzle|thunder|storm/.test(text);
+        var foggy = /fog|mist|haze/.test(text);
+
+        if (!REDUCED && rainy) {
+          var rain = document.getElementById("rain");
+          for (var i = 0; i < 60; i++) {
+            var drop = document.createElement("i");
+            drop.style.left = (Math.random() * 100) + "%";
+            drop.style.animationDelay = (Math.random() * 2) + "s";
+            drop.style.animationDuration = (0.6 + Math.random() * 0.7) + "s";
+            rain.appendChild(drop);
+          }
+          document.body.classList.add("sky-rain");
+        } else {
+          var stars = document.getElementById("stars");
+          for (var j = 0; j < 90; j++) {
+            var star = document.createElement("i");
+            star.style.left = (Math.random() * 100) + "%";
+            star.style.top = (Math.random() * 62) + "%";
+            var size = Math.random() < 0.15 ? 3 : Math.random() < 0.5 ? 2 : 1;
+            star.style.width = star.style.height = size + "px";
+            star.style.animationDelay = (Math.random() * 6) + "s";
+            stars.appendChild(star);
+          }
+        }
+        if (foggy) document.body.classList.add("sky-fog");
+      }
+
+      /* ---------- motion ---------- */
+      function initReveals() {
+        var els = document.querySelectorAll(".reveal");
+        if (REDUCED || !("IntersectionObserver" in window)) {
+          els.forEach(function (el) { el.classList.add("is-in"); });
+          return;
+        }
+        var seen = 0;
+        var io = new IntersectionObserver(function (entries) {
+          entries.forEach(function (e) {
+            if (e.isIntersecting) {
+              var delay = Math.min((seen++ % 6) * 70, 350);
+              e.target.style.transitionDelay = delay + "ms";
+              e.target.classList.add("is-in");
+              io.unobserve(e.target);
+            }
+          });
+        }, { rootMargin: "0px 0px -8% 0px", threshold: 0.08 });
+        els.forEach(function (el) { io.observe(el); });
+      }
+
+      function initParallax() {
+        if (REDUCED) return;
+        var layers = document.querySelectorAll("[data-parallax]");
+        var topbar = document.getElementById("topbar");
+        var ticking = false;
+        function frame() {
+          var y = window.scrollY || 0;
+          layers.forEach(function (el) {
+            el.style.transform = "translateY(" + (y * parseFloat(el.dataset.parallax)) + "px)";
+          });
+          topbar.classList.toggle("is-scrolled", y > 40);
+          ticking = false;
+        }
+        window.addEventListener("scroll", function () {
+          if (!ticking) { ticking = true; requestAnimationFrame(frame); }
+        }, { passive: true });
+        frame();
+      }
+
+      /* reveal the hero copy immediately */
+      window.addEventListener("load", function () {
+        document.querySelectorAll(".hero .reveal").forEach(function (el, i) {
+          el.style.transitionDelay = REDUCED ? "0ms" : (120 + i * 110) + "ms";
+          el.classList.add("is-in");
+        });
       });
+    })();
     </script>
   </body>
 </html>

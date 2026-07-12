@@ -1,6 +1,8 @@
 # Nola Daily
 
-Nola Daily is a Python-powered daily digest for New Orleans. It gathers local news, restaurant coverage, entertainment headlines, live music listings, upcoming events, and the NOAA forecast, then publishes a mobile-first static site to GitHub Pages.
+Nola Daily is a Python-powered daily digest for New Orleans. It gathers local news, restaurant coverage, entertainment headlines, live music listings, upcoming events, and the NOAA forecast, then publishes them to a cinematic static site on GitHub Pages.
+
+The front-end (`docs/index.html` + `docs/assets/styles.css`) is a hand-crafted immersive page — "Night in the Quarter" — that fetches `docs/data/digest.json` client-side. The daily Python run only refreshes the JSON, so design changes never collide with data commits.
 
 It is designed to run unattended from GitHub Actions and can optionally post a compact digest to Microsoft Teams or a Power Automate webhook.
 
@@ -16,8 +18,8 @@ It is designed to run unattended from GitHub Actions and can optionally post a c
 
 ## Project Layout
 
-- `src/noladaily/` Python package for collection, rendering, and notifications
-- `docs/` generated GitHub Pages output
+- `src/noladaily/` Python package for collection, data output, and notifications
+- `docs/` GitHub Pages site: static front-end plus generated `data/digest.json`
 - `.github/workflows/` scheduled automation and Teams test workflows
 
 ## Local Setup
@@ -36,7 +38,13 @@ python -m pip install .
 python -m noladaily --output-dir docs --data-path docs/data/digest.json
 ```
 
-4. Open `docs/index.html` in a browser for a local preview.
+4. Serve `docs/` locally (the page fetches JSON, so `file://` won't work):
+
+```bash
+python -m http.server -d docs 8000
+```
+
+Then open `http://localhost:8000`.
 
 ## Teams Webhook Setup
 
@@ -74,10 +82,9 @@ python -m noladaily --teams-from-file docs/data/digest.json --teams-required
 The scheduled workflow:
 
 - installs Python
-- refreshes the digest
-- writes the GitHub Pages site into `docs/`
+- refreshes the digest data (`docs/data/digest.json`)
 - optionally sends a Teams notification
-- commits updated site files back to the repository
+- commits the updated data file back to the repository (the static front-end is never regenerated)
 
 ### Teams test workflow
 
@@ -103,13 +110,4 @@ Secrets:
 
 - `TEAMS_WEBHOOK_URL`
 
-Variables:
-
-- `SITE_URL`: your final GitHub Pages URL, for example `https://YOUR-ACCOUNT.github.io/NolaDaily/`
-- `TEAMS_WEBHOOK_MODE`: optional override if you want `teams` instead of `power_automate`
-
-## Notes On Sources
-
-- Weather comes from NOAA for the New Orleans forecast point.
-- Events come from the WWOZ Livewire calendar.
-- News sections are built from New Orleans focused RSS searches so the site stays lightweight and does not require paid APIs.
+Variable

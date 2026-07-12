@@ -42,7 +42,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install .
 
-      - name: Refresh digest and site
+      - name: Refresh digest data
         if: steps.local_time.outputs.should_run == 'true'
         run: |
           python -m noladaily --output-dir docs --data-path docs/data/digest.json
@@ -57,11 +57,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet --exit-code -- docs; then
-            echo "No site changes to commit."
+          if git diff --quiet --exit-code -- docs/data; then
+            echo "No digest changes to commit."
             exit 0
           fi
 
-          git add docs
+          git add docs/data
           git commit -m "chore: refresh daily digest"
-          git push
+          gi

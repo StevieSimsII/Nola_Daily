@@ -147,7 +147,9 @@ def fetch_wwoz_events(timeout: int, limit: int) -> list[DigestItem]:
 
         absolute_url = _absolute_url(href)
         if "/organizations/" in href:
-            current_venue = text
+            # Guard against navigation/footer links being mistaken for venues.
+            if 0 < len(text) <= 80:
+                current_venue = text
             continue
 
         if "/events/" not in href or absolute_url in seen_urls:
@@ -209,17 +211,28 @@ def _strip_html(value: str) -> str:
     return " ".join(BeautifulSoup(value, "html.parser").stripped_strings)
 
 
+_MOJIBAKE_MARKERS = ("Ã", "â", "ð", "Â")
+
+
+def _mojibake_score(value: str) -> int:
+    return sum(value.count(marker) for marker in _MOJIBAKE_MARKERS)
+
+
 def _clean_text(value: str) -> str:
     if not value:
         return ""
 
     cleaned = html.unescape(value).strip()
-    if any(marker in cleaned for marker in ("Ã", "â", "ð", "Â")):
+    score = _mojibake_score(cleaned)
+    if score:
         try:
             repaired = cleaned.encode("latin-1").decode("utf-8")
         except UnicodeError:
             return cleaned
-        return repaired
+        # Only accept the repair if it actually reduced mojibake markers;
+        # otherwise the text legitimately contained those characters.
+        if _mojibake_score(repaired) < score:
+            return repaired
     return cleaned
 
 
@@ -276,10 +289,17 @@ def _build_calendar_url(title: str, location: str, published: str, source_url: s
 
 
 def _parse_event_datetime(value: str) -> datetime | None:
-    try:
-        parsed = datetime.strptime(value, "%A, %B %d at %I:%M%p")
-    except ValueError:
-        return None
-
+    # The scraped string has no year ("Friday, July 11 at 8:00pm"). Try the
+    # current year first, then next year, and keep the first candidate that
+    # is not clearly in the past. This handles December scrapes of January
+    # events and Feb 29 dates, which strptime's default 1900 year rejects.
     now = datetime.now()
-    return parsed.replace(year=now.year)
+    for year in (now.year, now.year + 1):
+        try:
+            parsed = datetime.strptime(f"{value} {year}", "%A, %B %d at %I:%M%p %Y")
+        except ValueError:
+            continue
+        if parsed >= now - timedelta(days=1):
+            return parsed
+
+    return None

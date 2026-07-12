@@ -51,7 +51,7 @@ def fetch_weather(timeout: int) -> tuple[ForecastPeriod | None, list[ForecastPer
 def _build_period(raw_period: dict[str, Any]) -> ForecastPeriod:
     return ForecastPeriod(
         name=str(raw_period.get("name", "Forecast")),
-        temperature=int(raw_period.get("temperature", 0)),
+        temperature=int(raw_period.get("temperature") or 0),
         temperature_unit=str(raw_period.get("temperatureUnit", "F")),
         short_forecast=str(raw_period.get("shortForecast", "Forecast unavailable")),
         detailed_forecast=str(raw_period.get("detailedForecast", "Forecast unavailable")),
