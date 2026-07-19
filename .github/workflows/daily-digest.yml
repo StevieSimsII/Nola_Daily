@@ -64,4 +64,4 @@ jobs:
 
           git add docs/data
           git commit -m "chore: refresh daily digest"
-          gi
+          git push
