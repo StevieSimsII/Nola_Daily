@@ -1,77 +1,77 @@
 {
-  "generated_at": "2026-07-21T05:44:37.432781-05:00",
-  "generated_label": "Jul 21, 2026 at 5:44 AM CT",
+  "generated_at": "2026-07-22T05:45:25.145610-05:00",
+  "generated_label": "Jul 22, 2026 at 5:45 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
     "temperature": 82,
     "temperature_unit": "F",
     "short_forecast": "Mostly Clear",
-    "detailed_forecast": "Mostly clear, with a low around 82. Northwest wind around 5 mph.",
-    "wind_speed": "5 mph",
-    "wind_direction": "NW"
+    "detailed_forecast": "Mostly clear, with a low around 82. North wind around 15 mph.",
+    "wind_speed": "15 mph",
+    "wind_direction": "N"
   },
   "seven_day_forecast": [
     {
-      "name": "Tuesday",
-      "temperature": 96,
-      "temperature_unit": "F",
-      "short_forecast": "Sunny then Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Sunny. High near 96, with temperatures falling to around 93 in the afternoon. Heat index values as high as 109. North wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
-      "wind_speed": "5 to 10 mph",
-      "wind_direction": "N"
-    },
-    {
       "name": "Wednesday",
-      "temperature": 95,
+      "temperature": 92,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 2pm. Mostly sunny, with a high near 95. Heat index values as high as 114. North wind 10 to 15 mph. Chance of precipitation is 40%.",
-      "wind_speed": "10 to 15 mph",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 11am. Partly sunny. High near 92, with temperatures falling to around 90 in the afternoon. Heat index values as high as 108. North wind 15 to 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
+      "wind_speed": "15 to 25 mph",
       "wind_direction": "N"
     },
     {
       "name": "Thursday",
-      "temperature": 93,
+      "temperature": 90,
       "temperature_unit": "F",
       "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms before 10am, then a chance of showers and thunderstorms. Partly sunny, with a high near 93. Southeast wind 10 to 25 mph. Chance of precipitation is 40%.",
-      "wind_speed": "10 to 25 mph",
-      "wind_direction": "SE"
+      "detailed_forecast": "A chance of showers and thunderstorms before 7am, then a chance of showers and thunderstorms. Mostly sunny, with a high near 90. Heat index values as high as 105. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%.",
+      "wind_speed": "15 mph",
+      "wind_direction": "S"
     },
     {
       "name": "Friday",
-      "temperature": 93,
+      "temperature": 92,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 93. Southwest wind around 5 mph.",
-      "wind_speed": "5 mph",
-      "wind_direction": "SW"
+      "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 92. South wind 5 to 10 mph. Chance of precipitation is 30%.",
+      "wind_speed": "5 to 10 mph",
+      "wind_direction": "S"
     },
     {
       "name": "Saturday",
-      "temperature": 92,
+      "temperature": 94,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms. Mostly sunny, with a high near 92. Southwest wind 5 to 10 mph.",
-      "wind_speed": "5 to 10 mph",
-      "wind_direction": "SW"
+      "short_forecast": "Mostly Sunny",
+      "detailed_forecast": "Mostly sunny, with a high near 94. West wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "W"
     },
     {
       "name": "Sunday",
-      "temperature": 92,
+      "temperature": 94,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 92. West wind 5 to 10 mph.",
-      "wind_speed": "5 to 10 mph",
+      "short_forecast": "Mostly Sunny",
+      "detailed_forecast": "Mostly sunny, with a high near 94. West wind around 5 mph.",
+      "wind_speed": "5 mph",
       "wind_direction": "W"
     },
     {
       "name": "Monday",
-      "temperature": 94,
+      "temperature": 96,
       "temperature_unit": "F",
-      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Sunny, with a high near 94. West wind 5 to 10 mph.",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 96. West wind 5 to 10 mph.",
+      "wind_speed": "5 to 10 mph",
+      "wind_direction": "W"
+    },
+    {
+      "name": "Tuesday",
+      "temperature": 97,
+      "temperature_unit": "F",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 97. West wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
       "wind_direction": "W"
     }
@@ -84,61 +84,61 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "New Orleans Sewerage & Water Board preps for Tropical Storm Bertha - fox8live.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRU5VY253cjdlVi1raDlpZXFzaGp1SGh6SlFRNUpsRmxGMml6MkdwT0IxT0x3cXhEUE1ZdEpoN2JjZU9UaVowN0tYckRYa211aDlMLUlsanpFQmhkdTExZUpFMDRzS2tvT29LM0VGOUotSUc1SVlqUF9xSDAxTzVGRklQTk1tdko3OFA0aGdRTHlTblVFRlp5TXBqTEtKZw?oc=5",
-          "source": "fox8live.com",
-          "summary": "New Orleans Sewerage & Water Board preps for Tropical Storm Bertha fox8live.com",
-          "published": "Jul 21, 2026 3:22 AM",
+          "title": "Big changes could be coming for New Orleans Mardi Gras parade riders and Krewe of Chad - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDhoanpYYTloSlQ0MW1xSV9WV1p3QWtET0VvR0pRcFYydWY3UzFxYVFXWFRZSkctV1hUeUgyUUs2QmpNSFNCMERhTG9sdldhdlZjM1BZNEtZR1g4Qk0xY0JWb0ItcVh2WHVZV1RBMXprbDlfMUIyU0NLb3VUdEdmcHdTWlJpVEpjeGxPY2FOaWQ5ZVhjRkZDS2hwVFItZUFpM081a1huQnRJZ0R4aEdoTVF6X1dNZS1wdkRENVpB0gHDAUFVX3lxTFA5ZDRWTkxKaHg3eVVQeU1sMkVKTmw4U21sNUlhMlpTVFZKeGpET1NKVkNLbzhzZWppeWFvUjRrRjR2Snk4RUItLWg2dXBLVFp6UXRPdmJMNFVUTDUzcXA4bnpkSlNHTndhMVQ2dkQ3OG45QUdkV3lKOVhvYzVjWnVuR216dFl0NUlZMmJ6UlFGUUlGMTF3UlA4Z24xU3k1bEY5MmRENkdOVm5jTnctWVNqSzNwN09URUVLekEwZ2RCemFFTQ?oc=5",
+          "source": "NOLA.com",
+          "summary": "Big changes could be coming for New Orleans Mardi Gras parade riders and Krewe of Chad NOLA.com",
+          "published": "Jul 22, 2026 9:00 AM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans updating towing and booting rates - WDSU",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Qa3E0SUZDZWFjbEFFMnF4WkxKUldXdXgxRzU1MHBQams4S29ha1c2c0NGN0RYeExlamFpcGVUUFYwX2JoSGZyV2dvalR1ZnlHOUc3dVQ5UTJEUVBkbFJWaTRPMmRLS0xwdlNvSjRUSVFrYWl3QUJTLUJn?oc=5",
-          "source": "WDSU",
-          "summary": "New Orleans updating towing and booting rates WDSU",
-          "published": "Jul 21, 2026 2:01 AM",
+          "title": "New Orleans leaders ask special prosecutor to drop charges against AG Murrill - Louisiana Illuminator",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KcUFvcVBvTlJsMEhiRFprYzktamRwY2JmNE14eWF4LWxYZWIyVXVxcHlpNHhlU1cwT3AwUHY2S0ZNWGNOS3RNNzUwVTJCU1J5WVNSNl9ZQmlGU0hVaTZ6THdEbGpXakdkQ2c?oc=5",
+          "source": "Louisiana Illuminator",
+          "summary": "New Orleans leaders ask special prosecutor to drop charges against AG Murrill Louisiana Illuminator",
+          "published": "Jul 22, 2026 4:39 AM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "City of New Orleans raising fees next week for booting, towing vehicles - fox8live.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUnpnMXNsVllUTEZmUG1TdFUyWHJuTk9CZllmT2ZEaXMxeFZPYjViTUp5Zy1FX3VRTDRGbjRxcS1UVHAxSHF5ek5NY010Vlc2WnAzaTBBLVp6ckxBTFBRUHNMaGk2SkJhMVFzcnJPeGtSZlJ2Tk9fSzViV21ITXlmLV9veE8wZ0xORGJRVEtaWURJTzRUVHF1OFl4TFdGY2xud0HSAbYBQVVfeXFMTUNxVFRfcURicURaaTBxZVlIN1VXeTJpU2RPY2JfaHppV0U1SDUzRkRyWjNaYncxbk1oVzQ4djhRNUlSenFVQkNWT0hXZm9KX2Z3dm9uVmc1WHNiSDdRcjUwM2VfVXZoWVFxQWZKSDNwV01pa3VuWHRYZXZsWW9TY3VOTEpiSUZkM2FVQnpydDJ2YTFRUFFIQkFiX0pBcWh5UnozOHQ0WF9ibFhkcXNlbmswblFPUnc?oc=5",
-          "source": "fox8live.com",
-          "summary": "City of New Orleans raising fees next week for booting, towing vehicles fox8live.com",
-          "published": "Jul 20, 2026 8:53 PM",
+          "title": "New Orleans officials ask special prosecutor to drop charges against Louisiana Attorney General - Audacy",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHRnNU5QVFJzaU9rUjhib2VEYTNsWlBod1dtYU5ZM3FnQTd3eG5pR1JlTHBLd1QyMjByUVhUVS11V3VqeVhEa24tVjNWYzZfaE5ET3h5RDZ0THJKMnNTTWxYOS04WDRoN0tIbW9QR1R5cnNMNTJwR2hLWWdIQ2RULWw2bE1lbE96aDNjT1E5d3VZWDBud04zamJScnVUZnRjWHp2b2E0V1ptM1ZMVTd5d05IX0V2MFR2Qk44am9ORGcweGViVV9lYnlmbHQzUQ?oc=5",
+          "source": "Audacy",
+          "summary": "New Orleans officials ask special prosecutor to drop charges against Louisiana Attorney General Audacy",
+          "published": "Jul 22, 2026 1:15 AM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans Police Posted a Policy Allowing Armed Drones \u2013 Then Deleted It - Gadget Review",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPelQxeVFWcXBjZlltRHpIVWx3WHp1dkg1QnNzRGU3NnhhZWFaVDBOZnd2UDFGTU93WFlfRUFBSG5VTnY4aWJQQXpzTnFENTBodVNvQUlRSkswU0U5QzRkV1hxTmgzRGZ2SUI0Nlg1aGxNTVJWTUJaWjFUYlZUSzZHNEJsQm05SVpYWURNQkFjU1RBUEdtQ2V3ZDJIQWVBRmZNSWdz?oc=5",
-          "source": "Gadget Review",
-          "summary": "New Orleans Police Posted a Policy Allowing Armed Drones \u2013 Then Deleted It Gadget Review",
-          "published": "Jul 20, 2026 3:45 PM",
+          "title": "New Orleans mayor, councilmembers ask prosecutors to dismiss charges against AG Murrill - WBRZ",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdklEblAxanZ6ZlFpSHM5STh4UjNMMk9jSEItSG9wdmRUVmY1ZVdkYzlSeFNhRVN6WFlzRzFTQlFyWGNla3hEREFuYWhJandMN05KWWJLLUpwMlFzczF4TTRTaDdzVG9ZV1ZyeEppS3lhaDhQV2s1dEFwbTNUenpaSmN2dVdfaGF1YmdNNUZUeFJOZHRkOVExaG5CZkM3RHRjTkk5NmpkdnA4MWVrY1JWWDNwVTdWc2Rwa0ZjVw?oc=5",
+          "source": "WBRZ",
+          "summary": "New Orleans mayor, councilmembers ask prosecutors to dismiss charges against AG Murrill WBRZ",
+          "published": "Jul 21, 2026 11:41 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans Cops Published Policy Document Allowing Weaponized Drones - 404 Media",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRDZ3UHlmM0g3cjZVd2p4MzNleHhIdGl1U0lUdHlaenNpV0lSVGFiTVFiUlNQMEtJTFA5NldjNkNJeUcwTnFRZUZpU1BBTHpvOW5hUVB1MDFaM0JsN24yQnhnTVVCbEEtTWtFQjV6XzJ6eUluS2RyZ0FIMzlDcW5VeVFlcUJTTVVPT3lzTmkzU1k0bkozUkFYUjln?oc=5",
-          "source": "404 Media",
-          "summary": "New Orleans Cops Published Policy Document Allowing Weaponized Drones 404 Media",
-          "published": "Jul 20, 2026 2:40 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Tired of roads being repaved, then torn up? New Orleans says it has a fix - WWLTV.com",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOG5paTk5UFdxNkZRR1BiNVJUOWdGenV2Rkx3Ym9VNUZFcEg1WHlGcmtFT20yNkZfWjFZYXpRb282aWVVc2xFam5FWXBKR041Vm94NFFVNFpNY29hQkFFejhEcnYyMnBnSDEzR3FJX2tZTUxpT3pSWkJRLUhJbElwSmcxam0xY3BRTkR1cVI2cEtYcUVRVzQ5SHNIdVFTbHAzbGw2ZzhnMDdTTG9jTy1NZTV1ak8xYTRiMWJEdERlYVctSDFDZUxJYk9SWGR1azhWSHUtTWJjX05hOFVPbkZBWWktSDBCZ3JmdmFUakMtMGN4Z1E?oc=5",
+          "title": "Moreno, New Orleans councilmembers seek dismissal of AG Murrill's criminal case - WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZjlIYUdnamR5MHA5UUdmUURzMDV6c3VyWHZsdlZGclZPN0dJanZUdl9hN0Y0aTVLOHV4YUZyVWVqTWhPQXVpREMtcTJidUY3LUtPbm0yaFloZ1lzYngyNmRBZEEtdGJoZ3F2TnhQcGRqckNDQjlQSzZkXzFjNDVvemdDamdKRG5zNFpiV1pGN0l6Y3NXWVlobEhFVThYaU5BaVJ0X2lxSHFHb0NabVRuR1dwRGN5UVdnUjQwSF8yOElnc0F3RUZVU3BMZ3hSSzdpQ3FfWlpOTTB0Y1lnaU9XYkZFSFNZNlhNYTYwbFlaa1c0TWZEQkVjOUdidW02LVQtYXc1Nno4SXhuSGZHRFQ1eVpzN1JFYnVCMll0cGJMZnM?oc=5",
           "source": "WWLTV.com",
-          "summary": "Tired of roads being repaved, then torn up? New Orleans says it has a fix WWLTV.com",
-          "published": "Jul 18, 2026 12:53 PM",
+          "summary": "Moreno, New Orleans councilmembers seek dismissal of AG Murrill's criminal case WWLTV.com",
+          "published": "Jul 21, 2026 10:51 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Mayor Helena Moreno, New Orleans City Council ask special prosecutor to drop charges against AG Murrill - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVEo0dDE0eDhOd3JMeHJWeHNQZ0VsbVhjTm13MDBJSVoxelNUQWxnREk3Uk1tTDlFUUl0bXVoOEV3TlFCYWpEVjd5a3hrb0Z4SEdIaGFIZE14X1k2NUtRSGlSM1dybS1lZDJnNzZxeTVKRm50a24yM2pObkU0UGNlYlR1bTVQMUpLWEZtakY4MVZGTWJCS3hpSzdTeVF0S0xnLUdUZ2phX2ZXdGpBa0JZWkpBcUpzd0tNLXdfcUkyaVg1TC1HSGxWTkxiTV9GRmRQQmI00gHYAUFVX3lxTE9jSGVMU2MtUXN6bTM0dndmTWJUM2VqY3drNEYtazI3ajhOMVNsemZBamgxSzFiWVpwMTdwZVlkZExmVjZ5NG1xMl9MRUFyZ0tndG10eHdFS2Y3MU5nWW9KSGVEUHFwQkdHUklfaVpkTy1NMkdyUDJ0dm1UT2RIZzFNMmFOT0FpNkVkeVpGQXpNalAwWjBJcXJ2WWZJUjhsdzEyd3RRbm0tRHo3bk1UMFNBVmNUTTk0X3JRLVpwYS1OVlc4NXlzZkF1UmUwSDNuMTR6aDhnTlYwRw?oc=5",
+          "source": "NOLA.com",
+          "summary": "Mayor Helena Moreno, New Orleans City Council ask special prosecutor to drop charges against AG Murrill NOLA.com",
+          "published": "Jul 21, 2026 10:42 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -152,31 +152,31 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Virgin Hotels New Orleans Elevates Luxury Hospitality Experience as Acclaimed Culinary Expert Marie Douroux Takes Charge as Executive Chef to Transform Commons Club, The Pool Club and the Hotel\u2019s Complete Dining Programme with Innovative Flavo - Travel And Tour World",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBZ3VPMHItWXdMVG9fVzlWNGNNQm1HNmtlWUMxeEo1T3NiN2VoLUZPR0JyT0Y0V3pVWGRsRHl3Z1AxSG1XRDVfODJ4Q1Q5ZTZXdGlidTFwRXAwVkRhb0Mza0NZa1hRanJVTE41aFN3?oc=5",
-          "source": "Travel And Tour World",
-          "summary": "Virgin Hotels New Orleans Elevates Luxury Hospitality Experience as Acclaimed Culinary Expert Marie Douroux Takes Charge as Executive Chef to Transform Commons Club, The Pool Club and the Hotel\u2019s Complete Dining Progr...",
-          "published": "Jul 21, 2026 10:12 AM",
+          "title": "Great American Seafood Cook-Off returns to New Orleans - New Orleans CityBusiness",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0RUajZDSHJJVU5LcEdEak5yZWNLSWE5WFBFdTBwVExYcVNSOVlVcTFURHF3X3hhR2FneC1MbW01aFdBSEtydXdKdTZVemx6eDItbXpLYWVjdER0WF84R05oM0JMbU8tSjBBVGVsM0M4akxNUmx3MUxjMnVOWXQ2YlVqelMxNzlGcGRuMG5PYjlNckRkbE9RSVRqcnZGWVowN3c?oc=5",
+          "source": "New Orleans CityBusiness",
+          "summary": "Great American Seafood Cook-Off returns to New Orleans New Orleans CityBusiness",
+          "published": "Jul 21, 2026 8:44 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "We visited the only 2 Michelin star restaurant in the American South. Does it live up to the hype? - Post and Courier",
+          "title": "Jean A. Hebert Obituary (2026) - New Orleans, LA - The Boyd Family Funeral Home - Legacy | Obituary Search",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BRlNLOEZnX2xpSlhiS20yNzQteEZPQS1uMkZIbktLWGh1M3VPazMtSjhxOFpKbDNELVJ1UkZDTnVvQlJHRWdBSm9NNFloZklMU0pESmNWQ01qcFRxbGZrZkpJeEtVWDkzMUVZdExhMHU2OE10RTRmMHhXUS1sMkE?oc=5",
+          "source": "Legacy | Obituary Search",
+          "summary": "Jean A. Hebert Obituary (2026) - New Orleans, LA - The Boyd Family Funeral Home Legacy | Obituary Search",
+          "published": "Jul 21, 2026 6:49 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "We visited the only restaurant in the American South with 2 Michelin stars. Is it worth the hype? - Post and Courier",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOemN1UUhiZGVSbDRlMVRpakMzdGpHMjQ2YUNDYlkzbGhxWEdLTUJHdEQ2YUNUZzkydU1lNTNFdjBxM3dVRC1SRHBKWU1UMklmQUdwVmZkV2Q1WUdpVlJRYl9CbkRfcW0xSW5KX2FCMThXeXFWemI2c0JreVEtM1JJWGNuRGsyN0xPanlKU2didDdaU2F2NTZGRk5NeGNYN1ZTbVhveEFYdDNzUm1pNHNRZ0tZc2FCRUY1ZnJuNWNiTTFlZ2FuOUpZV3BSXzNvUFlwSEstT3NoNnl5dFk?oc=5",
           "source": "Post and Courier",
-          "summary": "We visited the only 2 Michelin star restaurant in the American South. Does it live up to the hype? Post and Courier",
+          "summary": "We visited the only restaurant in the American South with 2 Michelin stars. Is it worth the hype? Post and Courier",
           "published": "Jul 21, 2026 9:00 AM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Marie Douroux has been appointed as Executive Chef at Virgin Hotels New Orleans - Hospitality Net",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kTmo3NEJHMGtSYmYycUNLZlF1bDNHVkNQLW8yZWZSc2xJWjMzR25kV2lSWnFVRE9PQ29rS3FBeE9fYW5XcDZza2d1elJ5VkZULWJvQVpqdnpwYzFWOVhlNWVtbmlCY0hGWU5iaVA3Y0gzTVk?oc=5",
-          "source": "Hospitality Net",
-          "summary": "Marie Douroux has been appointed as Executive Chef at Virgin Hotels New Orleans Hospitality Net",
-          "published": "Jul 20, 2026 12:33 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -202,11 +202,11 @@
           "calendar_url": ""
         },
         {
-          "title": "10 Yelp-reviewed spots to grab a daiquiri in New Orleans on National Daiquiri Day - WGNO",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0pkY1AydW1TZUJsWlZjek45ejNiN09zS3VaRU5PU0ZRY2ZiUVFxM2g0cHhwRnBXdy1IdjJBak0xNU04QlNQQlBfTmVNRFp3ZG85UzlZR1BhYmlZdERZOWRaQ3RCNUFsMG9KTDE2cU9MazJoNkNSWG5WaEdDbDJwMHA4VEZTcTJWS3c0RVgxT3ZuY3NGN2IyR1V4ZUJYZ1pYWjg2VXVCQVZpU3VuWC1F0gG0AUFVX3lxTE96ZWdCWHc1cmNsVlNfVy1USVFxWDVxRnlmYjVqOEtxM1lMLVZjaV90NFFvS19oc0t0dEVQYzhQdmUwR0dQMkVUZ3ZRVzllTDZhdm5GMUh4RjR3XzRoU1pmc1M4NERfY0dScUY5Wm1HdGtlZFQ4d1phYTlBTXdCSmo1STQ2akU2STJycEFyem8xQlVQcTlsNXpJN21iMnQ2YlVGSTlNeVdEZURCNHZlQXp5WThvMA?oc=5",
-          "source": "WGNO",
-          "summary": "10 Yelp-reviewed spots to grab a daiquiri in New Orleans on National Daiquiri Day WGNO",
-          "published": "Jul 19, 2026 4:00 PM",
+          "title": "Travel with Terri: Where southern charm meets timeless luxury at The Roosevelt New Orleans - Cross Timbers Gazette",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkJQME8wQzBuQlRZcWh6OFlyVzUzcTZUTWttbzk4RXVYaXIzekRuOC1wY2ZMbGg3dkRjbTFRR2JiakZIUVk3NGRNOFBsUGJPMnA5ZzhoaklFTG94b09GZnA5aHRsMUlsNWtGc2twUWt4VElwY2pPdGVTZVU4OTlvQk84c2FrMEhzeUl0LUdaNGw0MjV4dkxUcWJ6QzBfZU1JS0RhQWtzSjZybzg4UnViRHlHYk5Hb0dMVWM2UlRXYkZ1bVhmUjlXSFpWV1R2SUsxLTNr?oc=5",
+          "source": "Cross Timbers Gazette",
+          "summary": "Travel with Terri: Where southern charm meets timeless luxury at The Roosevelt New Orleans Cross Timbers Gazette",
+          "published": "Jul 19, 2026 1:01 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -219,6 +219,16 @@
       "description": "Arts, culture, nightlife, festivals, and local entertainment headlines.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
+        {
+          "title": "Trombone Shorty & Orleans Avenue Announce New \ufeffFall 2026 Tour Dates - Shore Fire Media",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSE5GWHlLOTVOc29TcU44Z3RMTkIzU2JnZFhndVc4Sk0wMEpuRjZOY00tNDdmSzNCQlZLVHA3N05kdlJPRGtiaDZTM3lPbGpxWTlnOXZEbldjY1RIOFUxZmdVS0VvUXAtUlVtcVQ0b05BQ0d4UF9Zd0JqVE5xSThDcWhmT3BoN2dmYjlFXzRkaG5sMi0xU3pnbnJiOU9mTm1SNnc?oc=5",
+          "source": "Shore Fire Media",
+          "summary": "Trombone Shorty & Orleans Avenue Announce New \ufeffFall 2026 Tour Dates Shore Fire Media",
+          "published": "Jul 21, 2026 8:02 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
         {
           "title": "New Orleans Public Library Seeks Curators for Music Project - New Orleans Magazine",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2ZvVzU3c1VjSjV1UEFNOHBVbHJBZXFiT2RyRWRkTUJvNlJNeHN2cWtpaGU0M0VwbWR6ZElsaUM1Q1M5MXdoVVBMQjVST3hhdkcxZHdBYUtuVUl4OHBCYWRDV3V0U0dqZ2NhSkNTYUNFLTVDNjctME4tMm8zdllZNzhZd3Z0dGM4aEtuaDhGcExnRlE?oc=5",
@@ -240,21 +250,11 @@
           "calendar_url": ""
         },
         {
-          "title": "From Mick Jagger to \u2018special\u2019 T-shirts, Landry\u2019s latest comments draw response in New Orleans - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeWhNQzlwSFNLTllITWdha3l3R2dlTXNuY25Db2FhWmZ3REI2eFR4VGp5MmpZWllIeGV5aG1uTjVyWGVwUGx3T3RiU3FxUlF6RGh5Tjh6NDM5U2ZiTHFCQk9OUTVtWjNwb2hFdFFaYnlRZGxrS1Z3RFl4dkFDaVE1UC1pbXdnMlNBLWMya19yX0pyMTNBQmZETzYtNmFQM0JELUgtTVQxZ25oY2xHQmZ6RlUwZHdUdGNBMy1tX1pnTVg5dENod3Jn?oc=5",
-          "source": "NOLA.com",
-          "summary": "From Mick Jagger to \u2018special\u2019 T-shirts, Landry\u2019s latest comments draw response in New Orleans NOLA.com",
-          "published": "Jul 16, 2026 8:43 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "New Orleans Piano Competition, Creepy Fest, Elmiene and more upcoming New Orleans events - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTHFFRkN3YWNza0t4MlQzdVhWWmFza1R5bjBfRGRrQXVZOVFTM0JERTVPOFZqQzA1elpnUzhGRGw5YXgzZ2FvZTFwVVQ1N0EwUTR3MDVucXk2dUktakVUNTRudFJrOGU4b2xtSXNhM05Zeml6VVVPUjk5V191SUZkTm8tZXdBR3YtOXkybjBJa01sUG5ULTRoYnoxclkwNGV2V2JqQzJsX0F4QUhIYWVDeUw5Rzh0U0o0TGtBQkZNZ0RDb2MtMTNBUlBuM2o4a0RBdGt3ODFJcS1CekdQZng5MUZDMXVWTlFrc1JnOTRfcHdvNU5VeDY5WGN3RVNCS3Jq?oc=5",
           "source": "NOLA.com",
           "summary": "New Orleans Piano Competition, Creepy Fest, Elmiene and more upcoming New Orleans events NOLA.com",
-          "published": "Jul 12, 2026 9:00 PM",
+          "published": "Jul 12, 2026 7:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "Coyote Anderson",
-          "url": "https://www.wwoz.org/events/1364976",
+          "title": "Dr. Sick",
+          "url": "https://www.wwoz.org/events/1364861",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 8:00pm",
+          "published": "Wednesday, July 22 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Coyote+Anderson&dates=20260721T200000%2F20260721T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364976&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dr.+Sick&dates=20260722T200000%2F20260722T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364861&location=21st+Amendment"
         },
         {
-          "title": "Kayla Jasmine",
-          "url": "https://www.wwoz.org/events/1366081",
-          "source": "WWOZ Livewire",
-          "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 9:00pm",
-          "eyebrow": "Event",
-          "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kayla+Jasmine&dates=20260721T210000%2F20260721T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366081&location=30%2F90"
-        },
-        {
-          "title": "Blake Amos",
-          "url": "https://www.wwoz.org/events/1365116",
-          "source": "WWOZ Livewire",
-          "summary": "Audubon Clubhouse by Dickie Brennan. Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 4:30pm",
-          "eyebrow": "Event",
-          "location": "Audubon Clubhouse by Dickie Brennan",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Blake+Amos&dates=20260721T163000%2F20260721T183000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1365116&location=Audubon+Clubhouse+by+Dickie+Brennan"
-        },
-        {
-          "title": "Tangiers Combo",
-          "url": "https://www.wwoz.org/events/1364751",
+          "title": "Pete Olynciw",
+          "url": "https://www.wwoz.org/events/1364691",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 6:00pm",
+          "published": "Wednesday, July 22 at 6:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tangiers+Combo&dates=20260721T180000%2F20260721T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364751&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pete+Olynciw&dates=20260722T180000%2F20260722T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1364691&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "F K-rrera",
-          "url": "https://www.wwoz.org/events/1368891",
+          "title": "Jacky Blaire & the Hot Biscuits",
+          "url": "https://www.wwoz.org/events/1368926",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 12:00pm",
+          "published": "Wednesday, July 22 at 12:00pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F+K-rrera&dates=20260721T120000%2F20260721T140000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368891&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jacky+Blaire+%26+the+Hot+Biscuits&dates=20260722T120000%2F20260722T140000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368926&location=Bamboula%27s"
         },
         {
-          "title": "Giselle Anguizola Quartet",
-          "url": "https://www.wwoz.org/events/1368901",
+          "title": "Swingin' with John Saavedra",
+          "url": "https://www.wwoz.org/events/1368956",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 4:30pm",
+          "published": "Wednesday, July 22 at 4:30pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Giselle+Anguizola+Quartet&dates=20260721T163000%2F20260721T183000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368901&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swingin%27+with+John+Saavedra&dates=20260722T163000%2F20260722T183000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368956&location=Bamboula%27s"
         },
         {
-          "title": "Caitie B & the Hand Me Downs",
-          "url": "https://www.wwoz.org/events/1368916",
+          "title": "The New Orleans Rug Cutters",
+          "url": "https://www.wwoz.org/events/1367216",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 9:00pm",
+          "published": "Wednesday, July 22 at 9:00pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Caitie+B+%26+the+Hand+Me+Downs&dates=20260721T210000%2F20260721T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1368916&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+New+Orleans+Rug+Cutters&dates=20260722T210000%2F20260722T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1367216&location=Bamboula%27s"
         },
         {
-          "title": "The OG's ft. Peter Harris, Amari Ansari, David Torkanowsky & Nygel Anderson",
-          "url": "https://www.wwoz.org/events/1366296",
+          "title": "Firm Roots ft. Peter Harris, Derek Douget, Jason Marsalis & More!",
+          "url": "https://www.wwoz.org/events/1366306",
           "source": "WWOZ Livewire",
           "summary": "Bayou Bar at the Pontchartrain. Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 8:00pm",
+          "published": "Wednesday, July 22 at 8:00pm",
           "eyebrow": "Event",
           "location": "Bayou Bar at the Pontchartrain",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+OG%27s+ft.+Peter+Harris%2C+Amari+Ansari%2C+David+Torkanowsky+%26+Nygel+Anderson&dates=20260721T200000%2F20260721T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366296&location=Bayou+Bar+at+the+Pontchartrain"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Firm+Roots+ft.+Peter+Harris%2C+Derek+Douget%2C+Jason+Marsalis+%26+More%21&dates=20260722T200000%2F20260722T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366306&location=Bayou+Bar+at+the+Pontchartrain"
         },
         {
-          "title": "The OG's ft. Peter Harris, Amari Ansari, David Torkanowsky & Nygel Anderson",
-          "url": "https://www.wwoz.org/events/1366301",
+          "title": "Firm Roots ft. Peter Harris, Derek Douget, Jason Marsalis & More!",
+          "url": "https://www.wwoz.org/events/1366311",
           "source": "WWOZ Livewire",
           "summary": "Bayou Bar at the Pontchartrain. Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 10:00pm",
+          "published": "Wednesday, July 22 at 10:00pm",
           "eyebrow": "Event",
           "location": "Bayou Bar at the Pontchartrain",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+OG%27s+ft.+Peter+Harris%2C+Amari+Ansari%2C+David+Torkanowsky+%26+Nygel+Anderson&dates=20260721T220000%2F20260722T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366301&location=Bayou+Bar+at+the+Pontchartrain"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Firm+Roots+ft.+Peter+Harris%2C+Derek+Douget%2C+Jason+Marsalis+%26+More%21&dates=20260722T220000%2F20260723T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366311&location=Bayou+Bar+at+the+Pontchartrain"
         },
         {
-          "title": "Bruisey's Bottoms Up Open Mic",
-          "url": "https://www.wwoz.org/events/1367396",
+          "title": "Sleep Habits + Dummy Plug + New Holland",
+          "url": "https://www.wwoz.org/events/1367421",
           "source": "WWOZ Livewire",
           "summary": "BJ's Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 9:00pm",
+          "published": "Wednesday, July 22 at 9:00pm",
           "eyebrow": "Event",
           "location": "BJ's Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bruisey%27s+Bottoms+Up+Open+Mic&dates=20260721T210000%2F20260721T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1367396&location=BJ%27s+Lounge"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sleep+Habits+%2B+Dummy+Plug+%2B+New+Holland&dates=20260722T210000%2F20260722T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1367421&location=BJ%27s+Lounge"
         },
         {
-          "title": "Shawan Rice",
-          "url": "https://www.wwoz.org/events/1366871",
+          "title": "Gumbo Funk",
+          "url": "https://www.wwoz.org/events/1363536",
+          "source": "WWOZ Livewire",
+          "summary": "Blue Nile. Tap through for the full listing and latest schedule details.",
+          "published": "Wednesday, July 22 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "Blue Nile",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gumbo+Funk&dates=20260722T210000%2F20260722T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1363536&location=Blue+Nile"
+        },
+        {
+          "title": "Giselle Anguizola",
+          "url": "https://www.wwoz.org/events/1367011",
           "source": "WWOZ Livewire",
           "summary": "Bourbon O Bar at The Bourbon Orleans Hotel. Tap through for the full listing and latest schedule details.",
-          "published": "Tuesday, July 21 at 8:00pm",
+          "published": "Wednesday, July 22 at 8:00pm",
           "eyebrow": "Event",
           "location": "Bourbon O Bar at The Bourbon Orleans Hotel",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shawan+Rice&dates=20260721T200000%2F20260721T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366871&location=Bourbon+O+Bar+at+The+Bourbon+Orleans+Hotel"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Giselle+Anguizola&dates=20260722T200000%2F20260722T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1367011&location=Bourbon+O+Bar+at+The+Bourbon+Orleans+Hotel"
+        },
+        {
+          "title": "Mason Howard Quartet",
+          "url": "https://www.wwoz.org/events/1363386",
+          "source": "WWOZ Livewire",
+          "summary": "Buffa's. Tap through for the full listing and latest schedule details.",
+          "published": "Wednesday, July 22 at 7:00pm",
+          "eyebrow": "Event",
+          "location": "Buffa's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mason+Howard+Quartet&dates=20260722T190000%2F20260722T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1363386&location=Buffa%27s"
         }
       ]
     }
