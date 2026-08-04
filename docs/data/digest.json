@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-08-02T05:33:22.001591-05:00",
-  "generated_label": "Aug 2, 2026 at 5:33 AM CT",
+  "generated_at": "2026-08-04T05:54:16.752505-05:00",
+  "generated_label": "Aug 4, 2026 at 5:54 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
-    "temperature": 80,
+    "temperature": 78,
     "temperature_unit": "F",
-    "short_forecast": "Showers And Thunderstorms Likely",
-    "detailed_forecast": "Showers and thunderstorms likely. Partly cloudy. Low around 80, with temperatures rising to around 82 overnight. West wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "wind_speed": "10 mph",
-    "wind_direction": "W"
+    "short_forecast": "Mostly Clear",
+    "detailed_forecast": "Mostly clear, with a low around 78. West wind around 0 mph.",
+    "wind_speed": "0 mph",
+    "wind_direction": ""
   },
   "seven_day_forecast": [
     {
-      "name": "Sunday",
-      "temperature": 91,
-      "temperature_unit": "F",
-      "short_forecast": "Showers And Thunderstorms Likely then Chance Showers And Thunderstorms",
-      "detailed_forecast": "Showers and thunderstorms likely before 7am, then a chance of showers and thunderstorms between 7am and 3pm. Partly sunny, with a high near 91. West wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
-      "wind_speed": "10 mph",
-      "wind_direction": "W"
-    },
-    {
-      "name": "Monday",
+      "name": "Tuesday",
       "temperature": 93,
       "temperature_unit": "F",
-      "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 93. Northwest wind 0 to 5 mph.",
+      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of showers and thunderstorms between 1pm and 4pm. Sunny, with a high near 93. Northwest wind 0 to 5 mph. Chance of precipitation is 20%.",
       "wind_speed": "0 to 5 mph",
-      "wind_direction": "NW"
-    },
-    {
-      "name": "Tuesday",
-      "temperature": 94,
-      "temperature_unit": "F",
-      "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 94. Northwest wind around 5 mph.",
-      "wind_speed": "5 mph",
       "wind_direction": "NW"
     },
     {
       "name": "Wednesday",
       "temperature": 93,
       "temperature_unit": "F",
-      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Sunny, with a high near 93. South wind 0 to 5 mph.",
+      "short_forecast": "Sunny then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Some of the storms could produce heavy rain. Sunny, with a high near 93. West wind 0 to 5 mph. Chance of precipitation is 30%.",
       "wind_speed": "0 to 5 mph",
-      "wind_direction": "S"
+      "wind_direction": "W"
     },
     {
       "name": "Thursday",
-      "temperature": 92,
+      "temperature": 93,
       "temperature_unit": "F",
-      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Sunny, with a high near 92. East wind 0 to 10 mph.",
+      "short_forecast": "Sunny then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Sunny, with a high near 93. East wind 0 to 10 mph. Chance of precipitation is 30%.",
       "wind_speed": "0 to 10 mph",
       "wind_direction": "E"
     },
     {
       "name": "Friday",
-      "temperature": 92,
+      "temperature": 91,
       "temperature_unit": "F",
-      "short_forecast": "Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of rain showers before 7am, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 92. East wind 0 to 10 mph.",
+      "short_forecast": "Sunny then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 1pm. Sunny, with a high near 91. East wind 0 to 10 mph.",
       "wind_speed": "0 to 10 mph",
       "wind_direction": "E"
     },
     {
       "name": "Saturday",
-      "temperature": 92,
+      "temperature": 91,
       "temperature_unit": "F",
       "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 92. East wind 0 to 5 mph.",
-      "wind_speed": "0 to 5 mph",
+      "detailed_forecast": "A chance of showers and thunderstorms. Mostly sunny, with a high near 91. East wind 0 to 10 mph.",
+      "wind_speed": "0 to 10 mph",
       "wind_direction": "E"
+    },
+    {
+      "name": "Sunday",
+      "temperature": 91,
+      "temperature_unit": "F",
+      "short_forecast": "Showers And Thunderstorms Likely",
+      "detailed_forecast": "Showers and thunderstorms likely after 7am. Mostly sunny, with a high near 91. Southeast wind 0 to 10 mph.",
+      "wind_speed": "0 to 10 mph",
+      "wind_direction": "SE"
+    },
+    {
+      "name": "Monday",
+      "temperature": 91,
+      "temperature_unit": "F",
+      "short_forecast": "Showers And Thunderstorms Likely",
+      "detailed_forecast": "Showers and thunderstorms likely after 7am. Mostly sunny, with a high near 91. Southeast wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "SE"
     }
   ],
   "sections": [
@@ -83,6 +83,46 @@
       "description": "New Orleans city government, neighborhoods, public life, and major local developments.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
+        {
+          "title": "Mayor Helena Moreno to replace 4 S&WB board members as mayor, council tighten control - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWFUUU1UTkNPdk05M3c5UXF2ZEY1RHhFVFZleTJMUXcyRmE4OTU2SWU3Y05uQTE5QkFkVUFuc2c2cElfUVdMNk5UQVA0QkVlMFhkTmRBTktsR1pPZ2IyWDZaWnNHWjd2Qm5WMTJHSUpzeTdoSmJmaUtGUEQ3djNpOWh2ajFZbTFMQXFFZnNJNnVfa3hXWlpvTGpWUFlqSHfSAaQBQVVfeXFMTldOSjBPQ2JIYVA4UFBNMmJweHNCVmhsWS1fWDhlLUFGYmxwWkNPVkM3MDR6X1BMWWR6OGdaVUxJaW1rNkZYVjJ6ZjFqRVlGV3I1U2RNeVRFbS1Bb05XbjlZWDc2aTl6ZTNQdGlMeU1xT3dnUUhPT3lwZ2t1eTREb2lkT1NYR2RIdzBSTUpLT3hlMEpseE10MkpOS0FLYlBDbFJ4aWg?oc=5",
+          "source": "NOLA.com",
+          "summary": "Mayor Helena Moreno to replace 4 S&WB board members as mayor, council tighten control NOLA.com",
+          "published": "Aug 3, 2026 7:56 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans City Hall begins sweeping SWBNO overhaul - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN2VSWXEwWlBLUnNHOExsWlhGNnZHWGp1d2d6RjQ1U2QtREJqb3VBRkdTSUExUG1CUW9GMTF3RGpzTVduTGdySlg1eHlaN21OSWRqb25lTjAwWGNZN0xvWWFqbTdjYzd2RDBnd0hIVWZYT2xSZVlIdzUyVGNXZXRReURYVlNQN1lEX1NIWUZRSlFXeVh3YWdfOFBaT2hBSHZDakE?oc=5",
+          "source": "Axios",
+          "summary": "New Orleans City Hall begins sweeping SWBNO overhaul Axios",
+          "published": "Aug 3, 2026 12:34 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Letters: Attorney general\u2019s threats against New Orleans politicians seem to cross a line - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSVlPc2tsWlJTSHhsYVh6UzZkMVJ4NFRhWkNaQnViLWhnY0tybXFnTVFlZGhlY05jNkN3N2tVUjdoa3BBbkNxLTBxeS1xNVg3NjZqTVZTUmZwYXdMQXJyQlYyWEpZeVltRTJIUU1qTTJrRHlJTk01VGJPWF9nMHUzZHFFVENvdG5nZF9zcU1FNWc3c1p0UVFtNDNTSll3OTAwMEVkV05Rd0FQa0R1ZEFiYdIBtgFBVV95cUxQWGk0XzIxd3hGRWQzcDd4eGdqbVdlTkZmNGVyM1ZPbGZNV1N3YlVuVHRSd0d6LXNHZkJ6dWg2ckJYdEI3dW0wSGVDampuMHZETjFGcU1xZkNhYjhad0dsN204ci1EWE1lS3JxS3VHbllMVHAyWXBRNEE5bThLeFBhb2JMX2xra2thc2VQMGdLb3NfaEVMMjZRRHRjU3dvZXVHTTJwNmtmd1F1OERmWUxzMnBkb0d6Zw?oc=5",
+          "source": "NOLA.com",
+          "summary": "Letters: Attorney general\u2019s threats against New Orleans politicians seem to cross a line NOLA.com",
+          "published": "Aug 3, 2026 5:15 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New laws target Sewerage and Water Board oversight, debit card fees, and balloon bans - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMjR2cGhSUFk5LUdudnFQTDZVZUhibHYwdS1ZYlhIdWM3STB4VDJKVXNiU1RaY01jeVlyMmFnSkFDZjVBd2NhV2t1aUNlUUFBdDlCX2F4MjVRUVU2dzRCbktwWkd5am5UU280cElqYlp5aXRoamU1SHN5aXBDa0tqd0pQMW9XMnFsSlJuUV9hWFRCSEZxSkFlcGc1YzE3cnlBTnloN2tOTldTeWw2M3M0OFE5OHlKakY4MW1ZNVdB?oc=5",
+          "source": "WDSU",
+          "summary": "New laws target Sewerage and Water Board oversight, debit card fees, and balloon bans WDSU",
+          "published": "Aug 1, 2026 5:00 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
         {
           "title": "New Orleans Sewerage and Water Board Transferred To City Control - WWNO",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNm1tdWpETHFSd09FMWUwZS0zTzEtZHE4d014SjVPSW9OV2hzR3JEUGJkazlNYXNsb1lOTks3LXE0UXh4VnpqSERPLU01SkVwOUxpRkdlZ3hIVTlrV1hjSzJ3RUttclNyd0dJZFhpQk1Vd1RISncxUnRiNnZONWFHR2tYVTB5S1pxV2ZCTUUzWEZHWWdrM0I3QU5VVlNLSXBqaTQtMnJDMFU?oc=5",
@@ -102,46 +142,6 @@
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "Louisiana moves to set up homelessness courts, with critics saying it won\u2019t help - New Orleans CityBusiness",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVlNDWm12b0Y3X3NsT25TNW9MM1EtV1dVWWpOVHZtVnFndV9IclNxcjNxTzA4bG5EM2IyNnd2RFkxRzc2R0puYkFoR3JsdFk0dk5CNVhpd3V6S2tpRWVQQWpISTZvMzR3emFnUmZ2YjdUNVFqUlJSMjB5Wk8zNE9Dd0dBek93cUdnOWZBaTFkSnIyc2VCdWNjbg?oc=5",
-          "source": "New Orleans CityBusiness",
-          "summary": "Louisiana moves to set up homelessness courts, with critics saying it won\u2019t help New Orleans CityBusiness",
-          "published": "Jul 31, 2026 9:22 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Louisiana WIC system promises easier access to benefits - New Orleans CityBusiness",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdExhQWNGLWVyaVo3Q0Z6NFB5UVhYLUNQWXVGU1BBNWRCOW9KVUhHQU05bnZIZkdjamhjNDVuMGlFR1QwNm1LMGlmbW9jUlJKeURQa2o5OUVQdWlaYnJDQ2FvQ21oMGFYZmpscjdEeGJQeFNwUDIzTjU2dWluVncyWTRDWV95YVJZaFhKTGJn?oc=5",
-          "source": "New Orleans CityBusiness",
-          "summary": "New Louisiana WIC system promises easier access to benefits New Orleans CityBusiness",
-          "published": "Jul 31, 2026 4:17 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans City Council Member Aimee McCarron says reforming S&WB will 'take some time\u2019 - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc28xME1sMTVkaVpVbEotbDlVbGRYSFdEOVJOVGp6azVLdmtmRW8tODgtN291dkMwYmpDZk5GYWNGendRQ2pOSXFDSjZkT0l1c2FRYmh6TzA3VTBxWnptNUo2VEVHaHVIYU11MFlrdU04RkNNWFNqSmEyeUI3WW9JUlMteTRMZVhCbWMtdURnU19BUHB3TnA0VzVCVHlPbEVBX0xaS1FmdkJNRnlwcWlNLXloNk5JVmpLYjZ0b3NRWVYwcTdTTlFHVDZWQkt3Nzk0UkF0RFJaRnpWQQ?oc=5",
-          "source": "NOLA.com",
-          "summary": "New Orleans City Council Member Aimee McCarron says reforming S&WB will 'take some time\u2019 NOLA.com",
-          "published": "Jul 31, 2026 2:40 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Thrive New Orleans\u2019 18 Years of Creating More Resilient Homes and Communities - Biz New Orleans",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS2hfWjZIYlNBcDdKRDBQbUhoM3FyUlRjSVoyUFFMbmRBbWItNEhrUGxDejNfT3pkdWl2YUpWbWtXMEdReEd1ZUlzSzZQQW9tZlJPd2FKNE85VXJSbDg0VjZ6cHpVUUdmZnpDNWdJaFdxZ3Aya0dXSi01UnVyMWNiWjhNYlFneE8yQnBHRlpuMlVFdnhVZnBsdkxuQWdYLWZ3dTdEdUhR?oc=5",
-          "source": "Biz New Orleans",
-          "summary": "Thrive New Orleans\u2019 18 Years of Creating More Resilient Homes and Communities Biz New Orleans",
-          "published": "Jul 31, 2026 1:03 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -152,30 +152,50 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "The New Orleans Restaurant Making Sure Kids Don\u2019t Go Hungry This Summer - Southern Living",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZTjRyYU5DX1pnOHFwcElPYnFzLThGUTJzbDgzS0V4ZW5rNWdzb1pzbnZ5VUlRcTAyQ05pWUQxSEhpUE9RMC1hOXNQM25Rano4QjRrcnJCWDF6NEdvQlpGbktnRnByT0Vx?oc=5",
-          "source": "Southern Living",
-          "summary": "The New Orleans Restaurant Making Sure Kids Don\u2019t Go Hungry This Summer Southern Living",
-          "published": "Aug 2, 2026 12:08 AM",
+          "title": "A Bold New Fine-Dining Story Is Being Written in New Orleans - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1RyS0x5WTc2MTY4OE83eWRnQzZPMk9IeHNSenROUGFDQVIxazRPUnNUNXhNTEdKbnhpMWgtNEVQUEw0UGozUXVwNjNXUGFNNUd2YjBualE4UmMtR2M1T1NaTjYyNVJBeUFVamI2MlVUNjdIT3c5TWFZbVRLWlVPNnBPeUQwSUE5Z3c?oc=5",
+          "source": "The New York Times",
+          "summary": "A Bold New Fine-Dining Story Is Being Written in New Orleans The New York Times",
+          "published": "Aug 4, 2026 9:03 AM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Lounge XII Set to Bring Life and Legacy to New Orleans East - WhatNow",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFdDU0RtejlqX2pLZTd4VlVtanFzaXlPMkRzMldRSGJLNjlNdFNKMmxzT29pWWUwd2NZZzQ4ZHZwYk9PakFuekRxYzlrdnRCcEU0WmpydkRKSGFMYThqdlp2R0hzVnhRZUl3NTh6eHE3VHBhcUlnMHZsTTBGTklVNjJsM3JxQkFlRzk4MjVLMkx3UEFJU2hUcG9yUVFZaUlYZ0oyd0pwOA?oc=5",
-          "source": "WhatNow",
-          "summary": "Lounge XII Set to Bring Life and Legacy to New Orleans East WhatNow",
-          "published": "Jul 31, 2026 9:10 PM",
+          "title": "New + Now: Flavor Files (August 2026) - The Pearl New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjdZSWdfTlJMckJxQVdwXzI4SnBqTmVOY2tzcjhWOHVtWEpYX05yY2RST09UNldYZEY5Zi1JVWpZMGtaYV9RWjd3SUlTZWZpMnpHOWU4clFTeHlHWk1aNDlBVFppOFM2TzR5eVROV3dRRzV5TlZxRVQwMmpyMV8yUzl5Qkk0bkQ5d29KZlF4NzhMdTdPbUVycE0xTl9MU1M3cVNGNnJQLUU3UWpHb3EtbHFMczZkdVBUWHZvWWw0M0xVWms?oc=5",
+          "source": "The Pearl New Orleans",
+          "summary": "New + Now: Flavor Files (August 2026) The Pearl New Orleans",
+          "published": "Aug 3, 2026 2:00 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Nolia\u2019s owner to revive his New Orleans restaurant in new Pendleton location - citybeat.com",
+          "title": "NOMA Taps Michelin-Starred Chef for Salon Supper Club - Biz New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ0lRQVZEd2tnakJVNXVkX1R6MjVEak5yb29pZkhtbzAxb1JnMzR2MmpGWURBdlpNc0tvSW5INVZhRkNuSDk1cGJISzRRQXBXNmNWTGZnQnZtN0tWclRtQnZLNVdtZkpDTVYtakp6bnVNMndON0RJcXgzOVVxcG1xN0xodElxR00?oc=5",
+          "source": "Biz New Orleans",
+          "summary": "NOMA Taps Michelin-Starred Chef for Salon Supper Club Biz New Orleans",
+          "published": "Aug 3, 2026 9:23 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Chef Frank Brigtsen calls his new cookbook 'my legacy.' It took a community to produce it - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVFORnVCQncxSDBFWEFHVXBxamtWcTYwNFRSV3lmZG52Y21CTVFiaGJ6d205UnBkVElhTE1IU0pZNi1pSnBSLWdZNjB4WkFJUmo4akNxN2xFZ3c0RGdyRzQ1WXc5ekVJNVcwVHBmOWpxWHZZWU1INXB2b1hnWHF2blJETmh3SHdXVEVnNHN1VXB0bF9ka0ZIaW5VR3hYQU43eUZpMkhzQTViczI2U0xQTVdWNFoxYlktWW8za1RxZE8?oc=5",
+          "source": "NOLA.com",
+          "summary": "Chef Frank Brigtsen calls his new cookbook 'my legacy.' It took a community to produce it NOLA.com",
+          "published": "Aug 2, 2026 12:00 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Nolia\u2019s owner to revive his New Orleans restaurant in new Pendleton location - Cincinnati CityBeat",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NZEM4R3A3Y0ltSHh2bXN2T0RpZGxhUGxlUVFCbWR4bXBpcGpXeUxLRWxQT0lLd21lTV9RWTk5cVJtZmNlTWExN1ZaczhlcFE4cmMtdmEzTUhSUDBmU3dvY3ROY1Y4MHo3SzNXaTFFTkprU3BV?oc=5",
-          "source": "citybeat.com",
-          "summary": "Nolia\u2019s owner to revive his New Orleans restaurant in new Pendleton location citybeat.com",
+          "source": "Cincinnati CityBeat",
+          "summary": "Nolia\u2019s owner to revive his New Orleans restaurant in new Pendleton location Cincinnati CityBeat",
           "published": "Jul 31, 2026 9:08 PM",
           "eyebrow": "Restaurants",
           "location": "",
@@ -190,26 +210,6 @@
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "Hotels and resorts across the U.S. add F&B leaders - Hotel Management",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTNNRG1uSWVhWldiTG5QUFRhSHVwMlVXd0gzRUY5NWdZdUtpRVlSd0Jjc3ZnbTZHUUFzdlR4MXl0WXVMdTROM0kxR05jNzhVT0pacGx0NVV5Q3R2bHU3N1pLdG1Nak92QXpsZ21oMDBzMWVUaUhYUmZ6NVdsUzNkMlQwZF9SaUxJVThNb3hjZWZqS1U?oc=5",
-          "source": "Hotel Management",
-          "summary": "Hotels and resorts across the U.S. add F&B leaders Hotel Management",
-          "published": "Jul 31, 2026 3:00 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans Tourism and Cultural Foundation Honors Gala - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMFdqS2RBQnBBSEpLMlVNODRqVDFEbWRCSFYycndkSjRHaGNOYkdpYkVpNjdobFJqNk81TklTd043WWNnYVE2YkpkTW5uUURoQ0RYSjNKcVctUHJ3MGZmcS15bTlWRU5VU3EzNDgxVzNScWJ5S3R6cFNZaGhSZE1OYVlXVENndno4UHBaal93?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "New Orleans Tourism and Cultural Foundation Honors Gala New Orleans Magazine",
-          "published": "Jul 31, 2026 1:00 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -220,11 +220,31 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "The Kismet Collaboration of Jazz Ensemble Naughty Professor - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX29rYUtSQ0FkQzd5TTN0bXFNTEtlTm55Z3d0dmo1S0FhTXpNTmFHYUhzSU5iTWY5Q1A1XzJVdzBqZXFPZEVJbzRkbXphcHpPYmZXcEpBWEE0NHowaUhoSXdGQ0RqYURpMXFQMVlTWi05My1jLW1GX21vUlE1ejZNdlVvQzlPQ3B2NFREU0gyd2tPN28?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "The Kismet Collaboration of Jazz Ensemble Naughty Professor New Orleans Magazine",
-          "published": "Jul 31, 2026 1:00 PM",
+          "title": "Tickets On Sale for 2026 Beignet Fest - Biz New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tLWVtUUw3Rl9zZGM3Z0tDYlNRR1poYm9BaVV4ZDd6aThsZjlBZEVrMkd6alRUYktwdXRHdm9IZmRlUEY1NEJuOHpuVFJNSVc1SkRZQzlGVkdIQUhVQ2lWcUZpMTl2QTF2RTE5T1ZKRnNNUQ?oc=5",
+          "source": "Biz New Orleans",
+          "summary": "Tickets On Sale for 2026 Beignet Fest Biz New Orleans",
+          "published": "Aug 3, 2026 5:22 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Montclair Jazz Festival\u2019s Soundcheck Series Brings New Orleans Energy to Montclair - Montclair Local News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTFibXBMTzBwelQ5RG5GcXExVE5JNjJWRGduZUZtVFhOcElnSERaV1hzVW5BZTFzaW85NnFjZkVadXpTMC1iQVZzNzR4bVVCdjRrcVM4a1BUYXBiVm5Dc0JiaDZFYXBCSHNFRGRSVThmdFJXYVlSaWl5VGtvMVBhdGIzU2JUR2p1SUpVZ1VPUUJxMGF2WDRuc3Z6QUVHZXE1N1hUc185cDNyNXlfb0FudXFvcjNFNWJIbUE?oc=5",
+          "source": "Montclair Local News",
+          "summary": "Montclair Jazz Festival\u2019s Soundcheck Series Brings New Orleans Energy to Montclair Montclair Local News",
+          "published": "Aug 3, 2026 4:31 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans events: Red Dress Run, New Orleans Hip-Hop Festival, Ella Mai and more - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZlpObnhkcmNKNTVfUU9QOEh4NnliU21rcGljYVVzMWwxRDN4YkVOQ2ZYQUxvSEtCeGIzejFZa3IyVTJObE5NejRQaG1hdnlNUk00YTNfZkFQa3ZMVTVtVU5lNk5BRGc2anhpTzVTRDZiVWpiSFJCekpqTEdOSVNBUzVRVG1nRUpnenF4VTBsTGJ2VklSTmJZOEUyTDcyS25nQjFUdGZITVRKM3BJd19fWGdZYkNUNFFVNU5pcW5Wc0ZMZF85YS1VSnBycnFmMkZyVm9vVHBPVFlqd1RqWHd3bzRORmFVM1ZEaC1hT1l5SF9KZGdzeDhV?oc=5",
+          "source": "NOLA.com",
+          "summary": "New Orleans events: Red Dress Run, New Orleans Hip-Hop Festival, Ella Mai and more NOLA.com",
+          "published": "Aug 2, 2026 9:00 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -250,31 +270,11 @@
           "calendar_url": ""
         },
         {
-          "title": "Will Sutton: For Essence Fest, here\u2019s where to see Black culture, Black excellence in New Orleans - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYUJKdWJxOHJvekpmVm93VG9kcXhzTTBrVUN5OEM0c0V4V1M2Y29LMVpYd1RERVFlZG9DSGFJeXdYQVNPV1dnRnVxZTFpOXVrbzRrTk84d1E1SGV5VDZqeG9WeE83R1FrTExHSDk5VmhONHJaSk1iM1gyYXFiVW5ldkFnN0lzdVZmYnhueFRmaUREcHVOUlpvQlFzUmg3ZWtGWGU1LUNEbWRXTzlzSE1JOXJ5SFlDbFNLX2NxOHVTSG8tS3Fic2lJcXF2elhtMlVBaWt6U0s2bm9RZm9r0gHiAUFVX3lxTE85Z2ZEb2JnZm1ZV1dnVGwtTXIyd2pFT05rc0w5OVg4VmhDNm92Y3BuT2VqcjJRaTV5UnZPV203M3VoOW9zbjNBcmZiWXJ2a2lKeElIbm1LY3JqdjFwaGthbE5WSTlYbzZIeVZKeGQtM0lQeS0wYW5rRE4yZjFKTnloU2g5Yi1NT2tSSTZSQ0ZFR0dvRkJXSlJaUVBKVEVvQWstbUctSFNmWXBMMURIUXZwdmdmRXh2WVF3Xzd2d2syNzFCX25IZktjYW9VVWZLTmJTdHAzNldzMlFIRGZxelVVR1E?oc=5",
-          "source": "NOLA.com",
-          "summary": "Will Sutton: For Essence Fest, here\u2019s where to see Black culture, Black excellence in New Orleans NOLA.com",
-          "published": "Jul 2, 2026 7:00 AM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "July 2026 Events in New Orleans - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tdzg4dkl5Mi1uRkNzQ2VzYU1PUEE2Q1prUFRfV1kyNXlsQkdtOGk5bWl4NE92YzQ5ZDljSDIzZzJKdkQyRjFHY3VDM0JGTGszT2JzUG9NYlhKYlB3Q3MycHQyZ1Vfb0wxelFZcWp3?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "July 2026 Events in New Orleans New Orleans Magazine",
-          "published": "Jul 1, 2026 7:00 AM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "StubHub is selling fake New Orleans Jazz Fest 2027 tickets for $5,283 - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVTVBaWtKZDducGxBLTNQOEFCaUZRLVJmS2s1MnhVaG9aTThhby0yb05pWGRRc2taM2NLLVFPMmg5RDItQzN3eG94SHpHY0h0bjMwRVNrYjk2dm1vY0dfRFZwMjdrYVdhVmVuRnNXYTlqc2lwYzBZMWVaT1BVN2p2UlNxUXpITGxMREhhcmJDZXE3Z0g4SmVTX2VjZnpyMVhORl9SY2dCdUZmX3ZocVoyR0VoYmhwZzV3aFpSOEhIRHUtY0VxclBwQ2VRZVZnbzV0cFY4NmduV2hHZUxQNDVVTVZTc0tCY3c?oc=5",
-          "source": "NOLA.com",
-          "summary": "StubHub is selling fake New Orleans Jazz Fest 2027 tickets for $5,283 NOLA.com",
-          "published": "Jun 24, 2026 7:00 AM",
+          "title": "Community Book Center brings New Orleans' literary culture to ESSENCE Fest - WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbDVweFZlbHd1Z2NwWmZMU0NBVFJiR1REcTFJX3dpdGs1empLSUQxWDhYSjFaa19IVTZEVHgwN01CaVh0a0JDSXZyS2Z0S0ZqSzhsUFE5R2p5VUZwYXFEOXU5TkdYai1QUW5GYUo5Z3dybHp0cWMzaUdtM3FiaU5fank3dmFqWkVWUHVFWWVmRGI4TmNsUE5yOVY0eVVxX1dkTFRrQTlTRlpJclk3UVFIWlZ3ZFIxZ1Q4QTJYQzlSWWJjS2dnQ2ZvYUVfSFE3VS1KWnp6aFJjS3JCNUYxeXdhbVJoUmNyZ0JFbU5TVjF5OUc3Z2JHcFUzY0FiS250YVh5M2pFbmNB?oc=5",
+          "source": "WWLTV.com",
+          "summary": "Community Book Center brings New Orleans' literary culture to ESSENCE Fest WWLTV.com",
+          "published": "Jul 7, 2026 7:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -288,6 +288,36 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "Montclair Jazz Festival\u2019s Soundcheck Series Brings New Orleans Energy to Montclair - Montclair Local News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTFibXBMTzBwelQ5RG5GcXExVE5JNjJWRGduZUZtVFhOcElnSERaV1hzVW5BZTFzaW85NnFjZkVadXpTMC1iQVZzNzR4bVVCdjRrcVM4a1BUYXBiVm5Dc0JiaDZFYXBCSHNFRGRSVThmdFJXYVlSaWl5VGtvMVBhdGIzU2JUR2p1SUpVZ1VPUUJxMGF2WDRuc3Z6QUVHZXE1N1hUc185cDNyNXlfb0FudXFvcjNFNWJIbUE?oc=5",
+          "source": "Montclair Local News",
+          "summary": "Montclair Jazz Festival\u2019s Soundcheck Series Brings New Orleans Energy to Montclair Montclair Local News",
+          "published": "Aug 3, 2026 4:31 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans Jazz Museum to host free concerts for Hispanic Heritage Month - WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMV9lOVhOX3N3Y194UzYxVGY5SW1Xd25HYXotZ0Y0U1Qza0VQcjFLUGNNaEVPVEdlZTZtNGc2bDdhS3gwTjZEMkpkNDhSbnkxRXVwNXBWOWNYeUM5S2dqN2FGckFIZ0tkOUQ1SzQxQ1E0Zk1lRmVGTnNERGR2SXlleTlsc2Zaa25NT0VFeXk0WllqVWk0VF82NmRVR19xM3psLWN4YVRGWDBjdHY3blY1WS1vYm5RN29KUnVtcndhU1o5aXJNTkxiUXBWOFN4eHVTMFIybnoxODF5QzFtdnFjdjlnT1pJSkthTFBz?oc=5",
+          "source": "WWLTV.com",
+          "summary": "New Orleans Jazz Museum to host free concerts for Hispanic Heritage Month WWLTV.com",
+          "published": "Aug 3, 2026 3:06 AM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Photos: Satchmo SummerFest celebrates Louis Armstrong\u2019s legacy - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSFB4dzFWeHdXNDlUTnN5MUw1SGpnMUxzc2V1UXVIMUQzTnYtd1RYMUFBZThZUFdnWkNydVQ0WkF2Uk0xQnZicVFPeURsb2cydFVHS3lwSzRPdUFLQnJXcVF0cnBfaWw0UXRkdWpQbWRnUnZ4QUtpdXhHdTE0eTgxUEwyQTNjOHliVGFENEFmbW9tbXJOMnpHS3ZYWWNnSWxBUWcxMDh0MmEtTmN3cWJoR3QzRmMzVHM1X3E1aV9QWWhXZ0ViQTZRajdvWk1fNVYtNDJhVzNKYzN3amZ3cUpMLXZ6Yl9Oamg4?oc=5",
+          "source": "NOLA.com",
+          "summary": "Photos: Satchmo SummerFest celebrates Louis Armstrong\u2019s legacy NOLA.com",
+          "published": "Aug 2, 2026 10:48 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "Satchmo SummerFest celebrates Louis Armstrong with live music and local flavors this weekend - WWLTV.com",
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPM1JPcXZGaXItT3VRZm1DOVVtbHBBYlVhQ2lBY1E1MTdWb3JOQng2bm4zSjVnY084SE9tU1k4RWtydDA3dTBKQlZ2U21xaVFEdm94b3RXbjQ5SDQtcExrOHlYd3dEWnlyb3o0dVZtNFdmcjFiLTV0ZmRLUjRHajEycHU2LXBfdGY1MzJhV2hTMlNTN2h5Zk9WTkp1TFlWdkY1SVpUbWJtS0JXb1BzaTM3T25vNXlnS2pfN2RxN1gxSlJhSURMS0tQQTNyNlg2Nm1rdUpjaEhDSmtyNmZiRmtMQkFZcGlLWWV1M2JjT0Myc1FQaUgxckRrQ2pEeGRmaFpqbWF4TGN5TUhOWklkYWdB?oc=5",
           "source": "WWLTV.com",
@@ -298,11 +328,11 @@
           "calendar_url": ""
         },
         {
-          "title": "The Kismet Collaboration of Jazz Ensemble Naughty Professor - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX29rYUtSQ0FkQzd5TTN0bXFNTEtlTm55Z3d0dmo1S0FhTXpNTmFHYUhzSU5iTWY5Q1A1XzJVdzBqZXFPZEVJbzRkbXphcHpPYmZXcEpBWEE0NHowaUhoSXdGQ0RqYURpMXFQMVlTWi05My1jLW1GX21vUlE1ejZNdlVvQzlPQ3B2NFREU0gyd2tPN28?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "The Kismet Collaboration of Jazz Ensemble Naughty Professor New Orleans Magazine",
-          "published": "Jul 31, 2026 1:00 PM",
+          "title": "White Linen Night, Satchmo Summer Fest and more on tap for weekend events across New Orleans - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yRlFQS3FCYVN0UDZQNUlhdTBXRmFEbjVlWERoeks3ekNFMWFiaFQ1OWMtbzdhZnd4ai1Ycm9neWljZk5mYTd1RlJEWG83NFV5aTJTQzMzeDVUcmV5Qkw3T1UxX3I4SGVEV0lJcy1XbXZ2Ym1PajVZZkxn?oc=5",
+          "source": "WDSU",
+          "summary": "White Linen Night, Satchmo Summer Fest and more on tap for weekend events across New Orleans WDSU",
+          "published": "Aug 1, 2026 2:31 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -313,36 +343,6 @@
           "source": "NOLA.com",
           "summary": "Satchmo Summerfest, Lagniappe dog show, White Linen Night and more events around New Orleans NOLA.com",
           "published": "Jul 29, 2026 5:00 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Satchmo Summerfest returns at the New Orleans Jazz Museum - NOLA Now",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclRJYVpPdWNjOU5TYVdoUVB6cW9oTHMyNVNHUnNkLWdsRl80bU1HanlILXMzN3dvb2YtZkI3M3VwMW1sa2pSbHFYeVpCZVJXVVozcjl5QzcwU3hVNjhVNm5nMkVncDBXc3dIelJ6Um9uU0cxeUw2QjkxTW1pT0xhZTU4UDhvRVRDNFotay16Y0p5QjhTR3o0?oc=5",
-          "source": "NOLA Now",
-          "summary": "Satchmo Summerfest returns at the New Orleans Jazz Museum NOLA Now",
-          "published": "Jul 28, 2026 3:55 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "This season in Atlanta: A $23 live music series returns to bring the spirit of NOLA jazz to Wild Heaven Beer - secretatlanta.co",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhOVJQcC1hRm1HY195NVQyR0RWc3JWdk0xYXBSQ3lqZnY1ME1XV1RYR0hHMGhwYUR1UGVrNVpJcGQ3U3pnVkN0bHp4QUhLcW04WThCRjdVbkZvTzRBd21pNjAwTXVNbDJGWkE?oc=5",
-          "source": "secretatlanta.co",
-          "summary": "This season in Atlanta: A $23 live music series returns to bring the spirit of NOLA jazz to Wild Heaven Beer secretatlanta.co",
-          "published": "Jul 16, 2026 7:00 AM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans Jazz to celebrate 50+ years with historic team reunion - Crescent City Sports",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa0J2SDNfY1c3ejEycnJtWG95MXBiVFBPUzJkOGFuRXNDMHBmSlJzazhRekFjeFJDU1ZGc3RSN3lvdW1ZbGFCNE52SGxwQ0x2MmttQlNyeWhfTHVNcGYtUHB2TlpERFRXU0lNRG5na2Y5dXFWUkFNYUZuNGZCZGF3Qkk3N21GUGtRR0g2WFVxbVVNZGxHelVF?oc=5",
-          "source": "Crescent City Sports",
-          "summary": "New Orleans Jazz to celebrate 50+ years with historic team reunion Crescent City Sports",
-          "published": "Jul 16, 2026 7:00 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "The Coyote Anderson Organ Trio",
-          "url": "https://www.wwoz.org/events/1372026",
+          "title": "Coyote Anderson",
+          "url": "https://www.wwoz.org/events/1372041",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 3:00pm",
+          "published": "Tuesday, August 4 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Coyote+Anderson+Organ+Trio&dates=20260802T150000%2F20260802T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372026&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Coyote+Anderson&dates=20260804T200000%2F20260804T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372041&location=21st+Amendment"
         },
         {
-          "title": "Big Mike & the R&B Kings",
-          "url": "https://www.wwoz.org/events/1372031",
+          "title": "Blake Amos",
+          "url": "https://www.wwoz.org/events/1365126",
           "source": "WWOZ Livewire",
-          "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 8:00pm",
+          "summary": "Audubon Clubhouse by Dickie Brennan. Tap through for the full listing and latest schedule details.",
+          "published": "Tuesday, August 4 at 4:30pm",
           "eyebrow": "Event",
-          "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+Mike+%26+the+R%26B+Kings&dates=20260802T200000%2F20260802T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372031&location=21st+Amendment"
+          "location": "Audubon Clubhouse by Dickie Brennan",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Blake+Amos&dates=20260804T163000%2F20260804T183000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1365126&location=Audubon+Clubhouse+by+Dickie+Brennan"
         },
         {
-          "title": "Sunday Swing with The Bad Penny Pleasuremakers",
-          "url": "https://www.wwoz.org/events/1372951",
-          "source": "WWOZ Livewire",
-          "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 8:00pm",
-          "eyebrow": "Event",
-          "location": "AllWays Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Swing+with+The+Bad+Penny+Pleasuremakers&dates=20260802T200000%2F20260802T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372951&location=AllWays+Lounge"
-        },
-        {
-          "title": "David Sigler",
-          "url": "https://www.wwoz.org/events/1371976",
+          "title": "Tangiers Combo",
+          "url": "https://www.wwoz.org/events/1371986",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 7:00pm",
+          "published": "Tuesday, August 4 at 6:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David+Sigler&dates=20260802T190000%2F20260802T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1371976&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tangiers+Combo&dates=20260804T180000%2F20260804T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1371986&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "James McClaskey & The Rhythm Band",
-          "url": "https://www.wwoz.org/events/1367361",
+          "title": "Band for Life ft. Amari Ansari, Oscar Rossignoli, Peter Varnado & More!",
+          "url": "https://www.wwoz.org/events/1366281",
+          "source": "WWOZ Livewire",
+          "summary": "Bayou Bar at the Pontchartrain. Tap through for the full listing and latest schedule details.",
+          "published": "Tuesday, August 4 at 8:00pm",
+          "eyebrow": "Event",
+          "location": "Bayou Bar at the Pontchartrain",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Band+for+Life+ft.+Amari+Ansari%2C+Oscar+Rossignoli%2C+Peter+Varnado+%26+More%21&dates=20260804T200000%2F20260804T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1366281&location=Bayou+Bar+at+the+Pontchartrain"
+        },
+        {
+          "title": "Band for Life ft. Amari Ansari, Oscar Rossignoli, Peter Varnado & More!",
+          "url": "https://www.wwoz.org/events/1372286",
+          "source": "WWOZ Livewire",
+          "summary": "Bayou Bar at the Pontchartrain. Tap through for the full listing and latest schedule details.",
+          "published": "Tuesday, August 4 at 10:00pm",
+          "eyebrow": "Event",
+          "location": "Bayou Bar at the Pontchartrain",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Band+for+Life+ft.+Amari+Ansari%2C+Oscar+Rossignoli%2C+Peter+Varnado+%26+More%21&dates=20260804T220000%2F20260805T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372286&location=Bayou+Bar+at+the+Pontchartrain"
+        },
+        {
+          "title": "Bruisey's Bottoms Up Open Mic",
+          "url": "https://www.wwoz.org/events/1371791",
           "source": "WWOZ Livewire",
           "summary": "BJ's Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 9:00pm",
+          "published": "Tuesday, August 4 at 9:00pm",
           "eyebrow": "Event",
           "location": "BJ's Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=James+McClaskey+%26+The+Rhythm+Band&dates=20260802T210000%2F20260802T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1367361&location=BJ%27s+Lounge"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bruisey%27s+Bottoms+Up+Open+Mic&dates=20260804T210000%2F20260804T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1371791&location=BJ%27s+Lounge"
         },
         {
-          "title": "Sierra & the Green Notes",
-          "url": "https://www.wwoz.org/events/1372326",
+          "title": "Charles Holmes from The Blues Masters",
+          "url": "https://www.wwoz.org/events/1375871",
           "source": "WWOZ Livewire",
-          "summary": "BMC. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 3:00pm",
+          "summary": "Bourbon O Bar at The Bourbon Orleans Hotel. Tap through for the full listing and latest schedule details.",
+          "published": "Tuesday, August 4 at 8:00pm",
           "eyebrow": "Event",
-          "location": "BMC",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sierra+%26+the+Green+Notes&dates=20260802T150000%2F20260802T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372326&location=BMC"
+          "location": "Bourbon O Bar at The Bourbon Orleans Hotel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Charles+Holmes+from+The+Blues+Masters&dates=20260804T200000%2F20260804T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1375871&location=Bourbon+O+Bar+at+The+Bourbon+Orleans+Hotel"
         },
         {
-          "title": "J.A.M. Brass Band",
-          "url": "https://www.wwoz.org/events/1372331",
+          "title": "Keva Holiday",
+          "url": "https://www.wwoz.org/events/1374366",
           "source": "WWOZ Livewire",
-          "summary": "BMC. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 6:00pm",
+          "summary": "Bourbon Square Jazz Bar. Tap through for the full listing and latest schedule details.",
+          "published": "Tuesday, August 4 at 12:00pm",
           "eyebrow": "Event",
-          "location": "BMC",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=J.A.M.+Brass+Band&dates=20260802T180000%2F20260802T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372331&location=BMC"
+          "location": "Bourbon Square Jazz Bar",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Keva+Holiday&dates=20260804T120000%2F20260804T140000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1374366&location=Bourbon+Square+Jazz+Bar"
         },
         {
-          "title": "Some Like It Hot!",
-          "url": "https://www.wwoz.org/events/1372351",
-          "source": "WWOZ Livewire",
-          "summary": "Buffa's. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 11:00am",
-          "eyebrow": "Event",
-          "location": "Buffa's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Some+Like+It+Hot%21&dates=20260802T110000%2F20260802T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372351&location=Buffa%27s"
-        },
-        {
-          "title": "Father Ron",
-          "url": "https://www.wwoz.org/events/1372356",
+          "title": "Alex McMurray",
+          "url": "https://www.wwoz.org/events/1372386",
           "source": "WWOZ Livewire",
           "summary": "Buffa's. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 7:00pm",
+          "published": "Tuesday, August 4 at 7:00pm",
           "eyebrow": "Event",
           "location": "Buffa's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Father+Ron&dates=20260802T190000%2F20260802T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372356&location=Buffa%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Alex+McMurray&dates=20260804T190000%2F20260804T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372386&location=Buffa%27s"
         },
         {
-          "title": "Personal Space",
-          "url": "https://www.wwoz.org/events/1372796",
+          "title": "The Super-Most-Fantastic-Blues-N-Such Jam",
+          "url": "https://www.wwoz.org/events/1372101",
           "source": "WWOZ Livewire",
           "summary": "Caf\u00e9 Negril. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 4:30pm",
+          "published": "Tuesday, August 4 at 7:00pm",
           "eyebrow": "Event",
           "location": "Caf\u00e9 Negril",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Personal+Space&dates=20260802T163000%2F20260802T183000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372796&location=Caf%C3%A9+Negril"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Super-Most-Fantastic-Blues-N-Such+Jam&dates=20260804T190000%2F20260804T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372101&location=Caf%C3%A9+Negril"
         },
         {
-          "title": "Ado Soul & the Tribe",
-          "url": "https://www.wwoz.org/events/1372096",
+          "title": "Les Getrex",
+          "url": "https://www.wwoz.org/events/1372226",
           "source": "WWOZ Livewire",
-          "summary": "Caf\u00e9 Negril. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, August 2 at 10:00pm",
+          "summary": "Cajun Boil House. Tap through for the full listing and latest schedule details.",
+          "published": "Tuesday, August 4 at 3:00pm",
           "eyebrow": "Event",
-          "location": "Caf\u00e9 Negril",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ado+Soul+%26+the+Tribe&dates=20260802T220000%2F20260803T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372096&location=Caf%C3%A9+Negril"
+          "location": "Cajun Boil House",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Getrex&dates=20260804T150000%2F20260804T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372226&location=Cajun+Boil+House"
         }
       ]
     }
