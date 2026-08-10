@@ -1,32 +1,23 @@
 {
-  "generated_at": "2026-08-09T05:11:35.954930-05:00",
-  "generated_label": "Aug 9, 2026 at 5:11 AM CT",
-  "lead": "A calm daily scan of New Orleans with 24 fresh links across news, dining, entertainment, music, and 0 event picks, plus the latest local forecast.",
+  "generated_at": "2026-08-10T05:30:07.054133-05:00",
+  "generated_label": "Aug 10, 2026 at 5:30 AM CT",
+  "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
     "temperature": 78,
     "temperature_unit": "F",
-    "short_forecast": "Partly Cloudy",
-    "detailed_forecast": "Partly cloudy, with a low around 78. Northwest wind around 0 mph.",
+    "short_forecast": "Mostly Clear",
+    "detailed_forecast": "Mostly clear. Low around 78, with temperatures rising to around 80 overnight. Southeast wind around 0 mph.",
     "wind_speed": "0 mph",
     "wind_direction": ""
   },
   "seven_day_forecast": [
     {
-      "name": "Sunday",
+      "name": "Monday",
       "temperature": 91,
       "temperature_unit": "F",
       "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 11am. Mostly sunny. High near 91, with temperatures falling to around 88 in the afternoon. East wind 0 to 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "E"
-    },
-    {
-      "name": "Monday",
-      "temperature": 90,
-      "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 90. Heat index values as high as 105. Southeast wind 0 to 5 mph. Chance of precipitation is 50%.",
+      "detailed_forecast": "A chance of showers and thunderstorms after 9am. Mostly sunny. High near 91, with temperatures falling to around 88 in the afternoon. Heat index values as high as 105. Southeast wind 0 to 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "SE"
     },
@@ -34,44 +25,53 @@
       "name": "Tuesday",
       "temperature": 91,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 91. South wind 0 to 5 mph. Chance of precipitation is 40%.",
+      "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms between 1pm and 4pm. Mostly sunny, with a high near 91. Heat index values as high as 106. Southeast wind 0 to 5 mph. Chance of precipitation is 40%.",
       "wind_speed": "0 to 5 mph",
-      "wind_direction": "S"
+      "wind_direction": "SE"
     },
     {
       "name": "Wednesday",
       "temperature": 92,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Sunny, with a high near 92. Southwest wind 0 to 10 mph.",
+      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Sunny, with a high near 92. Southwest wind 0 to 10 mph. Chance of precipitation is 20%.",
       "wind_speed": "0 to 10 mph",
       "wind_direction": "SW"
     },
     {
       "name": "Thursday",
-      "temperature": 93,
+      "temperature": 94,
       "temperature_unit": "F",
-      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Sunny, with a high near 93. Southwest wind 0 to 10 mph.",
-      "wind_speed": "0 to 10 mph",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 94. Southwest wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
       "wind_direction": "SW"
     },
     {
       "name": "Friday",
-      "temperature": 94,
+      "temperature": 95,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 94. South wind 0 to 5 mph.",
+      "detailed_forecast": "Sunny, with a high near 95. West wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
-      "wind_direction": "S"
+      "wind_direction": "W"
     },
     {
       "name": "Saturday",
-      "temperature": 94,
+      "temperature": 95,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 94. Northwest wind 0 to 5 mph.",
+      "detailed_forecast": "Sunny, with a high near 95. North wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "N"
+    },
+    {
+      "name": "Sunday",
+      "temperature": 95,
+      "temperature_unit": "F",
+      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Sunny, with a high near 95. Northwest wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "NW"
     }
@@ -84,61 +84,61 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Advocates open hotline for grand jurors who indicted AG Liz Murrill - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX3h1Tkh6SVZsVVllRG9lQ3RNVmdBQXphblFTN3FsZThBZ3VXVGV6VzVKcEFOQkRGYVdyc091Q1RlNWN1ZDgtUVdRYnVVTWVMWW9lSlhlUWZBN01Ya3daUkxxUk1xSHhpUUF1X3Vmc0w3S3Nhd3ZEMnZETDd4Z1lzbXNPZEsxQndoZ1V4NWtXVzJDSXB3TWNYU0F3NGNXaDFqdlFDdm11ZTFjZkpsRDRSbHpLQlpaeFhtVDhPR01lYm9oMzVpZUxzU0VMMGNRU0NMS2laTEZIM1NieXPSAeABQVVfeXFMT1pVczNDb1pUdjZ2ZW1kUWZabENoYmVPUzl0TE5sX3E1WG9USDhrUDhBeXdQejROYTAtMFpUc1VLd1FFQktqRG11V3J2d0xkN3ZHS0FvMl9XZFM4ZU9lUmJickFaU3VjcnpCc1Etc2NwSE1YcEtlMHpnNzVQei1kblB2cnc2WVdNYU9yRFFfRnZTRkZEcm5GZXVOMGx0MzFIZ0xKN0EyX3ltSnNoYW1NLWNReFZsLURuY0t5ZmoxUnRCSnBtVGN1TWtVSUJQOENZS2NJcDUwblh4N0FjUjBTcXI?oc=5",
+          "title": "Entergy spent more than $900M hardening its grid since Ida. What have customers gotten for it? - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXN3X3IzN0V3Mld3blhCMG02ZTYtb2ZOeUozRk5yamwxSkRjbk1DSEREclk2dG82R0lLTUZ2MEtaMmNRbTd0NmgxVmZFbkE5WWFMQ1N3eFQtRmhmZWwwUjRzYkpZUXRTcF9XQ0k4bF84UmgtTWtoclhuekJfaW43dU1rZUVCdGo1MS1TNkVMS3d2Ym96eEJaNFlqeFVJd2NsbXdJcmVnRlhlT25PZlh6WkVUWU13YXMxN1huOVNhSHZlZHBxRGJoLV85SGR3YmpKNTh3UkFR0gHbAUFVX3lxTE9kTjJOek5fRFNad183ZndEeVk5cEFyQV9pMHh6bXFPNFdYcEQtMEZ0QTNNWjVLQ29Bc01JaDdsZ3JxdnU4LUVZSVRrWE13VjNERFBlOEM3RXFoY0RrZVlzQXFWdkJCa25WM1NkNEpjckdRNV93V1NHYVQzSk1fTDA1UUF3TlNxSFhqeVJrM1hmRnB5djVKTkZEemRGd2lwbzlvOUZmUzVfeVp5YjZtSW9wekRsUVhGeUFNM3A2MmYyeW8yYjFKdnJfRTBscktsVFNwb0tRSHh6dFE0cw?oc=5",
           "source": "NOLA.com",
-          "summary": "Advocates open hotline for grand jurors who indicted AG Liz Murrill NOLA.com",
+          "summary": "Entergy spent more than $900M hardening its grid since Ida. What have customers gotten for it? NOLA.com",
+          "published": "Aug 10, 2026 9:00 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Federal appeals court upholds New Orleans short-term rental rules - WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYnVsVk52SmMyVW5KakkxUDlwQjVFTHdfVFJ3TzFpbHh5RHIyT095bVIxdExRQ20zeUg4NVE4QnQwcEhTcGlVYXI0cEc5T2JMbDh5bEpnQmdMYWVodzc0SF82N3VpajdTcWo1QzFJQnp4RWZ0WDQ2NEJiRS1ORWJ5S0x1TmVDX3czcVFhWkotSUxtb21FZFRBRWtfZzJ6cWdkaVloZnljU1RqMFFKX2t1NXl2UHM5ampDZ3JBeFhZclF0NEIyRVJVTkZiWHVqYkM0bnZNazVLOUg5Z2tvc25Va1l1b1UwMUdqTzdn?oc=5",
+          "source": "WWLTV.com",
+          "summary": "Federal appeals court upholds New Orleans short-term rental rules WWLTV.com",
+          "published": "Aug 10, 2026 2:52 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Frank Perez, beloved New Orleans LGBTQ+ writer and historian, dies at 57 - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbVViTnF2SHRzblZiTTNTLUN6Mko1OV9iNEtNZTl4YkJmNXdjRTN6VDctQ2hpeXJ4b2FlWGtHYjRqdHJKcmxhTFdHM0xoV3g4YmNGNzFqS1dwU0pKYS1KS1d3eVJxeWZicEZJYVlGYmUwTzJoNVlMT0hscTE4YktMaEYxbnZvZnNVaUs4czlmNWE2U1VfRzEyYnR4UGF1ZGpkWS1BWnpqZEzSAa4BQVVfeXFMUF90bjJKX1NMM0tiYWZ5MlpPTTduczIxX0NTLWYxbjcwdjNCdEx5RWNLc1RORVhLb3FaS0kteHN4WDhtSDFZTDA1aW5jZnpBOTVucW0weHlldl8tUDZYYmttYTRWQjlxbWNzUFNvbjVTb2ZHV3d0UGhOU2pnOFl2M3VwaUpvQlJ5VUVJbVpkMnZwYTFrd2JEM1JDWEo3RTNPZkJmcmk1SWpGM1B2ZExR?oc=5",
+          "source": "NOLA.com",
+          "summary": "Frank Perez, beloved New Orleans LGBTQ+ writer and historian, dies at 57 NOLA.com",
+          "published": "Aug 9, 2026 11:07 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmUycWR1Z1FvS1g0bElJWHdFRzJtcm5sZWFpVkhHRFJKdWFCQ1Rxd3dIWWZGaGFPX3llakNpRW0wLTNsNTVkUnFqZm42YW5HUk9BY1NRbVhXYkRPSXJYZ0NIX2MtMjFGbXowM2RNNzg1U3p6aGZpM1lWSERJY2FLcEJxMGw2czFXYl9RSktjcmJvdGRYS0ZscTBB?oc=5",
+          "source": "WDSU",
+          "summary": "Demolition of Lindy Boggs Medical Center on track to begin this month WDSU",
+          "published": "Aug 9, 2026 8:46 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "\u2018Just insane\u2019: New Orleans S&WB is wasting three quarters of its treated water - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVFFZ0VqbUJud0FSaXRpS0l6SFR3Zkh6N3l1U2ZmdDlpUWRHbldIMGw2Q3BsVWREM1RmTFlDdFBqa1o1aGc1TDJzWWl0UFVlSFkzdWpQanlLZHVzWlpMLTNJaUF5NmY3dlJHZ2FIQVpfa3dQWWluaVc4aWh4ajFxUjdsX0dTU25EZlJWbU10a19zcnRqNklBNDk4ZDhxemRGaTRrd193S1VGblVj0gGyAUFVX3lxTFBmRERsSEdPeXRkQnhEVllIOVhVV1l6OGU4RElpVzh1dzQyLVNwcEwtQmdVZEl4UGh6ZnoyV0dvci1UNlJWeHlQeTRjSkNwNGxvWGdqSHFUY21ZSVNheEl2cFI4OEt0Qk9tOFJHZVhGNmxaUEh2ZGNNdG0xaDk0aDVUSTN2M1ozMk5wbnpTWW5pUzBDby15NVU1N3ctdl9TUmtCeGd6bW9mdHlPRmJMU0tmWGc?oc=5",
+          "source": "NOLA.com",
+          "summary": "\u2018Just insane\u2019: New Orleans S&WB is wasting three quarters of its treated water NOLA.com",
           "published": "Aug 9, 2026 9:00 AM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans council launches plan to save eviction prevention program from funding cuts - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMW10c3p0TXAxeXhteTFzS1llSmVzSkx5T1RMdDdhLThXYnl3RHVOMzlLcEdxU05TTy1keEk0Z2FGTDU5QTFiRW1WU3p2dHYtUWlGejVOS1RUTl9KblQydmZKLXJmVlREM2dYYmNBLXFtVURNdFQxODFIZEY1Tk1iODgzSEVGVk1LR2hyT3BNd1BWaVV5UVdnYnZtRGhBa2NTX2o5cDVYbTdvNTQzVmVPci1Ba9IBuAFBVV95cUxQRVFrWlhXX2FLbGVaaWNfTEpsVzdmTUJka0pTQXFFR2JJRXlRUmMwVkZUXzhJRDNZX25GSG5LRW55SmZ2V2syVThHQmNqTmptLVZqSXlZU3Izd2xYSjNSaGlvSGYwdVdSV2pEU09MMFVXSFIxRWY5UGRxTW8wMWV1dTRDczFSQnpfcnAzUGl0V2JCS0NvOE9DMEFKTXM0RGtlclY2Y3NmeGRRUnBUT3dkRDA4R09BeHdi?oc=5",
+          "title": "Advocates open hotline for grand jurors who indicted AG Liz Murrill - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX3h1Tkh6SVZsVVllRG9lQ3RNVmdBQXphblFTN3FsZThBZ3VXVGV6VzVKcEFOQkRGYVdyc091Q1RlNWN1ZDgtUVdRYnVVTWVMWW9lSlhlUWZBN01Ya3daUkxxUk1xSHhpUUF1X3Vmc0w3S3Nhd3ZEMnZETDd4Z1lzbXNPZEsxQndoZ1V4NWtXVzJDSXB3TWNYU0F3NGNXaDFqdlFDdm11ZTFjZkpsRDRSbHpLQlpaeFhtVDhPR01lYm9oMzVpZUxzU0VMMGNRU0NMS2laTEZIM1NieXPSAeABQVVfeXFMT1pVczNDb1pUdjZ2ZW1kUWZabENoYmVPUzl0TE5sX3E1WG9USDhrUDhBeXdQejROYTAtMFpUc1VLd1FFQktqRG11V3J2d0xkN3ZHS0FvMl9XZFM4ZU9lUmJickFaU3VjcnpCc1Etc2NwSE1YcEtlMHpnNzVQei1kblB2cnc2WVdNYU9yRFFfRnZTRkZEcm5GZXVOMGx0MzFIZ0xKN0EyX3ltSnNoYW1NLWNReFZsLURuY0t5ZmoxUnRCSnBtVGN1TWtVSUJQOENZS2NJcDUwblh4N0FjUjBTcXI?oc=5",
           "source": "NOLA.com",
-          "summary": "New Orleans council launches plan to save eviction prevention program from funding cuts NOLA.com",
-          "published": "Aug 8, 2026 9:00 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "OPSO Deputies are honored to be in the service of Former Vice President Kamala Harris during her time in our great City! Our team proudly represented the Orleans Parish Sheriff\u2019s Office and the New Orleans community. - instagram.com",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yOUpvYjd4V29xVXZpZ1pJZmUyQUN5aC1Id1FITVFmczBQTXZwWE1XdzdGc0xnTXFQM2FOVWpPV0JDdWZYc09QelRLSWJ2SHRwc2c?oc=5",
-          "source": "instagram.com",
-          "summary": "OPSO Deputies are honored to be in the service of Former Vice President Kamala Harris during her time in our great City! Our team proudly represented the Orleans Parish Sheriff\u2019s Office and the New Orleans community....",
-          "published": "Aug 8, 2026 2:22 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Carter's Call for Essence Festival Support Exposes a Gap in New Orleans' Economic Priorities - Big Easy Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSElwazdoRHJCMjd1Q2IzZmVMb0N5Mmdycjd1WktkT1FVNzdFTG43OU9lVDlQcDgzTlpMYmFmdVBfQm4zLXVjcHJTVk5rd3N5WGg3ZWZCNHprOWozdHd0aC1BamYwU2V1TkFfbEtkWG84OFMzMFFEM0E4ZFBuYUxpX05aQVNiN2F4STFaTVBJRF9YRUdJSGl5NHdLcGs0MnNDV1FidVFOSnRNeVdsUzBmLUhVaGJPcFdEVEx3RXNsdzlNdm5iUno4b3Z3?oc=5",
-          "source": "Big Easy Magazine",
-          "summary": "Carter's Call for Essence Festival Support Exposes a Gap in New Orleans' Economic Priorities Big Easy Magazine",
-          "published": "Aug 8, 2026 12:47 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Orleans criminal Judges Leon Roche, Simone Levine to challenge for colleagues\u2019 seats on shrunken court - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPakpVVnVXcVhraUFManVadWVKVWRPS3ozejZmUF8yNTZZbkE5RGx0YTE2ZVhYMkpJd2liNVpOYk9YNUIwdkc4Vmx5c0w1a1l4S2VLRUxCa2xya0xyVThZM3hKdFh6bndCd1lwNXN6XzdIYkVUTjZlZ2RVZVVJX0RHMl9tWVdLM1BDQ0FkR25DV1Y0NGtaNlJoR0Y1Z243RGpOV0pKR25Ra3lDRXdXblZ3YVZyQ3NJTll6dmkwNGxKdGZPWXdQVWt1ZjY3ODMwSkU3dThESC1SWGkxaXgyOFJTb3QtMGVnaG1KUDE4NUIxdl9xd2lqMUpETXdlVEVBOVlEeU5SckFDc9IBjAJBVV95cUxPTVlXREpJakVHMGFjemg1aFF3LUJDU2xiNGRKcG9sSXdzWEY2d3FEd3VhU1dleXlFMVAxSlNYbG14cWMtVVBuTkZRUWFqZ0dRS0h3SHhMZldzbjVMcDdsRW5Kc1B3X1dhdGJPQXZYaHUzM05TOTFoRHVXeUo1YkQwa0YxSG9HSVJDSjZaQy1NM2NhbDUyRFZGRE5SS0lWNnFBdEhhd2dudTJJeWtEU1I4X29sTnExOFJmRDlmdjVoV3Z6VmV1YVFnTUFtQ0paNGRXcjQ3SGE1bHZWMV80XzhwQkF5REVRQ3FXSTNvYVp5bF9fVnEwZWl1c2Z1VFhLVXJVM2tvVDUwRDdubkt5?oc=5",
-          "source": "NOLA.com",
-          "summary": "Orleans criminal Judges Leon Roche, Simone Levine to challenge for colleagues\u2019 seats on shrunken court NOLA.com",
-          "published": "Aug 7, 2026 9:20 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans Confirmed AI Answered 911 Calls for Three Years Without Caller Notice - Tech Times",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjhiVENSV3R2RkJJTGU3allJYWN3VFZPYUZhWUhGcXBGQkphTHRqeW5LNWY2eTg2emY2NFctd0U1Rkw4NllxMjZDZkJsVkUtSjZRRDhKRlZXbVQxa2JRMXE0MmV0dlQ5a1VaWEFacTBnN2RodGpERS02T3pXMG9LQnZRcVRrOHZvSEw2OEJEakp1dVlwb05wS0NaVndudmhqRlhKQWJCODViazZKNVRpMi1uUVBSSDVGX3o0eEtMU2U1SXdrN2tOTTAtQWo?oc=5",
-          "source": "Tech Times",
-          "summary": "New Orleans Confirmed AI Answered 911 Calls for Three Years Without Caller Notice Tech Times",
-          "published": "Aug 7, 2026 7:00 PM",
+          "summary": "Advocates open hotline for grand jurors who indicted AG Liz Murrill NOLA.com",
+          "published": "Aug 9, 2026 9:00 AM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -152,61 +152,61 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "New Orleans chef releases cookbook celebrating New Orleans cuisine - Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdnBOTFpiT3BOckc4Z1Z3cmlLTllQVHR6OVpZWkh1a1J4ZWc0aUthXzFuZkpWSW9rV2JvaUVGT1hfN3E0RGJGR2p2dndVcVdLRm1TaGpRcXEzcWZ3cGt3dVNpeW1lOVJ3cUNpTDJpU0NRWGNGalN3Qm5KbGZTeDduUWJBdHhicGNSbUZJ?oc=5",
+          "source": "Yahoo News Canada",
+          "summary": "New Orleans chef releases cookbook celebrating New Orleans cuisine Yahoo News Canada",
+          "published": "Aug 9, 2026 8:36 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans chef releases cookbook celebrating New Orleans cuisine - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Tb3Fib18wT3ZUbmJFVjg1cXhGX2g1XzZBR0Z2eDQtcmVXODE4b2JDRHZtdUZHNWhhZVlLN1R4NXhvc1NVYy1fc2R0bDJSYUZlUnpBM25uQnc1MFJ2R1lFZDN2MEtydmE3YTYwa2pnYTFLcUVPTGViSUdkaw?oc=5",
+          "source": "WDSU",
+          "summary": "New Orleans chef releases cookbook celebrating New Orleans cuisine WDSU",
+          "published": "Aug 9, 2026 8:36 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans police investigates shooting in New Orleans East - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczNHVDRBeTdKNGZnMVFQOG5lREF1VjJ6YVpuV1ltZmRzN0F6Q0tsTVhUMUYtMm11YzhBUTVfM0p3OUV5MnpDMy0zU2R3UTgwNmtCWGdIVmlNeXFNWElVNWVnUjI1QTNFU1cyNEFsNmFFcnNIb2l6aHVsbHpmMzZuLThMOFY4bDJ6eDc1bg?oc=5",
+          "source": "WDSU",
+          "summary": "New Orleans police investigates shooting in New Orleans East WDSU",
+          "published": "Aug 9, 2026 3:43 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans, home of the po-boy, is now a bagel town too. See where Ian McNulty gets the best. - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTJ3Y0Y5Ulc0eDNyODFDY0djamk0RENpOWFWVGhWN1lRUXJPN1JNV2NOcnl5ZVpRY1haUmJCRFRtbjQxb1p5c0FkVjNJVVNKalIxT1g3aUZTT3FzVERkWXFHdk1uZ3FtLW5rdVNlQUpydmlCYlI4eWNBeWE5OTFJTURoYmNHamFWWGJ6LXlVWWE0NmdrVk03OFgtQ2Rsa0JNanEtUXBnLWhqNE51N1E5cHA2RTdCZU5mMHpScVdQNHnSAcYBQVVfeXFMT2JXaGs5Tnd4SDBlWGVzdHplTjVuM0RtSm5iYlpGOUJEZHk1TE84cEVBall5ZzZEMjc3RVVOak1jdkhwbVk2a0tBQkVOdU1jZ2pyT1F5U1FXM3FabmpCZ25KRnNBck1hTjZzVDdJZC1vLU1zMENkbmNXaVkzVEtDdXVfUGxJQnp2d0t6a1hwTFN6MHRESlRGZ1hHYThNTVNtdVB5OElmbkh2SThTdHAxeldWUzFGOGJRdUpPYkJNRzN5VGhvTVV3?oc=5",
+          "source": "NOLA.com",
+          "summary": "New Orleans, home of the po-boy, is now a bagel town too. See where Ian McNulty gets the best. NOLA.com",
+          "published": "Aug 9, 2026 12:00 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "West African and Senegalese Culinary Traditions with Chef Serigne Mbaye at Dakar NOLA - Rocky Mountain PBS",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDZRYlhzbnpmT3V4cDZxNWxCRUkyS3hzNHN6bHpXcnVNbl9ZcTVtVU1JN1NDdVJUbGlNV01oVEZOcENkaGF3cEwtU3h6OFQzVXg3WjMwZG1NRUdxTTRrcHRjMzA5bmMzUlI4dW5pY1lhemtINDVZOVBZMVgyeXFDY0ZlQ2dyNEdXSnBHajZQYUw3OGlZbVotTGNPOU1KQ3B2T193ekhHNUJoRE5fZEdmNWlnYzRnaUkzNzRPQ3prRVk3Mk5xZ3FRWVhpUVlHTTRja09pY1hjaXZHcExXR0h2U1pwWQ?oc=5",
+          "source": "Rocky Mountain PBS",
+          "summary": "West African and Senegalese Culinary Traditions with Chef Serigne Mbaye at Dakar NOLA Rocky Mountain PBS",
+          "published": "Aug 9, 2026 10:17 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "A Bold New Fine-Dining Story Is Being Written in New Orleans - phillytrib.com",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUJPbU43OThLUjNVdUs5RUxEbXpPZHdsQ2Q5RGZtVDlONlBBMWdVUjh5SG1HMWNLMGZzRTRremhwUVBuVHIyNnRSdno5ekdraEg2bXhaMmUwbUZpQXRKYXVIVEVFbzNoVWw5d3NWY09BOVc4cENqZjZNcWtYTEFvaVZ1UXJRV0xFeUNzNUpmOXYxSVFsUjNtOVdjdUt5RGF4TUphcGFXNUV6UklJNjhIX2w3Tk5pMXZkTVlhaEVvdzZQdTFIS00xM2NXanEwT2pmWFBFZU01N3h5dTM4Snd2Rg?oc=5",
           "source": "phillytrib.com",
           "summary": "A Bold New Fine-Dining Story Is Being Written in New Orleans phillytrib.com",
           "published": "Aug 8, 2026 2:00 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Travel with Terri back to the busy city of New Orleans - Cross Timbers Gazette",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1E3MzU3a196djJEUEV0VklPXzlRSVNCQWZKcXBWenhNa1ZGYTF2bHlxVDVNWFN0VFl2LW5LRkVYOUVZWi10aE11MnhiZldNLUQ2NjVsWVJQSFByT09TZlczcDR5SFlGTTZRQUlGelNoQzdlV21vekZPYU9rUUVuMG1QbXk0WjMyZEJYejhoSG8yN09BbHJvQ1lkTjgyYThDVHptaA?oc=5",
-          "source": "Cross Timbers Gazette",
-          "summary": "Travel with Terri back to the busy city of New Orleans Cross Timbers Gazette",
-          "published": "Aug 8, 2026 5:00 AM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Emeril finds a new young audience - Axios",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUlTdlVKRkViUEl2VUNjbWFKXzRhRm1hellqVlZxb1lyemlqRjY5NHpUMlVQcUVVTU1oZ0g0VlZnX2t5NmZmUHZ0WHhlbzEtcF9tOE1ZYU55VVJjRS1rM2luTktTS2dNQjJoUFF1TFVzUl9fdnpfRE4xenVDU0dWQjh4UVRqdWZUTk9fYg?oc=5",
-          "source": "Axios",
-          "summary": "Emeril finds a new young audience Axios",
-          "published": "Aug 7, 2026 11:41 AM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Red Dress Run returns and more things to do this weekend in New Orleans - Axios",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdnVELWNjMWlKQ1B4UnZQNFVqME1PSFRXc3VNODM3TXFqT01iaVhqMFlSZkkwb2EzZnNXT1lDWnR1cWpSMXdHejRrbWxvVWx2eGxWZUsxS3N2SkUxMVZVeTJDWUU2TWc2S014MVNpaEctRUFQa3hwZXRmZWY1NDRaTkpuRQ?oc=5",
-          "source": "Axios",
-          "summary": "Red Dress Run returns and more things to do this weekend in New Orleans Axios",
-          "published": "Aug 6, 2026 2:58 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "'It's been crazy.' NOLA chef Emeril Lagasse responds as his old cooking shows go viral - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnpOenlOZERvdDBJQ3VWT1h5dFpjVmQwdzRJZjdYUElQYXdqa0xQd3N3M0VMdHMyd0R6WGlmLW9MVGlUNnpRTGk2N2puaG9aVXVZZXRmb2UxXzlqVWh1SWN1S1M0TjRuTFQ2TzM3QXBoS0ZNbGYwa1lvbE1obENyampnTkVaWDJkRGxBZ3R6THpnMFM5ejFZRjhZYUxpcFUtR3daSVo5czgwOUlQWVBmUnhB0gG3AUFVX3lxTE1RNHhLdHZGTEY3R3BBLXBBcFlvQlVWZ1hUZUxyZm9hVGVUblpYNGo0c2xZZUZET1hsQ1dESzNvZG1vUk5KbHI3UzJuZWhUcVpHZHVEenJFbWUteWFZak1fUGFEV1FQWXhOODI2amNRcUJYRERjb0JYdDVTb2hRRmJsUTdwN2ZlR0Fsa3dHNGI0T0VZamZjd0d6VmNCMnFqblNqSkswSEdUcGtQWTA2aEdMSHZUR1VVbw?oc=5",
-          "source": "NOLA.com",
-          "summary": "'It's been crazy.' NOLA chef Emeril Lagasse responds as his old cooking shows go viral NOLA.com",
-          "published": "Aug 6, 2026 11:45 AM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "James Beard-nominated chef to resurrect Jimmie Lou's po'boy shop - Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlRCbUVnblFBQTJsbDhMMXBuRERrRS0zTkkxWDczMXpkTkZfYmZEeXV6NXlGcGtUR2VBNUR2eXhSR1h1REVSZ1lPWHBDekx2RjNESmRnMU9zcmROWUw1bDdHU2ptaGlwLXR2by1qSVQ5NHpqdnVscDBJOFpKNWVyb3BrN2U5cGhvbE44UXhFY3pJcWxKV1gzN0NWN1pMeDhKZE16VUVZWU4wNi0zd2Y2WXc0Q3E4bVpEZndZRDZObTRkMjhJMDViWDFRZmN2RldNVUZBNm8tb29QSklP?oc=5",
-          "source": "Cincinnati Enquirer",
-          "summary": "James Beard-nominated chef to resurrect Jimmie Lou's po'boy shop Cincinnati Enquirer",
-          "published": "Aug 4, 2026 4:45 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -308,16 +308,6 @@
           "calendar_url": ""
         },
         {
-          "title": "Some New Orleans music venues take a summer break, but there's still plenty of music to hear - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNHNQOXg3R09XMmswbTZBck03SGFpSmtjQUh5UUxXSzFYbGItb1UwTmJsRVRDaTl6eTZvSkNPQlB2eXBFTzhnU014MTUtNmZZOTVmN3ppRGVnSHFJWUZrMEktYlZxdkNnaDJvUlJoeHJEYkl6bW1ac1RnQ1Boenpnd29JNHMtS1Y5N2NRVHFhSGlwTDFfWGtjMlMzODNVRTM1QkxIYXNrUnJRaldMcXpacWZZNzI0Z21uRzNQN1hKZVU5U2h5ZFB2eXB1YzBFVElja1BnclNnT1Y1S0RWOFhQdl90RC1ENmpaRjFGRENvMVdMbkJrNTBDN05PTTRqZUY2N0h5ZXlSSFZXQdIBjwJBVV95cUxPeFVkTjZDeDFoWXVLa1Q2RmhmYUVtenJaazZUdERQWEV3bUM2am9QaE1veXlydm5qdktRTTctZXdLRHl2aFY0S05Sb3BHSU9xc2c5cGZpOTN5X0xyNWd2MkxiLVB5VVQ3MmtSVkhvVFBGOFA4Y2RjLTJtRlR6U05TamQtY3l6UlBMWVRwNDNNMlZVZm5vMGNVYmV0eVFWUm1KWVBldm9xa2lpaUxfejUtSnhIdWZ2QnJrZFVIRndYREdpYXlyM3NyQkhwdkxUZXNGampwY3dYVmNMaVU1eFgxX2dRb3JjVXVJZnVON1ZDcU5TOUVySEhucUtrc2NXeGozM01Ub3hPa0diZllkaHJz?oc=5",
-          "source": "NOLA.com",
-          "summary": "Some New Orleans music venues take a summer break, but there's still plenty of music to hear NOLA.com",
-          "published": "Aug 6, 2026 12:30 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Montclair Jazz Festival\u2019s Soundcheck Series Brings New Orleans Energy to Montclair - Montclair Local News",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTFibXBMTzBwelQ5RG5GcXExVE5JNjJWRGduZUZtVFhOcElnSERaV1hzVW5BZTFzaW85NnFjZkVadXpTMC1iQVZzNzR4bVVCdjRrcVM4a1BUYXBiVm5Dc0JiaDZFYXBCSHNFRGRSVThmdFJXYVlSaWl5VGtvMVBhdGIzU2JUR2p1SUpVZ1VPUUJxMGF2WDRuc3Z6QUVHZXE1N1hUc185cDNyNXlfb0FudXFvcjNFNWJIbUE?oc=5",
           "source": "Montclair Local News",
@@ -346,6 +336,16 @@
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
+        },
+        {
+          "title": "White Linen Night, Satchmo Summer Fest and more on tap for weekend events across New Orleans - WDSU",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yRlFQS3FCYVN0UDZQNUlhdTBXRmFEbjVlWERoeks3ekNFMWFiaFQ1OWMtbzdhZnd4ai1Ycm9neWljZk5mYTd1RlJEWG83NFV5aTJTQzMzeDVUcmV5Qkw3T1UxX3I4SGVEV0lJcy1XbXZ2Ym1PajVZZkxn?oc=5",
+          "source": "WDSU",
+          "summary": "White Linen Night, Satchmo Summer Fest and more on tap for weekend events across New Orleans WDSU",
+          "published": "Jul 31, 2026 7:00 AM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
         }
       ]
     },
@@ -354,10 +354,129 @@
       "slug": "events",
       "description": "Fresh event picks pulled from the WWOZ Livewire calendar, with venue and schedule details.",
       "empty_message": "The event calendar could not be refreshed during this run.",
-      "items": []
+      "items": [
+        {
+          "title": "WWOZ Groove Gala",
+          "url": "https://www.wwoz.org/events/1355991",
+          "source": "WWOZ Livewire",
+          "summary": "WWOZ. Tap through for the full listing and latest schedule details.",
+          "published": "See event page for timing",
+          "eyebrow": "Event",
+          "location": "WWOZ",
+          "calendar_url": ""
+        },
+        {
+          "title": "The New Orleans Rug Cutters",
+          "url": "https://www.wwoz.org/events/1377541",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 12:00pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+New+Orleans+Rug+Cutters&dates=20260810T120000%2F20260810T140000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1377541&location=Bamboula%27s"
+        },
+        {
+          "title": "Red Beans & Blues with the Rump Shakers",
+          "url": "https://www.wwoz.org/events/1371816",
+          "source": "WWOZ Livewire",
+          "summary": "BJ's Lounge. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "BJ's Lounge",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Red+Beans+%26+Blues+with+the+Rump+Shakers&dates=20260810T210000%2F20260810T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1371816&location=BJ%27s+Lounge"
+        },
+        {
+          "title": "Nina Hungerland",
+          "url": "https://www.wwoz.org/events/1375961",
+          "source": "WWOZ Livewire",
+          "summary": "Bourbon O Bar at The Bourbon Orleans Hotel. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 8:00pm",
+          "eyebrow": "Event",
+          "location": "Bourbon O Bar at The Bourbon Orleans Hotel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nina+Hungerland&dates=20260810T200000%2F20260810T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1375961&location=Bourbon+O+Bar+at+The+Bourbon+Orleans+Hotel"
+        },
+        {
+          "title": "David Doucet",
+          "url": "https://www.wwoz.org/events/1372366",
+          "source": "WWOZ Livewire",
+          "summary": "Buffa's. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 7:00pm",
+          "eyebrow": "Event",
+          "location": "Buffa's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David+Doucet&dates=20260810T190000%2F20260810T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372366&location=Buffa%27s"
+        },
+        {
+          "title": "Les Getrex",
+          "url": "https://www.wwoz.org/events/1372236",
+          "source": "WWOZ Livewire",
+          "summary": "Cajun Boil House. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 3:00pm",
+          "eyebrow": "Event",
+          "location": "Cajun Boil House",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Getrex&dates=20260810T150000%2F20260810T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372236&location=Cajun+Boil+House"
+        },
+        {
+          "title": "Biscuits n' Jam with Meryl Zimmerman & Friends",
+          "url": "https://www.wwoz.org/events/1372636",
+          "source": "WWOZ Livewire",
+          "summary": "Carrollton Station. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 10:00pm",
+          "eyebrow": "Event",
+          "location": "Carrollton Station",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Biscuits+n%27+Jam+with+Meryl+Zimmerman+%26+Friends&dates=20260810T220000%2F20260811T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372636&location=Carrollton+Station"
+        },
+        {
+          "title": "Sporty's Brass Band",
+          "url": "https://www.wwoz.org/events/1357546",
+          "source": "WWOZ Livewire",
+          "summary": "Da Jump Off Lounge. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 9:30pm",
+          "eyebrow": "Event",
+          "location": "Da Jump Off Lounge",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sporty%27s+Brass+Band&dates=20260810T213000%2F20260810T233000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1357546&location=Da+Jump+Off+Lounge"
+        },
+        {
+          "title": "John Fohl",
+          "url": "https://www.wwoz.org/events/1372151",
+          "source": "WWOZ Livewire",
+          "summary": "Dos Jefes. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 8:30pm",
+          "eyebrow": "Event",
+          "location": "Dos Jefes",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Fohl&dates=20260810T203000%2F20260810T223000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372151&location=Dos+Jefes"
+        },
+        {
+          "title": "Masego",
+          "url": "https://www.wwoz.org/events/1357356",
+          "source": "WWOZ Livewire",
+          "summary": "Fillmore, The. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 8:00pm",
+          "eyebrow": "Event",
+          "location": "Fillmore, The",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Masego&dates=20260810T200000%2F20260810T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1357356&location=Fillmore%2C+The"
+        },
+        {
+          "title": "Open Jazz Jam Session with Matinee All Stars Band",
+          "url": "https://www.wwoz.org/events/1371161",
+          "source": "WWOZ Livewire",
+          "summary": "Fritzel's Jazz Club. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 1:00pm",
+          "eyebrow": "Event",
+          "location": "Fritzel's Jazz Club",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Open+Jazz+Jam+Session+with+Matinee+All+Stars+Band&dates=20260810T130000%2F20260810T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1371161&location=Fritzel%27s+Jazz+Club"
+        },
+        {
+          "title": "Tin Men",
+          "url": "https://www.wwoz.org/events/1371186",
+          "source": "WWOZ Livewire",
+          "summary": "Fritzel's Jazz Club. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, August 10 at 5:00pm",
+          "eyebrow": "Event",
+          "location": "Fritzel's Jazz Club",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tin+Men&dates=20260810T170000%2F20260810T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1371186&location=Fritzel%27s+Jazz+Club"
+        }
+      ]
     }
   ],
-  "source_notes": [
-    "Upcoming Events: Exceeded 30 redirects."
-  ]
+  "source_notes": []
 }
