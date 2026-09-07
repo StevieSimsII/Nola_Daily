@@ -1,41 +1,32 @@
 {
-  "generated_at": "2026-09-06T05:10:35.550280-05:00",
-  "generated_label": "Sep 6, 2026 at 5:10 AM CT",
+  "generated_at": "2026-09-07T05:12:56.045861-05:00",
+  "generated_label": "Sep 7, 2026 at 5:12 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
-    "name": "Tonight",
-    "temperature": 77,
+    "name": "Overnight",
+    "temperature": 78,
     "temperature_unit": "F",
-    "short_forecast": "Chance Showers And Thunderstorms then Partly Cloudy",
-    "detailed_forecast": "A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 77. Southwest wind 0 to 5 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible.",
-    "wind_speed": "0 to 5 mph",
-    "wind_direction": "SW"
+    "short_forecast": "Mostly Clear",
+    "detailed_forecast": "Mostly clear. Low around 78, with temperatures rising to around 80 overnight. West wind around 5 mph.",
+    "wind_speed": "5 mph",
+    "wind_direction": "W"
   },
   "seven_day_forecast": [
-    {
-      "name": "Sunday",
-      "temperature": 91,
-      "temperature_unit": "F",
-      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms after 1pm. Sunny. High near 91, with temperatures falling to around 88 in the afternoon. Northwest wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "NW"
-    },
     {
       "name": "Labor Day",
       "temperature": 93,
       "temperature_unit": "F",
       "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of rain showers between 7am and 10am, then a chance of showers and thunderstorms. Sunny, with a high near 93. Heat index values as high as 109. West wind around 5 mph. Chance of precipitation is 50%.",
+      "detailed_forecast": "A chance of showers and thunderstorms after 11am. Sunny. High near 93, with temperatures falling to around 91 in the afternoon. Heat index values as high as 109. Northwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
       "wind_speed": "5 mph",
-      "wind_direction": "W"
+      "wind_direction": "NW"
     },
     {
       "name": "Tuesday",
       "temperature": 90,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-      "detailed_forecast": "A chance of showers and thunderstorms between 7am and 10am, then showers and thunderstorms likely. Mostly sunny, with a high near 90. East wind 0 to 10 mph. Chance of precipitation is 70%.",
+      "short_forecast": "Showers And Thunderstorms Likely",
+      "detailed_forecast": "A chance of rain showers between 8am and 10am, then showers and thunderstorms likely. Mostly sunny, with a high near 90. Heat index values as high as 105. East wind 0 to 10 mph. Chance of precipitation is 60%.",
       "wind_speed": "0 to 10 mph",
       "wind_direction": "E"
     },
@@ -43,17 +34,17 @@
       "name": "Wednesday",
       "temperature": 89,
       "temperature_unit": "F",
-      "short_forecast": "Showers And Thunderstorms Likely",
-      "detailed_forecast": "Showers and thunderstorms likely after 7am. Mostly sunny, with a high near 89. East wind around 5 mph.",
-      "wind_speed": "5 mph",
+      "short_forecast": "Slight Chance Showers And Thunderstorms then Showers And Thunderstorms",
+      "detailed_forecast": "A slight chance of showers and thunderstorms before 7am, then showers and thunderstorms. Partly sunny, with a high near 89. East wind 5 to 10 mph. Chance of precipitation is 80%.",
+      "wind_speed": "5 to 10 mph",
       "wind_direction": "E"
     },
     {
       "name": "Thursday",
-      "temperature": 90,
+      "temperature": 89,
       "temperature_unit": "F",
-      "short_forecast": "Showers And Thunderstorms Likely",
-      "detailed_forecast": "A slight chance of rain showers before 7am, then showers and thunderstorms likely. Mostly sunny, with a high near 90. West wind 0 to 5 mph.",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms before 1pm, then showers and thunderstorms. Mostly sunny, with a high near 89. West wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "W"
     },
@@ -61,19 +52,28 @@
       "name": "Friday",
       "temperature": 90,
       "temperature_unit": "F",
-      "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 90. Northwest wind 0 to 5 mph.",
+      "short_forecast": "Showers And Thunderstorms Likely",
+      "detailed_forecast": "Showers and thunderstorms likely. Mostly sunny, with a high near 90. West wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
-      "wind_direction": "NW"
+      "wind_direction": "W"
     },
     {
       "name": "Saturday",
-      "temperature": 91,
+      "temperature": 90,
+      "temperature_unit": "F",
+      "short_forecast": "Showers And Thunderstorms Likely",
+      "detailed_forecast": "Showers and thunderstorms likely. Mostly sunny, with a high near 90. Southwest wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "SW"
+    },
+    {
+      "name": "Sunday",
+      "temperature": 90,
       "temperature_unit": "F",
       "short_forecast": "Chance Showers And Thunderstorms",
-      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 91. South wind 0 to 5 mph.",
+      "detailed_forecast": "A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 90. Northeast wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
-      "wind_direction": "S"
+      "wind_direction": "NE"
     }
   ],
   "sections": [
@@ -94,30 +94,20 @@
           "calendar_url": ""
         },
         {
-          "title": "New Orleans won't apply for Trump Model Cities grant following concerns about federal oversight - lailluminator.com",
+          "title": "New Orleans won't apply for Trump Model Cities grant following concerns about federal oversight - Louisiana Illuminator",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KbUJJb2g3U0pLc1FjdndzZmpaLXlkd2VIbVVSZHJpTmlWNmtPbWlNUUtoUXRQckJxRUkyOUF3MXpCeGI0THNVUExpbWVOTHZWeVpPLTFSTW1FMzZxUnppcVUyc1lFYU14MnQwTjk5QQ?oc=5",
-          "source": "lailluminator.com",
-          "summary": "New Orleans won't apply for Trump Model Cities grant following concerns about federal oversight lailluminator.com",
+          "source": "Louisiana Illuminator",
+          "summary": "New Orleans won't apply for Trump Model Cities grant following concerns about federal oversight Louisiana Illuminator",
           "published": "Sep 4, 2026 10:11 AM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans City Council approves higher trash and recycling fees - fox8live.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnprV0NHUmFHbWNXc19NdTJrTGZ4b3JZYXRYMTZFdXJKZWI4dXRJQ1pYSDZObmhGd2ptbnA0TFphT3hKTlQwdlZHUEp1LXY0WFRndFVhOV9CYXZmUjRsREQ3alhQNkpURHI0M2Mwa1hKc1lpdnR1ZnVnMy1lMzN2TW83Q3NHOGZqeXJhejRlMkR1Z3hLYzhXNWFkWlZhaHIxaDFGWWlkRQ?oc=5",
-          "source": "fox8live.com",
-          "summary": "New Orleans City Council approves higher trash and recycling fees fox8live.com",
-          "published": "Sep 4, 2026 6:58 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans City Council passes new Carnival krewe fee - WWLTV.com",
+          "title": "New Orleans City Council passes new Carnival krewe fee - wwltv.com",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU0xYYjJoemlXdG1ES1NqMXBwREF4RmVzVC01UmZ5aXNrWmdweU5SRXpkR2RXSHIxSmdUSWhuZ1J4X09CdGczemN2Z2dEOVZLTkZEWUdSak53bTJhSzlFbEZJcnVKV0t0ckRiaElRZTZjTHpCYzRPSGh6a2FjVnZJc19GMHZVMDFtSG9rc0ZIYzlCTm1IRkpmQm5VU3hhd1N0VTFGcXpiN0JBdGNmVTJqdHkyOGk0bDBON2Fmak5yTzZMV0VwTHlYQjIzcDdVZG1WTExvVThxamFyUDhSQXdQOQ?oc=5",
-          "source": "WWLTV.com",
-          "summary": "New Orleans City Council passes new Carnival krewe fee WWLTV.com",
+          "source": "wwltv.com",
+          "summary": "New Orleans City Council passes new Carnival krewe fee wwltv.com",
           "published": "Sep 4, 2026 5:12 AM",
           "eyebrow": "City News",
           "location": "",
@@ -142,6 +132,16 @@
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
+        },
+        {
+          "title": "New Orleans City Council approves sanitation fee increase - WGNO",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3czcWhDMlZ0Z2ZNekU5UC1XZXNmaXFQU3JjaHhVVDh0Y1FIMWZDLTNYS283WHFVbjE2ZU5HdVJmSlZnRVk3eW80MXozWkJXRVdPM09WeGw5T0pxalg5NDVJeGIxT1VLNlhsdVdIbTdIYWRSZ2JranJjMERDa2tKTDNBcGRkdHJ2WUlYWkJDRFk5X09D?oc=5",
+          "source": "WGNO",
+          "summary": "New Orleans City Council approves sanitation fee increase WGNO",
+          "published": "Sep 3, 2026 11:22 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
         }
       ]
     },
@@ -151,6 +151,16 @@
       "description": "Restaurant openings, dining coverage, chef news, and standout food reporting around the city.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
+        {
+          "title": "Health experts agree \u2014 eat more fish. The harder question: Wild-caught or farm-raised? - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbUVLdDA1VGxkRXZFWjktNVFYU1ZISF81YTRvMkhTeURobnVLN3FwcDBCMlY0ajlST0pYU0NDSER2SFRlZTRxaG05RU44bVROLTBNU3d1TnNabWQ2cVNfa0p5Z1E4S1FjajdwaG5KV0xnaHJjRTlOczNPejI1VnNjckswRnlaVWdXUFU3YU9OQlA5ZmQ1UW1oNEtwTXdaNkpZLUtGOFpWNlMybE90TUJ5LU9nTjhiNTVzM0RyaF9LNHY1TzdNU0hUYXd5Y0JaWF9PNGd4emZNMjVmTkx5YTU5bUZCWkVlTzVPc0lMRGpBaHMwdzNXQWV4NTRtTlRpR1dyaFFDU25aTDR3ck16dU4zMkVoM3c0NXPSAZwCQVVfeXFMTm1ERk1ua0t2S29Gak5FQlB3Q1c1T19xUkMtZEhicW1kM1p1eDVzbVBqVkRTcy1EbEpLOXk1MTIwSDdHWXRIR2dRMHZiSWNWX1Rfd2xLSVhYNVlTNWFnSFR0dmZfbC1uTzJqV2p3bkJXaDlvemtnM1d6eFlVQ1A1a0lFRm15RzZRQjU1Znk1YjNyVUxyZ3JybFVaVFE4M1dILU9CeGdOV0xqT2FTRXdHdmhESG01WmM1RWxIUDhPZndXWW1SY0hOdWlZRzBsTEVTRmhWT1pOYzR0VFVweFNZTllwMlRpOEhrMzZEOWNEak9EQWJyV1k1WmxhckdxOGdFVS1mS2NhMjFwQXJ2aUdmdEFuN3VlTmYyOVJyVVI?oc=5",
+          "source": "NOLA.com",
+          "summary": "Health experts agree \u2014 eat more fish. The harder question: Wild-caught or farm-raised? NOLA.com",
+          "published": "Sep 6, 2026 9:00 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
         {
           "title": "How chef Brian Landry entertains guests at his French Colonial home on Bayou St. John - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjNIeUFScXZRQ0pBZDUwRzJzMUpYVkI1Vkx5cnhjMUIxVFRFWXo5WFpZWTBYbTNsTEpiQ09GTy1BX1lOeXlZSHNNMVRjbEl2XzlzVkozMGs1ZnpMOXJYazlGSTNfS2pma3lud1NydXl4RFF5dnFDZmVQcDc1UVZqeUxEZ2gxSTAyYjN1Z3o2WGtWbGpLT2R6ZkpiV2dVbDc3RFhGZkR5M0kxb29jWlB5Tk9xa3duRDVzeWROeXlGYjB2ZWPSAcgBQVVfeXFMT2UyQWhfOXp3dnRob2tRMWlWWkpadW1qQnEwdVd3REM2YlpFRTZUMGZwZmpIMG1ydFhMc3pvTUNBSVZ6aUszX0U0ZDVjNlF2RFRWcjhVM2paWTNHbmNyRkNYc05JdDlIQUNndFFVQ2l0NDFjaFhpcXM3OHFfbXhtSlJLVzIySkRqOEduUXVnVEljRVdDMjNVc3EyN1ZPOEk4RnIzazNMX2lJak5IS0lfRXN6bFJKQVBNdXB4T1kxZkthdHRncE92WTU?oc=5",
@@ -172,16 +182,6 @@
           "calendar_url": ""
         },
         {
-          "title": "Man arrested on murder count in connection with Gentilly Woods daiquiri shop shooting - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1R6MloyRVZJNUc0bGN5N3Rhd2U0V1ZqNnJObTZvNkxNbmdObDI3QXNqZTRlekdwaVZQNmk2WHkxWEttMWVIdzNYZHhMTzBOUW9mR2lnM0M2SzZqMVBOWkw2TnpXVXlIRVAtWExWM2xQNi1uX2FCWGNTQ1dBaHFWOGZkRkFTckFhODVXVkxuRHFpUnRVZnRuaW1XVXA3TU02NmkyaGQ5NzVuN1VqN0x2dWdYamZ0bGxrZmtJ0gHAAUFVX3lxTFBzQ2dkX2c1bWJrRHRmTzU0YVdKY0RYTi1aeDVuMUJRVk1HRTFuYURVOFI2ZlRzaGw1emQtLWF5ZFV4NGhXam8tdlZQYmpaSFg1MTBwYUpiaDlzX1VLOGFidXZ0MXRZRlZuUU9lVEFpLXZjbzFobk9yNDZGMWFoYlVSaFh5RURQQ3I2NmdiSU1VaTBUNkVuMmt3YU1MUDl4aGtHbkRBVm9CRU5SZkk2a2tJZ2NESG51THNleXJWeWhidg?oc=5",
-          "source": "NOLA.com",
-          "summary": "Man arrested on murder count in connection with Gentilly Woods daiquiri shop shooting NOLA.com",
-          "published": "Sep 4, 2026 3:10 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Police investigate two deadly shootings in New Orleans, one suspect in custody - WDSU",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPazRXMEpBdW9GbTg5blZmTW81NlhBZVpLX0FOLXBiUVYwUFV1Y1hsaUFaQzlFQzJqYUZQeXg0VWRaMktlRXQ4dHlkc3RMZ0hCdVM4NDlPdnJIR2tSM0J1WTBQZHNFZWZaa2o5MEhCeUl5Qy01d2Y0aU5TaHh2T01VQTl6UVRZRmRZYWNpQ2JxZ1lISGhFNmJFYmstOU5ob1pkR09ROHJpTUlDV3Y5Rlh3eXJhMU9Odw?oc=5",
           "source": "WDSU",
@@ -192,21 +192,21 @@
           "calendar_url": ""
         },
         {
-          "title": "2 men killed about 5 miles apart in New Orleans East; police investigate - WWLTV.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVUtrNTZJS3ZBN1pfTjZ1T01HOFg0RjBhUFNpcTNBamdDalJLdzdOUTVFOFJiclRxdW42QTdjMjNSWkhvOGxCVmlNcTg3ZjVNbFNOcWNoRE1vcjlzWDR5QmMxUUgxdmJ2ZnJOclBIbTlSUmhLbGd3WEpSMkEtazB2ZUgyeXVBajQxaTNWWnFaY2xCeDEtUUdiRFB1ZFhabnQtenRRUE52OFlVa3EzcHNyazJmN1Q1d3BsdHF0V19IOEd2MlQ1VzRPLWozU0Y?oc=5",
-          "source": "WWLTV.com",
-          "summary": "2 men killed about 5 miles apart in New Orleans East; police investigate WWLTV.com",
-          "published": "Sep 4, 2026 2:48 AM",
+          "title": "Cuban chef cooks it up at 5 New Orleans restaurants - WGNO",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2g0UnRuOFVEM3VVUmR6a0pXMUZEN3lHeEFlQUE3NlFET2NocUJwekRKQUNjcGlVeEVGWGM0b3g3U2ZncWVObEVvWWo0RGQ3eHNZamo2blZsNldWdTgyQXhNZ1AwN21oV291cFBtOFppb3pzOG9EY0hpSzJTeWZEdlZ4N3MtdGFYNnducA?oc=5",
+          "source": "WGNO",
+          "summary": "Cuban chef cooks it up at 5 New Orleans restaurants WGNO",
+          "published": "Sep 3, 2026 9:36 AM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans police investigate two homicides five miles apart amid drop in summer crime - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUk5QdThpdUQzejQ5RzJlQW1ZVWM3VGY0cWd6MjJNb2hpZnBvT2RtWFZvTEVULWY1eVRzODAyeVpIMThUV3FNTXpDdE5QTWlMNVp0akJVMFQyMzB6OXE5NU1rRDFiSlo4UkJ2amJlQ2pXcl9ySm9sSThtQzh3MTRnU29mZTdHVTV3ZU1oQjVaQzdrVGVRSi1LZkhUNUYzU2cwZXJ4RldYenl0SHpOajJHVk13QlJvU1lEd0ZrdG9paWpIZC1TWkx6VjNVLThqbGk4WXBXNDlmdTdOQdIB3wFBVV95cUxNeUVWRkducENYZWNyaFZKcE56Tlo3azBqdWZsX3F2VmVnTEhsbnFOQmVBNjFXQUktRlhqaGNlSVdjV3RFT3lCdUQ1ZEV3T2hIU1A1eFhGWllVMmhnVURDUEVGYTJ2TkJWemh3UnlyZWJhRTR2R1ZOYTVjVWdVVmozVkpEeWpaeThXZTFHaVJkVW4wOHRtclZRS2VqeEpac1kwcm80WTBkTzBGZGRiNzNfNE42MngxbXRKS20zaDhUSzBaUjZ4VWI0aG1DVXUzWm5pS3hiNGl3dndjOXhSYmtj?oc=5",
-          "source": "NOLA.com",
-          "summary": "New Orleans police investigate two homicides five miles apart amid drop in summer crime NOLA.com",
-          "published": "Sep 3, 2026 10:38 PM",
+          "title": "Cuban chef cooks it up at 5 New Orleans restaurants - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2dwb25xWFNhanQzdHZ2OFc5RDRtYXFVSHIza015Vi1pb2dpSjNCN0wtSk9JOU9kT05KeVVPMG50N085cG9abndJSExadUJvRUpmWE1zMHB6ZkU0em11eHBBVmFhT2FOMFNNUGV4UmtoR2UtZEdObjJDUTJqZ1VOYw?oc=5",
+          "source": "Yahoo",
+          "summary": "Cuban chef cooks it up at 5 New Orleans restaurants Yahoo",
+          "published": "Sep 3, 2026 9:36 AM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -220,6 +220,36 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "New Orleans legend Master P talks No Limit and Cash Money tour ahead of hometown show - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNampvLWJSRC1McHhGMzdfVEZhNkdHM0NsdVhaZWtVc01lU2IxT1hlU3N1Y0hYbEdWUFVmYzE3cnhPRWN5dFRTV0hkdlZFM0hnSkVQS0x6NEhNMHlsUF81dTN2Y3AxTktSTm15YXE5eVFmS1BoUjJ3YjZlcUFvLVdQSXNBTFFMakd3X1B6ZFplUkVUNk1Od0FPcE02SUNSSjBuTFZLSWd4Z3l1TC1JTUdzT3ZIek8ta2JDY3czd0dZWFpZbm1fNUxGTldMNkYxMFZfYlZOM1JBVG94d2xGNnBxcG02bWItM0haVi1Gek9icGpfaEo5U2lj?oc=5",
+          "source": "NOLA.com",
+          "summary": "New Orleans legend Master P talks No Limit and Cash Money tour ahead of hometown show NOLA.com",
+          "published": "Sep 6, 2026 10:00 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Chance the Rapper, ChalMET Gala, Frida Fest and more New Orleans events this week - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTEo1aXhNNTEya1RtbFRKejhRdGZnZmY3MVFObGJpUHplbjVOckJQd2lGckZnWWVXQVVJR18tc19ReEFkRkdyUUpiV2REckg4Ykw5N01RcTZoSUYxdmNNbHlvSHU2MVlXTDJpSHJLd3dKOFhSSE1wRVNEdkpEbmRUZW83dW9kQVpNZGU5WHRtSGpFVEVKVkUyVTMtRUh5VzRPQUNSSVhXUEgwcEUxSFhTNGdYUXp2akRDSndadWJnT2w0aE9BMzMxZkFRT3ZvWUxDUU1OT3hrNmZZaXc4dHVjN19BV2lKcktjMUc3cnRQNXRYZGhQeExF?oc=5",
+          "source": "NOLA.com",
+          "summary": "Chance the Rapper, ChalMET Gala, Frida Fest and more New Orleans events this week NOLA.com",
+          "published": "Sep 6, 2026 9:00 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Meet costumer William Anderson, an icon of New Orleans\u2019 Southern Decadence parade - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbF9Iem9kYUNfaUNQMkxRbk0tOU1jV2ZrS3Rmd0VudkF3ZEI5VnZ6a3RGdmg4UlFvVlBTc2l0YTJ4TXdkUEFqM3d3YzRfMkNnSWRrRXlueHl4a0tzNmhIc1JPQ3dqSHpLTnc1TmVyVVJreVl3bWFGNFZVSVRUbjA0ek9OSmZ4NF9tbTFnR0Q0bWlqTTU3OFVoVkFTNjNCSDRFWTFVckhteWZFSVFmSUQwVjBMVUVfU2xERjczcXpKa3RFQ1dN0gHKAUFVX3lxTE9aS18zZXpfMDhFTkdpUGgyRzI0b3FtTGNxVGF3Y2xTRGNtcmliYkVFaGtlTnZjRkFwNmY5VTJ3RHZFSjRKQ2pWWjZKTVdXRUdzNEJoWVgyTk56a1pxU3pZclJKbnpuaG5FTG44V3RLMnpyYWlLcFYteTNOdUtiNVlxQUR0UUlNMExRdUtUcHVZNU9HcWNZWkF1ZFpPZjkwdmlfd2tzR19wb1AxN2U1MVQxNmlDU3N2X3pEenJETUFIUmRDTndPODJSalE?oc=5",
+          "source": "NOLA.com",
+          "summary": "Meet costumer William Anderson, an icon of New Orleans\u2019 Southern Decadence parade NOLA.com",
+          "published": "Sep 6, 2026 1:00 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "State auditor presses New Orleans to scrutinize Essence Fest public funding - NOLA.com",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdnZVaDZYa0ZvVmlzTXJtODNzTUxpdmdZc0JwemNfSUV2enZCcTE1VFJUWlpmanF3VmphSWw0MW9HSW83eExmdHpYMVdKb3VwaGlad192YS1wOGpGeVlUNjA0Um5vOGtGTlVQdGlnQXdnQmM2d0VtVThMb05FLWQ4cFNTcHpjTFZCZS1kYk03ZHhqSkN0cWpDLW5ha3RqYjJGamxfZkdGLUhOaUs3WE1XUXNXb2lzR3c1ZjFTd2E0aGk2NzJhOGVTM0VGS1NjWFZFa0dn0gHYAUFVX3lxTFBnVDRaUWwxUW9reTdDOFlYSld0WkVIa1hicG0wX2JuMk42ekhGWTZ1bVNUaUVBdEFmb3FXOW0wdW42SzdnQW9FMkdVM2RIQnR4OU52UXQxWXQwZEFOUzh0SzkxMmVlYzZBYW9RdzZJeHJaOHBNX3FKWFhHMkFSSVJLYnBGaTYzTERHaG45WDJLWDJLUU1BWV9aM2NEbENlT1FacDdmUVBCMlY2TDhPRzVtZnpFajkwLWZycXpzSno1R3E2ckFaZ1hzVFE2Z3ZGUVFlMU9xXzJrYw?oc=5",
           "source": "NOLA.com",
@@ -230,20 +260,10 @@
           "calendar_url": ""
         },
         {
-          "title": "Makers of Jazz Fest\u2019s famous cochon de lait po-boy close their restaurant to \u2018shift gears\u2019 - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQmhVN0x3UzR6dWEwNTlKMnFicFhENjFMYThoQzFCMDFCbUpZbDg2RTkzZWRiUVRaN000d3dHeU1sTlB4VnRVSUZoYU1RRlFQRjVkSTk1UlhrVXhKaGhfOF94bnFOS3hhbHNPbV9zcElYV1lTUjkxb0tfT2JXemlnVzhuVjRfWVRfOGtoUW5SUXdtZWRFeXdFOXplbG5qaHNOYkVOWVdURmJjbFV0MVNwNjhBaFJqQkpIaGl6dGpTOGdCQdIBxwFBVV95cUxNckRidFRZdjh1UE5BRUs5TGdhNTBLRmJraDZJcDJBWEhOQ3pjVFZnUlFVUll2TTZvZXdQc182VkFRTUNKcFNRai1OdlJ5cGM3ZlBJTXd4dVNuNF9hRHVrN0laRW8tNnJyenRvLTJ4N1MxOF9JUWw0UW10U3NUUnV2V2NETC0zQ2djMmJIdk13eEpZbGlUeGg2dndvdk01N2Z6enpJZU9menR0SnlxaTVrRHliVkxLSGlUNXlCTXhHVVdDcldBNndz?oc=5",
-          "source": "NOLA.com",
-          "summary": "Makers of Jazz Fest\u2019s famous cochon de lait po-boy close their restaurant to \u2018shift gears\u2019 NOLA.com",
-          "published": "Sep 4, 2026 1:45 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Streets to close in French Quarter ahead of Southern Decadence - WWLTV.com",
+          "title": "Streets to close in French Quarter ahead of Southern Decadence - wwltv.com",
           "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRHA5WmN4bF9Kcmo4ZTRBM0hLY1hNOXgwc0dNbEc1UHN0NkFtaW9YN2pnSlJIQTlQUjdYVFM2YUlpQWRhN29xT1R2YUtmWTE3bDl0OGo0SHhOWXBkOGtoZEFxRmpSZTJLMHZrZFlkczFCNUh3S1ljbVg3R2FReGNPaFlpLVhQaVVsNnNwckhPLWVHV0xLUklhdjdnZXlxcUZEQzFiMDlWQXVBa3JIY0pldEg2bzR6eldtcWxVTGQ0QmpDRTZXcjI3dV8zZS1HNU5iRFJjV1BSZUtoWk9aQU8zdGpwb3NUY0RVQTQ3NDgzN3ZCTW1mcG1fTHEzNFA0NktiSHlrNC1wTV9ScFM3YnJCLXdGa243a1pBU3ZFZFp3?oc=5",
-          "source": "WWLTV.com",
-          "summary": "Streets to close in French Quarter ahead of Southern Decadence WWLTV.com",
+          "source": "wwltv.com",
+          "summary": "Streets to close in French Quarter ahead of Southern Decadence wwltv.com",
           "published": "Sep 4, 2026 10:45 AM",
           "eyebrow": "Entertainment",
           "location": "",
@@ -255,26 +275,6 @@
           "source": "NOLA.com",
           "summary": "'We want to stay in New Orleans.' Essence responds to New Orleans' demands NOLA.com",
           "published": "Sep 2, 2026 9:50 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Celebrate Fall, New Orleans Style - TravelPulse",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWJVYkJnNG9vUVJjQldfeXYzZEJxdF9uNlF3cjV2Z25uajNXN3Y3WjNGYzdTbEZNdlhlMl9KaXlNSXp0TWJfTE9sOGx5dEVYYmV1WU5naTRSeDl3SkJtTl9nZEs2ajBKdmdwRWZhaHBWLTYybC1jbG9PNGhuQzNfeFg3MTc1MDQ?oc=5",
-          "source": "TravelPulse",
-          "summary": "Celebrate Fall, New Orleans Style TravelPulse",
-          "published": "Sep 2, 2026 7:50 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Honor the Brave Fest, Children\u2019s Museum Birthday Bash and more events around New Orleans - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMVdSQi1lakVYWk9UZ01jTWJUSFFvRWd1LUl5X2luVS1BLTdzeWpMTWZwNkJEc1p1QUhZUXFWaWFXMlVqUzB5cnYxUUR1U215ZElMdUNQQ2tVSkNpQ01BMk9UMHdrdnJrRHprZUpkYUh3YXRiNGU2NzFKTEoxbUpienZpQmM2NlRjSFowMlJvZ0hQU01vVFBJTWxIOEkxaGVvQUNMdk1RME9HdDZraDJaZG1hMTdlYk9ieElBM05WMERtOVXSAcgBQVVfeXFMTXZhalBpTjNrb3BhQ21vR04ydkdWS0F6aWwtRFM2ZkJjR05QcGE5MVo4UnFsOGVQU05WSXYtaTZadGpzMkJaYUFkalhyZTBTNzVYUkVIWGlIaURjUUFsaS0wM1dTWmVIQTUtc0E1cFNtREg3SEZfMjR2UTJmUExmZFF1WEhYdnZsaXBkM0tuRXJhTU51c29iRHNmTF9xTDRDamh2LWU1TDZHaWVQMlBWR1U3aWdVRWpsWXphbzZZX0NldjU2V2JnY0k?oc=5",
-          "source": "NOLA.com",
-          "summary": "Honor the Brave Fest, Children\u2019s Museum Birthday Bash and more events around New Orleans NOLA.com",
-          "published": "Sep 2, 2026 5:00 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -308,16 +308,6 @@
           "calendar_url": ""
         },
         {
-          "title": "Honor the Brave Fest, Children\u2019s Museum Birthday Bash and more events around New Orleans - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMVdSQi1lakVYWk9UZ01jTWJUSFFvRWd1LUl5X2luVS1BLTdzeWpMTWZwNkJEc1p1QUhZUXFWaWFXMlVqUzB5cnYxUUR1U215ZElMdUNQQ2tVSkNpQ01BMk9UMHdrdnJrRHprZUpkYUh3YXRiNGU2NzFKTEoxbUpienZpQmM2NlRjSFowMlJvZ0hQU01vVFBJTWxIOEkxaGVvQUNMdk1RME9HdDZraDJaZG1hMTdlYk9ieElBM05WMERtOVXSAcgBQVVfeXFMTXZhalBpTjNrb3BhQ21vR04ydkdWS0F6aWwtRFM2ZkJjR05QcGE5MVo4UnFsOGVQU05WSXYtaTZadGpzMkJaYUFkalhyZTBTNzVYUkVIWGlIaURjUUFsaS0wM1dTWmVIQTUtc0E1cFNtREg3SEZfMjR2UTJmUExmZFF1WEhYdnZsaXBkM0tuRXJhTU51c29iRHNmTF9xTDRDamh2LWU1TDZHaWVQMlBWR1U3aWdVRWpsWXphbzZZX0NldjU2V2JnY0k?oc=5",
-          "source": "NOLA.com",
-          "summary": "Honor the Brave Fest, Children\u2019s Museum Birthday Bash and more events around New Orleans NOLA.com",
-          "published": "Sep 2, 2026 5:00 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "New Orleans NOLAxNOLA 2026 Music Showcase Drives Fall Tourism Surge Across Historic Neighborhoods - Nomad Lawyer",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNallTejlVU1NCal9xb29OMGp6NnZjODZWUjdQNklhYUo1SWhyRlBxY1ZQTnAtV096QXlJdGE0UExKVVZSMDJvMmdnS1NiVXBzaG9pc3ZjSHFjSGgtSnBfdWhnSHE1bGItaVFCTGFwU2c1bVNaZVpjRHd2eTNGeS1kenhZRQ?oc=5",
           "source": "Nomad Lawyer",
@@ -328,10 +318,10 @@
           "calendar_url": ""
         },
         {
-          "title": "IMPROVISATIONS GALA RETURNS TO THE NEW ORLEANS JAZZ MUSEUM SATURDAY, DECEMBER 5 - Visit New Orleans",
+          "title": "IMPROVISATIONS GALA RETURNS TO THE NEW ORLEANS JAZZ MUSEUM SATURDAY, DECEMBER 5 - neworleans.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkV4cFdac1MxTHVKSEdKVGF0cF9YUlpET0xYcDhRdHpRazIwandvaVFfZ0JQU0dGV09qWWFLUE5lNnZiRmFKVmVnSnY3NTlqUWlUM3BvMjdSaEZTMnU5Yk8yek9LMWI4aUo4SDJRbWNWMmxYa0tCNTRaMFZldGZpTWFxMHZqNFFpMkYyV1dyMWtFa0NyMDN2V2ZiYVVnYmh2UHJMcEpVTnhvMHRLQkRfdTAtQUEwV0pUWDlmcA?oc=5",
-          "source": "Visit New Orleans",
-          "summary": "IMPROVISATIONS GALA RETURNS TO THE NEW ORLEANS JAZZ MUSEUM SATURDAY, DECEMBER 5 Visit New Orleans",
+          "source": "neworleans.com",
+          "summary": "IMPROVISATIONS GALA RETURNS TO THE NEW ORLEANS JAZZ MUSEUM SATURDAY, DECEMBER 5 neworleans.com",
           "published": "Sep 1, 2026 7:51 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
@@ -343,6 +333,16 @@
           "source": "Petaluma Argus-Courier",
           "summary": "\u2018Music gives me a voice\u2019: New Orleans jazzman visits Petaluma for benefit show Petaluma Argus-Courier",
           "published": "Aug 28, 2026 7:53 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Midsummer Mardi Gras, Yoga Festival, Savor the City and more events around New Orleans - NOLA.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnlrek45amV6UlBPYmRNc3g5R2dyaXZra3plU1JReEZCS2FrZkU5cGJLYkFKVWxUeFBuRzlLVS1FcVd1blZXaUdzMjlmTFJVLWtMNnhNMmUwOHB0RU84cUZJLWsxOVR5eXlEbzRDUVVmR09fMzhJd1h0MUVOelZnRWU3RUc5YXRuaWFkb0JyRHU0OFppWkZtVEhkR2xlRWNiSF9HeW5aaFBKR1pWYUhYQno5YXZZTlBqeEd5cHI3SU5QSlXSAcgBQVVfeXFMT2U4dmxjNFNnV3RuX0VJV2dFNC1HRDJBX1J6TFBqbWJOdzJsX1pMT1Z1WF9aUjN1cUFlblZCVUxMWVVxaGkwSWhubDRlbWVFb3dQSVBLeFJCb1VTMS1HZExpRWhvQ1NVc0xqVWh6T3d5NTZDUkFfSkh6OVJPNkI0dS1nVWIzNVBLSG9vSWhjdThiZTZYWnBmM2dKLTVmMWxQRFpIQlo5NWR0TVR1OVlUQ3NYcFBoVk9xbUVfM2FrV2RKd08xSzJSaHE?oc=5",
+          "source": "NOLA.com",
+          "summary": "Midsummer Mardi Gras, Yoga Festival, Savor the City and more events around New Orleans NOLA.com",
+          "published": "Aug 26, 2026 7:00 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "Lobelia Jazz Band",
-          "url": "https://www.wwoz.org/events/1381706",
+          "title": "James Beaumont & Coyote Duo",
+          "url": "https://www.wwoz.org/events/1381641",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 3:00pm",
+          "published": "Monday, September 7 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lobelia+Jazz+Band&dates=20260906T150000%2F20260906T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1381706&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=James+Beaumont+%26+Coyote+Duo&dates=20260907T200000%2F20260907T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1381641&location=21st+Amendment"
         },
         {
-          "title": "The Funky Soles",
-          "url": "https://www.wwoz.org/events/1381696",
+          "title": "Betsy Propane's Smoke Show Cabaret",
+          "url": "https://www.wwoz.org/events/1379616",
           "source": "WWOZ Livewire",
-          "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 8:00pm",
+          "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 7 at 7:00pm",
           "eyebrow": "Event",
-          "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Funky+Soles&dates=20260906T200000%2F20260906T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1381696&location=21st+Amendment"
+          "location": "AllWays Lounge",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Betsy+Propane%27s+Smoke+Show+Cabaret&dates=20260907T190000%2F20260907T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1379616&location=AllWays+Lounge"
         },
         {
-          "title": "Booker Fest ft. Lost Bayou Ramblers",
-          "url": "https://www.wwoz.org/events/1372906",
+          "title": "Mark Appleford",
+          "url": "https://www.wwoz.org/events/1378781",
           "source": "WWOZ Livewire",
-          "summary": "100 Men Hall - Bay St. Louis. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 2:00pm",
+          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 7 at 6:00pm",
           "eyebrow": "Event",
-          "location": "100 Men Hall - Bay St. Louis",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Booker+Fest+ft.+Lost+Bayou+Ramblers&dates=20260906T140000%2F20260906T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1372906&location=100+Men+Hall+-+Bay+St.+Louis"
+          "location": "Apple Barrel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mark+Appleford&dates=20260907T180000%2F20260907T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1378781&location=Apple+Barrel"
         },
         {
-          "title": "Jay Dufour Band",
-          "url": "https://www.wwoz.org/events/1387976",
+          "title": "Byron Asher",
+          "url": "https://www.wwoz.org/events/1373471",
           "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 11:00am",
+          "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 7 at 6:00pm",
           "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jay+Dufour+Band&dates=20260906T110000%2F20260906T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1387976&location=Bamboula%27s"
+          "location": "Bacchanal (OUTDOORS)",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Byron+Asher&dates=20260907T180000%2F20260907T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1373471&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Laura Doyle",
-          "url": "https://www.wwoz.org/events/1388011",
-          "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 2:15pm",
-          "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laura+Doyle&dates=20260906T141500%2F20260906T161500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388011&location=Bamboula%27s"
-        },
-        {
-          "title": "Midnight Brawlers",
-          "url": "https://www.wwoz.org/events/1388016",
+          "title": "The New Orleans Rug Cutters",
+          "url": "https://www.wwoz.org/events/1388056",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 5:30pm",
+          "published": "Monday, September 7 at 12:00pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Midnight+Brawlers&dates=20260906T173000%2F20260906T193000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388016&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+New+Orleans+Rug+Cutters&dates=20260907T120000%2F20260907T140000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388056&location=Bamboula%27s"
         },
         {
-          "title": "Kat Kiley Experience",
-          "url": "https://www.wwoz.org/events/1388051",
+          "title": "Jon Roniger & The Good For Nothin' Band",
+          "url": "https://www.wwoz.org/events/1388091",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 9:00pm",
+          "published": "Monday, September 7 at 4:30pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kat+Kiley+Experience&dates=20260906T210000%2F20260906T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388051&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jon+Roniger+%26+The+Good+For+Nothin%27+Band&dates=20260907T163000%2F20260907T183000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388091&location=Bamboula%27s"
         },
         {
-          "title": "James McClaskey & The Rhythm Band",
-          "url": "https://www.wwoz.org/events/1383226",
+          "title": "Ted Hefko & the Thousandaires",
+          "url": "https://www.wwoz.org/events/1388096",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 7 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ted+Hefko+%26+the+Thousandaires&dates=20260907T210000%2F20260907T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388096&location=Bamboula%27s"
+        },
+        {
+          "title": "Red Beans & Blues with the Rump Shakers",
+          "url": "https://www.wwoz.org/events/1383246",
           "source": "WWOZ Livewire",
           "summary": "BJ's Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 9:00pm",
+          "published": "Monday, September 7 at 9:00pm",
           "eyebrow": "Event",
           "location": "BJ's Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=James+McClaskey+%26+The+Rhythm+Band&dates=20260906T210000%2F20260906T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1383226&location=BJ%27s+Lounge"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Red+Beans+%26+Blues+with+the+Rump+Shakers&dates=20260907T210000%2F20260907T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1383246&location=BJ%27s+Lounge"
         },
         {
-          "title": "Juice presents Sypher Sundays",
-          "url": "https://www.wwoz.org/events/1387896",
+          "title": "David Doucet",
+          "url": "https://www.wwoz.org/events/1384326",
           "source": "WWOZ Livewire",
-          "summary": "Blue Nile. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 7:00pm",
+          "summary": "Buffa's. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 7 at 7:00pm",
           "eyebrow": "Event",
-          "location": "Blue Nile",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juice+presents+Sypher+Sundays&dates=20260906T190000%2F20260906T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1387896&location=Blue+Nile"
+          "location": "Buffa's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David+Doucet&dates=20260907T190000%2F20260907T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1384326&location=Buffa%27s"
         },
         {
-          "title": "Street Legends Brass Band",
-          "url": "https://www.wwoz.org/events/1387881",
+          "title": "Trombone Slim & the Creole Trio",
+          "url": "https://www.wwoz.org/events/1385236",
           "source": "WWOZ Livewire",
-          "summary": "Blue Nile. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 10:00pm",
+          "summary": "Caf\u00e9 Beignet at The Sheraton. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 7 at 8:00am",
           "eyebrow": "Event",
-          "location": "Blue Nile",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Street+Legends+Brass+Band&dates=20260906T220000%2F20260907T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1387881&location=Blue+Nile"
+          "location": "Caf\u00e9 Beignet at The Sheraton",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Trombone+Slim+%26+the+Creole+Trio&dates=20260907T080000%2F20260907T100000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1385236&location=Caf%C3%A9+Beignet+at+The+Sheraton"
         },
         {
-          "title": "Deej Flava & Mother Ruckus",
-          "url": "https://www.wwoz.org/events/1383926",
+          "title": "Les Getrex",
+          "url": "https://www.wwoz.org/events/1381416",
           "source": "WWOZ Livewire",
-          "summary": "BMC. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 6 at 3:00pm",
+          "summary": "Cajun Boil House. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 7 at 3:00pm",
           "eyebrow": "Event",
-          "location": "BMC",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deej+Flava+%26+Mother+Ruckus&dates=20260906T150000%2F20260906T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1383926&location=BMC"
+          "location": "Cajun Boil House",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Getrex&dates=20260907T150000%2F20260907T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1381416&location=Cajun+Boil+House"
         }
       ]
     }
