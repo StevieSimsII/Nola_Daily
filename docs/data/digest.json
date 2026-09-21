@@ -1,41 +1,32 @@
 {
-  "generated_at": "2026-09-20T05:10:43.924570-05:00",
-  "generated_label": "Sep 20, 2026 at 5:10 AM CT",
+  "generated_at": "2026-09-21T05:12:54.810003-05:00",
+  "generated_label": "Sep 21, 2026 at 5:12 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Overnight",
-    "temperature": 77,
+    "temperature": 78,
     "temperature_unit": "F",
-    "short_forecast": "Clear",
-    "detailed_forecast": "Clear, with a low around 77. Northwest wind around 0 mph.",
+    "short_forecast": "Mostly Clear",
+    "detailed_forecast": "Mostly clear, with a low around 78. West wind around 0 mph.",
     "wind_speed": "0 mph",
     "wind_direction": ""
   },
   "seven_day_forecast": [
     {
-      "name": "Sunday",
-      "temperature": 93,
-      "temperature_unit": "F",
-      "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny. High near 93, with temperatures falling to around 91 in the afternoon. North wind 0 to 5 mph.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "N"
-    },
-    {
       "name": "Monday",
-      "temperature": 92,
+      "temperature": 91,
       "temperature_unit": "F",
-      "short_forecast": "Sunny then Slight Chance Showers And Thunderstorms",
-      "detailed_forecast": "A slight chance of showers and thunderstorms after 4pm. Sunny, with a high near 92. North wind 0 to 5 mph. Chance of precipitation is 20%.",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 11am. Mostly sunny. High near 91, with temperatures falling to around 89 in the afternoon. North wind 0 to 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "N"
     },
     {
       "name": "Tuesday",
-      "temperature": 92,
+      "temperature": 91,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 92. Northeast wind 0 to 5 mph.",
+      "detailed_forecast": "Sunny, with a high near 91. Northeast wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "NE"
     },
@@ -44,16 +35,16 @@
       "temperature": 92,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 92. Northeast wind 0 to 10 mph.",
-      "wind_speed": "0 to 10 mph",
+      "detailed_forecast": "Sunny, with a high near 92. Northeast wind 5 to 10 mph.",
+      "wind_speed": "5 to 10 mph",
       "wind_direction": "NE"
     },
     {
       "name": "Thursday",
-      "temperature": 89,
+      "temperature": 90,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 89. Northeast wind 5 to 10 mph.",
+      "detailed_forecast": "Sunny, with a high near 90. Northeast wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
       "wind_direction": "NE"
     },
@@ -61,10 +52,10 @@
       "name": "Friday",
       "temperature": 87,
       "temperature_unit": "F",
-      "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 87. Northeast wind around 10 mph.",
-      "wind_speed": "10 mph",
-      "wind_direction": "NE"
+      "short_forecast": "Mostly Sunny",
+      "detailed_forecast": "Mostly sunny, with a high near 87. East wind 5 to 10 mph.",
+      "wind_speed": "5 to 10 mph",
+      "wind_direction": "E"
     },
     {
       "name": "Saturday",
@@ -73,6 +64,15 @@
       "short_forecast": "Mostly Sunny",
       "detailed_forecast": "Mostly sunny, with a high near 87. Northeast wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
+      "wind_direction": "NE"
+    },
+    {
+      "name": "Sunday",
+      "temperature": 87,
+      "temperature_unit": "F",
+      "short_forecast": "Mostly Sunny",
+      "detailed_forecast": "Mostly sunny, with a high near 87. Northeast wind around 5 mph.",
+      "wind_speed": "5 mph",
       "wind_direction": "NE"
     }
   ],
@@ -84,20 +84,30 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Kenner leaders draw battle lines over New Orleans airport board, ask state attorney general to weigh in - NOLA.com",
+          "title": "\u2018You are not alone\u2019: Monthly meetings offer lifeline to New Orleans violent crime survivors, families - fox8live.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdVN4VnBJQWtwVTFmd0tFVFZ0b3JfenVJYy1YUWt3Y3lpZ0YwZW9kVDFNUHY5ZGZBM0VZVnRUbU5qcGk3VTFGRllfdzFtak5Ia05lY2duV25Cd1JzOFJPM1FwODJEVXNSUVZrLTdqRHpYSlZzSEpTS1JxMVdLLWUzQURpRzJRamNabTRZZlZUd1M0LWFxbEk5SmJGRDJ1YlQzemF1RzNWOERnMW1iS1VDU0VnU0NDTHBPdXZlR3MyQXJVVTFDS2R5a2NQUdIB3wFBVV95cUxPN1FWNGh4ak1kM2pLLTdhNXI1a2MwLWpKZUlTRHdhdUlYQWFDYTI4bWZSenRlNC1ENVFVZkp2YnRVbzlmMWxqcndoX2NVa3k1aEN6SFNKU3ltQVkxanE0NFdjUEE5UE1yaXU4enNwRzlpZUtKdUZXcU9vTEsyS2hiX2o3czgxU3ZtZ2lkakVxb3MyZWZQZEN0TWVtczNTMGxtRDhremRpeFFGeDFUTDRnQTRPdHYyYWFHcmFpNjRnV2tuNHlsVzJBWjBmQU50SnFodi10Q3JGU2p2UjNKUWZR?oc=5",
+          "source": "fox8live.com",
+          "summary": "\u2018You are not alone\u2019: Monthly meetings offer lifeline to New Orleans violent crime survivors, families fox8live.com",
+          "published": "Sep 21, 2026 3:23 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Kenner leaders draw battle lines over New Orleans airport board, ask state attorney general to weigh in - nola.com",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMnNjZXJqQ0RqZk1VOHpSd2xCS0wzQi1sTUVwUFR4TU5PcTJDaENnaVdNeVhCWXJBWWZ0dUUyb3cxN3ZncWI4SFZkcl9nZkpIaVItSWtPakdNRDRubWhlSXVVUlZ4QkpybHNEdFM4YTgyZTU2eGsycnRkMThocTlTU3hIMnMySXp6Q2VNeEoyU1RORmVvOVYzTHYxM08yc0tETlpRb2ItbXNVOHg5YUxJWUQ2b0ZXcTFt0gG-AUFVX3lxTE84NFBpOFFCVGZWaktJbFphaEFGRnZaZEdpUHVIVFhWU1p2RVNKb2ZYb294RlhQYm5tRXRnSDlRRlZJY2RYeE1WWWV1UHhweG1DSzJlcVNLMHA3LVNsZDVaQ2liX3FncHFMWnFYUWJzODN0czA0czgwc2xlN2pSQ2FrWHlyLWs5Wk9ZSHB0V2VSdjVsczJHazA4N1gyYllYc0tGN2g4aHRfZnZNQk90V2VuLVZ1QUZheGZxc1F3emc?oc=5",
-          "source": "NOLA.com",
-          "summary": "Kenner leaders draw battle lines over New Orleans airport board, ask state attorney general to weigh in NOLA.com",
+          "source": "nola.com",
+          "summary": "Kenner leaders draw battle lines over New Orleans airport board, ask state attorney general to weigh in nola.com",
           "published": "Sep 20, 2026 9:00 AM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans DA Jason Williams, unchallenged for second term, aims to build on gains - NOLA.com",
+          "title": "New Orleans DA Jason Williams, unchallenged for second term, aims to build on gains - nola.com",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjN2cElsLUlsSXI5RF9aSkFtRW96Ym93WkcyUkdiZ0JuOGZlV1MzVWV3UUVhMU92Z2k5RGQyNkNnMnRLaXJJNTVGenFxQ1YyanJvS1ZyV3RNbS1uc25jM0xjZGlJb0gtSkxiQzgwT0ZJVXdTX0JoVnNqQzZNaXhnQndHMmdvUzd6Rmt1RzljU2dvM2hINHQ2UTZBVDFRTXZ1dU9EZUFKbVB6QXJldlFjX3dldUt6Z1p30gG-AUFVX3lxTE5fVHVIZXFQdVkyUEx5WTJ3LUU5NERUTFFrSTM3c3FsaGJBVC12bEI2aVZ6dzVhVHhGdnloNVpob2c3bGhtZHpmQ1RHY05NUkNoZ2t0X2owSExJN25JMTZtZk53cnBkazVremFjbjAxSVo2bVlNWTdfdXdZOUItNUN6dmhIWTU1aVV6eFZSQlVfak9Eb2VyZzBLU3EwZ1d0el9hZ2pEUG1GUFd0MTEzZm5yQTJGSWNyTUtzZWQ4cGc?oc=5",
-          "source": "NOLA.com",
-          "summary": "New Orleans DA Jason Williams, unchallenged for second term, aims to build on gains NOLA.com",
+          "source": "nola.com",
+          "summary": "New Orleans DA Jason Williams, unchallenged for second term, aims to build on gains nola.com",
           "published": "Sep 20, 2026 9:00 AM",
           "eyebrow": "City News",
           "location": "",
@@ -124,20 +134,10 @@
           "calendar_url": ""
         },
         {
-          "title": "New Orleans City Council adds civil rights icon Jerome \u201cBig Duck\u201d Smith\u2019s name to Treme recreation center - fox8live.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTzJFZ3B0dWVoa0pUX0xTT0dXQlJmbUVJTGpJSmNDb1B6V0JuanRBQWh4YmpCb3VpdHZjalFmd0JVcW5Xak1WUUtRb3VjSW5wWmlWaGNwVENtV3N5cjNaZUN2TU5ta3k0RGQtVmpMU2pKYVF2SXRVS1p0bFFmamNraFJCTlFEZ29kdHlhU2xVajJSenRpcHY3V2xrZ1NiNEZTbWdzQW15Z1V4SFFCY1dLS1VkX3o2ejdXU0N3czd0STNGUXBNVWVhQlhUVDA3ZkwwalA3bkIzekFGdw?oc=5",
-          "source": "fox8live.com",
-          "summary": "New Orleans City Council adds civil rights icon Jerome \u201cBig Duck\u201d Smith\u2019s name to Treme recreation center fox8live.com",
-          "published": "Sep 18, 2026 6:13 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Jury convicts woman of negligent homicide in death of reporter covering Super Bowl in New Orleans - WVTM Channel 13",
+          "title": "Jury convicts woman of negligent homicide in death of reporter covering Super Bowl in New Orleans - WVTM",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDRuWEpWLWdEM1ZlcmVLQWM4cDZhN1lnZllEWml6ZzNCaWFNR0hTTjcycnk3Q3ZFdHd5bWJ1QkpkakxJaWFabXJMVDlyOUxnQ3lnbUt2RURyXzE5bEk1YUdlUWs5Uy1HSlE0WFp0WHhleDlSdVVQQU9LODhXVlpUODl4cUZYdjlNa3dCQjhFQUtFdw?oc=5",
-          "source": "WVTM Channel 13",
-          "summary": "Jury convicts woman of negligent homicide in death of reporter covering Super Bowl in New Orleans WVTM Channel 13",
+          "source": "WVTM",
+          "summary": "Jury convicts woman of negligent homicide in death of reporter covering Super Bowl in New Orleans WVTM",
           "published": "Sep 18, 2026 11:18 AM",
           "eyebrow": "City News",
           "location": "",
@@ -152,61 +152,61 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "2 pedestrian deaths in New Orleans East reignites calls for safer streets - WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMmR1RjB6RFFLREZTZ25ISkI3M3ZtSDhpeFRnV0NwVEotT1U3ZzhiVjNscUw4d00ydkpDcmx5RVIxQllmTGlaWnpjV284bXRoWWtXcGYtYjd2bUxNZ3A1bnhrbERYTTFKNEhxaHhnRjFhcVpUQU93OXVsZXBYa0RVdVNFNld0VXlqLXh0ZlFsa01aZkVXMDBYSFo4RVEzYnJCWEpMRC1qYm5falFucmZEcnQ3c0VsZVpXTzROWDdmRGJiY29ENVUwRlphcXRuYkRBLVctVEY4WE5wZVUwSlAzMDhfUHJiYzlCZ2NwTGVfMGYtcndvWWc?oc=5",
+          "source": "WWLTV.com",
+          "summary": "2 pedestrian deaths in New Orleans East reignites calls for safer streets WWLTV.com",
+          "published": "Sep 21, 2026 3:17 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "New Orleans Police investigate fatal crash involving three vehicles - WDSU",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeEhIVzFJMTMyckI0SUlCVmtMSHRqSFh4UEN0SEJwdXlKa1JlRVJldDk1TlhEdE1UVWIzQXByaktMTkZSWVFVNXhGanRzUzhZY2R5ZmFmbUNYRENNRFVlQVZ1a1hiZkUtUTBvakpVZ2RwZExrRmdPd0pqTzVPOE80RUR5VlBVX0lvNWFXQ0FKbHNqN1M2REY3bUZoMEMtVy1YQVFMcnZ2R0M?oc=5",
           "source": "WDSU",
           "summary": "New Orleans Police investigate fatal crash involving three vehicles WDSU",
-          "published": "Sep 20, 2026 12:57 AM",
+          "published": "Sep 20, 2026 4:52 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "1 dead, 2 injured after crash on Chef Menteur Highway - WWLTV.com",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ3dYUU90UWNPT2ZRa0QyWHVfTmR6SGZhNHgyNkRua3UyY2FzamtWUGc2ZlF2RVNTV0lYWjhuV3VlYzVzYkxZZlhnUHE2VzEyUFNETTh1emwtcFk0ZjlxRE16bEhDNWM4ejB6X3llMS1nMHIzUGdIcTdOVjZDc0g3WmktZUc3VUliUTNoTGN3RlMwbjZWUGJ6dXh5bEhXVTd0VnJPeFE3VUhpaDhDRmcwSC0xZVVkZHdhdWVkR21xdTVob1hzU2NpSUZQdVF1MW5hMUEyTDFtRlRxRE4z?oc=5",
-          "source": "WWLTV.com",
-          "summary": "1 dead, 2 injured after crash on Chef Menteur Highway WWLTV.com",
-          "published": "Sep 20, 2026 12:55 AM",
+          "title": "One dead, two hospitalized in crash on Chef Menteur Highway, New Orleans police say - nola.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTDhxN0pJYWUzN1Btb2RlUW5VS3FfSUV1dmsxUE5tNTdqY3FFdWxDQTdhTXpWRmlYQzdhbENjWWw0SVhEVWNmWlZBWjRyZzNPMUZhUmhuUzlIZTlub0cxaXIyZnJ1NGZ2RDgtdEJ2NUlXU0w2VlR6LWk1VHJDdGxWdlpBbUNIM2M5VkdXY2FQZEh1cG5ZVzZ1QVhmSjhaUzVxcWFQVnk1QVU1TzNwVm9vaC0zRHo5RHPSAbwBQVVfeXFMUGhqdVBXZDF0VldhSmpRUUxIS0l1aGcxU1ZRSVJrQVUtdEpIeVpzNXBEdmg3Z25sUVI1ZUlPdWlUVzh4TldLaXpvbldGdTFpV3ItR1lHVXZkX2F3TFROOVdmLVo5bHFQd01DX0hKOUFUckkxbXV4eTJfZTNKeUdRdWQ5SEpHanp2eFZOSVJFWGFqTG5FUDRRamJyVEtjclJBbWJJWjhSSDZwellPY3c2dVhfbklFTDMyb2szT3E?oc=5",
+          "source": "nola.com",
+          "summary": "One dead, two hospitalized in crash on Chef Menteur Highway, New Orleans police say nola.com",
+          "published": "Sep 20, 2026 4:14 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Pedestrian struck, killed by vehicle Saturday in New Orleans East, NOPD says - fox8live.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSE15amhHOVJTY0Q5VmFQYXNCV1pWcDNWOUswdVltekRwbkV5dXRrdFFSdGIwYXVCa29pa2pfaFZhMHlDTXpZelpYV05nSW9CdlNrc2Y4c0JzdXRlazdJT3lwWVdBQm9fNkJpUF9yR1BiTkR3YUxzeGZUY0pnUlBCbVI4NUFTem91ZURfbWhPYklGS2JKSm9IN2NLN29zR1pvSzMxU1A1WnBYOTR00gHAAUFVX3lxTE5ldm05WXpwZGhXU05nWDRpYTlyY2U1Tlc3by1IRHNQU29XMVZfQ29RVzB3U0doS2wtQ2thZ1dwc0dSeW56Y0ZLLUM2VThDV3k2d3RMYkVWMklsQjV3bWFqSThyLWNEeHZ1Q21TMWxFOXlrSWNMU1FjZGp1YXNEaHd4OW5MbW9XOUxtdGJmd0laTmJabnRYaFFvcDgwTFdjLWo1RjNUQ2VDMVZiTHFzV1N4a2U3WUJUU2xGdVZucUxJTw?oc=5",
-          "source": "fox8live.com",
-          "summary": "Pedestrian struck, killed by vehicle Saturday in New Orleans East, NOPD says fox8live.com",
-          "published": "Sep 19, 2026 7:11 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Pedestrian killed after being struck by vehicle on I-10 West in New Orleans - WWLTV.com",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYTg4ZDh2dExweUNYRGRPTmwzV3BILXpSRzVVRWNGMlVSZW1IZHNZNk5Sa3RuZktNR2k2QklDOUYteGxQR254bnY1a3J6THVhMjFDVDVuSWRkbkFYbTJZWU5zZXFTQXN0N0FUMFNJQlJpMDdHbE5KOWRBd3BndGlYdUJPQ003bkJVTjlrbl9lRGlVQW4ydFQ1X1BmcnpFU1BBQ1dyMWNhTWlTZnREWDdTUy05dUZGVzZ3eVRqc21UTVF6Mm9LSThZVWloc1dmRE1wbHZzSlNQbUlDd0lIckxrUjJsRmI3V1hTTGc?oc=5",
-          "source": "WWLTV.com",
-          "summary": "Pedestrian killed after being struck by vehicle on I-10 West in New Orleans WWLTV.com",
-          "published": "Sep 19, 2026 6:52 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Pedestrian struck, killed in crash near I-10 West and Morrison Road, the NOPD reports - WGNO",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1B2dUU0TkpsZ0dvVTV1dDlVNm0zUnV2Y2RVUl8xTVFBeGw2UVNZazY5WWRxTmVMVDZJdHFhNjNyYWdrVEo2QlF5ZW9mNGtFa25RZkdhZmhwcTgyVFBXekZ1QndPeThZQlNyQVFKR0JMSHFtbGsxYk9la2dlVGdRQ3dOeUoxVVNPUlJ2WldVU1YwR3B6VjlhY3dyb25ZNV9iU29RRnRLS0J1UGRWN3FWMnVhemZ2aUdaQUNWSGhhcWNmZ2FZMWZzb2pn0gHPAUFVX3lxTE1FSDloSDlCenVIZ2JuenFDTFpxVlNhX0s0TjFJYmx3WTFtcjhWRElZMDBIQURPV2FteEdVTTZnMjBUVUMwcGRUMVpfREVQdFBSWUluMlRfVmJxdWR0N3B4dW9EdEVvY1lvM1NiMTFHMHJNVGtSMDBoOVByWldpbzg2ZDJINDNvMVFNWWR1OW9xQzZoNThkeVVleU5hdzViX3hnaFROY3dwVmJtQmNtS3NnS2hDbmZ4cDVvcmFDZXhoVGx2UjJ6X09YWTZRR3pLWQ?oc=5",
+          "title": "One dead following New Orleans car crash - WGNO",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3VySXdHLTE3ZEZSMVZzaGh1YWlIaHF1Mnd1VERHd1NkZGYta1M5Ykpkc09obWQzUXpHcDJ3YTEtWEduR3hTU1V5VmFUS3kxVWZBUDk3ckNlamtBa2xvY0xCMVkzVTEtWDdyZW9TUjRUb2JGSVU4LVFKTTkxeWNMRXJXSjFrX0xyemtWbExkTFN0UGlv0gGaAUFVX3lxTE5yY29CLXVWTmg3SnhCNjhzdXE3SjVINTczM0lCWlZYb21EWWx5ZGo3djBHN0RNVi04NEExVWJ6YmVTa2Q4ZG5KSXdIODFCVUt5TGNEejZVdGFNR3hGMGFENmZjMGVBMWdaeU56SWxFZl9LalEyTm9CQjZoelZLLUhkekQ3Sk1IYjlCX1lTUVlCTkMtMVFnRTN3Wmc?oc=5",
           "source": "WGNO",
-          "summary": "Pedestrian struck, killed in crash near I-10 West and Morrison Road, the NOPD reports WGNO",
-          "published": "Sep 19, 2026 6:03 PM",
+          "summary": "One dead following New Orleans car crash WGNO",
+          "published": "Sep 20, 2026 3:51 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "'House of Dreams': French Caribbean chef opens new restaurant in New Orleans - WWLTV.com",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVHZMWGJiNU5JQlB0QUN3c1VFc1Q0RGxqNlZDX01hZmQ4YS15UmhXTl9JNUU2WVZJLVp6M2lNTG9pQlFweDBtSW9HaElHZmh1bFY3N2JLZkNWdldicHVVQlRLX3hCZ2xZOVc4UERMYmN5T1pnWE5kUU45dFZFRlpFbDZYSFZ3T2lWSXJEX1FwOEs5bVdjUVBHRGFuWHVGcUg0b19USHM0bDl6ZFRQcWlVX0FJajYyM0lmNy1Xb3BNVU50M19WYXRwa1lwMkJJVkd3Y3JkQVoyUFlpTzl1S2RUb21WZm5pUE56QkxtYnZvZnNySDJUZElRRGw5XzluaUM1VUhhNzBuRW5YSG1VcmpWZFFn?oc=5",
-          "source": "WWLTV.com",
-          "summary": "'House of Dreams': French Caribbean chef opens new restaurant in New Orleans WWLTV.com",
-          "published": "Sep 19, 2026 1:15 PM",
+          "title": "'Rhythm & Roux' is a New Orleans cookbook with stories from jazz musicians - NPR",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2laaFNPOVNQYmRHT3N6YXd5eUhWZWc2ZGYyVG9jODI1NGpLSUhOYWJHZVdQS3hQMUVVVkhlRjM0MXVQMVhfZExnOGZsN29sU2FIVXVYU2xTdmhqMDFPeldoWkhnZEdZX0FZQ1pqOGpVNlVQZmhyREhYQ0tSQjV3ek85d0RuSl83R1ZrWGhCVm9VVEVaWUhYM2JBaw?oc=5",
+          "source": "NPR",
+          "summary": "'Rhythm & Roux' is a New Orleans cookbook with stories from jazz musicians NPR",
+          "published": "Sep 20, 2026 11:00 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "One dead, two hurt in three-vehicle crash in New Orleans, police say - fox8live.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSU00bDdwaWEwLXJXUW1EeVBpdWVxOGhSSXJvWnJRVFR4eDdvY25la01KYUtOb3MzVkE3VHk5aWhYdVJJSkFpcXlPYmEtQ21qRl9oeGJmN1RsbUR0WDcwTGtkOTBEVmJVTENYX01wMkVybHZvRlUtSExybXdLQU8ySE1jRjAtSzgzTDNMSXE1WjVxODNDVmRCdVR5UTJfUdIBsgFBVV95cUxQZ3phcWRTbUU3VGZHckU5MDNuaTVwM0pTN0ZBNm54YjkwU2NqaU9jN29LSWl5ZFNNSFNJQWEzREx2b29PVFhjQXdJakNTTGNpaU93dENnMnZHdGFxX1RidTdhZk85Q2NqOWd2NTRLd3B3bUozRXhPbGlFWlluQmFhYlpROVk3V1k5b3lSYzIxbUxKVXRFNmNZRzl6UHRBc2dSUFhvSTdYdFJSRl9KQnZiY1F3?oc=5",
+          "source": "fox8live.com",
+          "summary": "One dead, two hurt in three-vehicle crash in New Orleans, police say fox8live.com",
+          "published": "Sep 20, 2026 1:53 AM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -220,20 +220,30 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Together for Good: LCMC Health, Second Harvest and Junior League of New Orleans partner in food and diaper drive - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcmRrbk5JelJONXFKVExXQlRLODU2LVAyRy1TalBWakxLNV9QZTFYRzBYTUJwRk4wek8tTVd2RHJobkRLeWR0MFhvVFZsN3VUVWxyenpDaEptODdWazdhczU2M0JidUhSeU9idGtYVEhGd0lXMlBsazBKSjZrVEFaT3VhRFcxUWw0bEFyMUlXUnBJeEJ0UTVvUUktbkFwQ0tNOXJ5WFBMcFpnelF6amVQUnFLNnFNc3FQZjIzd21YUDJ0LVlGZlUxRGhvcUdYRHNoMTdDbjZaWFNCVk5pRUJTOUZabUNZbmhPbXliSHR4dHNfbjI4VUFva3U1YTZya3d5RTNYcXowMW9QUWIzV1HSAZMCQVVfeXFMUFQ1bzV3OXo2dTdVRGZxdFc1UGc3OFBpZFIyZFM2U2lmbXBHYWdoZ1FYTHBxRV81RjR0OHVVWURQTGRpWlNZaTBETkNqa0NaOGd4WjRieVlCMUR5STBuelM5cGg2eGJob1JfNnBBQlVabTRMN2JULVc2NlhVcjBnWFVUSkhjejNYOXZKdzFkRHJqMC1DODNydlF1YWZlcW16aDVOQWRuV0xxSjRuVUhoMjJ3ZWZmRUJLc2ZkbG5vYVJEbGhlcXJQY2JWUkNjdUlqYkZMY0xTT3FBNFBPRHQ2dm92emdkNXpfOTJxQklkZktjMGV1ckd2UFdrT3I2cGUwX0llaURlMm5JMnFmaWdfQkNPenc?oc=5",
-          "source": "NOLA.com",
-          "summary": "Together for Good: LCMC Health, Second Harvest and Junior League of New Orleans partner in food and diaper drive NOLA.com",
-          "published": "Sep 20, 2026 5:00 AM",
+          "title": "New Orleans events: TajMo, International Arts Fest, \u2018Jersey Boys\u2019 and more this week - nola.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORXNBTHlxZEc5TjZmc3JseFA4UzFsdm1obGltZVFpUFo2N09YaDY5Q0JMVVVkVzVYNUVYZXJnR0tlQ1l3SkdHOHdCSXgzdlJkc1gtMHdGZGpvSWF0VHZ6cHlkbHBvTjBhSlVVZXRfOG5OSFQwYS1aczZ0QS1jRTNTVHctMThMTmtfYWZXQnJnV0lZYm9QekZIVkljd0JmZENfVzVDa0ZJTG13RnJGZDZoX1U1azZXbGRXZWtWX280dnhXOWpQNy1IdVFraTJ3UkVTSHZaU3o3MG8wY0xYdU1RTk9PLU5aNFZlTmFoYzhidXN3VDZ3QkpB?oc=5",
+          "source": "nola.com",
+          "summary": "New Orleans events: TajMo, International Arts Fest, \u2018Jersey Boys\u2019 and more this week nola.com",
+          "published": "Sep 20, 2026 9:00 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "SoFAB estate sale and more things to do in New Orleans - Axios",
+          "title": "LOCALS' Fest hosts three stages of New Orleans music, arts and vendors at Armstrong Park - nola.com",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaWJ1VzdTd1NGUWFQd3h6d1FhdXFUWDV2UmRGX2RnTC1XRWFhMVFnVS1kODR1MUFLSjRsV0dTV19PRWxaemg2aWx4ajdyYW1HM2V3Y1pBLTNfZk0xZmdPTmVUMmtvWU52SGFUU2hJaDIyQndNYnVkX3FDQ1FKUXQtdXppeFhHaW14bjFyVUxZcEFWbWRzTTk5WEZmbGY2TVh0U2IzckZDLUVVSzZtbnhjU196UGZkQ1JGVi1ScGp2R05sNGV2Nm5iOTVoVlZvbWd3Sk1tXzBaQWg2T0I3XzZIaGd4cnJ5YVNGU1ZzazhuTDhoUTM5SEx2TENxb0pWTzQ?oc=5",
+          "source": "nola.com",
+          "summary": "LOCALS' Fest hosts three stages of New Orleans music, arts and vendors at Armstrong Park nola.com",
+          "published": "Sep 20, 2026 7:00 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "SoFAB estate sale and more things to do in New Orleans - axios.com",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa2xvcUR0bS1FdmpKbVNDeWo3Z3FRb25VTENPb2RrMFRsZGNNM0ZLd2tzdk0yS0dRSGF5WE51ZjdHcTF3Y0FuRmpPdGNTbmVoZ3Q3QkIwUUd6TV9rTHp3Rk8tdXBnY3BpM2pVYWxQQW53ZHBUNVVELUFmVnNleGU3Nnplb0xWZ3MtWm5pRjBuME9aUQ?oc=5",
-          "source": "Axios",
-          "summary": "SoFAB estate sale and more things to do in New Orleans Axios",
+          "source": "axios.com",
+          "summary": "SoFAB estate sale and more things to do in New Orleans axios.com",
           "published": "Sep 17, 2026 11:24 AM",
           "eyebrow": "Entertainment",
           "location": "",
@@ -250,16 +260,6 @@
           "calendar_url": ""
         },
         {
-          "title": "Hispanic Heritage Month: How to celebrate in the New Orleans-area - WWLTV.com",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMGxkczdaR2hPc0RtQ2d2Sldza2tocFZfNUYxZ05tMF9YS3BVcEZ1NTh3empYc19HVGxDMm96RG0xRjBjNEQ3eE1MbFdrbnhVWXYzTl9XejJlZXU2akpIQ2lQVUZYTDRkSFVTQmJha1FNa2JTMWRTVTNJTmx5MFI5MjJiWWRwbDdOaVdnSFpoSkpWdFd5MkVKMEF4Rlo3U0o1dlhDSzMtTnZEZWRHZHU4QlljMDlyWnprZ3ZNSEY4UFREa1V2aVRvV1cyVnJfMkg2OG4wMmRWRFhyMDMwbWliZHhFUFVmT3o0WDZ0cXU3VjJETHVIc0pzSnV3?oc=5",
-          "source": "WWLTV.com",
-          "summary": "Hispanic Heritage Month: How to celebrate in the New Orleans-area WWLTV.com",
-          "published": "Sep 16, 2026 2:48 AM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Photos: FREAKY DEAKY Festivals to Take Over Austin and New Orleans - BroadwayWorld",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTzRCdm5aZWFrZjRxZ3p1Ul9fRWhjR194OWVFLUtzTEUwVWE2VFFWcWMyUmF6SG45Nkpjejc3ZmtWYnlXY1RRamR4VG1ONVRnVkJBNHJkcnhUNXJ5Q1A3bWpBSUtNZlc5SFNKS0x0cl9QS3JzN2hZUXhyNTVRUWd1dnZmNk9vWkJsVXVuNVJBbzZJRG10NlJHUkQ2T3k0amhmTExTdk9lajNUUUo1ZFh0cTQ2RWFFUk80UzBWMGhB?oc=5",
           "source": "BroadwayWorld",
@@ -270,11 +270,11 @@
           "calendar_url": ""
         },
         {
-          "title": "International Arts Festival brings a global music celebration to New Orleans - WWLTV.com",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTUlDd1hobU1hcGZ4SS15ZVE5S0RMUkdVaEVJNGtWbTVpOFlRRm80TUIwd1U5aGVwT083MktBek1SWW1kVFR2cThtc3NWaEIzaDE3Vkl2VTE4UjNfU1JaaVFkSzFfbWNGUTkyVWwxQ0c4ZmpieGJMdEprWkVpNWpqU2RwRXI1TS1temQyam5oM0tBTjNUUjNMbWpVTlQ5Z0RVakdza1BJemJHMi1ySkZVTG1kaXNUckpCeVVtSUh0NlAxX2E5MXlTOXVFYjVhMUo2VVlsWDZSdktOTk1JNGo3ZjFSazItZFBnTUR2QzdQY1Awb1RsUEFuY2cxLXk4QmpkVHpqZ0t0MFJ0UQ?oc=5",
-          "source": "WWLTV.com",
-          "summary": "International Arts Festival brings a global music celebration to New Orleans WWLTV.com",
-          "published": "Sep 11, 2026 2:06 PM",
+          "title": "New Orleans weekend picks: Festivals, football and true crime - axios.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUExkcmNZUi1MSDJ2UzdXOHZlVmxQcFdvTVZteUlXbE1XQnlwZERUWmJaOU5pUzhTNE5LRlljSEFRdHdhbHpmWnc0UG1Ib1R2VW9oMjVIYnl0UHFIc2txWmVQWHVMOFFnX0N0SkZoSGUzbHN3TjJVUF9ESmNjck1Rd0UwbjBPMEhXd3BqaUVuMG5feVBtUHc?oc=5",
+          "source": "axios.com",
+          "summary": "New Orleans weekend picks: Festivals, football and true crime axios.com",
+          "published": "Sep 10, 2026 7:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -298,10 +298,10 @@
           "calendar_url": ""
         },
         {
-          "title": "Bruno Mars was 'The Romantic' and an old-school showman at a sold-out Superdome - NOLA.com",
+          "title": "Bruno Mars was 'The Romantic' and an old-school showman at a sold-out Superdome - nola.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaF9YZUVjZzVkZktfTjU1MnZOcUFac2dZd3VsbmdLd2hsbDRDUTQyY05SZElwSklUMmw5OE8yY2EtWXkyb2lPMFMwZzJDS0hiRE9lRjVvQXU2TG9zSXJzazBGallZc0N5OWdMU0RENVNKZThHOVFwNkgtZ1JUV3hFS2FfVWw1LWJoUGxGckViNG9uaXNWYnNDS3dUVFNGdzlzaXhJREtvb0NXQ0psX1d6aE4tTdIBuAFBVV95cUxNTVVSZkNkRjhrVWFtbnN2ZmlUaG9TMlRVdnBwUkFROEV1eFFpbUp6OHJMQWNKaFdFNWFsclh1T0E5YVQ5MW1ST1JHR2JJMTJaUU1xRTRQNXNCVUZERGJLbGNodjZ2OHliNkFyQmR0WndhcTJhZ216MzNtN2lob2NxUzhaRV81S3hTTlFDa1FMQUE5YlVyRU1iMi1vdmltRV9wWTllTFVxeUZsQWFfR0EyZ1BPMDZlb0N4?oc=5",
-          "source": "NOLA.com",
-          "summary": "Bruno Mars was 'The Romantic' and an old-school showman at a sold-out Superdome NOLA.com",
+          "source": "nola.com",
+          "summary": "Bruno Mars was 'The Romantic' and an old-school showman at a sold-out Superdome nola.com",
           "published": "Sep 17, 2026 10:53 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
@@ -328,21 +328,21 @@
           "calendar_url": ""
         },
         {
-          "title": "Midsummer Mardi Gras, Yoga Festival, Savor the City and more events around New Orleans - NOLA.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnlrek45amV6UlBPYmRNc3g5R2dyaXZra3plU1JReEZCS2FrZkU5cGJLYkFKVWxUeFBuRzlLVS1FcVd1blZXaUdzMjlmTFJVLWtMNnhNMmUwOHB0RU84cUZJLWsxOVR5eXlEbzRDUVVmR09fMzhJd1h0MUVOelZnRWU3RUc5YXRuaWFkb0JyRHU0OFppWkZtVEhkR2xlRWNiSF9HeW5aaFBKR1pWYUhYQno5YXZZTlBqeEd5cHI3SU5QSlXSAcgBQVVfeXFMT2U4dmxjNFNnV3RuX0VJV2dFNC1HRDJBX1J6TFBqbWJOdzJsX1pMT1Z1WF9aUjN1cUFlblZCVUxMWVVxaGkwSWhubDRlbWVFb3dQSVBLeFJCb1VTMS1HZExpRWhvQ1NVc0xqVWh6T3d5NTZDUkFfSkh6OVJPNkI0dS1nVWIzNVBLSG9vSWhjdThiZTZYWnBmM2dKLTVmMWxQRFpIQlo5NWR0TVR1OVlUQ3NYcFBoVk9xbUVfM2FrV2RKd08xSzJSaHE?oc=5",
-          "source": "NOLA.com",
-          "summary": "Midsummer Mardi Gras, Yoga Festival, Savor the City and more events around New Orleans NOLA.com",
-          "published": "Aug 26, 2026 7:00 AM",
+          "title": "Live music in New Orleans on Labor Day weekend 2026: Chance the Rapper, La Reezy, Contraflow - nola.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUU9nNng4a3BidXkwVnFQQmdJM3NVSDNNVDR0N2c1TWw0RmJCdXZtNUR3SkNfeERhNnhmcUFOc3FxY0t1Sm1VRW9SOW5RYm9rd2g1Q1p5M3J4eFl2N2JDSHZjaGZya3hUTFZLNnlJc2VMVnA5aS1GaTVjUzBuOUNhdGRtN0s3X0N4eDExTDh6a0FveE5Ob2Jma0VQWXpMVHVHMGJKSnZ2N1ZlMVdFUnJ1YtIBtgFBVV95cUxNMkhKcmlsNDJzSktMNzFKNHdPVWFQWHUxTWI5TzlKZ202RmpCcncxS3ByWHVsZm9IR3JRVWg1Y3dJZWJ1aVRSRzE4N0phT0g4cmJXTDlIdDdsWkxxRXhXNW9rRHB0bHhIWnpzc0YxNlhQdUt0NjQza0ttcDR5TERNUTNFR0xuX09WaXk3eXJ0NGJrRXFVY2k5c2hIbmFvSkwycnkwTkFrY2hEb1M5RWdIUXZQczYxdw?oc=5",
+          "source": "nola.com",
+          "summary": "Live music in New Orleans on Labor Day weekend 2026: Chance the Rapper, La Reezy, Contraflow nola.com",
+          "published": "Sep 3, 2026 7:00 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Nils Headlines WNOZ\u2019s 2026 Smooth Jazz Jam Concert Series - New Orleans Magazine",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmtIa1dROHpTa0duSGFRdTc1cmF6aUJScWdia05hYzhOQlo0SElKUnRRZE1wQ2lNVnhNTnF3VG9qRDlFUnRiZUFCbDlnRmR0ckhmQU16N0RnWkFNYWIyT0ZTMWJxbmNfanpuekktSUFTR0NweUJPdkkxQVBrU1RPYXpJSlhrVFFiZTBEdzROOA?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "Nils Headlines WNOZ\u2019s 2026 Smooth Jazz Jam Concert Series New Orleans Magazine",
-          "published": "Aug 18, 2026 2:06 PM",
+          "title": "Midsummer Mardi Gras, Yoga Festival, Savor the City and more events around New Orleans - nola.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnlrek45amV6UlBPYmRNc3g5R2dyaXZra3plU1JReEZCS2FrZkU5cGJLYkFKVWxUeFBuRzlLVS1FcVd1blZXaUdzMjlmTFJVLWtMNnhNMmUwOHB0RU84cUZJLWsxOVR5eXlEbzRDUVVmR09fMzhJd1h0MUVOelZnRWU3RUc5YXRuaWFkb0JyRHU0OFppWkZtVEhkR2xlRWNiSF9HeW5aaFBKR1pWYUhYQno5YXZZTlBqeEd5cHI3SU5QSlXSAcgBQVVfeXFMT2U4dmxjNFNnV3RuX0VJV2dFNC1HRDJBX1J6TFBqbWJOdzJsX1pMT1Z1WF9aUjN1cUFlblZCVUxMWVVxaGkwSWhubDRlbWVFb3dQSVBLeFJCb1VTMS1HZExpRWhvQ1NVc0xqVWh6T3d5NTZDUkFfSkh6OVJPNkI0dS1nVWIzNVBLSG9vSWhjdThiZTZYWnBmM2dKLTVmMWxQRFpIQlo5NWR0TVR1OVlUQ3NYcFBoVk9xbUVfM2FrV2RKd08xSzJSaHE?oc=5",
+          "source": "nola.com",
+          "summary": "Midsummer Mardi Gras, Yoga Festival, Savor the City and more events around New Orleans nola.com",
+          "published": "Aug 26, 2026 7:00 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "Lobelia Jazz Band",
-          "url": "https://www.wwoz.org/events/1381716",
+          "title": "James Beaumont & Coyote Duo",
+          "url": "https://www.wwoz.org/events/1381651",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 3:00pm",
+          "published": "Monday, September 21 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lobelia+Jazz+Band&dates=20260920T150000%2F20260920T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1381716&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=James+Beaumont+%26+Coyote+Duo&dates=20260921T200000%2F20260921T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1381651&location=21st+Amendment"
         },
         {
-          "title": "Aubrey Linda & the Rumpshakers",
-          "url": "https://www.wwoz.org/events/1381576",
-          "source": "WWOZ Livewire",
-          "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 8:00pm",
-          "eyebrow": "Event",
-          "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aubrey+Linda+%26+the+Rumpshakers&dates=20260920T200000%2F20260920T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1381576&location=21st+Amendment"
-        },
-        {
-          "title": "Funhouse",
-          "url": "https://www.wwoz.org/events/1389101",
+          "title": "Margie Perez",
+          "url": "https://www.wwoz.org/events/1388886",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 3:00pm",
+          "published": "Monday, September 21 at 6:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Funhouse&dates=20260920T150000%2F20260920T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1389101&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Margie+Perez&dates=20260921T180000%2F20260921T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388886&location=30%2F90"
         },
         {
-          "title": "KreweDeBauchery",
-          "url": "https://www.wwoz.org/events/1389106",
+          "title": "Piano Man 'G'",
+          "url": "https://www.wwoz.org/events/1388896",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 6:00pm",
+          "published": "Monday, September 21 at 9:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=KreweDeBauchery&dates=20260920T180000%2F20260920T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1389106&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Piano+Man+%27G%27&dates=20260921T210000%2F20260921T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388896&location=30%2F90"
         },
         {
-          "title": "SingleMaltPlease",
-          "url": "https://www.wwoz.org/events/1389116",
-          "source": "WWOZ Livewire",
-          "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 9:00pm",
-          "eyebrow": "Event",
-          "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SingleMaltPlease&dates=20260920T210000%2F20260920T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1389116&location=30%2F90"
-        },
-        {
-          "title": "Swing Night with The Villains Jazz Band",
-          "url": "https://www.wwoz.org/events/1390511",
+          "title": "Betsy Propane's Smoke Show Cabaret",
+          "url": "https://www.wwoz.org/events/1379626",
           "source": "WWOZ Livewire",
           "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 8:00pm",
+          "published": "Monday, September 21 at 7:00pm",
           "eyebrow": "Event",
           "location": "AllWays Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swing+Night+with+The+Villains+Jazz+Band&dates=20260920T200000%2F20260920T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1390511&location=AllWays+Lounge"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Betsy+Propane%27s+Smoke+Show+Cabaret&dates=20260921T190000%2F20260921T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1379626&location=AllWays+Lounge"
         },
         {
-          "title": "Celebraci\u00f3n Latina ft. Los G\u00fciros, Papo y Son Mandao, Cristina Kaminis & More!",
-          "url": "https://www.wwoz.org/events/1391621",
+          "title": "Mark Appleford",
+          "url": "https://www.wwoz.org/events/1378786",
           "source": "WWOZ Livewire",
-          "summary": "Audubon Zoo. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 10:00am",
+          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 21 at 6:00pm",
           "eyebrow": "Event",
-          "location": "Audubon Zoo",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Celebraci%C3%B3n+Latina+ft.+Los+G%C3%BCiros%2C+Papo+y+Son+Mandao%2C+Cristina+Kaminis+%26+More%21&dates=20260920T100000%2F20260920T120000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1391621&location=Audubon+Zoo"
+          "location": "Apple Barrel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mark+Appleford&dates=20260921T180000%2F20260921T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1378786&location=Apple+Barrel"
         },
         {
-          "title": "Nahum Zdybel",
-          "url": "https://www.wwoz.org/events/1373266",
-          "source": "WWOZ Livewire",
-          "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 1:00pm",
-          "eyebrow": "Event",
-          "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nahum+Zdybel&dates=20260920T130000%2F20260920T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1373266&location=Bacchanal+%28OUTDOORS%29"
-        },
-        {
-          "title": "Noah Young",
-          "url": "https://www.wwoz.org/events/1373306",
+          "title": "Byron Asher",
+          "url": "https://www.wwoz.org/events/1373481",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 7:00pm",
+          "published": "Monday, September 21 at 6:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Noah+Young&dates=20260920T190000%2F20260920T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1373306&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Byron+Asher&dates=20260921T180000%2F20260921T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1373481&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Jay Dufour Band",
-          "url": "https://www.wwoz.org/events/1387986",
+          "title": "The New Orleans Rug Cutters",
+          "url": "https://www.wwoz.org/events/1388066",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 11:00am",
+          "published": "Monday, September 21 at 12:00pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jay+Dufour+Band&dates=20260920T110000%2F20260920T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1387986&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+New+Orleans+Rug+Cutters&dates=20260921T120000%2F20260921T140000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388066&location=Bamboula%27s"
         },
         {
-          "title": "Laura Doyle",
-          "url": "https://www.wwoz.org/events/1388001",
+          "title": "Jon Roniger & The Good For Nothin' Band",
+          "url": "https://www.wwoz.org/events/1388081",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Sunday, September 20 at 2:15pm",
+          "published": "Monday, September 21 at 4:30pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laura+Doyle&dates=20260920T141500%2F20260920T161500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388001&location=Bamboula%27s"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jon+Roniger+%26+The+Good+For+Nothin%27+Band&dates=20260921T163000%2F20260921T183000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388081&location=Bamboula%27s"
+        },
+        {
+          "title": "Ted Hefko & the Thousandaires",
+          "url": "https://www.wwoz.org/events/1388106",
+          "source": "WWOZ Livewire",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 21 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ted+Hefko+%26+the+Thousandaires&dates=20260921T210000%2F20260921T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1388106&location=Bamboula%27s"
+        },
+        {
+          "title": "Red Beans & Blues with the Rump Shakers",
+          "url": "https://www.wwoz.org/events/1383256",
+          "source": "WWOZ Livewire",
+          "summary": "BJ's Lounge. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 21 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "BJ's Lounge",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Red+Beans+%26+Blues+with+the+Rump+Shakers&dates=20260921T210000%2F20260921T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1383256&location=BJ%27s+Lounge"
+        },
+        {
+          "title": "Ross Hoppe",
+          "url": "https://www.wwoz.org/events/1384611",
+          "source": "WWOZ Livewire",
+          "summary": "Bourbon O Bar at The Bourbon Orleans Hotel. Tap through for the full listing and latest schedule details.",
+          "published": "Monday, September 21 at 8:00pm",
+          "eyebrow": "Event",
+          "location": "Bourbon O Bar at The Bourbon Orleans Hotel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ross+Hoppe&dates=20260921T200000%2F20260921T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1384611&location=Bourbon+O+Bar+at+The+Bourbon+Orleans+Hotel"
         }
       ]
     }
