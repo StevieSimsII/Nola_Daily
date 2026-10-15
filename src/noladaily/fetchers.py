@@ -114,6 +114,7 @@ def fetch_google_news(query: str, timeout: int, limit: int, eyebrow: str) -> lis
         link = _text(node.find("link")) or ""
         description = _clean_text(_strip_html(_text(node.find("description"))))
         source = _clean_text(_text(node.find("source"))) or "Google News"
+        title = _clean_headline(title, source)
         published = _format_pubdate(_text(node.find("pubDate")))
 
         items.append(
@@ -121,7 +122,7 @@ def fetch_google_news(query: str, timeout: int, limit: int, eyebrow: str) -> lis
                 title=title,
                 url=link,
                 source=source,
-                summary=_trim(description or f"Read the latest {eyebrow.lower()} headline."),
+                summary=_clean_summary(title, source, description, eyebrow),
                 published=published,
                 eyebrow=eyebrow,
             )
@@ -216,6 +217,42 @@ _MOJIBAKE_MARKERS = ("Ã", "â", "ð", "Â")
 
 def _mojibake_score(value: str) -> int:
     return sum(value.count(marker) for marker in _MOJIBAKE_MARKERS)
+
+
+def _clean_summary(title: str, source: str, description: str, eyebrow: str) -> str:  # noqa: ARG001
+    """Google News RSS descriptions are often just 'Title Source' — skip that boilerplate."""
+    text = _trim(description or "")
+    if not text:
+        return ""
+
+    title_norm = title.strip().lower()
+    source_norm = source.strip().lower()
+    text_norm = text.lower()
+    if text_norm == title_norm or text_norm == f"{title_norm} {source_norm}":
+        return ""
+    if text_norm.startswith(title_norm):
+        remainder = text[len(title) :].strip(" -–—|")
+        if not remainder or remainder.lower() == source_norm:
+            return ""
+    return text
+
+
+def _clean_headline(title: str, source: str) -> str:
+    """Drop trailing publisher suffixes like ' - fox8live.com' from Google News titles."""
+    if not title:
+        return title
+
+    source_norm = source.strip().lower()
+    for separator in (" - ", " | ", " – ", " — "):
+        if separator not in title:
+            continue
+        left, right = title.rsplit(separator, 1)
+        tail = right.strip()
+        tail_norm = tail.lower()
+        looks_like_domain = "." in tail and " " not in tail and len(tail) < 40
+        if (source_norm and tail_norm == source_norm) or looks_like_domain:
+            return left.strip()
+    return title
 
 
 def _clean_text(value: str) -> str:
