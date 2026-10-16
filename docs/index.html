@@ -3,90 +3,87 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Nola Daily — Tonight in the Quarter</title>
+    <title>Nola Daily — Morning edition</title>
     <meta name="description" content="Daily New Orleans news, dining, entertainment, live music, events, and weather — refreshed every morning.">
-    <meta name="theme-color" content="#0a1210">
+    <meta name="theme-color" content="#07090d" id="theme-color">
+    <meta name="color-scheme" content="dark light">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Manrope:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@1,500;1,600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;1,6..72,500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/styles.css">
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem("nola-theme");
+          var theme = saved || (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+          document.documentElement.dataset.theme = theme;
+        } catch (e) {
+          document.documentElement.dataset.theme = "dark";
+        }
+      })();
+    </script>
   </head>
   <body>
-    <div class="grain" aria-hidden="true"></div>
+    <a class="skip-link" href="#digest">Skip to stories</a>
 
     <header class="topbar" id="topbar">
       <a class="brand" href="#top">
-        <span class="brand-mark" aria-hidden="true">✦</span>
-        <span class="brand-name">Nola&nbsp;Daily</span>
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none">
+            <path d="M12 2.5c.5 3.4 2.1 6.1 4.9 7.7-2.8 1.6-4.4 4.3-4.9 7.7-.5-3.4-2.1-6.1-4.9-7.7C9.9 8.6 11.5 5.9 12 2.5Z" fill="currentColor"/>
+          </svg>
+        </span>
+        <span class="brand-name">Nola Daily</span>
       </a>
       <nav class="topnav" id="topnav" aria-label="Sections"></nav>
-      <div class="topbar-date" id="topbar-date"></div>
+      <div class="topbar-actions">
+        <p class="topbar-date" id="topbar-date"></p>
+        <button type="button" class="icon-btn" id="theme-toggle" aria-label="Switch to light theme">
+          <span class="icon-sun" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.75">
+              <circle cx="12" cy="12" r="4"/>
+              <path d="M12 3v2M12 19v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M3 12h2M19 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>
+            </svg>
+          </span>
+          <span class="icon-moon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.75">
+              <path d="M20 14.5A8.5 8.5 0 1 1 9.5 4 7 7 0 0 0 20 14.5Z"/>
+            </svg>
+          </span>
+        </button>
+        <button type="button" class="icon-btn menu-toggle" id="menu-toggle" aria-controls="topnav" aria-expanded="false" aria-label="Open menu">
+          <span class="menu-lines" aria-hidden="true"></span>
+        </button>
+      </div>
     </header>
 
-    <!-- ============ HERO ============ -->
     <section class="hero" id="top">
-      <div class="hero-sky" aria-hidden="true">
-        <div class="sky-gradient"></div>
-        <div class="stars" id="stars"></div>
-        <div class="rain" id="rain"></div>
-        <div class="fog fog-a"></div>
-        <div class="fog fog-b"></div>
-      </div>
-
-      <!-- French Quarter skyline, layered for parallax -->
-      <svg class="skyline skyline-far" data-parallax="0.15" viewBox="0 0 1440 240" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
-        <path fill="currentColor" d="M0 240V150h40v-20h18v20h30V96h14l6-24 6 24h12v54h36v-30h50v30h28V120h44v30h24v-40h16l4-16 4 16h14v40h36v-26h48v26h30V110h52v40h26v-58h12l7-30 7 30h10v58h40v-24h54v24h26v-36h46v36h30V128h56v22h24v-44h14l5-18 5 18h12v44h34v-28h52v28h28v-40h48v40h22V116h58v34h180v90z"/>
-      </svg>
-      <svg class="skyline skyline-near" data-parallax="0.32" viewBox="0 0 1440 200" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
-        <g fill="currentColor">
-          <path d="M0 200v-70h90v-18h8v-8h72v8h8v18h60V88h10l8-34 8 34h10v42h80v-20h96v20h56v-52h108v52h48v-30h8v-10h84v10h8v30h72V96h12l9-40 9 40h12v34h92v-22h104v22h60v-46h116v46h40v-26h10v-8h78v8h10v26h132v70z"/>
-          <!-- wrought-iron balcony rails -->
-          <rect x="260" y="118" width="96" height="3"/>
-          <rect x="612" y="98" width="84" height="3"/>
-          <rect x="1074" y="122" width="78" height="3"/>
-        </g>
-      </svg>
-
-      <!-- gas lamp -->
-      <div class="lamp" data-parallax="0.4" aria-hidden="true">
-        <div class="lamp-post"></div>
-        <div class="lamp-head"><span class="lamp-flame"></span></div>
-        <div class="lamp-glow"></div>
-      </div>
-
-      <div class="hero-content">
-        <p class="hero-eyebrow reveal">The daily dispatch · New Orleans</p>
-        <h1 class="hero-title">
-          <span class="reveal">Tonight in</span>
-          <span class="reveal hero-title-accent">the&nbsp;Quarter<em>.</em></span>
-        </h1>
-        <p class="hero-lead reveal" id="hero-lead">Loading today’s edition…</p>
-        <div class="hero-meta reveal" id="hero-meta"></div>
-        <div class="hero-actions reveal">
-          <a class="btn btn-gold" href="#city-news">Start reading</a>
-          <a class="btn btn-ghost" href="#forecast">Seven-day sky</a>
+      <div class="hero-copy">
+        <p class="hero-eyebrow">Morning edition · New Orleans</p>
+        <h1 class="hero-title">What’s happening in the city today.</h1>
+        <p class="hero-lead" id="hero-lead">Loading today’s edition…</p>
+        <div class="hero-meta" id="hero-meta"></div>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#city-news">Start reading</a>
+          <a class="btn btn-ghost" href="#forecast">Seven-day forecast</a>
         </div>
       </div>
-
-      <aside class="hero-weather reveal" id="hero-weather" aria-label="Current weather"></aside>
-
-      <div class="scroll-cue" aria-hidden="true"><span></span></div>
+      <aside class="hero-weather" id="hero-weather" aria-label="Current weather"></aside>
     </section>
 
-    <!-- ============ SECTIONS ============ -->
     <main id="digest" class="digest">
       <div class="digest-loading" id="digest-loading">
-        <span class="loading-flame" aria-hidden="true"></span>
-        <p>Lighting the lamps…</p>
+        <span class="loading-dot" aria-hidden="true"></span>
+        <p>Gathering this morning’s edition…</p>
       </div>
     </main>
 
-    <!-- ============ FORECAST ============ -->
     <section class="forecast" id="forecast">
-      <div class="section-head reveal">
-        <p class="section-eyebrow">Nº — Weather</p>
-        <h2 class="section-title">The seven-day sky</h2>
-        <p class="section-desc">NOAA’s local read on the week ahead.</p>
+      <div class="section-head">
+        <p class="section-eyebrow">Weather</p>
+        <h2 class="section-title">Seven-day sky</h2>
+        <p class="section-desc">NOAA’s local read on the week ahead for New Orleans.</p>
       </div>
       <div class="forecast-strip" id="forecast-strip"></div>
     </section>
@@ -95,264 +92,12 @@
 
     <footer class="footer">
       <div class="footer-inner">
-        <p class="footer-sig">Nola&nbsp;Daily <span aria-hidden="true">✦</span> <em>laissez les bons temps rouler</em></p>
+        <p class="footer-sig">Nola Daily <span aria-hidden="true">·</span> New Orleans</p>
         <p class="footer-copy" id="footer-generated"></p>
-        <a class="footer-top" href="#top">Back to the balcony ↑</a>
+        <a class="footer-top" href="#top">Back to top</a>
       </div>
     </footer>
 
-    <script>
-    (function () {
-      "use strict";
-
-      var REDUCED = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-
-      /* ---------- data ---------- */
-      fetch("data/digest.json", { cache: "no-store" })
-        .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
-        .then(render)
-        .catch(function (err) {
-          var el = document.getElementById("digest-loading");
-          if (el) el.innerHTML = "<p>The daily edition couldn’t be loaded (" + esc(String(err.message || err)) +
-            "). Try a refresh, or check back after the morning run.</p>";
-        });
-
-      function esc(s) {
-        return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
-          return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
-        });
-      }
-
-      function safeUrl(u) {
-        u = String(u || "").trim();
-        return /^https?:\/\//i.test(u) ? u : "";
-      }
-
-      var ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"];
-
-      function render(d) {
-        var sections = d.sections || [];
-
-        /* nav */
-        var nav = document.getElementById("topnav");
-        nav.innerHTML = sections.map(function (s) {
-          return '<a href="#' + esc(s.slug) + '">' + esc(s.title) + "</a>";
-        }).join("") + '<a href="#forecast">Forecast</a>';
-
-        /* hero */
-        document.getElementById("hero-lead").textContent = d.lead || "";
-        var total = sections.reduce(function (n, s) { return n + (s.items || []).length; }, 0);
-        var events = sections.filter(function (s) { return s.slug === "events"; })[0];
-        document.getElementById("hero-meta").innerHTML =
-          "<span>" + esc(d.generated_label || "") + "</span>" +
-          "<span>" + total + " fresh links</span>" +
-          "<span>" + ((events && events.items) ? events.items.length : 0) + " event picks</span>";
-        document.getElementById("topbar-date").textContent = (d.generated_label || "").split(" at ")[0];
-        document.getElementById("footer-generated").textContent =
-          "Edition generated " + (d.generated_label || "") + " · refreshed every morning at 5 AM.";
-
-        renderHeroWeather(d.current_forecast);
-        setSkyMood(d.current_forecast, d.seven_day_forecast);
-
-        /* sections */
-        var main = document.getElementById("digest");
-        main.innerHTML = sections.map(function (s, i) { return sectionHtml(s, i); }).join("");
-
-        /* forecast */
-        document.getElementById("forecast-strip").innerHTML =
-          (d.seven_day_forecast || []).map(forecastHtml).join("") ||
-          '<p class="empty-note">The NOAA feed was unavailable this run.</p>';
-        var fcEyebrow = document.querySelector("#forecast .section-eyebrow");
-        if (fcEyebrow) fcEyebrow.textContent = "Nº " + (ROMAN[sections.length] || sections.length + 1) + " — Weather";
-
-        /* source notes */
-        if ((d.source_notes || []).length) {
-          document.getElementById("source-notes").innerHTML =
-            '<section class="notes reveal"><p class="section-eyebrow">Run notes</p><ul>' +
-            d.source_notes.map(function (n) { return "<li>" + esc(n) + "</li>"; }).join("") +
-            "</ul></section>";
-        }
-
-        initReveals();
-        initParallax();
-      }
-
-      function sectionHtml(s, i) {
-        var items = s.items || [];
-        var isEvents = s.slug === "events";
-        var body;
-
-        if (!items.length) {
-          body = '<p class="empty-note">' + esc(s.empty_message || "Nothing fresh this run.") + "</p>";
-        } else if (isEvents) {
-          body = '<div class="event-list">' + items.map(eventHtml).join("") + "</div>";
-        } else {
-          var lead = items[0], rest = items.slice(1);
-          body = featureHtml(lead) +
-            (rest.length ? '<div class="story-grid">' + rest.map(storyHtml).join("") + "</div>" : "");
-        }
-
-        return '<section class="section reveal-group" id="' + esc(s.slug) + '">' +
-          '<div class="section-head reveal">' +
-            '<p class="section-eyebrow">Nº ' + (ROMAN[i] || i + 1) + " — " + esc(s.title) + "</p>" +
-            '<h2 class="section-title">' + esc(s.title) + "</h2>" +
-            '<p class="section-desc">' + esc(s.description || "") + "</p>" +
-          "</div>" + body +
-        "</section>";
-      }
-
-      function metaHtml(bits) {
-        return bits.filter(Boolean).map(function (b) { return "<span>" + esc(b) + "</span>"; }).join("");
-      }
-
-      function featureHtml(it) {
-        var url = safeUrl(it.url);
-        return '<article class="feature reveal">' +
-          '<p class="kicker">' + esc(it.eyebrow || it.source || "") + "</p>" +
-          '<h3><a href="' + esc(url) + '" target="_blank" rel="noreferrer noopener">' + esc(it.title) + "</a></h3>" +
-          '<p class="feature-summary">' + esc(it.summary || "") + "</p>" +
-          '<div class="meta">' + metaHtml([it.published, it.source, it.location]) + "</div>" +
-        "</article>";
-      }
-
-      function storyHtml(it) {
-        var url = safeUrl(it.url);
-        return '<article class="story reveal">' +
-          '<p class="kicker">' + esc(it.source || it.eyebrow || "") + "</p>" +
-          '<h3><a href="' + esc(url) + '" target="_blank" rel="noreferrer noopener">' + esc(it.title) + "</a></h3>" +
-          '<p class="story-summary">' + esc(it.summary || "") + "</p>" +
-          '<div class="meta">' + metaHtml([it.published]) + "</div>" +
-        "</article>";
-      }
-
-      function eventHtml(it) {
-        var url = safeUrl(it.url);
-        var cal = safeUrl(it.calendar_url);
-        return '<article class="event reveal">' +
-          '<div class="event-when">' + esc(it.published || "See listing") + "</div>" +
-          '<div class="event-body">' +
-            '<h3><a href="' + esc(url) + '" target="_blank" rel="noreferrer noopener">' + esc(it.title) + "</a></h3>" +
-            '<div class="meta">' + metaHtml([it.location, it.source]) + "</div>" +
-          "</div>" +
-          '<div class="event-actions">' +
-            '<a class="btn btn-small btn-gold" href="' + esc(url) + '" target="_blank" rel="noreferrer noopener">Listing</a>' +
-            (cal ? '<a class="btn btn-small btn-ghost" href="' + esc(cal) + '" target="_blank" rel="noreferrer noopener">+ Calendar</a>' : "") +
-          "</div>" +
-        "</article>";
-      }
-
-      /* ---------- weather ---------- */
-      function icon(sf) {
-        var t = String(sf || "").toLowerCase();
-        if (t.indexOf("thunder") > -1) return "⛈";
-        if (/snow|sleet|ice/.test(t)) return "❄";
-        if (/rain|shower|drizzle/.test(t)) return "🌧";
-        if (/fog|mist|haze/.test(t)) return "🌫";
-        if (/wind|breez/.test(t)) return "💨";
-        if (/cloud|partly/.test(t)) return "⛅";
-        if (/sunny|clear/.test(t)) return "☀";
-        return "🌙";
-      }
-
-      function renderHeroWeather(w) {
-        var el = document.getElementById("hero-weather");
-        if (!w) { el.innerHTML = '<p class="hw-label">Current weather</p><p>Unavailable this run.</p>'; return; }
-        el.innerHTML =
-          '<p class="hw-label">' + esc(w.name || "Now") + "</p>" +
-          '<div class="hw-main"><span class="hw-icon" aria-hidden="true">' + icon(w.short_forecast) + "</span>" +
-          '<span class="hw-temp">' + esc(w.temperature) + "°<small>" + esc(w.temperature_unit || "F") + "</small></span></div>" +
-          '<p class="hw-desc">' + esc(w.short_forecast || "") + "</p>" +
-          '<p class="hw-wind">' + esc((w.wind_direction || "") + " " + (w.wind_speed || "")) + "</p>";
-      }
-
-      function forecastHtml(p) {
-        return '<article class="fc-card reveal">' +
-          '<p class="fc-name">' + esc(p.name) + "</p>" +
-          '<div class="fc-icon" aria-hidden="true">' + icon(p.short_forecast) + "</div>" +
-          '<p class="fc-temp">' + esc(p.temperature) + "°" + esc(p.temperature_unit || "F") + "</p>" +
-          '<p class="fc-desc">' + esc(p.short_forecast || "") + "</p>" +
-        "</article>";
-      }
-
-      /* weather-reactive hero sky */
-      function setSkyMood(current, week) {
-        var text = ((current && current.short_forecast) || (week && week[0] && week[0].short_forecast) || "").toLowerCase();
-        var rainy = /rain|shower|drizzle|thunder|storm/.test(text);
-        var foggy = /fog|mist|haze/.test(text);
-
-        if (!REDUCED && rainy) {
-          var rain = document.getElementById("rain");
-          for (var i = 0; i < 60; i++) {
-            var drop = document.createElement("i");
-            drop.style.left = (Math.random() * 100) + "%";
-            drop.style.animationDelay = (Math.random() * 2) + "s";
-            drop.style.animationDuration = (0.6 + Math.random() * 0.7) + "s";
-            rain.appendChild(drop);
-          }
-          document.body.classList.add("sky-rain");
-        } else {
-          var stars = document.getElementById("stars");
-          for (var j = 0; j < 90; j++) {
-            var star = document.createElement("i");
-            star.style.left = (Math.random() * 100) + "%";
-            star.style.top = (Math.random() * 62) + "%";
-            var size = Math.random() < 0.15 ? 3 : Math.random() < 0.5 ? 2 : 1;
-            star.style.width = star.style.height = size + "px";
-            star.style.animationDelay = (Math.random() * 6) + "s";
-            stars.appendChild(star);
-          }
-        }
-        if (foggy) document.body.classList.add("sky-fog");
-      }
-
-      /* ---------- motion ---------- */
-      function initReveals() {
-        var els = document.querySelectorAll(".reveal");
-        if (REDUCED || !("IntersectionObserver" in window)) {
-          els.forEach(function (el) { el.classList.add("is-in"); });
-          return;
-        }
-        var seen = 0;
-        var io = new IntersectionObserver(function (entries) {
-          entries.forEach(function (e) {
-            if (e.isIntersecting) {
-              var delay = Math.min((seen++ % 6) * 70, 350);
-              e.target.style.transitionDelay = delay + "ms";
-              e.target.classList.add("is-in");
-              io.unobserve(e.target);
-            }
-          });
-        }, { rootMargin: "0px 0px -8% 0px", threshold: 0.08 });
-        els.forEach(function (el) { io.observe(el); });
-      }
-
-      function initParallax() {
-        if (REDUCED) return;
-        var layers = document.querySelectorAll("[data-parallax]");
-        var topbar = document.getElementById("topbar");
-        var ticking = false;
-        function frame() {
-          var y = window.scrollY || 0;
-          layers.forEach(function (el) {
-            el.style.transform = "translateY(" + (y * parseFloat(el.dataset.parallax)) + "px)";
-          });
-          topbar.classList.toggle("is-scrolled", y > 40);
-          ticking = false;
-        }
-        window.addEventListener("scroll", function () {
-          if (!ticking) { ticking = true; requestAnimationFrame(frame); }
-        }, { passive: true });
-        frame();
-      }
-
-      /* reveal the hero copy immediately */
-      window.addEventListener("load", function () {
-        document.querySelectorAll(".hero .reveal").forEach(function (el, i) {
-          el.style.transitionDelay = REDUCED ? "0ms" : (120 + i * 110) + "ms";
-          el.classList.add("is-in");
-        });
-      });
-    })();
-    </script>
+    <script src="assets/app.js" defer></script>
   </body>
 </html>
