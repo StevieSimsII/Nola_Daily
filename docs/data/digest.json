@@ -1,28 +1,19 @@
 {
-  "generated_at": "2026-10-17T08:29:01.425952-05:00",
-  "generated_label": "Oct 17, 2026 at 8:29 AM CT",
+  "generated_at": "2026-10-18T08:47:38.324321-05:00",
+  "generated_label": "Oct 18, 2026 at 8:47 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Today",
     "temperature": 72,
     "temperature_unit": "F",
     "short_forecast": "Sunny",
-    "detailed_forecast": "Sunny. High near 72, with temperatures falling to around 70 in the afternoon. Northeast wind 15 to 20 mph, with gusts as high as 40 mph.",
-    "wind_speed": "15 to 20 mph",
+    "detailed_forecast": "Sunny. High near 72, with temperatures falling to around 70 in the afternoon. Northeast wind 10 to 15 mph.",
+    "wind_speed": "10 to 15 mph",
     "wind_direction": "NE"
   },
   "seven_day_forecast": [
     {
       "name": "Today",
-      "temperature": 72,
-      "temperature_unit": "F",
-      "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny. High near 72, with temperatures falling to around 70 in the afternoon. Northeast wind 15 to 20 mph, with gusts as high as 40 mph.",
-      "wind_speed": "15 to 20 mph",
-      "wind_direction": "NE"
-    },
-    {
-      "name": "Sunday",
       "temperature": 72,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
@@ -35,8 +26,8 @@
       "temperature": 73,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 73. Northeast wind 10 to 15 mph.",
-      "wind_speed": "10 to 15 mph",
+      "detailed_forecast": "Sunny, with a high near 73. Northeast wind around 10 mph.",
+      "wind_speed": "10 mph",
       "wind_direction": "NE"
     },
     {
@@ -53,12 +44,21 @@
       "temperature": 78,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 78. Northeast wind 5 to 10 mph.",
-      "wind_speed": "5 to 10 mph",
+      "detailed_forecast": "Sunny, with a high near 78. Northeast wind around 5 mph.",
+      "wind_speed": "5 mph",
       "wind_direction": "NE"
     },
     {
       "name": "Thursday",
+      "temperature": 79,
+      "temperature_unit": "F",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 79. Northeast wind around 5 mph.",
+      "wind_speed": "5 mph",
+      "wind_direction": "NE"
+    },
+    {
+      "name": "Friday",
       "temperature": 80,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
@@ -67,13 +67,13 @@
       "wind_direction": "NE"
     },
     {
-      "name": "Friday",
-      "temperature": 81,
+      "name": "Saturday",
+      "temperature": 79,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 81. Northeast wind around 5 mph.",
-      "wind_speed": "5 mph",
-      "wind_direction": "NE"
+      "detailed_forecast": "Sunny, with a high near 79. East wind 5 to 10 mph.",
+      "wind_speed": "5 to 10 mph",
+      "wind_direction": "E"
     }
   ],
   "sections": [
@@ -96,7 +96,7 @@
         {
           "title": "$600M Omni Hotel under construction, could bring millions in property taxes",
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPclA2bmx6Q0xHQllQeUZFYl84dUVCY0RjaGNpeUhaTXgyT3F3d1ZKVEZJX2JvVEI0MVZNeGlvV1NCVGxUXzh3ZkswUUR2TE1YUzVldUdUYXQ4YjRKVEY4RTNBV3RqMDM5cmxuVUxyQjZGZ1FJVGpOdUlJaTd3U0dMRmVYaWZZbUZkU080QjA4SU9MdE9kUkg0cUFieGtUT3pjTmIxU0ZUWF9yckFnSmJTSG5kZDVLcmJzekF2bk8xeG54V2VoZHRWZV8zY0ZmdVYxU1JmVlpYME43UkhsRU9qUkVaWF9ENXRzbFlHdkZVcHBzZ01NUkYxNS1QcHI1QQ?oc=5",
-          "source": "WWLTV.com",
+          "source": "wwltv.com",
           "summary": "",
           "published": "Oct 16, 2026 10:36 PM",
           "eyebrow": "City News",
@@ -152,6 +152,16 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "New Orleans police investigate Sunday morning shooting",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFM0JZUUNab2d4S0hsT0NSMkRmZy1uRlpmWmRvYVBiaUhsYWhZenUtU3UxS0IxT2tyNFlpYUhfZURkYThoVXZTcldYTkk5N3lTb3lRcW9ZRVRtSXFzbThNbm43NDVaejYwYllYbE9Md19QdGc?oc=5",
+          "source": "WDSU",
+          "summary": "",
+          "published": "Oct 18, 2026 12:48 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "Alon Shaya's new cookbook preserves WWII memories, meals",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZzNSWEJTdk1USmNId0xtaGtlYkZ2bEpPR1dHT0dyX2hvdUZoaEVRN1hJY2VTM2g5TWpXZTg0RWRXMmxWVzRBbVpOQlgwQlp0SnRGRW9BOS1LYzdYemVmZ29URF8zYXp3V28xcUhadVFkbmgwc0tWR25Jb0FFTlAwZTA1WQ?oc=5",
           "source": "Axios",
@@ -192,16 +202,6 @@
           "calendar_url": ""
         },
         {
-          "title": "Passport to Paris: Chef Dee's Caf\u00e9 au Lait Cr\u00e8me Br\u00fbl\u00e9e, a New Orleans-inspired dessert",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQbTZHeU0zSk02cDY5YXBsUEh4cmpoRGh5X3MzeUkxN3pVOWI1SEZ6ekFYbEF0Ui1OaW8xMGlkdGdCOGliME9EYk5iWW9HelRjUDJiUXVSTDEwd0c0d182S0R2RzB4MHNRTkVoTEdTYjNKNkwxWk1UUktKdDZrRTEyLUtzOUd3MS1GMjdYTzkwVF9UdEptUUt4LU10Ty1TUXpwa0xQakRDaE9IeVlwbnktMHo0M0VfeXhObVB6T0NtQTNBX1VsMWpQb3Buc1FCd1BaOUJaVzFUbVM1V2pyWDVnVkhjSEFmMnVHZk51bGNpTUY3Qm1OTmlycVNMTTMwTTgxT2VFSDNRdDd1Zi10Zy1HT2dZVDdVaEpWRDU1NUJzY3Z5V2NKNXFjZ1lONGN5cTA0RFlqZG9nSUpab1VwMUZ4N0xOLVBFdGs?oc=5",
-          "source": "WWLTV.com",
-          "summary": "",
-          "published": "Oct 11, 2026 1:06 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "New On Resy: New Orleans' Newest Restaurant Openings \u2014 Resy | Right This Way",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YcnZ5c2VCaEY2SjBpSlZwOEMyZHRpbUJQek5UZmJZOTFwVThQaGdhQnNpYUVrRGhGTGRFWndxYnNLdEFhS2dsU0kxVWgtb2FRZGhvN0FVaUc1WHBqRUZmeTZIcDJtTzlXcHc?oc=5",
           "source": "Resy | Right This Way",
@@ -220,9 +220,39 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "Feel the Rhythm of the Drums Festival brings global music and culture to New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObVljNkNkSXQteHcwNFF0di1ub0hmNlI0QXJjX0lNd0cxZVpMZ0ZjZnl5bjU3UWRwRG90REZFZ2RJdXduNnhnVW5xN2hueENVREFCWG1BTEoyN2tZSjNrWUQxaXI1UjV1U0t4d3Z6VjZxQzA2eDJSZ3JlS2NfWUZQdTdTaS1LVG5PbElOOVRGRWR0T1VYM0Q4dW40bWc4YThaNTU0dzdraXdsR2s2N05EUFozMjVvS1FsQ1U0dGFPWEQwVmZCZ0I3RTZRRWJIbzZaYTVXUWI1RXpqaGx3UnhlVUJ5b3BoM0VVLWxvdkNEYnFLOHJEUjlBclZXLVBISE5fYko0WDlzTlZJdzBIMkJPeWp3?oc=5",
+          "source": "WWLTV.com",
+          "summary": "",
+          "published": "Oct 18, 2026 3:54 AM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans Funk Fest continues this weekend along the Mississippi River with live music",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWN2SWtibms2WTFfQjJYeFE1RERtU3dPWFJDdTNMcWhyajFrdnpzVkRwV0JtSUktbGh0ZDlaNE42VVlzcndfVXNBLVo5TGN4eWtzWGdMRUppT09NOG94dGdPUHJMa0hYLUU2Vmc1TXhTZHczVXd1dU5lVVNxS0V5Nm16UnFKTmdGMTdfRnp5Ti1OWW1vR3BCbExCbEdHS1BIWF9MM2lhREdUcGI0MjJiRV93clE5RmRLRlROM3FXQ0oxel9KalV4ekI1aFd5VC1udC1wT3dvdS1CTnZxSU42WnNxSnBoVWxOaERvSDRaSmNtbGwyb2ZSdS1CTDFDcnFDNFg3S05NUVRfcllQdE1zRDBnSnh3d0E?oc=5",
+          "source": "WWLTV.com",
+          "summary": "",
+          "published": "Oct 18, 2026 3:52 AM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "The Daily Star Events - Slugger: New Orleans Funk Fest 2026",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlk1QlNZUWs1S2gyOEFVSDQxYXdFN2d4M3JIc2R3N1Y2UlVGWlRUTS1MSlp5QVJrTlBSMUpXQnpLQ3dKVGoxV3M3bHVKWjdFaXc5U3d1aUNrWk81ZWNyTkgyX25XbEYzWElxTXJWaG5aNExpYlp2eTlXU21RODRtd3pXRm9NYzBTZm1ZMnZGTFZhLUR5R2IxdFFJaWEzWHA2dG9rT2pFRjA5UXRP?oc=5",
+          "source": "hammondstar.com",
+          "summary": "",
+          "published": "Oct 17, 2026 6:02 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "Fall festivals bring food, music and fun to New Orleans and surrounding parishes",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYWVwd09ZQmF6ZFVsNDBDckUwMk1sdjEwdEpwVmg5c0k4RFhsVERuRi0tWW95eTlYLTNack5YOFFHeHE1Y0Q4WGdKaFRMYWMyNUJQRlpKME9mc2F2TU9VODJRSElwQ2NJSDdPYWJvZlBaZXdYUEotb2NaMnB4Q1RUbEZrekZGYld1c0ctZGJYOXE3WXBhMmxtMU1GaV9QODNxVl9KbW9YSjh1QWF6WUNXaVkxM0trQVAyUkxOUVYxWE5mZ08ySGRadmw3ZktFcmxGeG9VMjdyR09RRGVkRFdyZC1ET1BxaU1hbzRCa3dfcWVxUzk2aHJaaF9ySHRleW1jZ2YwcWFfU1VVY0k?oc=5",
-          "source": "WWLTV.com",
+          "source": "wwltv.com",
           "summary": "",
           "published": "Oct 17, 2026 3:29 AM",
           "eyebrow": "Entertainment",
@@ -248,36 +278,6 @@
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "12 festivals take over New Orleans this weekend",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTdlYUtPbXdMaHZDOWZnS1dkdDRRekZGSG9vZTNnekpxcWp0Skc5YWlLcjVJTlpDNzZqd2NWYlpTSVdYYnhSanRQRXB1YkFkVmwyTmVCWlpCTWxtUl85SE5XbVVVTXl0QlhKemk3U2lVSVpOZldzdXZvaTdtcEsyRkJid0trMFBraVNnUUtoQ0xLT0VrUkk2ZUxB?oc=5",
-          "source": "Axios",
-          "summary": "",
-          "published": "Oct 16, 2026 11:27 AM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Best Upcoming Concerts in Louisiana This Fall 2026",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzTmNjS1NKVElBbkw0WGdnYVVsTy1iVzhGTG5YQk5ielZBUmFpOEVCRk1fN245aXpUT202U0FjR2xJQTNHNHQ3eVJUMVliT1JnTmlZN1d4TzM3bkxZVlRmM0dIWkVEUVEzclZBc2VkTlg?oc=5",
-          "source": "Ones To Watch",
-          "summary": "",
-          "published": "Oct 16, 2026 5:13 AM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans attorney sentenced in staged 18-wheeler crash trial",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFc1bC1mNjAxVDFzeVE3SHB2VjFHYUtRQS01Z2liZEVoNXhlZFJMLTFlSGdqZWJvY1BXX0dwenozcnJBZVktMW9KTnVkY0FpZERHb0pRNlhsZHpxTFVWQmgyOXhnajZ4YVI4VUFFN0txczVRZTI1NTlIcnlmZURJSUcwLUw4eVdzNV92bGdvUWFNd1FSUFhQYjF0WDBhQQ?oc=5",
-          "source": "FOX 8 Live WVUE",
-          "summary": "",
-          "published": "Oct 15, 2026 8:51 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -287,6 +287,26 @@
       "description": "Live music headlines, concert coverage, and stories tied to New Orleans stages and performers.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
+        {
+          "title": "From New Orleans to New York: Perth International Jazz Festival Unveils Its 2026 Program",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONTBmU3REa05OZEQxUk9NaEc1Uk5qbUwxWlYybkMwMGdfR0Vpa0p0TXpuYXBublRxZUFaMTQycVFRWlliMmtUMzFIQnd1ZkgwdmVpdmVNYmJJbHpfT0VyR0hnR05aQldfMkxCQXctb25jRkZGeks1RG9GR2ZsYXdzREhuX1FtdzVnMjNtTmdxcFd1a0MzdXprNUZJMEs0aWRRYzFvVFNpeGFZT1h0b0ZfNVQ4WGNQSUNLNkZRWllJMDc?oc=5",
+          "source": "100% ROCK MAGAZINE",
+          "summary": "",
+          "published": "Oct 18, 2026 12:42 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "The Daily Star Events - John Papa Gros",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNUJCVVY5NnNQeDBMd0k2N2tFNXdCY0FsYUdyVVpsbWJ4ZVRhLThJRzQxcTEwQTU0S1hsSHlTZzk5ZVhteE1NOU9oSm1ETE9VNFpYUEtZN2ZoN1BCTEtTTTg0OVRQYVFPZ0xDUWpYeFM4dF9QSW9kUUp3Q0NrNTc3YXRESlNka1JLd3B3ZHRna3RkUQ?oc=5",
+          "source": "hammondstar.com",
+          "summary": "",
+          "published": "Oct 17, 2026 5:38 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
         {
           "title": "New Orleans Jazz reunion brings back great memories",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeXlFSndhbnJCWnF0VVQxTU9oUlBHOXlIZE5IZDI2NnlTTjloZWRiUVdnVEpWU3d6ZUNfZlhWTGhxMzJTUVRXMndCaVkzTkRFbkNpYzE3Rkp3Z2RaUDlQU0pWMGFwRk9Kc0pzeXJGQ2VrNFNBQ2lCNTlLX2R5MFUzemNGM0h0NXlBQjFv?oc=5",
@@ -326,26 +346,6 @@
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "The Jazz Room Chicago: The Best Of Jazz, Soul & More",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ORUw1aFBZR0N4U0FBbC16N3BHUTRPUkFrd2pwYXlodzVFQ2xPaWY3dS01T3Q4NHhtTlplTl9mYU5KSkJ2S0RtRHVfeHg1X19LUEI0MjZFVWpQSldRSXcxV2dTMnhMNndybUxRTl9IZVFzNHM?oc=5",
-          "source": "Secret Chicago",
-          "summary": "",
-          "published": "Oct 1, 2026 7:00 AM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Arrowhead Jazz Band: Mahalia Jackson Tribute at 419 Decatur St",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdUhfcDhVOEJVaEl2QzNIOG91ZF9JdWJEX0FNUmRXSUd3WE9ENU1hMUljcGk5MnNfUE5ZSGRMZXRZTnEzaHdNQXNsVE1zNkwtZU9NbkZSc1MybXE2Z08zUGdfMEVQWXJWTEJ3eVZpNEFnNFB0c0VUZlRsTzhwTDZyUVhYRld6RWRPSWt2UXN0UlkydmNx?oc=5",
-          "source": "National Park Service (.gov)",
-          "summary": "",
-          "published": "Oct 1, 2026 12:17 AM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "David Doucet",
-          "url": "https://www.wwoz.org/events/1395926",
-          "source": "WWOZ Livewire",
-          "summary": ".Streaming Only. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 12:00pm",
-          "eyebrow": "Event",
-          "location": ".Streaming Only",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David+Doucet&dates=20261017T120000%2F20261017T140000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1395926&location=.Streaming+Only"
-        },
-        {
-          "title": "John Lisi & Delta Funk",
-          "url": "https://www.wwoz.org/events/1394001",
+          "title": "Lobelia Jazz Band",
+          "url": "https://www.wwoz.org/events/1394071",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 3:00pm",
+          "published": "Sunday, October 18 at 3:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Lisi+%26+Delta+Funk&dates=20261017T150000%2F20261017T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1394001&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lobelia+Jazz+Band&dates=20261018T150000%2F20261018T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1394071&location=21st+Amendment"
         },
         {
-          "title": "The Funky Soles",
-          "url": "https://www.wwoz.org/events/1394041",
+          "title": "Chicken Milk",
+          "url": "https://www.wwoz.org/events/1394056",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 8:00pm",
+          "published": "Sunday, October 18 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Funky+Soles&dates=20261017T200000%2F20261017T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1394041&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Chicken+Milk&dates=20261018T200000%2F20261018T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1394056&location=21st+Amendment"
         },
         {
-          "title": "Personal Space",
-          "url": "https://www.wwoz.org/events/1399751",
+          "title": "Daphne Parker Powell",
+          "url": "https://www.wwoz.org/events/1399646",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 2:00pm",
+          "published": "Sunday, October 18 at 3:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Personal+Space&dates=20261017T140000%2F20261017T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399751&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Daphne+Parker+Powell&dates=20261018T150000%2F20261018T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399646&location=30%2F90"
         },
         {
-          "title": "Sleazeball Orchestra",
-          "url": "https://www.wwoz.org/events/1399756",
+          "title": "KreweDeBauchery",
+          "url": "https://www.wwoz.org/events/1399781",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 5:00pm",
+          "published": "Sunday, October 18 at 6:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sleazeball+Orchestra&dates=20261017T170000%2F20261017T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399756&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=KreweDeBauchery&dates=20261018T180000%2F20261018T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399781&location=30%2F90"
         },
         {
-          "title": "Tyler Kinchen & The Right Pieces",
-          "url": "https://www.wwoz.org/events/1399761",
+          "title": "SingleMaltPlease",
+          "url": "https://www.wwoz.org/events/1399531",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 8:00pm",
+          "published": "Sunday, October 18 at 9:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tyler+Kinchen+%26+The+Right+Pieces&dates=20261017T200000%2F20261017T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399761&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SingleMaltPlease&dates=20261018T210000%2F20261018T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399531&location=30%2F90"
         },
         {
-          "title": "The Abita Springs Opry ft. The Lucky Dogs, Cactus Thief + More!",
-          "url": "https://www.wwoz.org/events/1378621",
-          "source": "WWOZ Livewire",
-          "summary": "Abita Springs Town Hall. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 7:00pm",
-          "eyebrow": "Event",
-          "location": "Abita Springs Town Hall",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Abita+Springs+Opry+ft.+The+Lucky+Dogs%2C+Cactus+Thief+%2B+More%21&dates=20261017T190000%2F20261017T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1378621&location=Abita+Springs+Town+Hall"
-        },
-        {
-          "title": "Acadia Music Fest ft. Whiskey Myers, Flow Tribe, Better Than Ezra & More!",
-          "url": "https://www.wwoz.org/events/1401801",
-          "source": "WWOZ Livewire",
-          "summary": "Acadia Plantation Town Center - Thibodaux. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 12:00pm",
-          "eyebrow": "Event",
-          "location": "Acadia Plantation Town Center - Thibodaux",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Acadia+Music+Fest+ft.+Whiskey+Myers%2C+Flow+Tribe%2C+Better+Than+Ezra+%26+More%21&dates=20261017T120000%2F20261017T140000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1401801&location=Acadia+Plantation+Town+Center+-+Thibodaux"
-        },
-        {
-          "title": "Broadville Follies (Musical Theater Variety)",
-          "url": "https://www.wwoz.org/events/1402851",
+          "title": "Gentry Bronson's Sleazy Sunday",
+          "url": "https://www.wwoz.org/events/1402946",
           "source": "WWOZ Livewire",
           "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 7:30pm",
+          "published": "Sunday, October 18 at 4:00pm",
           "eyebrow": "Event",
           "location": "AllWays Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Broadville+Follies+%28Musical+Theater+Variety%29&dates=20261017T193000%2F20261017T213000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1402851&location=AllWays+Lounge"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gentry+Bronson%27s+Sleazy+Sunday&dates=20261018T160000%2F20261018T180000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1402946&location=AllWays+Lounge"
         },
         {
-          "title": "Ash\u00e9 Rooftop Festival ft. Marsha Ambrosius, Kelly Love Jones, Flagboy Giz & More!",
-          "url": "https://www.wwoz.org/events/1399011",
+          "title": "Sunday Swing with Natty & the Woes",
+          "url": "https://www.wwoz.org/events/1394441",
           "source": "WWOZ Livewire",
-          "summary": "Ash\u00e9 Cultural Arts Center. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 12:00pm",
+          "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, October 18 at 8:00pm",
           "eyebrow": "Event",
-          "location": "Ash\u00e9 Cultural Arts Center",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ash%C3%A9+Rooftop+Festival+ft.+Marsha+Ambrosius%2C+Kelly+Love+Jones%2C+Flagboy+Giz+%26+More%21&dates=20261017T120000%2F20261017T140000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399011&location=Ash%C3%A9+Cultural+Arts+Center"
+          "location": "AllWays Lounge",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Swing+with+Natty+%26+the+Woes&dates=20261018T200000%2F20261018T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1394441&location=AllWays+Lounge"
         },
         {
-          "title": "Johnny Mastro Blues",
-          "url": "https://www.wwoz.org/events/1389561",
+          "title": "Ted Hefko Duo",
+          "url": "https://www.wwoz.org/events/1400021",
           "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Saturday, October 17 at 6:30pm",
+          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, October 18 at 6:00pm",
           "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Johnny+Mastro+Blues&dates=20261017T183000%2F20261017T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1389561&location=Bamboula%27s"
+          "location": "Apple Barrel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ted+Hefko+Duo&dates=20261018T180000%2F20261018T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1400021&location=Apple+Barrel"
+        },
+        {
+          "title": "DEADITE DANCE PARTY",
+          "url": "https://www.wwoz.org/events/1400361",
+          "source": "WWOZ Livewire",
+          "summary": "Bar Redux. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, October 18 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "Bar Redux",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DEADITE+DANCE+PARTY&dates=20261018T210000%2F20261018T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1400361&location=Bar+Redux"
+        },
+        {
+          "title": "Praise on the Bayou Fest ft. Keedy Black, Ken Clear & More!",
+          "url": "https://www.wwoz.org/events/1402186",
+          "source": "WWOZ Livewire",
+          "summary": "Bayou Saint John at Orleans Avenue (OUTDOORS). Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, October 18 at 11:00am",
+          "eyebrow": "Event",
+          "location": "Bayou Saint John at Orleans Avenue (OUTDOORS)",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Praise+on+the+Bayou+Fest+ft.+Keedy+Black%2C+Ken+Clear+%26+More%21&dates=20261018T110000%2F20261018T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1402186&location=Bayou+Saint+John+at+Orleans+Avenue+%28OUTDOORS%29"
+        },
+        {
+          "title": "James McClaskey & the Rhythm Band",
+          "url": "https://www.wwoz.org/events/1393806",
+          "source": "WWOZ Livewire",
+          "summary": "BJ's Lounge. Tap through for the full listing and latest schedule details.",
+          "published": "Sunday, October 18 at 9:30pm",
+          "eyebrow": "Event",
+          "location": "BJ's Lounge",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=James+McClaskey+%26+the+Rhythm+Band&dates=20261018T213000%2F20261018T233000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1393806&location=BJ%27s+Lounge"
         }
       ]
     }
