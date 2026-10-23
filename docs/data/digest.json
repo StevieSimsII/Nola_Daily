@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-22T09:53:44.642264-05:00",
-  "generated_label": "Oct 22, 2026 at 9:53 AM CT",
+  "generated_at": "2026-10-23T09:41:50.002761-05:00",
+  "generated_label": "Oct 23, 2026 at 9:41 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Today",
     "temperature": 79,
     "temperature_unit": "F",
     "short_forecast": "Sunny",
-    "detailed_forecast": "Sunny. High near 79, with temperatures falling to around 77 in the afternoon. Northeast wind 0 to 5 mph.",
-    "wind_speed": "0 to 5 mph",
+    "detailed_forecast": "Sunny, with a high near 79. Northeast wind around 5 mph.",
+    "wind_speed": "5 mph",
     "wind_direction": "NE"
   },
   "seven_day_forecast": [
@@ -17,43 +17,34 @@
       "temperature": 79,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny. High near 79, with temperatures falling to around 77 in the afternoon. Northeast wind 0 to 5 mph.",
-      "wind_speed": "0 to 5 mph",
-      "wind_direction": "NE"
-    },
-    {
-      "name": "Friday",
-      "temperature": 80,
-      "temperature_unit": "F",
-      "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny. High near 80, with temperatures falling to around 78 in the afternoon. Northeast wind around 5 mph.",
+      "detailed_forecast": "Sunny, with a high near 79. Northeast wind around 5 mph.",
       "wind_speed": "5 mph",
       "wind_direction": "NE"
     },
     {
       "name": "Saturday",
-      "temperature": 75,
+      "temperature": 76,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 75. East wind 5 to 15 mph.",
+      "detailed_forecast": "Sunny. High near 76, with temperatures falling to around 74 in the afternoon. East wind 5 to 15 mph.",
       "wind_speed": "5 to 15 mph",
       "wind_direction": "E"
     },
     {
       "name": "Sunday",
-      "temperature": 74,
+      "temperature": 75,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 74. Northeast wind 10 to 15 mph.",
-      "wind_speed": "10 to 15 mph",
+      "detailed_forecast": "Sunny, with a high near 75. Northeast wind around 10 mph.",
+      "wind_speed": "10 mph",
       "wind_direction": "NE"
     },
     {
       "name": "Monday",
-      "temperature": 74,
+      "temperature": 75,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 74. Northeast wind around 10 mph.",
+      "detailed_forecast": "Mostly sunny, with a high near 75. Northeast wind around 10 mph.",
       "wind_speed": "10 mph",
       "wind_direction": "NE"
     },
@@ -62,16 +53,25 @@
       "temperature": 76,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 76. East wind 5 to 10 mph.",
+      "detailed_forecast": "Mostly sunny, with a high near 76. Northeast wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
-      "wind_direction": "E"
+      "wind_direction": "NE"
     },
     {
       "name": "Wednesday",
-      "temperature": 77,
+      "temperature": 76,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 77. Northeast wind 5 to 10 mph.",
+      "detailed_forecast": "Mostly sunny, with a high near 76. Northeast wind 5 to 10 mph.",
+      "wind_speed": "5 to 10 mph",
+      "wind_direction": "NE"
+    },
+    {
+      "name": "Thursday",
+      "temperature": 77,
+      "temperature_unit": "F",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 77. Northeast wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
       "wind_direction": "NE"
     }
@@ -84,61 +84,61 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "PSC candidate accepts more than $100K from state-regulated utilities",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMi1oWXRId2dRVHJadUNKMkNCLUdSUFNnZnBJVmc0eDRZXzV2OWZCM3VYM0xSd1R3M0FyT2xsZ1d5QXp0MXR2YzJYQU43Mm1XaENEM1V6dEpyeF9wMS1aMFdjN2R0QUFpYU5mWUF4cVNxaW5KQXNkV1huVHE2b3FVemJQTk1TV1ZUcTljakZ5LTloWW5GUDZV?oc=5",
-          "source": "New Orleans CityBusiness",
+          "title": "Rooted School and SUNO Launch Nursing Pathway",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lSmVWZVJscWxJZjl6Qk9aMFE3VVVyTG9Mb3ExUGNoWnlDa3JxYWRwOTdPYXVUbzVqSFoyTlNGR2I4dTR2cnpfTl9HeW1QU2VzcGF5MEU3dU5lSkFuejNFcm05LVptaUZ4WEhtbjJDVmFqelZKRWpkN0cyMDc?oc=5",
+          "source": "Biz New Orleans",
           "summary": "",
-          "published": "Oct 22, 2026 2:43 PM",
+          "published": "Oct 23, 2026 2:02 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "\u2018We don\u2019t have to live like this\u2019: New Orleans considers fee increase for dumpsters, pods on streets",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdGdmQlFJR0JJdlRPZTJ1bGpoTXdmZjBsY2IyTXdvZklMM3FPZFVuc05IR3hJNmdSUWllaF8zd1ZUd0xtWFZFbjE0aGRHN21qX1oyQnAzUXAzWC0xYURaYzVBUHFhQW5LYWhSTDRzekxUb1U2d3lGc0RFUjRWRDVWcDFkZGhJQ0RheU5WTzJHaWMweTMtWms2NnppMDJ3WEZubTNFSHdfMnQ0bkpwSUJ3YVlFQ28wSmpm0gG-AUFVX3lxTE05d3ZzUW8ySkFndklhM1c2YmhjNFNwS2hDVlVWRUdEeWZReVNhQTcyenNiT3d3STJZdzJBOUxyMHFTZV83aG9EaUJwN28tLUtrMXVWczEwN2tvR0JJalYzUU1UWURBeWgzTi1ybUFzN0FoRUo5NFVVUlV1THhVS3RlN0lIeXdUVWQ3Z01DbzM5YlF0YWl3b2lhSV90MjF5V1UyWVJ6ekRVM3JublV2WnBwQzBjeEcwMG9TRTFpWWc?oc=5",
-          "source": "NOLA.com",
+          "title": "New Orleans City Council considers property tax increase to fund critical services",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUW1aRndXMWt4a2lEcC03LWxFOG9WaUE5X3BpVjJicDVwV184dno0aEFxSlFVYl81TGxKazZGR1FUSTRIdWZoY1R6cl9WckZpM2k3T2F5YUFCZ3ZjTHlUWnVQNlJCRnhjcjgzcXUxRzdTbFVheFNnNnprMzhKNzFUOEIwS1p4WVBtNjRzaDdoc180SUlqWUlXajYtNzFhWm9HbVVSSXl6ZlF4UHJzZUU3Mm1vU0Y4SWJpUGtGTUVOYzJCOXVPdjc1ejBOdlliTnExTVZQU1dnTWh1SEFMR0x0dEJTbkpwZ1ZFalRnSHQxb0FmeWx2aUtBamtIaEsxdms?oc=5",
+          "source": "WWLTV.com",
           "summary": "",
-          "published": "Oct 22, 2026 9:00 AM",
+          "published": "Oct 23, 2026 3:55 AM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Where do all of New Orleans\u2019 residents live? This city office wants to find out.",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTF6eDRPSmdpVFJ2czRwQmdLTmNfcXpZbmhSYklWRVl6b1VkZTJwMzBWUDBGZnhMY1I4Z2I0X1NiRkl6em5UTFNmckd4X3pKbUFOWE9YN2FyYnU2Yi1ySm05RmQ4dDZXMWJvM0wtY21jVFVsdUhTeTdwTGU0eDU5aE52NFJrUWRlQkVyeENTR1Q2MUhoREltNEFpbS1TNWxfbGhSME83Z09hQ0VRT0RiN010N3PSAboBQVVfeXFMT2FuYWh4TEJYdExUSmhJMnpvcHF0TWY5R3pPTUFtR2ZpcGZQOXNDaVFMckZHT0R4QXkzbVJUa1Z2SWdMcDRRMGV4ZkFCN3J4VWVOZ0NkM2ZldG12Y3gtcXBQUmYycGtRVU5vMXVkY09kUGYtTFNTOEFmd1F1UUU4bVIwZ1Y2ak8xRVNkWjBxUTU4cTlERlB2bzlJR1lSdnhmMi1PaFF0bTItZHZiRzBVYnRhY0M3aHFkN3NR?oc=5",
-          "source": "NOLA.com",
+          "title": "New Orleans Libraries Closed for Months Over HVAC Failures",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdE5UTkJLNkstOFNCYzJxVnNWVm1Za3BWcUJCckFNVDhqQVc5QUNDbnRIeS1ORWpqdjV0MktCQ2Z0OENyZjRsMFJIWldwaWFuTjlncGZSNDVseEE0cVVYWHpyMTI0QmYycXNuZjBaYnFGRzNGcVlYVkZ0N3RxZFhEdjdCSXRpNjVzWDFTWTZBSXUxdEs1bHNnd2NOdw?oc=5",
+          "source": "Hoodline",
           "summary": "",
-          "published": "Oct 22, 2026 9:00 AM",
+          "published": "Oct 22, 2026 10:51 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Funding challenges revealed for New Orleans criminal justice system at city budget hearing",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjBCY1p4TmFRQWQzbkEzMlpiOUVoaC1BS3lyeDVCaHF1MHYtVzU4ZWk1UnFnaENOY1FTRG0tNzlVVXdJRldpaW9Za1dZbkhVZFBTaDlmRmJBMlRFeFp4cmtjOUU1Tjk4SFNRQzN5RVNsNk55a1lSWmRIeG1EMl9OdXp3SVNEN205VVVUVzNjbEpBeTFERHYxTEkxcmtyTnNsU2ozMU82bWE?oc=5",
-          "source": "WDSU",
-          "summary": "",
-          "published": "Oct 22, 2026 3:27 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans-style snowball shop opens on Main Street in Tomball",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGx2d2pNX3MxdTRMSGN4VVF5ZzRGTU1nZVUzeS1YV0U4RERUZ1JYVXNVYlgyTVpoQk1VbzFGak5BVHRhbUJmNnhIU1l4OHdCTkNSYWZIY1FJdUMzQXhkcFJCNkNBMUV3Wmp2eUtKaVhVcEQzbTYtUnZkS09NZ29PUmMzTVdZa1ZEWnVraU1jS3ZRTjNOaXdzQ0VBMXZCRzU2b01UREFCcE11UW5qbmhOcTQzTGRaaTQ?oc=5",
-          "source": "Community Impact Newspaper",
-          "summary": "",
-          "published": "Oct 22, 2026 1:00 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Criminal justice leaders fear budget cuts could hurt crime drop",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmRCdko0UDRCUHVURHpQWTlLREM1dlBxNmt4WkhfMnVMaFlsUm5TeGVhbnd1cFptT294a241Q2RBYkc1X2ZXVFRsZTBfdXRmNlZ2YjlobUtiTFJkOHZiV0NGYlE0TEpmTjNzT0E3TUdGdERGTVk5ZF84ZEp2ZG9XNFA3SmlZR2k3S05MS1ppa2hfeF9YYXdod1ZoZVNzaXoyVXfSAbYBQVVfeXFMUHpTZ3ZINGVMMDJJRHJlS28wNkN1N3IwU2JwTkZ4X2VJOEdtN2VUcVQta2JhR0drVE94TTlXbnV6Qmx1c2JuUXpkUkc3VXZybjRocVA1Vk5yZEtfSXdYUlBFR0pTMmJmY2E5bjFPZEVZYnRaeVI4NEg4cWVITVUxVzdTRVlvNnM5S29KX1NoOXlqclFadTNVUk1NV3ZmRjJDWHFZbXR1S2hqWExwR3l0aXRlb0ZtN2c?oc=5",
+          "title": "Moreno administration prioritizes city services, Mardi Gras cleanup in millage proposal",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUxZOHJNRkdDenhuRDBaTjh2enRCTXFpaWg2UTVOdFZuTTU1bE1pd1N2VnVGaUcyN1ctbnBmUDUxZFNEYmhRSjltaE82S1JDRVJPTEtOblUzaXJwZ3dlTzNPOU5fbXJhNU5Wd25Jc3lNT09tVWh0bW5tWTJJV1BYek1RajdRZ21JcFdjaVlzLXljMTFOUHFUZ2VhYnZnODBWd0x6QTd5RU9SLW40S3hmQ2VHZkRGcHEyeUhkeNIB0AFBVV95cUxPSm1IQlV3TWpZSmMxRVZQd0tseG5KdWJ2dGVDQklpOWE5T1Z4WF9WX0RodlFoNXY0clBLZmVmUWtpTkM1SFhDc05lRTFKLWJ6cF9VVEJFWEtqbmpBWklkdFZERmZzUVpjZW54X05yc3QzX2NsR05HczhUeGRxclV1czJoUEZ3RnRsMnZibjZkNS14bkxwSnpIaEFVMm1SQ0dDMXVkaC15UlFFdDR1T3UxaTJNRkZza3laSEM0dmZsWEc0M2h2VHhFbjJCd0dmQnVO?oc=5",
           "source": "FOX 8 Local First",
           "summary": "",
-          "published": "Oct 21, 2026 11:41 PM",
+          "published": "Oct 22, 2026 9:17 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Here's what New Orleans Mayor Helena Moreno wants to save from 2027 budget cuts",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQmV0bWNNQi1MOGpJTnVNd0s2MzBPS202VjUtU0FmaEplYjlxdnBkSmRrUGQyaWpWRUFxbWVEeE01Ym00cDFKZ2p6Z3BTcGtzVVRtMTV0OTdFQWkyMGVJbldRQ2JkZmhkcFRUelVDbmM1eHJWbEw4cFE4WVBHRDZGS2I1TGdfbGpjcF9kRWJabVRuTjdySndQWXV0bnV0U1pMUzloWmNUaC1JUW9XT0JBMGNKaHd0Tm9feko5YVVHN1AtVTNuelBsb1IyOFl2OWpTVFJZQkxaMjZZWHVjdmhSTDRQNkp3ejA?oc=5",
+          "source": "NOLA.com",
+          "summary": "",
+          "published": "Oct 22, 2026 8:19 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "4 New Orleans libraries closed for HVAC repairs; residents demand answers",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMmY0QWgyTGVNMFM2NERhb2hzRlNMZi1rYVBlVmtxTmJianF6bXNaYlZ1M3kwdmUyN3A0TklQOW5DMUVZT1FaeE1heURtenVNeldLa1lQX2lpc2d2dHhmMW9MNHZ3b3JOUkZMSng0MGZvVmhHRFlKY01UanczT3pRbmFGek1DcWxmZGJjYVlFeFZaOHNmWjc0MmVTa3hJY3BGSE5jcF9pYXRHSGNfYUFBamJ3NW1BTmVVRkY1aVR5R1dlZmxKV244MV85RXUxNVVNQUo1Tk5RVkptdVVpQmVQLXZjazNCb2wzWktwaG42QU1yekZH?oc=5",
+          "source": "WWLTV.com",
+          "summary": "",
+          "published": "Oct 22, 2026 6:25 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -152,61 +152,61 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "See which New Orleans restaurants, chefs were recognized in the 2026 MICHELIN Guide",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOak02bVlZTDR2TUNnbFV4VDdFR2VRTDJaRlUzbllHaHJjTVFLTG9fU1pWNXRIRTJORUtEbjcwcDlSUlFmQ1dyUU5PVmdJb0RROTZzTkQzZlZDLUJBVExPZEI0NGtxQS1VTDkyeFRiZzVncFR3UHJOVnBtZGpOclgyMlJnQUV2NFFjdUNmTDZYNzk?oc=5",
-          "source": "WDSU",
+          "title": "Sushi By Us Unveils Its Fall Menu and the Chef Behind It \u2014 And It Is Worth Knowing His Name",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORTFnYmxQRGFmdmJCbWExNlhOTDNWMG9zNThnOUZrcmFPSHpBRnBPcHF3cVlCMFZ4OFVTZ3JYTmJXUWp0MHF2VkhKd0cwOExVcEdtSnYwQXBFektobTY4bEppMk5TOUVfWVphMUxfNTg4ZUhTelJBT20tcGtDNTFaa2c5RGh4UEVQUHVBcmozNA?oc=5",
+          "source": "New Orleans Magazine",
           "summary": "",
-          "published": "Oct 22, 2026 2:48 PM",
+          "published": "Oct 23, 2026 12:00 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "4 New Orleans restaurants serving Banana Blossom dishes for one day only to honor Jimmy Cho",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUhYZkQ5d2pKMXBBTzVka1pSTWJxdVBHeEFYOWhTTXZES3c0ZlczQWlqOVNpODRBTUtzQ1VYeG5xaFBzYnZkZTBYMmt3R1VEbGRiNHpfV2U0Q1prQTZCb2o0dGN6T3QxRmY0dFdIM2tuOWpObHhPVGMxMTNUc0UwRnZjS2NYTmhiSGJDb0VVZEhNaHJSdndVanZMcVE0QVhTa3RFVlhGNjJZbGpCZGJOSFdobmhMcnVEXzlEQ2J30gHDAUFVX3lxTFBpc0tiVzUzN2hQOEJpYXZRWU5TYjVCOU9xcW84LWJsWWtjV1hMUVdBZkhaN1pBVjd6VUxLdDFRMU9aSVlLdTRrNUdSbU4yb2dWMkNXQVJIY2JTTlRYblhWOGxlaVZTbDROZTZhanB5UUNjaktENUgzVy1HTW4wYzBFVWFrQ2ZnQzNvOVJ5WjJFcnJwMFh5MG1rUE9yc1NqMzREQnI5d2wxQ2J3WmxOdDZPaFh1VnpTZlBuTm9fTU41QVhfRQ?oc=5",
+          "title": "Ian McNulty on Michelin\u2019s 2026 New Orleans restaurant picks: the good, the bad, the questions",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTnZNRU9zWWpPbDZkdjlROUZyRlRLR1lxcHhncXZEbU01Xy1iTTBLNDFJNWJQNUZrZzV1UTEtQ2JyQWJwaWM5RkFGTFpGd3pEUmt6QzRwWGt4TTFYamoydXo0UnhXNXVSV19HQndJN1V6bHhjRHFEWHdOQzZkMTdrRmVnN05YQ090SEItV3hBYi1McjNhRlM5OXdWVUtta3U2SGJVMXZEb3gxOTBwY1FLY2dhNUk2RU0z0gG-AUFVX3lxTE5ZY2xRSjlybl9Qdi1fM3htSzVxYlc4RGdVRVdySUZDYkJtX2lGWFNKSUZvWFNfbUwzRlVsdjRVYUxkUDFZcHpsZk5EakF2LTFzQ0hyalduellaNmxEZzhuQU1XVU9XMWYwYmRtajU4NXlYNjFuaGtDYVdncGR6anNoOGhUYVN1SHRVYm9iM0NmX1Q3eWoyZVlJLUJwTmd5eXZHLUJuREEyTjE0Q1N6Q1lVX3dyeU5XdzJsZ1U5a0E?oc=5",
           "source": "NOLA.com",
           "summary": "",
-          "published": "Oct 22, 2026 2:12 PM",
+          "published": "Oct 23, 2026 9:00 AM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "The Resy Guide to the 2026 Michelin American South Winners \u2014 Resy | Right This Way",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84NmhidzB0MXRqMl9pdDMxZ2JoYkgyVVVnN0Q3elpaX3RnU01WTW9oSk1SQUxLUS1rOXhpUV8xdktTM0NzRFNRR0Y5TFlCQ2F2Vk1CUlFmTlJwd0hKQmc5MUluUGQ?oc=5",
-          "source": "Resy | Right This Way",
+          "title": "New Orleans\u2019 Dakar NOLA earns Michelin star",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmVPN0QyNzRQejRiWG9XNmlyaHM2QmdHWmc3cjU5SkFYYjBPN0d5NnllcEc3OUhWZVN2QzVqWnVlSFFCbU14aWVHSlVJemcxMmEzSTZYY0VuNkV4V0t1OEVmc0VlN1p3UW96WWFmLW82RUVmSnBRQnBwX3FXOFRuOHFkZThYZ9IBmgFBVV95cUxQbXZnNUNoSUNidHZBeEo2d0lDa1FaRkNOZ3Yyc3ZqUGllUHpiTTR6aVZxdURiR3FBSEJ5VHFjR1l0T2ctN1M5WThkb1ZpQlV2VkZFc05jS3I1ZkRSWURCbzZEZ1BRUDVnUEVVMWpMRWItOGZRRmhCSWladlBSNDRXVUEzdWFQQldGZUxFTFE4dkdvTk5jVGlFOUxB?oc=5",
+          "source": "FOX 8 Local First",
           "summary": "",
-          "published": "Oct 22, 2026 2:00 PM",
+          "published": "Oct 23, 2026 4:34 AM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Event Announced to Honor Cochon\u2019s 20th Anniversary",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVJaNVBqNUV3OUtqV0lqQ3RDcWZRX0M1SzRoMVBiUkREdHdFcEdmMUh3OV9Vb2U5dmV1ODktS19udnhrcTJ4cl9jYjZtbEZGajd5NGFFcTYyQjI1TzN2eklxYkZTMlEwMld2M0FuNHZCcjlSdlc3ckpJUFFyeHJkR3ZGdzd3UHNfVWtZ?oc=5",
-          "source": "New Orleans Magazine",
+          "title": "New Orleans restaurant Dakar NOLA earns Michelin star",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSExoTnk2ZmpSYmh4N3FUaWt4V0pTekF4SmFnaEJtNGMwZTBlSGpoQ2xBYkxXc1Z0Q1NucWhVOXFnYmpZSDI4cVhPaWdEakRwM1M2VjdDZkpOSFJQa3p3RklEeXRBVVZfQVJtb09QTHEzRGppV3JwUUVPWFMyb0NySXZWOWU4RHpxaU5fOG9KSDZtQmhz0gGoAUFVX3lxTE5LR2lJTDVRVzJOLVgzeW00OThzNkNOYWxtSlE4bGZWQ2d4ZjdXSmhrXzE2MHdmTmVETkVnUjNxd0ZxczBtMVNla1FzZXBueGJfeFNnOVZ6d2FiT0szcVl0NmZDWDN1c1h0a0w5YktpQXhwdFVHSVJCZVdPaGJjVmhBaWFiVWpkRThvQWtiWXJITC0yeEpUMUFZd0R2cmNOYVU5b29pM3RkVA?oc=5",
+          "source": "FOX 8 Local First",
           "summary": "",
-          "published": "Oct 22, 2026 1:41 PM",
+          "published": "Oct 23, 2026 1:21 AM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans Restaurants Shine in 2026 Michelin Guide",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGhMOEtmdkQwZFZqN3lNOExNVTFDc3oxdWFkcGJYel9zVzBtcm5aRnhHel9KdkQwMEYtRG5VRTRrTTNQNzNIYldhdlFRV084WWRqYWtzaDYyY1JiVWZSN3BJTW1PcW9heGkzM2Zaa1RPTmp1YW1nOVlyVVZFbjVQSzZZR3I1dw?oc=5",
-          "source": "Biz New Orleans",
+          "title": "Tatlo Witch Bar Reopens on Bourbon Street in New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVJkYjZ6bTdSRDVIUzZVY0lYek5rczJfQWNmN2ZmYnlXdnctSVpDcmpDT0ZFcGhWaGw4VFY0R2xrUmZ2X3REMHF5QlFvMVlPZVhkeU9MYjFZYVV4N09GYi1WdTlMeGMzNXhfN0pFdlE4cnI0Rk43Q3U1NWpiOF84VC1fT2stREpsUzBFMzRuTG5MU3pMVnBzbHdGcDJZTzZtakowZEV2ekk?oc=5",
+          "source": "Hoodline",
           "summary": "",
-          "published": "Oct 22, 2026 11:17 AM",
+          "published": "Oct 22, 2026 10:50 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Fourth New Orleans Restaurant Earns Michelin Star Honor",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUNJeDhXSXV4RWg3YmFhV3ZmaGZFMWp3blBEaUJCUmQtTHdaZEFReDRwQnFXeTFPNWZKTzcxeDhyWjVmdEx2RU9UNVY2dGJEV0NJUTVJQVg2dTZCWlRPZ1ZBTDFxcnpCekhjX1N5TTF6NURaNXdJaWt3Ylh6R0h4U01icmlaa1NZdDQzQWtR?oc=5",
-          "source": "New Orleans Magazine",
+          "title": "Emeril Lagasse Finally Reveals The Story Behind His Famous \u2018BAM!\u2019 Catchphrase",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTQxb2QxZ0VZMFo0RjdxOVFiOXhNSkFNZF9KUzhjTDlwTlVRbC0yOVVQcjNOVUxGX19SOFlTV19EbVc4TXpUbnZaN0NpSFVUeGxLcG51VldFcGJBQVh2OXJYNEtoWlJYdVpEcVBIVjkwbnFDSldTT3dQOHZGZGdBRWkta2NWaXRGWmw3M0RFOEViV3JHQzB0dTFCRmZJbElo?oc=5",
+          "source": "Yahoo",
           "summary": "",
-          "published": "Oct 22, 2026 4:04 AM",
+          "published": "Oct 22, 2026 10:00 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -220,21 +220,31 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "New Orleans Halloween Shows 2026: 22 Concerts This Weekend",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vTVgtQjRUdlZKV1plS3pvQXBURFdwSzdmWWZVVm5NMC1FcHBrRHBZU3gtWU9NS3k3cG1UemhMaTg5ZF9jR3ZOLXdBbGZnX0NvR3dIb0RRQnFnODh5bGZOUTlLOTl3bDc4NXZoQg?oc=5",
-          "source": "Ones To Watch",
+          "title": "Fried Chicken & Fruity Pebbles Beignets at Beignet Fest, November 7 in New Orleans City Park",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMVFPRDdIbWNXS2xfNUhjVmhqMzA5S2VtRE9aYVR2X3FVQm9WNGh6UjZsVW9heFlCTVB1SHpPU21QZ244a2trLS16WV9ING5ZYkFLWnMwaFFpdkZxWHZ3VThKY25EUTd3OHRVdnRRTTRvZUZjXzdSOGh1LUxWZXQ1QmlGdkc2ZzJTZHpaUGIySXplUUpzSmZLWGdQOGxJY3Ztb2xvSkNLc2ZfN3RNT2JlR0lHbVB0c0UyV0c1NmJXOA?oc=5",
+          "source": "WGNO",
           "summary": "",
-          "published": "Oct 22, 2026 5:06 AM",
+          "published": "Oct 23, 2026 10:51 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Thank You For Festing With Us!",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiQjJER1BDRXhFWmVURDFxN0ZoY2xCaFFpWDQ3bXY4bGV1d3BJQTROZ1ZRMjZaaHpfMjZCSGNJUEo5NVlZSGg3SXBIZUpRTzJSVllrOXZ1QXJxZnI3bDlzR0ZobEFEc3JaTUl2TWxqWGc4T3YwU3UzYlg3VQ?oc=5",
-          "source": "New Orleans Tourism",
+          "title": "8 Loyola Films Selected for New Orleans Film Festival",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWxHdEVHbmlIUkV6Q3hONkZUUUNJT2RaNFZRZHllMGgzZGZiUVlVYXJZdFhXcFR2M1BzdkpzS1gyUzJfaVctYnJwNEhvWmpxcE9GdzhvNGVFSFZjMzdjMEp2QXdxY3ZqXzVhWlJQbnd3SUdhUUk1dGx2YnJnQ0poMHRScXFXSTA?oc=5",
+          "source": "Biz New Orleans",
           "summary": "",
-          "published": "Oct 21, 2026 11:41 PM",
+          "published": "Oct 22, 2026 3:32 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans Halloween Shows 2026: 22 Concerts This Weekend",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vTVgtQjRUdlZKV1plS3pvQXBURFdwSzdmWWZVVm5NMC1FcHBrRHBZU3gtWU9NS3k3cG1UemhMaTg5ZF9jR3ZOLXdBbGZnX0NvR3dIb0RRQnFnODh5bGZOUTlLOTl3bDc4NXZoQg?oc=5",
+          "source": "Ones To Watch",
+          "summary": "",
+          "published": "Oct 22, 2026 5:06 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -250,31 +260,21 @@
           "calendar_url": ""
         },
         {
+          "title": "Medeski Martin & Wood Gets Back In The Groove With Rare New Orleans Show",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjNkTjZvYkJWQUpfcUxCZ3ZwanpiZ0swckxITm8tblZhaVVscTJNd0kyQnhuUHRTUEFLY2EzTlBqZTZwT0N4SEQzY3FlZWhoSTFFMG9uVWJ1R015UXNFS0RkUmhEV0FycnB1YmJuOU1EWFI1X3d3dFBzUGdJYXdNOFZ3Q1I?oc=5",
+          "source": "JamBase",
+          "summary": "",
+          "published": "Oct 20, 2026 2:28 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "Locally filmed dark comedy \u2018Loves Company\u2019 opens at New Orleans Film Fest",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZldJUzRwLTdnZXdySDBnVUs5TlJtQ2xUbEE3T0NxYzNfMWhaWEZGaUFhcDRJVjVhNGk5bVRoSE1tY1cweGZtdlRtYVhjZWhYYTc1Qzc0aTFLTy1WcW9LSTJ1aGZiUEx2cXE3LWxRSHY3SWJxTjJYVnRrUWFPN042QUxtSjJ0bWY1bFlZVEF4ei1UM2Eyb2RMQ1ozS251ZGlnbEpIbm90b3M1OGU2MVpPS3ZHRnFYdHVHa0dhcEZYVzlDX3k3RV81elNVMG1mSXk4WXdCMjRsVnZZVUxBUE1nYk5TaDh3U1k3R2wtUA?oc=5",
           "source": "NOLA.com",
           "summary": "",
           "published": "Oct 19, 2026 1:30 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "The Original Liberty Jazz Band to Perform at the Historic New Orleans Collection",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ1ZZVWVSV0ZkRllhQ0ZJNWtiMnRPYmtaWktjZTNfVGxQUGd1a2lZT1VTOVdvdWMxTEM0TXBrY1J6dXpDaGpTZy15aWUxZ1pYX2lYem9SUDFxZERKdDZ4cGdPMGxDT2hRRV9xV0xrQXh1THNkVEVBNGQtRko0S2RtdmM3Rk1VZ2YtWVVOY3ZSbGRlNmxoZjNmaElqLXotbzg4c0RQNVphTHgycU96VTlJ?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "",
-          "published": "Oct 19, 2026 12:00 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans events: Krewe of Boo parade, Hannibal Buress, Treme Fall Fest and more",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcjFHWmJVUUNGNjBJeS1OVEtLc2NCR3JQUTVmZTltWDNhalllLVJQSk92VGRMQnZsTGRmSnphWXVSQWlvMm5CYnpiWlFpTDNRcVpZd0p0M3RmTkticnEyMTl4dWprTlJrRXpKWlN4VFF5cUdhY0s1RENjQm9Nb19hZ1ZzaDBFdFM0bnJWN2R5MVJBT1R2cFA3LUxVdlpUOVZCSkNYcUk2cjdjZGhnRHN5WVh1Mmg3VTFna2JWcWdPSFFyakMyTlhRMlV0Sm5ZWnNzWFlyVGRGd1p6c2dnOXJjZy1faWttendHR00wVjQ4UjIwSTQ3X0NB?oc=5",
-          "source": "NOLA.com",
-          "summary": "",
-          "published": "Oct 18, 2026 5:00 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -287,6 +287,36 @@
       "description": "Live music headlines, concert coverage, and stories tied to New Orleans stages and performers.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
+        {
+          "title": "New Orleans Pelicans @ Utah Jazz: Live game updates, stats, play-by-play",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JUnFVZDNOdmNjMUpoYUM5Z1h2MXhBU0FCVVFaeVdiSWxOajB1bGlKTmFTSVRmbE0xSGFGa3dLUDJGd0xTVzRSbExsRTU2dDI2bTU4ZzZ4akFZVVVBODNxUWNvd1dXSnlPbGdPT1JtZGFjbGNCU2lULWRWNA?oc=5",
+          "source": "Yahoo Sports",
+          "summary": "",
+          "published": "Oct 23, 2026 11:32 AM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Brass and Jazz in the Park Brings New Orleans Traditions, Dallas Legacy to West Dallas",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51WTNrdl9rbWRya2VmUkZjU0h2MnZkeW5RY3RzOWljb1g0NTNpMEZFRWZYSWZPZGl1RTJoTlFDNUs2ZUxCbnhyY2IxYzZNNk1hMnVOTWdFbklQbGVFbnRIMXZad2M4Mnc?oc=5",
+          "source": "Dallas Weekly",
+          "summary": "",
+          "published": "Oct 22, 2026 6:50 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Johnny Blue Skies, a Dr. John tribute, Mac Sabbath: music in New Orleans for Oct. 22-28",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeDNQby1LcTdNNlhSeTIyMERGRk1PZVBuTWVTOThnLWdHanVrNlZiOTAwaWhMNndwczlObVpicVFpUXhLMlpvb21FSzVhYTdRcHVUY3U2c284aEk0QmMzZXp6YllTdkpiWmFQZXNXN0F0VUdLYUhSYXktUnVXN1RLRmtXNVRUdDc3ajV6d2hNUWdZYzMwX3UzQVJwd09PaG9VM01SZnBWekJtSEtQV0tpWm5oS2ZwVXfSAbwBQVVfeXFMTW5mWW02MjR6STJ4cWl2Q3EtcFlVOUxSVmRNck1aR0pFLXBKdFZUUjJWZFM5ci1ienVqVWRabVdZY3M5VVhVeHZwSzhIZUlvMG1rQ1JKOC05dVV3Ymx2cVJwZEE0U1VkMlJDS3FUMGpROG53TjdkVjJHaTdFVGptMUNnUTlXaXQteXAxLVZhVTVla0lZdlJWa0xIRzkyQ1FKLUUyRlRJWlJFRVZ1X3I5a2VOQzlHX19UNUtQT0E?oc=5",
+          "source": "NOLA.com",
+          "summary": "",
+          "published": "Oct 22, 2026 6:00 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
         {
           "title": "New Orleans Halloween Shows 2026: 22 Concerts This Weekend",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vTVgtQjRUdlZKV1plS3pvQXBURFdwSzdmWWZVVm5NMC1FcHBrRHBZU3gtWU9NS3k3cG1UemhMaTg5ZF9jR3ZOLXdBbGZnX0NvR3dIb0RRQnFnODh5bGZOUTlLOTl3bDc4NXZoQg?oc=5",
@@ -308,41 +338,11 @@
           "calendar_url": ""
         },
         {
-          "title": "The Daily Star Events - James Martin: Wednesdays at the Carousel Bar",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYmpGWHdQYnZtZTAwSWNXSU5KSXNHMmNKOUFCT2c1RC04QmNrS25aVk9ZT0JqZjFWVU9tWGlWTndDVlBnVlNPckZrWDI0eWhHMGVtSmVrN1JyZmduQlg2QWlkbVlWRFVEaC1zX0Z0LWl5aHNYaHlCdk9DakVrN25PMGdEdm1RZm1UQlFCVWZxeHdyaEpiTGtyMzZvaUpucjl2WDJLRzFLQm9Tc1NQVjVac3pERHZTOW1i?oc=5",
-          "source": "hammondstar.com",
+          "title": "Jazz at the Sandbar Continues Fall Series With Yusa, Upcoming Workshops",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRlSmZjRjBYUFYzQTZvNVJLS1c0NEVTcFRGemRyQlRacTN1LXZVdGw4NUFsTEJmekdOdjIwWGtIY1VTZzdPcFhaVXZIb1kxOVE5ZEJpc0praFRQY1VkV0NSZGxNUzVIS0NUempHWU5IZ2pEZm54T25uRG94azBQN1ZnTUxleU10Nlk0N1ZFRWY3WVpYRko3MXMwMEx3NGhzMHc?oc=5",
+          "source": "OffBeat Magazine",
           "summary": "",
-          "published": "Oct 21, 2026 7:00 AM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Medeski Martin & Wood Announce New Orleans Jazzfest Show",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1dTbFF2WWxfdUF0emQtYVpHU084aGpidmlGZ252TTlwbHotbGZPY3JUVkhTVHZULVNHZzk3bklaQW9XckVWcGJNY1RJU3o2Ml9RN0JUS0tVQ0doekRQcXhXRThsbGs2Nml2VFdtdjdqT3ZuOFpnc3prWllSYVpnUEluTTVIcHNGTDRObnk5dVo3cVlGQmFF?oc=5",
-          "source": "Grateful Web",
-          "summary": "",
-          "published": "Oct 20, 2026 5:03 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Medeski Martin & Wood Announce First U.S. Show in Five Years, in New Orleans During Jazz Fest",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5IUjlDTTVKVzJoQ3BYQXNtSUh4ckRIRU96T1NFeWFHdFRiLWtWNjFCdWxDMlljTFdmTU1LQzRObGkwS3ZiUERONUNZemhPWmx6eWI4NU44b1ZYWGFFRXRzczF3MXhPWTRjamJpemJBQ0lBM21Xcl90SDFSaUcwWVF1UWU5RVMwbmR2WFpmWVdOZWhw?oc=5",
-          "source": "Live For Live Music",
-          "summary": "",
-          "published": "Oct 20, 2026 2:30 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "The Original Liberty Jazz Band to Perform at the Historic New Orleans Collection",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ1ZZVWVSV0ZkRllhQ0ZJNWtiMnRPYmtaWktjZTNfVGxQUGd1a2lZT1VTOVdvdWMxTEM0TXBrY1J6dXpDaGpTZy15aWUxZ1pYX2lYem9SUDFxZERKdDZ4cGdPMGxDT2hRRV9xV0xrQXh1THNkVEVBNGQtRko0S2RtdmM3Rk1VZ2YtWVVOY3ZSbGRlNmxoZjNmaElqLXotbzg4c0RQNVphTHgycU96VTlJ?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "",
-          "published": "Oct 19, 2026 12:00 PM",
+          "published": "Oct 20, 2026 8:43 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "Big Joe Kennedy",
-          "url": "https://www.wwoz.org/events/1393956",
+          "title": "John Lisi & Delta Funk",
+          "url": "https://www.wwoz.org/events/1394006",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 3:00pm",
+          "published": "Friday, October 23 at 3:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+Joe+Kennedy&dates=20261022T150000%2F20261022T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1393956&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Lisi+%26+Delta+Funk&dates=20261023T150000%2F20261023T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1394006&location=21st+Amendment"
         },
         {
-          "title": "Marty Peters & The Party Meters",
-          "url": "https://www.wwoz.org/events/1393926",
+          "title": "Dr. Sick & the Late Greats",
+          "url": "https://www.wwoz.org/events/1393981",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 8:00pm",
+          "published": "Friday, October 23 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Marty+Peters+%26+The+Party+Meters&dates=20261022T200000%2F20261022T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1393926&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dr.+Sick+%26+the+Late+Greats&dates=20261023T200000%2F20261023T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1393981&location=21st+Amendment"
         },
         {
-          "title": "Dapper Dandies",
-          "url": "https://www.wwoz.org/events/1399621",
+          "title": "Making Space",
+          "url": "https://www.wwoz.org/events/1399741",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 6:00pm",
+          "published": "Friday, October 23 at 2:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dapper+Dandies&dates=20261022T180000%2F20261022T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399621&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Making+Space&dates=20261023T140000%2F20261023T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399741&location=30%2F90"
         },
         {
-          "title": "The Frequency Koneckt",
-          "url": "https://www.wwoz.org/events/1399746",
+          "title": "Richard Rourke & the Easy",
+          "url": "https://www.wwoz.org/events/1399736",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 9:00pm",
+          "published": "Friday, October 23 at 5:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Frequency+Koneckt&dates=20261022T210000%2F20261022T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399746&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Richard+Rourke+%26+the+Easy&dates=20261023T170000%2F20261023T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399736&location=30%2F90"
         },
         {
-          "title": "Davis Rogan",
-          "url": "https://www.wwoz.org/events/1393591",
+          "title": "Kyle Sharamitaro",
+          "url": "https://www.wwoz.org/events/1399731",
           "source": "WWOZ Livewire",
-          "summary": "4141 NOLA. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 6:30pm",
+          "summary": "30/90. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, October 23 at 8:00pm",
           "eyebrow": "Event",
-          "location": "4141 NOLA",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Davis+Rogan&dates=20261022T183000%2F20261022T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1393591&location=4141+NOLA"
+          "location": "30/90",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kyle+Sharamitaro&dates=20261023T200000%2F20261023T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399731&location=30%2F90"
         },
         {
-          "title": "Jazz Series ft. Jenavieve & The Winding Boys",
-          "url": "https://www.wwoz.org/events/1395666",
+          "title": "T. Cherrelle & Lou's Bayou",
+          "url": "https://www.wwoz.org/events/1399471",
           "source": "WWOZ Livewire",
-          "summary": "Abita New Orleans. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 6:00pm",
+          "summary": "30/90. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, October 23 at 11:00pm",
           "eyebrow": "Event",
-          "location": "Abita New Orleans",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jazz+Series+ft.+Jenavieve+%26+The+Winding+Boys&dates=20261022T180000%2F20261022T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1395666&location=Abita+New+Orleans"
+          "location": "30/90",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=T.+Cherrelle+%26+Lou%27s+Bayou&dates=20261023T230000%2F20261024T010000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399471&location=30%2F90"
         },
         {
-          "title": "Robin Rapuzzi's Glo Worm Trio",
-          "url": "https://www.wwoz.org/events/1395636",
+          "title": "MK Nostalgia",
+          "url": "https://www.wwoz.org/events/1403351",
           "source": "WWOZ Livewire",
-          "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 6:00pm",
+          "summary": "Aguasanta. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, October 23 at 6:00pm",
           "eyebrow": "Event",
-          "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Robin+Rapuzzi%27s+Glo+Worm+Trio&dates=20261022T180000%2F20261022T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1395636&location=Bacchanal+%28OUTDOORS%29"
+          "location": "Aguasanta",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MK+Nostalgia&dates=20261023T180000%2F20261023T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403351&location=Aguasanta"
         },
         {
-          "title": "Nocturne Tables X [Market + Goth Night] ft. DJ Scylvia & More!",
-          "url": "https://www.wwoz.org/events/1400366",
+          "title": "The New Orleans High Society ft. Miss Angie Z (Live Jazz & Burlesque)",
+          "url": "https://www.wwoz.org/events/1402856",
           "source": "WWOZ Livewire",
-          "summary": "Bar Redux. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 9:00pm",
+          "summary": "AllWays Lounge. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, October 23 at 7:30pm",
           "eyebrow": "Event",
-          "location": "Bar Redux",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nocturne+Tables+X+%5BMarket+%2B+Goth+Night%5D+ft.+DJ+Scylvia+%26+More%21&dates=20261022T210000%2F20261022T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1400366&location=Bar+Redux"
+          "location": "AllWays Lounge",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+New+Orleans+High+Society+ft.+Miss+Angie+Z+%28Live+Jazz+%26+Burlesque%29&dates=20261023T193000%2F20261023T213000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1402856&location=AllWays+Lounge"
         },
         {
-          "title": "Swing Night with the Shotgun Jazz Band",
-          "url": "https://www.wwoz.org/events/1396461",
+          "title": "The New Orleans Rug Cutters",
+          "url": "https://www.wwoz.org/events/1396426",
           "source": "WWOZ Livewire",
-          "summary": "Beanlandia. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 7:00pm",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, October 23 at 11:00am",
           "eyebrow": "Event",
-          "location": "Beanlandia",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swing+Night+with+the+Shotgun+Jazz+Band&dates=20261022T190000%2F20261022T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1396461&location=Beanlandia"
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+New+Orleans+Rug+Cutters&dates=20261023T110000%2F20261023T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1396426&location=Bamboula%27s"
         },
         {
-          "title": "Max Bien-Kahn Record Release Party with Slow Motion Cowboys",
-          "url": "https://www.wwoz.org/events/1393881",
+          "title": "Les Getrex",
+          "url": "https://www.wwoz.org/events/1399176",
           "source": "WWOZ Livewire",
-          "summary": "BJ's Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 9:00pm",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, October 23 at 6:30pm",
           "eyebrow": "Event",
-          "location": "BJ's Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Max+Bien-Kahn+Record+Release+Party+with+Slow+Motion+Cowboys&dates=20261022T210000%2F20261022T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1393881&location=BJ%27s+Lounge"
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Getrex&dates=20261023T183000%2F20261023T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399176&location=Bamboula%27s"
         },
         {
-          "title": "Irvin Mayfield's Music Church with Special Guests",
-          "url": "https://www.wwoz.org/events/1394736",
+          "title": "Honest Man Happy Hour with Domenic Fusca",
+          "url": "https://www.wwoz.org/events/1385356",
           "source": "WWOZ Livewire",
-          "summary": "Blue Nile. Tap through for the full listing and latest schedule details.",
-          "published": "Thursday, October 22 at 9:00pm",
+          "summary": "Banks Street Bar. Tap through for the full listing and latest schedule details.",
+          "published": "Friday, October 23 at 4:00pm",
           "eyebrow": "Event",
-          "location": "Blue Nile",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Irvin+Mayfield%27s+Music+Church+with+Special+Guests&dates=20261022T210000%2F20261022T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1394736&location=Blue+Nile"
+          "location": "Banks Street Bar",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Honest+Man+Happy+Hour+with+Domenic+Fusca&dates=20261023T160000%2F20261023T180000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1385356&location=Banks+Street+Bar"
         }
       ]
     }
