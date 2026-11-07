@@ -1,32 +1,23 @@
 {
-  "generated_at": "2026-11-06T11:12:36.391291-06:00",
-  "generated_label": "Nov 6, 2026 at 11:12 AM CT",
+  "generated_at": "2026-11-07T10:07:42.857501-06:00",
+  "generated_label": "Nov 7, 2026 at 10:07 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Today",
-    "temperature": 76,
+    "temperature": 72,
     "temperature_unit": "F",
-    "short_forecast": "Partly Sunny",
-    "detailed_forecast": "Partly sunny. High near 76, with temperatures falling to around 74 in the afternoon. North wind around 5 mph.",
-    "wind_speed": "5 mph",
+    "short_forecast": "Mostly Sunny",
+    "detailed_forecast": "Mostly sunny. High near 72, with temperatures falling to around 70 in the afternoon. North wind 5 to 10 mph.",
+    "wind_speed": "5 to 10 mph",
     "wind_direction": "N"
   },
   "seven_day_forecast": [
     {
       "name": "Today",
-      "temperature": 76,
-      "temperature_unit": "F",
-      "short_forecast": "Partly Sunny",
-      "detailed_forecast": "Partly sunny. High near 76, with temperatures falling to around 74 in the afternoon. North wind around 5 mph.",
-      "wind_speed": "5 mph",
-      "wind_direction": "N"
-    },
-    {
-      "name": "Saturday",
-      "temperature": 71,
+      "temperature": 72,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny. High near 71, with temperatures falling to around 69 in the afternoon. North wind 5 to 10 mph.",
+      "detailed_forecast": "Mostly sunny. High near 72, with temperatures falling to around 70 in the afternoon. North wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
       "wind_direction": "N"
     },
@@ -34,45 +25,54 @@
       "name": "Sunday",
       "temperature": 68,
       "temperature_unit": "F",
-      "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny, with a high near 68. North wind 5 to 10 mph.",
+      "short_forecast": "Mostly Sunny",
+      "detailed_forecast": "Mostly sunny. High near 68, with temperatures falling to around 66 in the afternoon. North wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
       "wind_direction": "N"
     },
     {
       "name": "Monday",
-      "temperature": 71,
+      "temperature": 72,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 71. Northeast wind 0 to 5 mph.",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 72. Northeast wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "NE"
     },
     {
       "name": "Tuesday",
-      "temperature": 73,
+      "temperature": 75,
       "temperature_unit": "F",
-      "short_forecast": "Slight Chance Rain Showers",
-      "detailed_forecast": "A slight chance of rain showers. Mostly sunny, with a high near 73. North wind 0 to 5 mph.",
+      "short_forecast": "Mostly Sunny",
+      "detailed_forecast": "Mostly sunny, with a high near 75. Northeast wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
-      "wind_direction": "N"
+      "wind_direction": "NE"
     },
     {
       "name": "Veterans Day",
-      "temperature": 73,
+      "temperature": 74,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 73. North wind 0 to 5 mph.",
+      "short_forecast": "Partly Sunny",
+      "detailed_forecast": "Partly sunny, with a high near 74. North wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
       "wind_direction": "N"
     },
     {
       "name": "Thursday",
-      "temperature": 72,
+      "temperature": 73,
       "temperature_unit": "F",
       "short_forecast": "Partly Sunny",
-      "detailed_forecast": "Partly sunny, with a high near 72. North wind 5 to 10 mph.",
+      "detailed_forecast": "Partly sunny, with a high near 73. Northwest wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
+      "wind_direction": "NW"
+    },
+    {
+      "name": "Friday",
+      "temperature": 67,
+      "temperature_unit": "F",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 67. North wind around 10 mph.",
+      "wind_speed": "10 mph",
       "wind_direction": "N"
     }
   ],
@@ -84,61 +84,61 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "New Orleans City Council votes to increase property taxes to address budget deficit",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcm9OaHVPcXBsUzF0aWtjaVM3QXg5UWZxRW43anJpTUlRN1NkMUdzTVpoODBRREVILVR1NkRBVGNEMXQ1ckFoUzRWZUdfUVhWNTlLZFBFMnVHTVpLMnpTekVhX3YydU03RE1ndzljSmttWXhSbTM5OUxZLWxvejVUanFLSWQ2WUJSUExLRg?oc=5",
-          "source": "WDSU",
-          "summary": "",
-          "published": "Nov 6, 2026 3:26 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans City Council unanimously approves property tax hike",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVM5eGxYN2k5V0NXR0NOano0OXZpUUZwaW1ScFRGQXo3dWtRWjEzdWNWNTZ1WHVxcGhNaEJoMzlFOEJRNFJLYU9Na1N6YVZyYUdWSkFnazh0YTNkMGFqVDc4c08yT3o3NlJqbzVLMzRKWG51ZWFZNFBWYVVNSzBTdlBiUFRXOTh3YjA2NWJiTDZxdV9UdDJMcmJtdmYtUUZD?oc=5",
-          "source": "Axios",
-          "summary": "",
-          "published": "Nov 6, 2026 12:26 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans City Council approves property tax increase as nearly 40% of property value remains untaxed",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWnNlUnotSGdhZURmUzVWWUNMbGZ1RnVUWUN2UjlhaTRrT1phdDUtajB2QUprMFlndE53al8wUjlqaFpnTXNRVVRlVjBGdm5lSGRxNGhCaUxVdnZCaGlNR01YZ0d1R3hHNGRFenNXVWs2cTkzSEduY0RjMVdCa1E4THNaQ0M4UEhRcXNrNkFCUkJNX21obGxBZUlJMUE2NHFFYzlvQ1JNWmhzMjliemZnZUNHYlE4RGUxS3dyZUYyVHdmUVNIMl9iZmFrTmo3NkVCV3dZWjRn?oc=5",
-          "source": "fox8live.com",
-          "summary": "",
-          "published": "Nov 6, 2026 8:46 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "City Council approves tax break for Convention Center headquarters hotel",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbTV4eEQySXFNS1plbXNZUG1zVVFNdUU0WXJKZ3c5UGJFRXpfc1BxMG9Mb3BvYVJVM2Z3S1VJOHRpTmpGdlhMN3FrR2VXQ0VxYW9NY2xtZkV6RGhvT3hjcmRBMy1rODhxaGdMZTQ1VDRLQVVrazhTd3dSWFkzMTlmRi1tTnhXRmpMNTMyX1F0N1JVSy14YmEzWVZNcHBISU5aYldrM0NwUmlOdElwVEEtLXF2QmxwMFQ3aFg3cTk3NDZkWWZzS3Z4NVJQbWxmeUJrQTNxbFhyc090WXJMLXdRVHAzZzdEelpjaEhRdE1WOEJzRDhJNE1SMF9Fb1NVZ9IBgwJBVV95cUxONmNYR1hLaGdDeksyU3h2QmZROGR3akxIc29aN21WaFI0THByNUh0Nk9kdmVVSThLZlFHLU41SXdSakUzX3l6UUk3NG55LVl0SVhxa3JVRXl6Q1BVUHJKelNMNHVSQThGR3lMa1EzZkNFSjR4ektPUDNDYjNndzJ6cG03MnV5UXh2STRjTnVOUk05SWpJc0NDUm12YmhTY1NWUXVRODMzblBKQ3RjMlNDMzJ5OEl0MjdGMFluS2pCSVBsV0p3c0tjMy05VGI1MktldlVTMUYyYmhGaE5IVllFRGx1UjdnSmhKdGs2WXRGUUNVOWwtd2dyM1oteVBYNzR4NVFJ?oc=5",
+          "title": "New Orleans home and garden events: Tomb cleaning, plant sale and garden festival",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRTBZWEtqdTdydXNmREhnaDFPYndlVHJDNjREcXItWTFBaGNJT3pwZ1ZtS2psdldONTdzcHZTb01vU0RJZlBsSlE1VUppWFZmOFhTY25Xc1JXaDEwLU44OWZJNjVKaE1MQVdOLWEwVFpwRGMyUUZIZHN1MExmWnBhblp1a2k1d1lDcWVILWZ5aGJnWFlFVmR3TkQ1RW9ua0dEUmF1MEhYZUx6Mm9VSWltSldkT2tNY251ekJ4ZWlWelVIdldMRTFseW9SV1YtdjB6WWfSAdcBQVVfeXFMTzlYZW5GVWZ4X3lCczU4Z0ZhUmE2d2tvb1Z5LVN1Mk1QU0RwSHZzZVBkcDd6OXJtZ1JXcDIxbzYtUHk3eW9LVHdpa2xmTG92bS14QVpZVTlqeS00TGtQcDc5UTltOEFlZHd3WXJNN20tc2lXaWpMQ25OdEJKLS1EZzlmLXgwYUNnUmZ3N1BMemFBX2lDSDRyeGpWTGpKTFJvYXZlRXpLY3JqZkRObFB3eE9BU0xpUXJvU2lYODRpX00wY19DRkhJXzN1OHFGSlhpNTloOEU0Qzg?oc=5",
           "source": "NOLA.com",
           "summary": "",
-          "published": "Nov 6, 2026 3:47 AM",
+          "published": "Nov 7, 2026 2:00 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans City Council votes to increase property taxes to address budget deficit",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVWtRc1dvajN4YmRNUjFXUmNGeThTdUJWOG5pcEJWd0JJUTI5N1pROWtwM04tMEtOUDhqU2FPaVduZmlMWlhMOGFBN25mRjVsa0Q5QXdhOGRxMF90SWtSSHV0WnNSdXBCektIMWZuNWJOOVVjUE9fTk8yS1E4YlRQV3Vn?oc=5",
-          "source": "Yahoo News Canada",
-          "summary": "",
-          "published": "Nov 6, 2026 12:25 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans council members weigh in on property tax hike. What it means for homeowners",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU2h2TUZzOXpIVDhwXzM3TWxkYVluNG1ZYk9WbDE2MXR0RmVVWER6eEFwdXZ3eGNtbldINzhWWWZpcmlmaFcwa2hRcmtZQlZ0djl4ekIyWDNXcVB0RGZXaC1razBmOVdMaGVpTWdueEpEcjIzZHhHckNockZ4VlB3ZlFpMEc0MEdNQzhsYTlvN0M5dVVHZXk3UUZTanhycHk2bEhYbGlQclBQbjdIVXkwRXJ5aW1jQXAzaDhzN3Byb3RmdWVqeDdaUnNocDgtQlNDMXZYYW5SeXkyMXBibV9KV2pxRmxKc3dmY2lPX1pXUnpwR0ZUT2o4czJHSkN6Rk5nQlBUaGY4RQ?oc=5",
+          "title": "City Council approves property tax break for Omni Hotel",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFVyRkItNlhOel84aWVDeXY4Y042REY1RkpGRFFZRTJ2ODNFVjUyRDNRc0poMll5emdzYW44V1B2TXkyT3pCdm10MWpwY0dCMGNqeU0td0ppRmJ0WlNMVV9HVEdWTEdweHZVcFl4NFF4Xzk1VzFiNmFRVDEwTG56dS1POVJnbThVTm9iRUp3cnZ1TTRSSmh0RENrcDU4RzZFcUZqUHp4LVAteUlxSkQ0dmdnU1dEUV91dkN1cmcwcG9tMFhFSEE4eXlOU0F4LUdfWFg4Tm10a2N4eTBXV0E?oc=5",
           "source": "WWLTV.com",
           "summary": "",
-          "published": "Nov 6, 2026 12:20 AM",
+          "published": "Nov 7, 2026 5:25 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Bureau of Governmental Research report finds 37% of New Orleans properties tax exempt, offers solutions",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZUY0TnU4blpya2FYVUFYMlU5RFVqVWdPNlVJMVFldkZEOGtkZ3BCdHpBMDB1al95dEFraW1xdUt2YUtFbkkzVU85U1dvRzRuMEljcGtES3FIRjVWdE51NmNuQXBiSEpZZ0VUTTc5dk9uVkdhSWFXYVFYVm8tRjZaRTFkTW03a0NzWldfb2FrQnJ0THRodFl3RVduRHh3NXhXdHhUeE1GbUM4S09UQzlCcEJzNVZ6clNWbHRTWlRNT194RlBKaHZmTk12eWtKNmlyNVl2ZmNER2J6Zy1tRnNzMkc4d9IB6AFBVV95cUxNaWVuanBaYmJUOUwtcWtKVFp3WHltalBxVWd6MUhXWXJfUEd0S1dmb2llNkc3YWlXWHA3aHNZZzJNU1MwM2V6Ry1vNHpqaUZhZThQWFhVQUJ4dzJKR0hEM0dpUENGUkFpMUxsU1RhRWlmRVp4ODVUTHNUaDBXSU9PR20tU1BOd2pkMDdCVFowX2tzM3U4N190S05GZjhSX2xLVWhHYkE5Q29YZThrUXRKVm1MUm80RTZlbzZtVHF4Tkp0ZEdTaTFpbWxScE8tLXZzVEZUMk9iV1hzWjZocVFBaVNCaTYteGh6?oc=5",
+          "source": "WGNO",
+          "summary": "",
+          "published": "Nov 6, 2026 11:58 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans City Council approves tax agreement for $625M Omni hotel",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTJZdHJNYmoyQ2NvNjhNZHVDb0FzMTlCZTBNTUVON3pyYi02eVRodWo4NUNjZ2Rkbjl0U1NEU0pTSVJCdVhTMWlCbFZ0UEVXQml4VUxOaEtfaUdrYXdwUmh2ZkFkb3BVeWVnS094UmhrRjloYWVwU3FEbGp3bk5weU1xNndRWHZTSDUtbEtuU3NnQm9vdjBqQU81c2J1UERyUHhF?oc=5",
+          "source": "New Orleans CityBusiness",
+          "summary": "",
+          "published": "Nov 6, 2026 10:00 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Commission Accomplished: Uptown New Orleans center hall sells for $2.6M",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR256ajFxZ0puRVBUVFkwa2FLS0FQYU1MM2kyU0hxS1BoUXR1T2ltNzNOTVRSc2dTTTBzLVpPWVk0ei1QcjNncm9yWlpXTmtGM3BkT0E0cGdFUFpBTklvbnFrUzJaSXA0Szl0eXIwdGlGN05NeUhnSEZ3S2E3cGV0dWc5N3h5cXlYdVlUNXY5SGhZZ1doVVdqUg?oc=5",
+          "source": "New Orleans CityBusiness",
+          "summary": "",
+          "published": "Nov 6, 2026 10:00 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "US job growth surges, unemployment falls to 4.1%",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0h2SzlZUTdNQTY3X2JUcXotUHJxNnJTaEozc0d0cS05Z3FZUWZ2amdKcVp5Ti1xUWpfWGxjWjRXY2J2SDJIYXVqdW03dTB5WWZ5dXdDTnhLczRUcUEyTUNpVFdHU1lxS0RxSkxkci1PRDNNeGdfb0U4ek5oOGFRU2duMUxEVWpuNkNuQ3JUZnVHN1p1OWc?oc=5",
+          "source": "New Orleans CityBusiness",
+          "summary": "",
+          "published": "Nov 6, 2026 9:50 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -152,21 +152,41 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "The A-List: Edgar \"Dook\" Chase IV",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0tVdGFoM0kySmJGVnZZaFowVVF4N0NqSTcxNENIN2Rpa0ViS3dYa0l1Wm12MDFxRldKRUxYMGFZU0tRLURQQlVjdnZZcnN3NHphbVNGOFlQRzh0aVZrR1V0WTJLVU1hOU1qZVR0ejdXY0FnS3A1bWExQkhEdlVBUEZZVnBJNmJ5cTRtM29zTS1NU3Z4MXN0YU5JR2FFNVBqSUk2djBjTHNZVGNheVhFcDdSejVxXzlLMjNBejR4V0k?oc=5",
-          "source": "The Pearl New Orleans",
+          "title": "Dolfy's Panama Gold Dinner Returns to New Orleans Nov. 17",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGtJbzNsNVdablhNQ1FGaU1vZVZybzBmNUt2T2Zyd2pBWG9Kb3NiVzd4UGRnYXRoRW9MWXh4WGZZMWdzbE9PMFo5X3NHM2xzTWNKSTMxcmp2S2pvY0haSHctTnVSbUZmNVRLQTUwTy1qajhLTEUxVWFQbDRmZWh1am5CazEzT21EbjdLaUxiV2lnbk5aSWhNM29jUXlCNjZqRjc0?oc=5",
+          "source": "Hoodline",
           "summary": "",
-          "published": "Nov 6, 2026 3:00 PM",
+          "published": "Nov 7, 2026 3:17 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "The Four Seasons New Orleans hotel will officially open Trattoria Varco on its fifth floor on 13 November",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWROZVNCd1ZFclBDQUVZS1RBOU9neHVJLWJmUFJUWWRmOV9fM1JXcmJMWHExVjFUb0JoRE91YWdZTnRNS0pDSU1Wby1KWDVaUzNROV9KeEJiVVZlczU1ZWxETFNiYWt1VDhqa2YzRXR2WGo2QkEza1FPRmJVTWV3NVN1akpMLUxFWXUteHktVQ?oc=5",
-          "source": "La Revue des H\u00f4tels",
+          "title": "Louisiana roots are feeding Philly\u2019s new surge of New Orleans-style cooking",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnRrLXplM2VVWndsYjZvbHlfbHp3WFRsMW44ZDRIaC1YdU5mYlRlODFocUhSV2NsYmdFXzJzczhESFdzbEltLW1UelI5emVEOG9zakFsaW4zYnJaRFNoMnhNM2ZyM2N5ZVFvZXUtT0cwUnc0RkhLVDJ2LUgwaFU1MDhNb2U2V1dZblJWdGFmcDlkRkFyYzAtSlRqbXdtUjc3bklrLWx1WkZoTTBzaWc?oc=5",
+          "source": "Inquirer.com",
           "summary": "",
-          "published": "Nov 5, 2026 6:10 PM",
+          "published": "Nov 6, 2026 6:25 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "3 Chefs Bring Panama Gold to Dolfy\u2019s",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MOUZLOHNYdVVXXzl0MlNYY1JEX2NQWXR1ano3cUVvN1U4LThxRzIzdjNSSkxtOVI5VjZJZVpQallJVjk2ZFE2QXZWbXlYUTJzeFNWQTI0MFZ1cFViUXZwNGd1ZDJZWjF2MXM3S2JEWQ?oc=5",
+          "source": "Biz New Orleans",
+          "summary": "",
+          "published": "Nov 6, 2026 4:12 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "The A-List: Edgar \"Dook\" Chase IV",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0tVdGFoM0kySmJGVnZZaFowVVF4N0NqSTcxNENIN2Rpa0ViS3dYa0l1Wm12MDFxRldKRUxYMGFZU0tRLURQQlVjdnZZcnN3NHphbVNGOFlQRzh0aVZrR1V0WTJLVU1hOU1qZVR0ejdXY0FnS3A1bWExQkhEdlVBUEZZVnBJNmJ5cTRtM29zTS1NU3Z4MXN0YU5JR2FFNVBqSUk2djBjTHNZVGNheVhFcDdSejVxXzlLMjNBejR4V0k?oc=5",
+          "source": "The Pearl New Orleans",
+          "summary": "",
+          "published": "Nov 6, 2026 3:00 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -182,28 +202,8 @@
           "calendar_url": ""
         },
         {
-          "title": "FAIRMONT NEW ORLEANS MARKS A GRAND RETURN TO THE CRESCENT CITY AS FAIRMONT\u2019S 100TH HOTEL",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXFQMFNYWF9xQ3NhOS02a014aGJSZWdCeDJZejJTYTh3QlQzV0hkVXEyd05HWHE5QlpQcmd2b2IwRVQ2Y01CMklqM1BZVmJsZk9oSWVERzdDczZRb1RHUHhmNEl1U3Y4bVhLcFFrbmJLVnFncldxWUdadTc5NU1IVmZaXzh1cnBsekhLQWZIcXNOZzVteW8tTmk0R18wOWlqM0VMTUptaXMtMTgzYVUtWk85NVVPcE90U0hfMlZn?oc=5",
-          "source": "Hotel & Catering",
-          "summary": "",
-          "published": "Nov 5, 2026 7:27 AM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Robinson Carbon to invest $16.3M in Louisiana manufacturing facility",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkI5ejJ1dkxQX3ZjQVdxSkV5YlV5RU9vTEFqWm1fSzJDZ2d0cGdsNkh0SUhHY0JjM0k5bERQLVYxTUFDZlJmb0lmRVJtOXVna3NYN1hyMkRDSWhvZzBGblhZcFVNVFhJbEVzR1pzcjV1UWRuT0pLLUxnbGt0YTh2ZDBDQWdoa0w2OWw0UzQtc1h2Z3BucW9FOUJJOFA2a1E?oc=5",
-          "source": "New Orleans CityBusiness",
-          "summary": "",
-          "published": "Nov 4, 2026 8:30 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New wrestling, jiu-jitsu academy opens in Metairie",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWkRIYmtncmJXamhqbjdTTjV6NmtjUVMtaC1LVDdOYzVQVjF0U25uLUVVWWtUeEkzbUFzbjZjaTJOMlhJWHlxUWU5Z2kzbWNLQ0pzbHkyN0I3bzRsZTNPcjYxbGF0dTV4N2FJT0dIMkhESURmUWlQdHNBMWtlZUFaSzZiN1ZSSjU1dHlaNGZKZw?oc=5",
+          "title": "Former Emeril\u2019s chef to open 2 New Orleans restaurants",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaG1IMzdpRGZZNm9NOFQtemVDVjY4WEx1TmdFdUJQa0x6Y0RWd2h1X2pEX1lEbmh2UURIRlh4WUhoZ2JnWlltRXB5dXV5SlJMR3JmYUlyS2pYbDRwbXllaWxfTmM4ZldJVjlWaU81ZXpCSnQ0aUVsR2pZMnhlQUFUMHUwZHlnb1BIZ1h5ZHc4dmRZNTFKMVJmYQ?oc=5",
           "source": "New Orleans CityBusiness",
           "summary": "",
           "published": "Nov 4, 2026 8:30 PM",
@@ -224,7 +224,7 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGRqVWhYSDVuOUQ5dUdZdUJmamtUb1FDNFJqSGZFdnBUZ3BVNkNZMk90WHJ4LW1RMEZwWmRzS0F6SHhMQ2RfYzJBQ3JnVGt3UjNNMVQ3dEM1WmM4RnlXdGNPUGVsVW0wZ1lmVDFYUDBybzdwaTdjbmMwblZyc1UwWi0zc0t5Y1pCcllmVTY5Tmt3OFlQWmQ0?oc=5",
           "source": "Axios",
           "summary": "",
-          "published": "Nov 6, 2026 12:26 PM",
+          "published": "Nov 6, 2026 12:05 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -240,26 +240,6 @@
           "calendar_url": ""
         },
         {
-          "title": "Weekend Picks",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5",
-          "source": "New Orleans Tourism",
-          "summary": "",
-          "published": "Nov 6, 2026 11:33 AM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "5 things to do in New Orleans this weekend: Beignet Fest, Po-Boy Fest and more",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcHBOSlQwTWNmOGF3WHdkSFRUQ3BFRGdNUGxzSmgweHJFSU5HUGx2VEl1WTF0T3JqQUQ2a0ZYOWtXLUNxOTkwQ3JoUkhOOXhXQzV4XzZRZ1duMm9lcUJmejRTSVVZY29mRmF0UDdnNjNQTVpLUjVKOVB5b29tRUN1V1BiU180V3IyUTQ1VXh3ME9OWUxEU0J4eXNMUEoyZDg1aVRfWjR3Q0xrLURzZUVZYUpUTmczWkE5MHcwWkFHVWhCMnVKSk9FRDVDLVpGSkpFa0ZtZFZuNFhfblNYVVZQSHBmN2dTSGM5em5fb3I3SnZJTjFCVmY5NFR3?oc=5",
-          "source": "WWLTV.com",
-          "summary": "",
-          "published": "Nov 6, 2026 11:31 AM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Guest Column: Celebrate wellness New Orleans-style as marathon returns",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcFdXWlVveDBDbTR4YXJyUVlVWkV0WUhCaG9zS0N6bFlPTmhKbC04QUZiN1Y1X3dZUGx2TnlEZk90WHQ2YkFHdnZlcnlXc0JTWEo4ZWJSMndQcElRNkVRb0drRlpIR0VqN0E0VDZzb3F0LVdZR2Q2d0daQU4xR3Iyenc1TE0zX0FsX0p2SDY2dGdkbEVlaU1saHZGX2cwZUVjM0FhRHpUQnRqSXl6aDlja2JYdzdFRFo2VDNORUFWTFBlcUhpNnpheTNHRlM3b0hFdDdSYlNaVVQwN3l60gHiAUFVX3lxTE1GSDd6aXQxX0g4OHRmM2Utd0dGRDhIUm9Ib1dMTjZIQktGV1VEQnZnWU14ZURNMmJhX3Zwbnh6MURBUXNkcGJDV08zOG9SYzFZRnNkaUUyVnJiUzNwbWRzcmhLcXlqNTBUZVI3ZXRSQjJVX3JPbDJKM3k0czFianpUWjF4VWIxdXdSN2tVWHVac19LaDBsX1JqZF9zYU1ha0hmNUd1QmlBM2s3TjVFUEJfTGJGMF9NelhybzBNT2JMSVprU1B3R0g0Q1Q2UXNsbS1aT0FKUzlCQkJLVW9rN0tBUnc?oc=5",
           "source": "NOLA.com",
@@ -270,11 +250,31 @@
           "calendar_url": ""
         },
         {
-          "title": "Pygmalion Fest announces top-charting lineup for its 2027 return",
-          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNZmd0LXNoVklxNG82emNpYS0wNkRaT2J6bi1WQ1RWaUFYYzlZZ01MVi0tUnFNa01SVmZPTU5qYktuLS1uMUw1Zlp6Z19pTmNwdWZIeFdMbjZTSW1adjVEUGxSR1I4ZGJSWlltRjB3dzJ1N0E5clhPbmxQNG5SQjVqWjk0UGtmRjRUeXBfX1lYbU9lVkRBcWZWWHI0eEU5T3dVQWdBVkI3eTByUC1SYmRQRVktU0NPQ3FXSFRxSGRFLXI0dWQxV0JJdHY1Z2hxRlNBTjh5MFdFVXYzcUQ3QklSaDVBWUlVMGZhVy1nN2RxVU9yZ1ltREo5RGZRUGtwUEpqUC1Sa1hXcVk3dUNtTWg5eEY3YmdKMTZkczVOeUJveEZjUF80QWNLSGNQZ0dGQWVpMm1MTXV2LXZSY1NWdEFWZ25vbGpoSnJvV3lDMm5jNHE4cWZOeDZoYktxbw?oc=5",
-          "source": "WWLTV.com",
+          "title": "Weekend Preview: Festivals kick off in New Orleans, surrounding areas",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjFkdDZGNktHaUpDNkU3UGZ6RUN6aE1LWEZxLXR4MElwTzJjLU94NENEYjNHZTJfV0Z1OTVQdzdwalIxQVg3SjBkbFh4ZnU0aFE2bW9xVFRtZmxocEpabV9UYVpjZ1V6VHlTNEgyVnJCXzRkeFRKM19JTmZOMUtyZWcwRWV2NVc4VnRpbkhNejBrNmZqbWIwbnpNOEl1N2VfWHpYbUFWV21udw?oc=5",
+          "source": "NOLA Now",
           "summary": "",
-          "published": "Nov 5, 2026 10:41 PM",
+          "published": "Nov 5, 2026 4:55 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "At Po-Boy Fest, find sandwiches from the past, lost NOLA restaurants, one-day wonders",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1AzVXg0d29NNkFFNmdOaGpVbmxERXR2bE1uMm1BRE5ualJRZW5vZ3RYS2xRYjM0Ny14UXgtX0FTbXVISjduOC1xcTUxaTB5aDlxODZlWmFCbUhjTjdMcHJkRDBEUWZEZWFfajVudzNSSjMyeEhQYXZLbGNfckFJM1lVS2d5NU9xQkZ0aTJfdDA0X2REMEktNUt4c2pCbU1KaTUzaVZaTzVWMGRabmRPR0R0V19vUdIBuwFBVV95cUxNbmh0alJTbTFmSDFQcnR1OExhcmRmZnF6UVAwT09vYXBoOGFFQWt4MHpET3VQaEdpOGpWdGFMcTRjSTZyeHM0bVRWZlNRbTJmSnctdUZ3VEY3UHF3STRtLXRTWkdMQWFLQkFKWnFLSmhraFVWUHdSc2xacUFGaWJxUlF6aUM4cjJnM3JaZnNRWlhXRVR0NFpiZlU1NjR0M0xYaUdkNWtpQWZZN3YwbTlzM2pBOC1ldnlFdGhN?oc=5",
+          "source": "NOLA.com",
+          "summary": "",
+          "published": "Nov 5, 2026 1:00 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Weekend Picks",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5",
+          "source": "New Orleans Tourism",
+          "summary": "",
+          "published": "Nov 5, 2026 8:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -288,16 +288,6 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Glitter Grotesque Bring New Orleans Swing to Athens",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0owcVBKSFY4ZUpFZWZpSXFacUtnS0FqUkY1NlJLWGhNN1laTnZ3VURSbFRiS2IxNS1pYUQ0SDFHT3NETWhMcW84SkdzRDg2Z1Qxd2NfNFY2YksxX0tZOElUYWEwNEVITUh3OVprTmZIV1d2NkFBT2ZhWnQxX254d3JlRExfYWs4alVn?oc=5",
-          "source": "tovima.com",
-          "summary": "",
-          "published": "Nov 5, 2026 6:02 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "9th Annual New Orleans Jazz Museum Improv Gala",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MQkVQUVJUR3NlOHAweHJhQVZqZmIzVWhzT2RMTGJYVWh5V3REemRGUDlHNGp3dG8xZXVNOUJDaFR3OVJic0NkZjg3OFVWS2gyTkk0TU80MUJsV2ljbDJSZlV1eXowV0R6c0g2cG8xcWJzY0ZCb2VtOHF1aE5fdw?oc=5",
           "source": "Biz New Orleans",
@@ -308,11 +298,11 @@
           "calendar_url": ""
         },
         {
-          "title": "In 1957, Louis Armstrong performed at Ibirapuera alongside \u00c2ngela Maria, and now New Orleans jazz returns to S\u00e3o Paulo",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByN204SWRlb2dzYlJndVg4TG9yMVBEUVZFcnRZOFRYaERwWm9kZkdKRFV1S05oeXBsVkdrMkZKaVdFd1dpT2pmN090MzR6a281aW92d0tQcWNsVXFjWUllc2p6dGxFcmxuTEVtRWFhaGdmX2VEbkJGVnFR?oc=5",
-          "source": "S\u00e3o Paulo Secreto",
+          "title": "Weekend Picks",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYkhfX0V3R21yLXBwaVRYX3Q0eXV5WjRGRXFTdWVESkVkNmd0UVJSSWR6Y280TG1IWDhhQ05Fb05TQjZSeWhsMEM3ZmhicVJqU3lPVlRjblF2OF96Y3RvdA?oc=5",
+          "source": "New Orleans Tourism",
           "summary": "",
-          "published": "Nov 5, 2026 12:43 PM",
+          "published": "Nov 5, 2026 8:00 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -323,6 +313,16 @@
           "source": "CBS Sports",
           "summary": "",
           "published": "Nov 5, 2026 6:45 AM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans Pelicans vs. Utah Jazz - Game Highlights",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2dnNGFPaUVseVBfazVPTXh2UDAwT0d5RDhBTF9Kcm91X0VtOW9abnpJQkt3akFfUFdxeWhCYkJ4Rk9ZRzFGOU1ta1cyQW9LSEJyQ2lYMGc2UFIwOXhPMTVJcWp0UXdES0p0djNWMXp1UzNhR3Q1N1BjNjhLX2RUN2VB?oc=5",
+          "source": "Yahoo Sports",
+          "summary": "",
+          "published": "Nov 5, 2026 4:15 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "Dimitri Hanafin Reyes Album Release Party",
-          "url": "https://www.wwoz.org/events/1403801",
-          "source": "WWOZ Livewire",
-          "summary": "3 One One 6. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 7:00pm",
-          "eyebrow": "Event",
-          "location": "3 One One 6",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dimitri+Hanafin+Reyes+Album+Release+Party&dates=20261106T190000%2F20261106T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403801&location=3+One+One+6"
-        },
-        {
           "title": "John Lisi & Delta Funk",
-          "url": "https://www.wwoz.org/events/1410791",
+          "url": "https://www.wwoz.org/events/1410806",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 3:00pm",
+          "published": "Saturday, November 7 at 3:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Lisi+%26+Delta+Funk&dates=20261106T150000%2F20261106T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1410791&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Lisi+%26+Delta+Funk&dates=20261107T150000%2F20261107T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1410806&location=21st+Amendment"
         },
         {
-          "title": "Dr. Sick & the Late Greats",
-          "url": "https://www.wwoz.org/events/1410796",
+          "title": "The Jelly Roll Stompers",
+          "url": "https://www.wwoz.org/events/1410811",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 8:00pm",
+          "published": "Saturday, November 7 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dr.+Sick+%26+the+Late+Greats&dates=20261106T200000%2F20261106T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1410796&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Jelly+Roll+Stompers&dates=20261107T200000%2F20261107T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1410811&location=21st+Amendment"
         },
         {
-          "title": "Jazz Generations Initiative Concert Series : Tonya Boyd-Cannon presents Altar Call",
-          "url": "https://www.wwoz.org/events/1406046",
+          "title": "Mardi de Musique",
+          "url": "https://www.wwoz.org/events/1406756",
+          "source": "WWOZ Livewire",
+          "summary": "Alliance Fran\u00e7aise de La Nouvelle-Orl\u00e9ans. Tap through for the full listing and latest schedule details.",
+          "published": "Saturday, November 7 at 12:15pm",
+          "eyebrow": "Event",
+          "location": "Alliance Fran\u00e7aise de La Nouvelle-Orl\u00e9ans",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mardi+de+Musique&dates=20261107T121500%2F20261107T141500&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1406756&location=Alliance+Fran%C3%A7aise+de+La+Nouvelle-Orl%C3%A9ans"
+        },
+        {
+          "title": "T\u2019Monde with Drew & Kel",
+          "url": "https://www.wwoz.org/events/1406761",
+          "source": "WWOZ Livewire",
+          "summary": "Alliance Fran\u00e7aise de La Nouvelle-Orl\u00e9ans. Tap through for the full listing and latest schedule details.",
+          "published": "Saturday, November 7 at 2:00pm",
+          "eyebrow": "Event",
+          "location": "Alliance Fran\u00e7aise de La Nouvelle-Orl\u00e9ans",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=T%E2%80%99Monde+with+Drew+%26+Kel&dates=20261107T140000%2F20261107T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1406761&location=Alliance+Fran%C3%A7aise+de+La+Nouvelle-Orl%C3%A9ans"
+        },
+        {
+          "title": "Second Line Arts Collective End-of-Year Fundraiser ft. James Jordan & The Situation + Dimitri Hanafin Reyes",
+          "url": "https://www.wwoz.org/events/1411366",
           "source": "WWOZ Livewire",
           "summary": "Andr\u00e9 Cailloux Center. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 8:00pm",
+          "published": "Saturday, November 7 at 7:00pm",
           "eyebrow": "Event",
           "location": "Andr\u00e9 Cailloux Center",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jazz+Generations+Initiative+Concert+Series+%3A+Tonya+Boyd-Cannon+presents+Altar+Call&dates=20261106T200000%2F20261106T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1406046&location=Andr%C3%A9+Cailloux+Center"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Second+Line+Arts+Collective+End-of-Year+Fundraiser+ft.+James+Jordan+%26+The+Situation+%2B+Dimitri+Hanafin+Reyes&dates=20261107T190000%2F20261107T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1411366&location=Andr%C3%A9+Cailloux+Center"
         },
         {
-          "title": "David Sigler",
-          "url": "https://www.wwoz.org/events/1403496",
+          "title": "Miles Berry",
+          "url": "https://www.wwoz.org/events/1403551",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 1:00pm",
+          "published": "Saturday, November 7 at 1:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David+Sigler&dates=20261106T130000%2F20261106T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403496&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Miles+Berry&dates=20261107T130000%2F20261107T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403551&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Willie Green III",
-          "url": "https://www.wwoz.org/events/1403516",
+          "title": "Nahum Zdybel",
+          "url": "https://www.wwoz.org/events/1403571",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 7:00pm",
+          "published": "Saturday, November 7 at 7:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Willie+Green+III&dates=20261106T190000%2F20261106T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403516&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nahum+Zdybel&dates=20261107T190000%2F20261107T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403571&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "The New Orleans Rug Cutters",
-          "url": "https://www.wwoz.org/events/1411306",
+          "title": "Dana Abbott Band",
+          "url": "https://www.wwoz.org/events/1408236",
           "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 11:00am",
+          "summary": "Batture, The (OUTDOORS). Tap through for the full listing and latest schedule details.",
+          "published": "Saturday, November 7 at 4:00pm",
           "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+New+Orleans+Rug+Cutters&dates=20261106T110000%2F20261106T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1411306&location=Bamboula%27s"
+          "location": "Batture, The (OUTDOORS)",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dana+Abbott+Band&dates=20261107T160000%2F20261107T180000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1408236&location=Batture%2C+The+%28OUTDOORS%29"
         },
         {
-          "title": "Les Getrex",
-          "url": "https://www.wwoz.org/events/1399186",
-          "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 6:30pm",
-          "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Getrex&dates=20261106T183000%2F20261106T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1399186&location=Bamboula%27s"
-        },
-        {
-          "title": "Oh Yeah! ft. Peter Harris, Ed Perkins, Wes \"Warmdaddy\" Anderson, Joe Ashlar & Gerald Watkins",
-          "url": "https://www.wwoz.org/events/1407261",
+          "title": "Jordan Anderson",
+          "url": "https://www.wwoz.org/events/1407306",
           "source": "WWOZ Livewire",
           "summary": "Bayou Bar at the Pontchartrain. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 8:00pm",
+          "published": "Saturday, November 7 at 8:00pm",
           "eyebrow": "Event",
           "location": "Bayou Bar at the Pontchartrain",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oh+Yeah%21+ft.+Peter+Harris%2C+Ed+Perkins%2C+Wes+%22Warmdaddy%22+Anderson%2C+Joe+Ashlar+%26+Gerald+Watkins&dates=20261106T200000%2F20261106T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1407261&location=Bayou+Bar+at+the+Pontchartrain"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jordan+Anderson&dates=20261107T200000%2F20261107T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1407306&location=Bayou+Bar+at+the+Pontchartrain"
         },
         {
-          "title": "Oh Yeah! ft. Peter Harris, Ed Perkins, Wes \"Warmdaddy\" Anderson, Joe Ashlar & Gerald Watkins",
-          "url": "https://www.wwoz.org/events/1407246",
+          "title": "Jordan Anderson",
+          "url": "https://www.wwoz.org/events/1407286",
           "source": "WWOZ Livewire",
           "summary": "Bayou Bar at the Pontchartrain. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 10:00pm",
+          "published": "Saturday, November 7 at 10:00pm",
           "eyebrow": "Event",
           "location": "Bayou Bar at the Pontchartrain",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oh+Yeah%21+ft.+Peter+Harris%2C+Ed+Perkins%2C+Wes+%22Warmdaddy%22+Anderson%2C+Joe+Ashlar+%26+Gerald+Watkins&dates=20261106T220000%2F20261107T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1407246&location=Bayou+Bar+at+the+Pontchartrain"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jordan+Anderson&dates=20261107T220000%2F20261108T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1407286&location=Bayou+Bar+at+the+Pontchartrain"
         },
         {
-          "title": "Conor Donohue + Fantasy Non-Fiction",
-          "url": "https://www.wwoz.org/events/1408281",
+          "title": "Dat Mighty 9 ft. Big Chief Romeo",
+          "url": "https://www.wwoz.org/events/1408286",
           "source": "WWOZ Livewire",
           "summary": "BJ's Lounge. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 6 at 9:00pm",
+          "published": "Saturday, November 7 at 9:00pm",
           "eyebrow": "Event",
           "location": "BJ's Lounge",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Conor+Donohue+%2B+Fantasy+Non-Fiction&dates=20261106T210000%2F20261106T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1408281&location=BJ%27s+Lounge"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dat+Mighty+9+ft.+Big+Chief+Romeo&dates=20261107T210000%2F20261107T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1408286&location=BJ%27s+Lounge"
         }
       ]
     }
