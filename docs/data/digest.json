@@ -1,28 +1,19 @@
 {
-  "generated_at": "2026-11-13T11:31:54.534423-06:00",
-  "generated_label": "Nov 13, 2026 at 11:31 AM CT",
+  "generated_at": "2026-11-14T10:23:34.902719-06:00",
+  "generated_label": "Nov 14, 2026 at 10:23 AM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
     "name": "Today",
-    "temperature": 67,
+    "temperature": 60,
     "temperature_unit": "F",
     "short_forecast": "Sunny",
-    "detailed_forecast": "Sunny. High near 67, with temperatures falling to around 65 in the afternoon. North wind 5 to 10 mph.",
+    "detailed_forecast": "Sunny. High near 60, with temperatures falling to around 58 in the afternoon. Northeast wind 5 to 10 mph.",
     "wind_speed": "5 to 10 mph",
-    "wind_direction": "N"
+    "wind_direction": "NE"
   },
   "seven_day_forecast": [
     {
       "name": "Today",
-      "temperature": 67,
-      "temperature_unit": "F",
-      "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny. High near 67, with temperatures falling to around 65 in the afternoon. North wind 5 to 10 mph.",
-      "wind_speed": "5 to 10 mph",
-      "wind_direction": "N"
-    },
-    {
-      "name": "Saturday",
       "temperature": 60,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
@@ -35,43 +26,52 @@
       "temperature": 65,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 65. East wind 10 to 15 mph.",
+      "detailed_forecast": "Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. Northeast wind 10 to 15 mph.",
       "wind_speed": "10 to 15 mph",
-      "wind_direction": "E"
+      "wind_direction": "NE"
     },
     {
       "name": "Monday",
       "temperature": 62,
       "temperature_unit": "F",
       "short_forecast": "Chance Rain Showers",
-      "detailed_forecast": "A chance of rain showers. Partly sunny, with a high near 62. Northeast wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 50%.",
+      "detailed_forecast": "A chance of rain showers. Mostly cloudy, with a high near 62. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%.",
       "wind_speed": "15 mph",
       "wind_direction": "NE"
     },
     {
       "name": "Tuesday",
-      "temperature": 65,
+      "temperature": 66,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 65. Northeast wind around 15 mph, with gusts as high as 30 mph.",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 66. Northeast wind around 15 mph.",
       "wind_speed": "15 mph",
       "wind_direction": "NE"
     },
     {
       "name": "Wednesday",
-      "temperature": 69,
+      "temperature": 70,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 69. East wind 10 to 15 mph.",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 70. East wind 10 to 15 mph.",
       "wind_speed": "10 to 15 mph",
       "wind_direction": "E"
     },
     {
       "name": "Thursday",
-      "temperature": 72,
+      "temperature": 73,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 72. East wind 10 to 15 mph.",
+      "detailed_forecast": "Mostly sunny, with a high near 73. East wind 10 to 15 mph.",
+      "wind_speed": "10 to 15 mph",
+      "wind_direction": "E"
+    },
+    {
+      "name": "Friday",
+      "temperature": 74,
+      "temperature_unit": "F",
+      "short_forecast": "Mostly Sunny",
+      "detailed_forecast": "Mostly sunny, with a high near 74. East wind 10 to 15 mph.",
       "wind_speed": "10 to 15 mph",
       "wind_direction": "E"
     }
@@ -84,11 +84,41 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "New Orleans home and garden events: Cemeteries, renovations and wreath-making",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODlLUTdiVFktU3oyWUhnNGJYc041X3VWbUtkLVBWOGJ5dFNmdDR1MGVKbFY3a0VsWUZNMHNaclM5RGt2WDRfQW9EaFNySlg4d0hmeHQwMUtYUzd2RXUxVmRGN1Jjd285MVc1NWRrRk4wdjRKQUJxblVfbzE2UlptNzB4ZWpGZERadTZqMC1EMzRzRUtXcXdnMWxYZzAyejZ3N1l2dGFMR2Nla0pQc1JKYnZ6QkJtVm1xX0djR2F6dVhRN2lod2h5U0lycHRwS2lCWTFj0gHYAUFVX3lxTE9CX0gyU3NsdnZQX0ZOWHBfeWVQcnN3UzVfVkNVMmJ6VjV3aHFtMTRoOUZYZzNpVnFRT251VW1mT1ZwWDhBSmd4U3l2QURhaTEtZUpTZ3VrV2lGNHRzN3RJNlAteGRnWVVoekFtNkJvdWw1SHBFT3daV1hxUElzb2tzSVBPVC1ndXdnNkF6bXdULXE3VjFsWC1McS1LZ3hQZ2RxWWZfOWVjT2J4YkZFQXRzVWhhejV2QUdDelZtQkdQNDVDY2NSbkNsQWxKYklXLTYyTlBaeGE0bg?oc=5",
+          "source": "NOLA.com",
+          "summary": "",
+          "published": "Nov 14, 2026 2:00 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans Council Panel Weighs Opening Review of Plug-In Balcony Solar Rules",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUVQbzBsOENyWVhGMnoyYzhCdkEweGllRDdwLTllYWlMeHVYUjhnLUVXTnczbnlMQ19DbnFHMWhHYUh1azhWS3RpU1d0V3FJUU16MmNVY1Y4TlF1R1V0MC1UWUhpSXhlbDdndWp4V3ZTWHhhNGlXczBkdDVrUkZHenhJSUxJLTJQaUpaWk54UHEzeVk1SDh6RllDaVE1VG9VMTkzX2JhQ0FYTnZ2?oc=5",
+          "source": "Hoodline",
+          "summary": "",
+          "published": "Nov 14, 2026 12:45 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans City Council committee to vote on plug-in solar review",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1Y0NEhSRUxsR2g1bHgtTlFpdjlteEk4R1ZqZnZjRF9ldk5wUGpqQkNVejNWcjBKNkdBeXcwWWlEVkM5NnZWV0VwMmhMVlN1QWJBQTJLX2VDSjMzd3I4V09sT094Q3RLdHJPQ0hKTk1zNFN4WnF6SHlIVVYyc19kSE81amZMOGV2V0hmcQ?oc=5",
+          "source": "New Orleans CityBusiness",
+          "summary": "",
+          "published": "Nov 13, 2026 7:41 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "City Council Climate Change and Sustainability Committee To Discuss Solar Energy Access and Hosts Ne",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOME56LU4zVFFPY21walJWc1pJY1gyQm9NOEUzV0xCWW1rWkhHWTgzLWVQZktNekd2aEF5RWxJNDZwMzYtWm5sbUFhYjVJbWhLenVRejBkdlNCTkVFWURDTmJfWGMyc3lBS1FObUdhRGFzdEh2eXZ5N1NoNVVuZmdzOTNsQzRuaDUwVFNaUmh0UExhQWpFREtRWmJITQ?oc=5",
           "source": "New Orleans City Council (.gov)",
           "summary": "",
-          "published": "Nov 13, 2026 5:15 PM",
+          "published": "Nov 13, 2026 5:28 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -112,36 +142,6 @@
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "New Orleans, Jefferson Parish collaborate to write robotaxi rules before Waymo goes driverless",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYm91cUZtNXctckFSbXJLOFVtcGtvbU4yMXFaQlIzSjU4Y1NTTmVHeG91UXZ1elBhOGZMSDBGSHY0WEZSbm1WOVhJWmRzd29UckZEVWVQMVZBZnhndjYzblNzWFV2eU1obHhibnBsRUhqQTBJcnNwQloxUkJlU0FudGlHYUVJdVdBUkdhcHFpREdfOVpVa0lLaWVzT1RBdTBuMmZQS1lqVzBmdlk5QUFvdmJWQTlpQnFPNE9XVFE0a1BsY05lZ25GQ0x2RmZXS1FR0gHWAUFVX3lxTE02TlVjaTFXNV9qVFh2S2VmQzBzallULXlteHY0ZDdKQXNPWlVfZUJWM1FzQVBNN3czaUdLbFNqQzNpVGZxdDBGdkQ2RlFrcGVmeHlxQzlLcUR2TXI3aGw5WXd2UTdiOGEzVUtPXzFoV1NzWmd2MExUd0toei11QVFORjZPMms1Q2hROHlKdDd5MGU3ZkZyUlZqN25pSzF1V3phV245T1VsekVrcU9sY2lLTGhJOUJqY3BRSEk2aDFYN1BJWE9rcTV5VWpOdDVseDBFemZwQXc?oc=5",
-          "source": "NOLA.com",
-          "summary": "",
-          "published": "Nov 13, 2026 10:00 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans City Council weighs proposed rules for self-driving ride services",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUzhfODhfb1BuUzZGMmk5OTRzYWhlNkJzRzRBNWJlcjNqYWVEZWZWME9iTHVCeFRGcEF3eXE4azh3eVV6RGpCV0pzX2RmS082TE12Y01XWWZLQ19MSTh0THBKQ01pRjhKQmhBTDNORmVXbzB5VUc0b2hkckllVWJ3VUZxZEtZdHpyV2djQWZJeXJ1Vy1ldTZ4Ylp1TXlLTlRIU3JBNTJJRUJmblBReHU4Vi1FYjB3VXM?oc=5",
-          "source": "fox8live.com",
-          "summary": "",
-          "published": "Nov 13, 2026 1:47 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "New Orleans leaders discuss proposed rules for driverless ride services",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFRoLVpNa1FKUmZ6RnJIb3g2TE91c2dOU3ZXNjBiaGdQVkNiZFo0YnFjSXNtY0lOLVY4N0swb1FNNVdISlpLTzFCQUhMQmNRdHlrOFJGbzYzNHc0NUZpLWVoMW96eXJXSjczb3B5ckNDQVctNEpIV2tqZVhhcnctT1VmbFNHcW9zWDNtTm5wT3VnbGluc1RMTFFzY0tjbWw4bFpBRVUxd9IBuwFBVV95cUxPaFhMNkdCbnJidmo4U0R4VmdyNG5KejQ5N0tTRk5YZU5JWENOcVRlRHlfNkZDV3NCc1VWQ0xJUUJUZ3Fwb1ZLcnNmMmVuTW9fZnBDWGtzRlFZM2JoOHRlTTd4cDB2clAtLUR2ZkQ5OWlWYnJwb1VMbW9zbGpzODBlZE1ZUXVUdUFIN1ZJaGdHT3hFRHhRdWJKcnZwYVlXYnBQaWJ0VFVYSnJmN0hsVk0zeVNmWFhoeFRhTEVR?oc=5",
-          "source": "FOX 8 Local First",
-          "summary": "",
-          "published": "Nov 13, 2026 1:38 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -152,7 +152,17 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "New Orleans Crowned Top Food City of the Year",
+          "title": "First Alert: WCK Responds to New Orleans Boat Collision",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MYXNwVmxXTTd2WFJLTTRkLWw4dm5aUzZIV29NTnpwanFkSzVuT0Z5SjJrQnZfSk5KZFpYMXE4VVNtbVhoQnptWWd1M0lCS1VDUjEtYXZKWllsMGRB?oc=5",
+          "source": "World Central Kitchen",
+          "summary": "",
+          "published": "Nov 13, 2026 11:11 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans Named Top Food City of the Year",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uS2lZdnZadU1KYklVUmU3dnBqOEZpN054WDFoNjhJem9veWN1VWRSVmlGX1lzOFdKZi1WRERZaWVNZ0J6d3p5ZUU4R0hKQ2VKdmRYYU9tbExlUzJLOG1DVlEwX0ZGSjZOc3IyZmQ4MWhORFRpdXhOb3RlVFlrQQ?oc=5",
           "source": "New Orleans Magazine",
           "summary": "",
@@ -200,16 +210,6 @@
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "Trattoria Varco opens at Four Seasons New Orleans",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVBSV0hVODI3MUhMX2pRRU9NSVcwMGtiRzU1eHc1ejN2MlNFb2duNnhZVW9ubEE4MzVjSXY1a0ctbHJ3VF9JLUdpX3FVV1BDejJuLVZqWWkzQlBuNUx6NFJ5Qmx4cVNyMk1ZWmp3dmFqRlV1bU9BNU1jcU5TVVRocEUwenFzbmV3VE1FaXBQcEc5bVdYUUlr?oc=5",
-          "source": "New Orleans CityBusiness",
-          "summary": "",
-          "published": "Nov 12, 2026 8:00 AM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -219,6 +219,26 @@
       "description": "Arts, culture, nightlife, festivals, and local entertainment headlines.",
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
+        {
+          "title": "The Daily Star Events - Kid Chocolate with Swingin\u2019 in New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnFWWVpTdk5kTkQta2hBVDNGcXRVQ0NaTl9hZ3VIQm9qdEdkTjlVS3l1QVFOYjZvRWRhR2xiaExWM3M3UTBvd1dUVUZNRUlZVWJld1o2TmphUThVcW96cXladklZWkFSd0h6Yjdyc2Y0MXVXVjFJaVlRbU1uaHRZTjhNaUtXU3N4MjFETzhLcTU1ZlVRR1NWNE5YTW9LaThoRHROT0VEZkNXd1NiSGpKY0kyZkxrdw?oc=5",
+          "source": "hammondstar.com",
+          "summary": "",
+          "published": "Nov 14, 2026 5:19 AM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Weekend Preview: Festivals kicking off in New Orleans, surrounding areas",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS3FuSzBmUGlhOV96czlKSFBtSHBpbW5lZ3JvcnUyTTZ1T1QzZXNOd0hBZWFWdkZXSTJkeFpjTnczSlRVYmJuU2gyV19WMDFON09XU0xUOE5lT29vV3o4R3RHWmxUQ1lOb0xPLXlNOVpSdlUtQnhZN19tVXdubHN1dWM0QmlpdnllWmxBSXRpV1ExR1JIazJWN0ZjR2hSOXhoTGpkczBkOHVYSlp1aHc?oc=5",
+          "source": "NOLA Now",
+          "summary": "",
+          "published": "Nov 13, 2026 4:55 PM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
         {
           "title": "Luna F\u00eate, mermaids and more things to do in New Orleans this weekend",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDZsb2xLQ1FPaFEyblRha1JHc3M2c2Jsa2ZNaFhMVENreEV1N05VcjZ1RFdXdGljQmI4RUZEN1RnSmRMRms0eDk4UFlYY2lIZktpMW1WbFNsYTJFWTJQZjRRN0Z1dVVnby1kV1VfS2lNUGlCUlNDeWQzR0VLaHBpUkUyRVhJdjRxU1VZRjhNVmpVdzQxaFZkdWhR?oc=5",
@@ -250,26 +270,6 @@
           "calendar_url": ""
         },
         {
-          "title": "'We Belong Here' EDM fest, Red Rockers reunion and more music in New Orleans for Nov. 12-18",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeXktaS1FVXRvYTY1aDdyb01ma2RZd3FTSWFLYWdHMFk0V0s0Uk9qaDExTXBnTzdxRU1JYS1HdXJqeER4RlY0b0RheWlnQlM1TTMwaHlmRDJ5dnB0eFhMaTEtb0dqOTdHRU1EQlFiTHFWa1NzN3JTeUxoR25HbDdfMm9KTUpjakZ5OWJBVEs2algwdzNhQVR1WUJIMkZQb2lObng4WkdBMTBGMWZhV2ZHMjBkMWR0dkt6NG5NbjVTbmE5LXptQ2fSAcsBQVVfeXFMTW01SWVZdzlpWXBTMFdVdGl2NVZ0RlY1R09Sa3FyS0I0NDdrc2lBQnAwNWZFX0p2TlJWQlBWYVdtMENxN3NtUmZ4NjZFOU91QmJ0V2VrN05mVE9zTUpMdUJld2k4dmc2R0hvRTJZWVJKV291ZGJodFFFSDdiQVdTZXJYUlh1UGxBQjRaVHRXelpuRDZyMW1tdTI0ZGw1VlA5R2pmcy1WY08wQ25Qc01RQy1BQzBMREk4bGcwQ0xneVhWQnhRVlVTNk9USEk?oc=5",
-          "source": "NOLA.com",
-          "summary": "",
-          "published": "Nov 12, 2026 5:00 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "We Belong Here Festival Makes New Orleans Debut This Weekend",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2x1bU5hWUo2MlF4RkJxX1B0Qld4OURiZHJVNFB5UXExTFlZX3F4REcwcE5iYktMckdXbmpIZGpLenI4cUxJT3c1ZU5RczI2REVJM3VJWXY2UHF5RGhmTHV5MVN0VGl6NDFXeUw3WTZiNkZTcUszMXZJOXpzQUJVVDZBR05IOHNEUEUwOGlGUU9NbW1E?oc=5",
-          "source": "OffBeat Magazine",
-          "summary": "",
-          "published": "Nov 10, 2026 9:34 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
           "title": "Luna F\u00eate, New Orleans\u2019 high-tech, night-time arts festival, is back after skipping 2025",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGo4SEpSSThmMzlnUlBpbzBPekM3U3g0eGNKYXNFOFp2ZWtEOWRmYW1tLVBQTXVhUlBPWVlPT3BEeTBpR1Y3MVF5Vi0wUFJSY3daaHFvd3N2d0tVdWlEdjZfWWFpamczcWxWTjc0UG5xYVZJMkd1OE1JU3Qzc25tN1VLVVpTMmNUQ3dmUThyd200U2JyTDQzS3RIZUxSZ3YtdEI0dVlxRlVVc0Q5OUHSAbMBQVVfeXFMT2pid1R4bzB4T2RzSEU3Um0wZUdOS1AxRFF3VGlMN2JkcGVRNy1ieFdyTGhOQ2VHZFkwRWhMeGh2RV94emJnNDlTTDRjTGJhVWh0V2o5VFZCN2dWREJTRXM0WEVOX3k2SXFqSmxGcW5tR0lzVHJpR25Od0FfOVZGVHk3NzFveDV3UDhWbk96UG1JaVBLVV8zZjIwemw2N2VRQnk3TmtZcnpBdmFzYXJlaGV6WGc?oc=5",
           "source": "NOLA.com",
@@ -288,11 +288,31 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "Small plates, jazz, and its own distillery: The New Orleans-inspired bar set to open in Nottingham",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLVJVZFRHbUtmaFR1ZEtGRHR4UW9aUkZQRHMtaHZwMmZ0OHJFVkZ1eGtxV1pRRUNjN0s5M0MtSTZvNGZMemhtZzM4d0F6ZGx5RWlPOE9HSmlfZ2pQUmt5M2c0TmdTeDczNm9iQV81MEVaODBDZmo1eUR6TW1FOGRMckljNnRtSWw4RExwYjhBd1ctczQtRExr0gGcAUFVX3lxTE0tWEljUkpqWUZhU0R4X04yTXZtdWo5empvcU9KazVOakV3UERfdEl1LXloNnEwZklCSnpQUHVldkgwLUJ0amc4QzN4NnhyaE8wQU5qZFpFazUxV3JNNl9QUFpFU3FjQ1hieFJBY0dacjZ1U0h1eGJBbnkyNnpYcnU5OGJ4djZ4WnVLcUFxMnFmT2x4NjM3bFZhWHNBcw?oc=5",
+          "source": "Nottingham Post",
+          "summary": "",
+          "published": "Nov 14, 2026 3:06 PM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "The Daily Star Events - Kid Chocolate with Swingin\u2019 in New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnFWWVpTdk5kTkQta2hBVDNGcXRVQ0NaTl9hZ3VIQm9qdEdkTjlVS3l1QVFOYjZvRWRhR2xiaExWM3M3UTBvd1dUVUZNRUlZVWJld1o2TmphUThVcW96cXladklZWkFSd0h6Yjdyc2Y0MXVXVjFJaVlRbU1uaHRZTjhNaUtXU3N4MjFETzhLcTU1ZlVRR1NWNE5YTW9LaThoRHROT0VEZkNXd1NiSGpKY0kyZkxrdw?oc=5",
+          "source": "hammondstar.com",
+          "summary": "",
+          "published": "Nov 14, 2026 5:19 AM",
+          "eyebrow": "Concerts + Music",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "4 things to do in New Orleans this weekend: LUNA F\u00eate, holiday shopping, brunch and more",
           "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR2ZOcjByTUZ6V1g1ZFBEdlJnN0F2RUZDS011R2t5eHg3aU13NGxicmZra25wVXBocGt0WEE0bVE4MU9GVDdORzBrYnZFREExUGdHLVZsTVFTbVhuZWhnZmhyd3E0X25OcF94YTY3bTdOYjlBUEVqUGFjNEFPanhHdzFobFlQYUhVM2d0cGdOZGE4UURTOGNBWFhOS3BYTU1RNXY3Q1JyNklRdUVLRllUNUtPWC11TThKRFdEVEpBZGlZN0I4and2cTRiNlpHbkNra3RDUURYSHNTbDR4T1lNTGU0V1JOZDRSY3VPZGxJUVE2bkN3U0VsSUsxUEcxMHgweDAtSWlHUQ?oc=5",
           "source": "WWLTV.com",
           "summary": "",
-          "published": "Nov 13, 2026 1:11 PM",
+          "published": "Nov 13, 2026 1:13 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -303,16 +323,6 @@
           "source": "KOKH",
           "summary": "",
           "published": "Nov 12, 2026 4:05 PM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Move it, football head: The music of 'Hey Arnold!' Live is coming to New Orleans",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFFHNHNDMGUyY3NiSzA0TWRfR1l2NV9fZW56dEVKVXotTXVuLVh3RURxaGlxZnFZM2tDMm5XMUQ2YW1uWVUtZlNQeXUtTHlINWRnYzUyWDJhbXBJVWQtNjg3TVZXWXNyblFJZ1FDZHcxTTdPaUV2UVNEWE1GZFdJbDZTMU95T1JPRTBza1MyZHFJVEtRMmpvSWdDS2RRQ3RnZkVDc1E2dzBGenM5a3pMRm1ycw?oc=5",
-          "source": "WDSU",
-          "summary": "",
-          "published": "Nov 11, 2026 9:18 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -336,16 +346,6 @@
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "The Jazz Room NYC: Enchanting Evenings Of Live Jazz Music",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Cd1JNWkFPbnRkcUZacTg3OFVYVm4zZWo4dUh3M1lsbEpyRFVqR09zTG9NQmZwSmlkVHRaMFVySDNWSm9Pc3pIQ0l1VjRONjQxOHpRZ0VqclZvRWdZalpF?oc=5",
-          "source": "Secret NYC",
-          "summary": "",
-          "published": "Oct 26, 2026 7:00 AM",
-          "eyebrow": "Concerts + Music",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "The Jelly Roll Stompers",
-          "url": "https://www.wwoz.org/events/1410866",
+          "title": "John Lisi & Delta Funk",
+          "url": "https://www.wwoz.org/events/1410881",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 3:00pm",
+          "published": "Saturday, November 14 at 3:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Jelly+Roll+Stompers&dates=20261113T150000%2F20261113T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1410866&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John+Lisi+%26+Delta+Funk&dates=20261114T150000%2F20261114T170000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1410881&location=21st+Amendment"
         },
         {
-          "title": "The Dave Hammer Quartet",
-          "url": "https://www.wwoz.org/events/1410876",
+          "title": "The Funky Soles",
+          "url": "https://www.wwoz.org/events/1410901",
           "source": "WWOZ Livewire",
           "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 8:00pm",
+          "published": "Saturday, November 14 at 8:00pm",
           "eyebrow": "Event",
           "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Dave+Hammer+Quartet&dates=20261113T200000%2F20261113T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1410876&location=21st+Amendment"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Funky+Soles&dates=20261114T200000%2F20261114T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1410901&location=21st+Amendment"
         },
         {
-          "title": "Cricket & the 2:19",
-          "url": "https://www.wwoz.org/events/1412181",
+          "title": "Jon Roniger & The Good For Nothin' Band",
+          "url": "https://www.wwoz.org/events/1412201",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 2:00pm",
+          "published": "Saturday, November 14 at 2:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cricket+%26+the+2%3A19&dates=20261113T140000%2F20261113T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412181&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jon+Roniger+%26+The+Good+For+Nothin%27+Band&dates=20261114T140000%2F20261114T160000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412201&location=30%2F90"
         },
         {
-          "title": "Flowmotion",
-          "url": "https://www.wwoz.org/events/1412186",
+          "title": "Richard Rourke & the Easy",
+          "url": "https://www.wwoz.org/events/1412206",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 5:00pm",
+          "published": "Saturday, November 14 at 5:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flowmotion&dates=20261113T170000%2F20261113T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412186&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Richard+Rourke+%26+the+Easy&dates=20261114T170000%2F20261114T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412206&location=30%2F90"
         },
         {
-          "title": "Deltaphonic",
-          "url": "https://www.wwoz.org/events/1412191",
+          "title": "Tyler Kinchen & the Right Pieces",
+          "url": "https://www.wwoz.org/events/1412211",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 8:00pm",
+          "published": "Saturday, November 14 at 8:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deltaphonic&dates=20261113T200000%2F20261113T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412191&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tyler+Kinchen+%26+the+Right+Pieces&dates=20261114T200000%2F20261114T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412211&location=30%2F90"
         },
         {
-          "title": "Strange Roux",
-          "url": "https://www.wwoz.org/events/1412196",
+          "title": "The Soulcial Club",
+          "url": "https://www.wwoz.org/events/1412216",
           "source": "WWOZ Livewire",
           "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 11:00pm",
+          "published": "Saturday, November 14 at 11:00pm",
           "eyebrow": "Event",
           "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Strange+Roux&dates=20261113T230000%2F20261114T010000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412196&location=30%2F90"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Soulcial+Club&dates=20261114T230000%2F20261115T010000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412216&location=30%2F90"
         },
         {
-          "title": "David Sigler",
-          "url": "https://www.wwoz.org/events/1403501",
+          "title": "ACC Homecoming: An A.J. Haynes & Friends Benefit Concert",
+          "url": "https://www.wwoz.org/events/1412041",
+          "source": "WWOZ Livewire",
+          "summary": "Andr\u00e9 Cailloux Center. Tap through for the full listing and latest schedule details.",
+          "published": "Saturday, November 14 at 8:00pm",
+          "eyebrow": "Event",
+          "location": "Andr\u00e9 Cailloux Center",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ACC+Homecoming%3A+An+A.J.+Haynes+%26+Friends+Benefit+Concert&dates=20261114T200000%2F20261114T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412041&location=Andr%C3%A9+Cailloux+Center"
+        },
+        {
+          "title": "Fall F\u00eate ft. Ted Hefko & the Thousandaires, Da Truth Brass Band, No Signal & More!",
+          "url": "https://www.wwoz.org/events/1403971",
+          "source": "WWOZ Livewire",
+          "summary": "Audubon Charter School - Live Oak Campus. Tap through for the full listing and latest schedule details.",
+          "published": "Saturday, November 14 at 11:00am",
+          "eyebrow": "Event",
+          "location": "Audubon Charter School - Live Oak Campus",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fall+F%C3%AAte+ft.+Ted+Hefko+%26+the+Thousandaires%2C+Da+Truth+Brass+Band%2C+No+Signal+%26+More%21&dates=20261114T110000%2F20261114T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403971&location=Audubon+Charter+School+-+Live+Oak+Campus"
+        },
+        {
+          "title": "Miles Berry",
+          "url": "https://www.wwoz.org/events/1403556",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 1:00pm",
+          "published": "Saturday, November 14 at 1:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David+Sigler&dates=20261113T130000%2F20261113T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403501&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Miles+Berry&dates=20261114T130000%2F20261114T150000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403556&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "Willie Green III",
-          "url": "https://www.wwoz.org/events/1403521",
+          "title": "Bayou Manouche",
+          "url": "https://www.wwoz.org/events/1407106",
           "source": "WWOZ Livewire",
           "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 7:00pm",
+          "published": "Saturday, November 14 at 7:00pm",
           "eyebrow": "Event",
           "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Willie+Green+III&dates=20261113T190000%2F20261113T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403521&location=Bacchanal+%28OUTDOORS%29"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bayou+Manouche&dates=20261114T190000%2F20261114T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1407106&location=Bacchanal+%28OUTDOORS%29"
         },
         {
-          "title": "The New Orleans Rug Cutters",
-          "url": "https://www.wwoz.org/events/1411316",
+          "title": "Johnny Mastro Blues",
+          "url": "https://www.wwoz.org/events/1412716",
           "source": "WWOZ Livewire",
           "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 11:00am",
+          "published": "Saturday, November 14 at 6:30pm",
           "eyebrow": "Event",
           "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+New+Orleans+Rug+Cutters&dates=20261113T110000%2F20261113T130000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1411316&location=Bamboula%27s"
-        },
-        {
-          "title": "Les Getrex",
-          "url": "https://www.wwoz.org/events/1405981",
-          "source": "WWOZ Livewire",
-          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 6:30pm",
-          "eyebrow": "Event",
-          "location": "Bamboula's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Getrex&dates=20261113T183000%2F20261113T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1405981&location=Bamboula%27s"
-        },
-        {
-          "title": "Oh Yeah! ft. Peter Harris, Ed Perkins, Wes \"Warmdaddy\" Anderson & More!",
-          "url": "https://www.wwoz.org/events/1407271",
-          "source": "WWOZ Livewire",
-          "summary": "Bayou Bar at the Pontchartrain. Tap through for the full listing and latest schedule details.",
-          "published": "Friday, November 13 at 8:00pm",
-          "eyebrow": "Event",
-          "location": "Bayou Bar at the Pontchartrain",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oh+Yeah%21+ft.+Peter+Harris%2C+Ed+Perkins%2C+Wes+%22Warmdaddy%22+Anderson+%26+More%21&dates=20261113T200000%2F20261113T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1407271&location=Bayou+Bar+at+the+Pontchartrain"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Johnny+Mastro+Blues&dates=20261114T183000%2F20261114T203000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412716&location=Bamboula%27s"
         }
       ]
     }
