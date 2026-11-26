@@ -1,41 +1,32 @@
 {
-  "generated_at": "2026-11-25T13:47:22.285909-06:00",
-  "generated_label": "Nov 25, 2026 at 1:47 PM CT",
+  "generated_at": "2026-11-26T13:25:42.387594-06:00",
+  "generated_label": "Nov 26, 2026 at 1:25 PM CT",
   "lead": "A calm daily scan of New Orleans with 36 fresh links across news, dining, entertainment, music, and 12 event picks, plus the latest local forecast.",
   "current_forecast": {
-    "name": "This Afternoon",
-    "temperature": 55,
+    "name": "Thanksgiving Day",
+    "temperature": 54,
     "temperature_unit": "F",
-    "short_forecast": "Mostly Cloudy",
-    "detailed_forecast": "Mostly cloudy, with a high near 55. Northwest wind around 15 mph.",
-    "wind_speed": "15 mph",
-    "wind_direction": "NW"
+    "short_forecast": "Sunny",
+    "detailed_forecast": "Sunny. High near 54, with temperatures falling to around 51 in the afternoon. West wind 10 to 15 mph.",
+    "wind_speed": "10 to 15 mph",
+    "wind_direction": "W"
   },
   "seven_day_forecast": [
     {
-      "name": "This Afternoon",
-      "temperature": 55,
-      "temperature_unit": "F",
-      "short_forecast": "Mostly Cloudy",
-      "detailed_forecast": "Mostly cloudy, with a high near 55. Northwest wind around 15 mph.",
-      "wind_speed": "15 mph",
-      "wind_direction": "NW"
-    },
-    {
       "name": "Thanksgiving Day",
-      "temperature": 55,
+      "temperature": 54,
       "temperature_unit": "F",
       "short_forecast": "Sunny",
-      "detailed_forecast": "Sunny. High near 55, with temperatures falling to around 51 in the afternoon. Northwest wind 10 to 15 mph.",
+      "detailed_forecast": "Sunny. High near 54, with temperatures falling to around 51 in the afternoon. West wind 10 to 15 mph.",
       "wind_speed": "10 to 15 mph",
-      "wind_direction": "NW"
+      "wind_direction": "W"
     },
     {
       "name": "Friday",
       "temperature": 56,
       "temperature_unit": "F",
       "short_forecast": "Mostly Cloudy",
-      "detailed_forecast": "Mostly cloudy, with a high near 56. West wind around 5 mph.",
+      "detailed_forecast": "Mostly cloudy. High near 56, with temperatures falling to around 53 in the afternoon. West wind around 5 mph.",
       "wind_speed": "5 mph",
       "wind_direction": "W"
     },
@@ -43,37 +34,46 @@
       "name": "Saturday",
       "temperature": 65,
       "temperature_unit": "F",
-      "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 65. Southwest wind 0 to 5 mph.",
+      "short_forecast": "Partly Sunny",
+      "detailed_forecast": "Partly sunny, with a high near 65. South wind 0 to 5 mph.",
       "wind_speed": "0 to 5 mph",
-      "wind_direction": "SW"
+      "wind_direction": "S"
     },
     {
       "name": "Sunday",
-      "temperature": 72,
+      "temperature": 74,
       "temperature_unit": "F",
-      "short_forecast": "Showers And Thunderstorms Likely",
-      "detailed_forecast": "Showers and thunderstorms likely. Partly sunny, with a high near 72. Southwest wind 10 to 15 mph.",
+      "short_forecast": "Showers And Thunderstorms",
+      "detailed_forecast": "Rain showers likely before noon, then showers and thunderstorms. Partly sunny, with a high near 74. Southwest wind 10 to 15 mph. Chance of precipitation is 80%.",
       "wind_speed": "10 to 15 mph",
       "wind_direction": "SW"
     },
     {
       "name": "Monday",
-      "temperature": 61,
+      "temperature": 60,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 61. Northeast wind 5 to 10 mph.",
+      "detailed_forecast": "Mostly sunny, with a high near 60. Northeast wind 5 to 10 mph.",
       "wind_speed": "5 to 10 mph",
       "wind_direction": "NE"
     },
     {
       "name": "Tuesday",
-      "temperature": 65,
+      "temperature": 67,
+      "temperature_unit": "F",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 67. Northeast wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "NE"
+    },
+    {
+      "name": "Wednesday",
+      "temperature": 70,
       "temperature_unit": "F",
       "short_forecast": "Mostly Sunny",
-      "detailed_forecast": "Mostly sunny, with a high near 65. Northeast wind around 5 mph.",
-      "wind_speed": "5 mph",
-      "wind_direction": "NE"
+      "detailed_forecast": "Mostly sunny, with a high near 70. East wind 0 to 5 mph.",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "E"
     }
   ],
   "sections": [
@@ -84,11 +84,51 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "TSR Staff China! @China_lovelace _____________________________________ H-Town officials are shooting their shot to be the new home of the Essence Festival. The city is officially in the running after Houston leaders confirmed they are in active negoti",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsV3c3TjdZSGw3QzJVcS1jRGx6WXFQSDRtdWh6QngtbnNNeThqNGhMYnRBVmFjU0JVekFLcWpadFM1QUJEbXprNlFhNUk5Mmk3S3c?oc=5",
+          "source": "Instagram",
+          "summary": "TSR Staff China! @China_lovelace _____________________________________ H-Town officials are shooting their shot to be the new home of the Essence Festival. The city is officially in the running after Houston leaders c...",
+          "published": "Nov 26, 2026 11:54 AM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Could Essence Festival leave New Orleans for Houston? Here is what we know.",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUFweTJxQXVweGJrRmI2NlFybmh4V2pxTUIwNWdPaDhpekhBV0RkYWRkaEttUG9uZUpBTmstaWZJV3ZDWmM2VTR2TGZNNzlZaE5zZGc4bm9yN3EzM1hhaUVZaGF6ckE2WXUzYW5YUTM2SndfOE16N254bXg2UXpiZ2Y0bzNGTk5QM19TMnpR?oc=5",
+          "source": "WDSU",
+          "summary": "",
+          "published": "Nov 25, 2026 11:57 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Why ESSENCE Festival Is Leaving New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzMG93TFFFM201R2N6SEFSYldMMnRqTFFYVE1MT0hxR1NGVDYtRjZndENKQl9lQTdDdlg1ZHc1UlZrWXBVbFBSNGFlaGxjVjY0QXlaR2o4ZmZzX0pSYXhYdzg5bVVzT25ScG5MRXNBYU5FWDVoaWc?oc=5",
+          "source": "saobserver.com",
+          "summary": "",
+          "published": "Nov 25, 2026 1:54 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "Orleans Assessor Exits Courthouse Project for $8M Facility",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNajNwVG1qQU0wVk9TRm4xdkNnSldKc2hONDktTUFBUkowTEFQa09NUTVXMHAtU0JCb25meVljNzdEYTdHaFVocFJ2R1NyZlR4NGd2UVFveWd0bzJvS0hQZzdMcGFZcHAzZE80RU96TGpwRDVjUVhsakczVzlIalVEZzJkVTdjbGRpRVlQUg?oc=5",
           "source": "Biz New Orleans",
           "summary": "",
           "published": "Nov 25, 2026 1:44 PM",
+          "eyebrow": "City News",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "New Orleans Home Batteries Are Helping Steady The Grid And Earning Owners A Check",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkFhOHd5S29TTDEwdkROY1BPNUpWak9uZjRrbVdweEhPWjZyd1k1Qy1uVmVyV050NUlKZE44UlBfT1pnN21fdDJtM29KT1pWdnRTNGM0SWhTWHlqY0JLTUVsYm5OdDRCX2hnX1dNbTR1aGFnY1EwVllGSF85UXZRX1dsS2tfLVZTdnVpcUxKWlBwMU9vd2Y1OEZmQUxLZm1FUjdnUVo5UDB4Y2p6VFJHR043d3M?oc=5",
+          "source": "The Business Download |",
+          "summary": "",
+          "published": "Nov 25, 2026 1:07 PM",
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
@@ -102,46 +142,6 @@
           "eyebrow": "City News",
           "location": "",
           "calendar_url": ""
-        },
-        {
-          "title": "High Court rules for NOLA council in Charles Rice suit, but contracting ordinance still in limbo",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWURzZV9ORUZhMnE2YkZCOHgwTlVoTjBQUjJzUHdhVVFDWW9nX3lOVHNZYnFoV2xlOFE5X3pkekxmZ0R0clR4RFYxTUJPcGlsbGVfdEticGFGUUdWVHpTUWFodzh1aEFwWkVaVTl1T1g5cGF2eUlta0FPdkE1SGhqUHFHdWxMWWFtNjhVa2RkLWo0N29hWTY4S2lkYjBDbzNrbEgxSzNyeHZobXpGV3NBaV9R0gG3AUFVX3lxTE9kVHhveGlTd2FFOTdWNDRFM3R1ZDJPOUpRbW1ndW5pRGd1VG1iOFJkZVdpR2ROVENlZUd2YnVvT2I0Q2llRXRpUXhLMkpKVnNkb1A3WFhJSDBjdkh0UzlhS3F5TTNXaEVyTGE0aWYtbTl4Tl9Kb0tBMUpYdlBHT2x4V01oWTcySzBudUJHQU5aaUNXdGlIbXBmMkhEQWkwaGdlZGZycUNjV3c2RFlFWHpHdk01VlJDbw?oc=5",
-          "source": "NOLA.com",
-          "summary": "",
-          "published": "Nov 25, 2026 10:00 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Louisiana, university leaders to discuss Bayou Classic events for fans, rivalry game",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUW9jTVNjWXJMRy1neHJoM1piVUZCeHI3VkdnYi1NN0g5MXoxUVp2X1NYdlltOWxBR3RwSS1RLWhKZjVsR05lTlh3d0NTdEt1NjgydlJocThidGVkWnVwd0dJODlkbjd1eF9Xb3MzbG5WNlVFVXZfakJ4WmMzeHNDUnI1aHFvWlAzdWJzUkJCR1IyUGFUUEE?oc=5",
-          "source": "Yahoo Sports",
-          "summary": "",
-          "published": "Nov 24, 2026 2:48 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "'Wake-up call': New Orleans party trailer crash fuels push for reform",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLVF4THhvYXBKMDhsR2lmeXlLVlRaM0lBclZPWndjTDFHb1F2c0JsMXBtbzJ3SjFRdmtDZzQtcVBfb2d0YUJwVzRYZTF1NkJNb0pXclNyQnBfNHBDTUxjZHhjQThhczZ1WXdaejhLZHNPQjZWSW0zZXhiZE5wc0ZPWW15a2Q2amlUM3I3THhiNTktZGFjVHY0OEhmTzA0eHRaYy11U3R5amk4Njd4Q25MdmJNTDVxa0FQYnJaeEhyN1JqOWIzY3JkTWpSb2FvaEQ5ZGw3cjVyYmhSMHpuTUZ1Y3pKaERXaUM5eVotREFn?oc=5",
-          "source": "WWLTV.com",
-          "summary": "",
-          "published": "Nov 24, 2026 12:56 AM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "N.O. City Council passes $799M general fund budget for 2027",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZm95WUtzWnJyRElmeWN4dDBTd0k5WnhjZ181Ui0xOUt1MG4zS2tMUDk5d1NZUVBGd05weGkyYjU5WjFjV2Q3b3M0cl9Kb05YT2xLWTc2WllTTkpIbFBldkQ4NlNjd2pBbjhIRVhEWHMxTS00aDMzcHNJZHNJUFJyMm43bDZqb2YyOERnbEEyS2Y5a1k?oc=5",
-          "source": "The Louisiana Weekly",
-          "summary": "",
-          "published": "Nov 23, 2026 9:38 PM",
-          "eyebrow": "City News",
-          "location": "",
-          "calendar_url": ""
         }
       ]
     },
@@ -152,61 +152,61 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
+          "title": "2026 Christmas events and more holiday happenings in and around New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZVN6ankxcVhzbU9PWXpGRWF6bmtfV2Iza256TkFzbzI3SnBiWTlpcjUtajZZbVliMEUzNTRvTjhXSEJ6bzQ2eVNRODJnR3N0TGJXWVBmYU1rY1BKeHhENDByaVFXS3ZjSmtaWWcwZUU4YS1HbEp0eXp6Z0VUVXVZQk92Mng3YjI3VXRONHgxYm4yMVZiRDRGRDBhcS1lbmxIb1NUb3FmVFQ1M2JaQU1OT0F0UmpyWTctWDRqYTJXMUhvOFdVaGRmTGl5dzZ4Y01weVRsa29WaTNuZ2pwSi1r0gHkAUFVX3lxTE1lSUgzMmhkbVFpMm5LTnlKeE9COFlLeVZUellMMC1ud2c1SlhJWmdLQW8xMXMtUlZXUmkxWENNekVHeDIzbGpTWTBBbHd4SkdYa0IxVWRKSG41enFPTUwyZGM0YnRBUmtMR0k4OHZxaGxCeF9XT2FkQWw0aWhSRWhLeXlwRVRrcGJIUHNmUDFtbGhvUndQVjVqRVVQcHNtd2ZLTU9MQmtqTWtCdG9tckd1WGo4aE83bHNvMDIxc2JuZ1JpUUJ1ZnZnV0YyM3FMZ1ByNHZjcG5XVWNRVzJlZzk1NG9XNQ?oc=5",
+          "source": "NOLA.com",
+          "summary": "",
+          "published": "Nov 26, 2026 7:00 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Carl Morgan Carjacking Death: Partner Speaks in New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVVfaFJ6bEZjU1JaQlBhXy1mMTNfRm52NGtqM0tzLWJkOVZsNWp2TzZfcl9qYUhsTEtYalhGTUNYTUlrbEp3R3hXdUxHLU5halV5VlZTeEhtRG1Wdm0xQXhibGhFR0pyZzJVVTNVUjBSNW1TUHhEaEtxM21jbUIzdFUwTnZXUG8yNndsYTBudTZBaGxMNGhReThLOEpOMzVRdXJfOTc4RQ?oc=5",
+          "source": "Hoodline",
+          "summary": "",
+          "published": "Nov 26, 2026 5:02 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Chef Alon Shaya Preserves WWII Survival Stories in New Cookbook",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlRzMksxRXg5Mm9DQzJjYm1remI2OGt3NmhPa3RzM196d2VlTUo3aWhSU2l1ZU11VDJVT3JKejV3MzRLQ3ZXa0dheGZ1Y2pLZng1aFFKbld6dk5wU2t2SURmUWdRX0t6Zm8yTUlTaGhmSDFhVlduUnNlRjRYN3BqNXJPMjMySTNOMUQ5eTdWanJpbURGQm01amYtcGptaXljeWdJSWctRURJQQ?oc=5",
+          "source": "Dosya Haber",
+          "summary": "",
+          "published": "Nov 26, 2026 12:55 PM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "'Memories of a Good Meal': How food made a difference during WWII",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWNtamZTTW1yTUpNdEliLUItZGxZV2hPdWlHU0tSbUREQ01mVTBFUU5vWDQ0OFdhanBkckZiUHV2N04ySzZqWkdrMUYzbjJXV2lQTF82bTFIUnJNTkVQMl9SSVAtUm5raFRGTGEyTzhac2lFTHNBMEczRDJVYThSeE5rVjJQakVLRmd6SmxlZ1hoRDZaZTk3Rg?oc=5",
+          "source": "NPR",
+          "summary": "",
+          "published": "Nov 26, 2026 10:00 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "'Memories of a Good Meal': How food made a difference during WWII",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1lyRElpUDV5R1RQa29qUDNpYnFpWl9sZ3JoMzNobFU5RUVMV0xodlk3czZ0clpPcW1Cd19vXzR0SGQ5ZFotemJjbV9mYjFTdDM1MUx4Z1Q5TVZ1N3ZpeEhEcS1xVWd3cE5GQjhDVHQtaVZBYzdzOWpRVGhiXzl0YS1QNXdPaTl0RGlLTkZmbkFNOXRZSkZCdmNNZ2hrUElucnVKRnFOWW15Y3c?oc=5",
+          "source": "NPR",
+          "summary": "",
+          "published": "Nov 26, 2026 9:42 AM",
+          "eyebrow": "Restaurants",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
           "title": "Latest in NOLA dining news: Barracuda Taco Stand, Yakuza House each plan new expansions",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRWhvWFZNbnBnV1RRMGsycGlXVzdJbjgzNl80b2ZuVkdOMGpEMjEyUEZaaHRXcTlrcGhyYTF6b0RUNEFXRGwxc3FvUDNhR3J4ckhpUlRRMHBnOERwV2lwdUU2Z3BwNllEenF1UXF5TF8ycllUWWEwbnpGTlRuRWJJUFVFbk10TjRtY3JBOVVBNC0xSTQ4djhZaGktdFdoREMtOTk3M3NKX3d1MWNUN1loLUd3c0ZaRXBFckoyN2VSY0lGSDhlVTBCSXQ3aFY3MUx2YkhHX0NaZTB2WVo5R2hFV0J3RXE2dzd3Ri1iYzVVQ2ZDTmc4VVNqRW1pRjZNQkZIVjJrdnpEQThWSTQxRy05QUh1WdIBmAJBVV95cUxOTmQ2bzJpMFRvRzNXWExmVnl6VVRfT2p0cF9wbklOSnZIT05XMVFRc1hZcUlsUjdvcHVRblRwUmlfNzNkVlYzbW5CWVN6RjBZX2pacy1JNS0zYktrblVyTDdEempSQ25wc0w1RkNKT3N2dWdBT3NhRXhFeVk4QVNuTU01NWRKSHQ4ZmI3OFU2cVFRLWVPZGdJS1RtTFpEdXgyalJzbTVxRzZUdERGODJ5QWFkU3VGSmMySE4xOFg3MklndzB3RFByMW1YNlRJS2hUMGFaUDBWandwTzlCd0dEeUdKYmZIcndsM2VqMXAzdUhWZjNUZjJQT0pyVmtmc0FKcVZMM2lkbXJVSndFaE9SNkNxTWFXUENS?oc=5",
           "source": "NOLA.com",
           "summary": "",
           "published": "Nov 25, 2026 1:02 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Essential Thanksgiving Recipes to Elevate Your Feast",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lXzZMUF80NEJHU1VsX1dZNUdOR2hwOEhCdWpPMl9RRGNzTFpTNG5HOE1nNTVMaTNVZVNfOGJ1NHpSaEd3QmREckJKa285LXNfRDVISU9JWC12ZTF4dm5tVGZycUk4N09pNGNzLU5DNjJmWWNaZktFTA?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "",
-          "published": "Nov 25, 2026 1:00 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "StarChefs Names New Orleans Rising Stars",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02RXgxaTQwcmp1R0c2X19SZi1QZEltbEgtcmdLSlF3SVRwb3dDWUoxQ0EyYlRHOG04MDRoUnlpOXBhelF0am95NTljZGJvdUQ3UDBCMTZzWTY5dV8xVkpPZi1VSXNBVVdYTXI2Y1ZzeDZlcUhBT2c?oc=5",
-          "source": "Biz New Orleans",
-          "summary": "",
-          "published": "Nov 24, 2026 4:53 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Former Coquette restaurant to get new life as an upscale New Orleans sushi bar relocates",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclNoY2I2bEtqMEVqNUh5bjl1Yk50RlVxOFV5OEw0OEFmMkFIX0VzbmNqWEVhR2lSNFBLWFM2R21FcXAzVjZtOEZnOExpcWVIeFZ2U3JpSHBSeFpjMzBwZ2tiWHU0WmdBNTEwSUhKd1pzMGI2cnBUelFHaHkwUHRoM1V2cEl4Uk5JVjVFb2FLVFNfY2pXTl9rZlJpZlZQbW5WSXR5dVBIelJ5dW9BY3VwMzlfVmU0YXJWb1Bv0gHAAUFVX3lxTE16N3RWaWtOakJvS2FmWVFXTGREWmw3dHZra3Z5N1JlZ3pabm9pMjZOaGZmaVAyaXpTeFp3VWVlQlhLZ1VTalA4cnhLcEQ0MEkwVGM3ZEZ4bFdVbnZQNlN1dWtCS0FVRU5LVlpTcXBrWVJmV2MwRWd4UmJhVHMzS25kaWd1TUN4R1ZPOXRCQWszcUhjbkVjUXpCWDNlSDJTSXJrV2thN3ZjN3dwdDBuRm5RR01lVmsyYThycUhVSVMwYQ?oc=5",
-          "source": "NOLA.com",
-          "summary": "",
-          "published": "Nov 24, 2026 2:00 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Shogun restaurant founder Peggy Kamata, \u2018matriarch\u2019 of New Orleans sushi scene, dies at 91",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdXp1cksyMnM5LXZCSThUMzcwTmRjZ0lRaFRPdXR3T2VtMFBNNGRPV1BVaFQ4Y29DU0FKUFFkNUlOQ1hzS0dUc3dRRmtncTFIdUI1My00STFGbVpPcENlb0xfb2FrZEl2X1NrZE1mTTlQY21JNVQtdGViODVNeUU2Qk1HbnRBVkw5aExUMUk5N01UZXoxUHNKQXZMZlpoaWM1Z2swd0ZDQl9rSVVEV0V5SlBfNW9RcGFu0gG-AUFVX3lxTE9FUWdZSnZUSGdkUDI5OVVOUnVzNnpJOUhXdE5BZTZoYllYTWoyRkhqOHY1T2ZqZFpoazZnRFJtaHdrZzN0RFFMTHZiM3E3Vk4xWWpCLUF1aGtISUd3YU1BcWI5RDFQalAwWDdKbTEtN2ZRSkF1a015SzNDd05jTmNYNE5XQ1BBUUVIV3NZeEY2cnVyc1ZzS1h5RElYbnJ0ckdOYm1OSEFNRGNLQWtwVnJFajZTZ1Y0NG43Wmppdmc?oc=5",
-          "source": "NOLA.com",
-          "summary": "",
-          "published": "Nov 23, 2026 10:38 PM",
-          "eyebrow": "Restaurants",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Galatoire\u2019s Restaurant Names Caroline Rodrigue New President",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDhZem5FVUcwSm9pMXQ0b0k5Mnh3YmdOclhZNUFwQ2YxZmlpRU41VjJmYmFjMThlOHA2ZmtLMkx5aGI3ZnRjcVFFZVFjUkJZWXE4MXZNY2xjX3Fpd3hQaXdXMEdkVlI0cHY4TzJzZE0xUndickg4VEFCdE9fOHJ3T05JVlE2TWJva0VpbDNDcHRmWmM?oc=5",
-          "source": "New Orleans Magazine",
-          "summary": "",
-          "published": "Nov 23, 2026 5:31 PM",
           "eyebrow": "Restaurants",
           "location": "",
           "calendar_url": ""
@@ -220,61 +220,61 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "ESSENCE Festival of Culture moving from New Orleans after three decades",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYzVBUUpsMmNUWXJCMDNuRWR3SjlCY3YzZHNnRmpKSkhIRW1MWW1GbXVDMFF2TlBiVmpseUgwMlZTbDZ1aktnYk1TdUFReXduMWk3OV9yQUROQWdxQUVLZUtXX2lJNWQyc2F1LXlwN1U1ZUFEX2xGMmF2bUJhNVlILWZ3dnVra18yeFpPNDhSYUZpSktQYWJqa3BLSGE3dw?oc=5",
-          "source": "ABC Audio Digital Syndication",
+          "title": "Human Horse Races, Drawathon and more events around New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1YtaUNPVTVFeWhIUjNvSFY3UXFvbVMwclVjUGpfZk5uQ3hTeXh1NTFMNjV0YUx5M2lPM1h5b3JkSEdFai1ZekRnUTByU0ozeWR2ajdiMGU4YnRTZ2VzRGFDb0dMYWxkMWJKcXVoNWduZzVWLWFTbGo3ZFhEQk9xMjVOb1dFZTNYUWsxUmFNVjBvMG9vemNybnh2Y29IOTF2RGUwWFRjUzhrSUlYZ2M0YUE3Q3BOSDVReEpXYXQ0X1VlQXfSAcgBQVVfeXFMUDBtclhIUTI5RHdpXzhtcklqNkZTRkE1RUxiYU43cUtqc2FIakRuSlhwU0JXX3dDbUlwZnY1X2VIZ2Q0SmVacWpZOE5tNkstRmdQRWUwT0Z1ZldvYkVpaTVQelV2Qm9pamhKQzIyMUNobWhBTVllSl82QTFOZzU5bE9TcDB6UjFCUldXeXVqZnhPTGVMS3dYek5wZFZTSGRZc2lhUVJTbWlLVGRILWN5ZUp5ZUJ4Rl96VEdYVDFMWW1CTllfVXpnRUE?oc=5",
+          "source": "NOLA.com",
           "summary": "",
-          "published": "Nov 25, 2026 5:51 PM",
+          "published": "Nov 26, 2026 11:00 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Essence Festival is leaving New Orleans. Could Baltimore be its next home?",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeWtrRndkX1RpREJvaWYyTHNSN1A1UnZDaWJ6TGJhb0RsZzdHUVJ1RmZMLTE2ZVZRLTVDTzBHWndLdW1EX1FGVlZfNW5XbnFTMXpKMHhNVGRtOFZVVklLaDVSeWlhNGZlc193Rkdnamp0MDltS1FjSTRWZ0U3UVdQdUJhRQ?oc=5",
-          "source": "Baltimore Sun",
+          "title": "Essence Festival Leaves New Orleans After 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjBibnpqTHJ2T2N4Q2JqWW5DRWRQM20zVGR0cEVXdkNCUm9hUlBWQWNacldyMXhhNGZNVTF3UDlUNXgtVl9xdjd6c1RDMEdCR2dNUTVjSDRRT0JrcHVPTnNSTFpFdU56bEpoTEpRd1FoQV8xV3ZQM1owNDduVElfSzVLWEhvMXNrTE5fS0Qya0JGX0JuT0E?oc=5",
+          "source": "Wisevoter",
           "summary": "",
-          "published": "Nov 25, 2026 5:43 PM",
+          "published": "Nov 26, 2026 1:22 AM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Essence Fest leaving New Orleans after more than 30 years",
+          "title": "After 3 decades, Essence Music Festival bidding farewell to New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWWZtU1E1N21YdThuZXBrXy1weURLSmpZY0p0d250TWFxUDdiZG1hMWVzNmgzQmlQa0tYV1ZmS0hubHVaUnoxTXgwSzFRS3UtYTV5MHNkcFpuelQxalpkTldxd0tQRHktWlRZaUdJU2RWVU8tRGl1emJwRmktU28tMUhYdDUtRU5DSGtQRDZwWmpFclpva2ZobVI0YVdkWXVDSWp4NkZzdU5BaGkxd1JEV1o0elY0c0ptdkhLMlJGRFg4emEtOFlrSFdsT0dTb2M3eFViYklOZHUta29RMzV1anN6TmVMQjVOal9BRXdaZ1d5MVdvcS1fTw?oc=5",
+          "source": "Ottumwa Courier",
+          "summary": "",
+          "published": "Nov 26, 2026 12:57 AM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "After 3 decades, Essence Music Festival bidding farewell to New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZG5rbmZxRWNNdnpucEdjcm1BRXZKU2M5WC1acl81cjViSk9Mb1VtcVRJd0syN000Yk9KeXE2VVVVTFpQeHNiSkFXYzlYY0dNN1p2aW56R1JkY2NHbzZ0MENvMDUxNmJCTEdjQTd5YkpFUlFZZy00bjZPWXV2NEdJcVJxdk5RV2pTVWhZY0RjSHAtQ0R4UlhCNkpkV2RxREpTZmhoYkprZm8tQ1B4ZWxfZHNtSC02ZnVvNnBrampSNkZPTE56M29ZbWZmZUxuLWZvQVJXaWRsYkVqVWN3ZnpnOEpfNGliVXc?oc=5",
+          "source": "The Killeen Daily Herald",
+          "summary": "",
+          "published": "Nov 26, 2026 12:40 AM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "After 3 decades, Essence Music Festival bidding farewell to New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2Q2bGZlTUFpUDRPa01CMU82N0g4c0JEX1pHMDNXMUlZbjh5dDVNVnEwNHhIZE5tbjhubDhob1B2dWRtb1hzaFdicUNOYVhSSmxZMjhkSFlsZUZNb04xS216SnNDVXBQOFdDdjkxZ1B6NzN0dWdRUld1N192Y01ESGhSTXpKem1rTUJkb3d3NGliaGlQcTlwN3lpcEVCYVI4T3k3MQ?oc=5",
+          "source": "AP News",
+          "summary": "",
+          "published": "Nov 26, 2026 12:40 AM",
+          "eyebrow": "Entertainment",
+          "location": "",
+          "calendar_url": ""
+        },
+        {
+          "title": "Houston in talks to host Essence Fest after New Orleans departure",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmZFTWEwSE9BbkEyUXhGRGpqbnRrYUdIcHY1c3djUlZwam55dldfU0xRTjIzSVJ4ZEhFcllVc0c2VVZlU3hqZ1JVdEFVd212bTBud3BSRmt1WVFLdE40T3FhSDRoU2NSem5YSTdFeHJpejNYbWoxZ0hmN244aUJtQUdzRFV4cklQX0h1RUt4ZjlyNGtoMnpQUVoyNHBJRjZ5bUN1Z2ItUHRpZ9IBrwFBVV95cUxQMk5QRHdfZXotTFpaNUNZejBxdzQ5T0JuMFlJR3lob1Z2WjdyMHJaSVJ3S29yUGZtdWU2eHBlNDZaVTdEcGtHSG00VlV5b3p1VjJ1R3ItNkJlTmxNVUM5enk4Z1VEQTFlbDVpOUJsTlJzUDNEM0RYVXVsRU16clMtOWx5a1h1SVJKQWtQM0ZUTGgwX3kteEk1VlpXMGhJb2pfVG05SF9faTEtc05nMnBF?oc=5",
           "source": "Good Morning America",
           "summary": "",
-          "published": "Nov 25, 2026 4:47 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Essence Festival Is Leaving New Orleans \u2026 Politician Messes EVERYTHING Up!",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXFHMm13dm9tYWNOX3pCaHgyVDBBUWR2a3E4a2VkcVB5NkVUVi1DWEVHX0JZVHNsUkFqVTh5WWFGank2SUg2R0ItWkhGRl9WN0NRM0pjYTRuRFN2bVRFeEN1T0UyOF9BY1Ayem44UW8xRVN3My1sMVRLUXFPNzdXbENlSTNTaHVaWFZwTXd5NkVPUWNOa3hsZk1PVGZBUdIBowFBVV95cUxNeEVveU5IaDEtUHVJdG5iMDRSbHRrSDVOaUR3RWVfUm5HOGU0TXZqR2MxSmoyemhkLU11aXRmWDNuWkZNaERjU0tiV1V5dkhjRElMX1RQTjlUZUpSRElfSmM4SE1YSG10SVB0WnFwdFNiMHRUcmI2Qk5XZjhJZDdLZkNENzhNWnJ2RlRFZ1plUERMVzlVTVZOUWFCRmFpLWlqc2Zr?oc=5",
-          "source": "Mediatakeout",
-          "summary": "",
-          "published": "Nov 25, 2026 4:24 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Essence Fest Leaves New Orleans as Mayor Plans New Festival",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUwxYXVsWHFQRTUxMkJoREpLbnMzRFRWQk11ckpDWS1BVGNVblZqMlZoSGtPUHd5NFk3TlNBMEkxSGV1SFZCQThpd1J3M2NBaS1ybXpBbFBoMjJNVkZQR0h6ZDI4cHFNQkY3d3pFR2RrR0V2LTBKTVIwOVBWdVNfdF9yVlNOVXBVX1J0bw?oc=5",
-          "source": "Baller Alert",
-          "summary": "",
-          "published": "Nov 25, 2026 3:36 PM",
-          "eyebrow": "Entertainment",
-          "location": "",
-          "calendar_url": ""
-        },
-        {
-          "title": "Essence Festival Officially Leaving New Orleans",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVEdkeHhpYTVRSmQtMEpiSG8yQ3Z6elo2S2FPb1N6b09nYmdlSDlJckxQRjd4VnVtb0tlcjk5Z0hMOG1SMXFnaUFSekROb2g0MEdDajNCLVUtT0p6THVZTHd6TmZkWnhKM2Npa1l3Y0FfTkgwOVhWUXdRUU50SHBPamVxMTl4M1hNNDJLZ0VR?oc=5",
-          "source": "Pollstar News",
-          "summary": "",
-          "published": "Nov 25, 2026 3:04 PM",
+          "published": "Nov 25, 2026 9:42 PM",
           "eyebrow": "Entertainment",
           "location": "",
           "calendar_url": ""
@@ -288,61 +288,61 @@
       "empty_message": "No fresh headlines were available for this category during the latest run.",
       "items": [
         {
-          "title": "Ali Siddiq brings comedic mastermind to New Orleans for a pair of holiday weekend shows",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTjRBNlQ1aXg2elZjTzlUOXlIY2pVUnRFX0NWamZtb1J1WXdHdWpQMTFSVHJIOWFJcVQtU2ZoRFRqcXAtZ2VLc3dFSEhPQTI4TExVOGNTWXBIR3RTWjBNRnhJbk5IQ1h3aTVqeDZFUklzT1pBMWw5aUN0NFROZFVHaFZvR0NxUXdta2x5aEpwZ0NQQS1QRTFFS3dwSmtsQ3dzUE96cVF1WVk4TnpVNE5Rb0JhWEctcGc1UFduaDc0ME1rQ2dqODhnb2w3eGlKbXRuNmI0MWtDM18tMnRobV9j0gHkAUFVX3lxTE9hdU1WMXU5a3FpQ3R3VENNMmNZMWRQdEJuOFA0OHl4UUxTdm9PUG1WMVNsRU56NXBpOEt2SHJPaXVwdlI2R01CdHAwR05aUHd4bUc2S0ZXTlVLTjJrWDhWa0N2VnJ5T0RmQ0c0Tld0anRyT2dPaEVtcVFtaU1EMktnQkdzSy1pRTB5WDN4QnlDWFZfSy0yekVIaGxtVFRJTWpaMUxvS1Q1c1V3MklZZng5MnNEOUhtSlhhU1ZLNm9xN2poV182d1Vzb1hJSzVuTUp1bS1lNXl2dGRkWHNsYnpRUlZqeQ?oc=5",
+          "title": "2026 Christmas events and more holiday happenings in and around New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZVN6ankxcVhzbU9PWXpGRWF6bmtfV2Iza256TkFzbzI3SnBiWTlpcjUtajZZbVliMEUzNTRvTjhXSEJ6bzQ2eVNRODJnR3N0TGJXWVBmYU1rY1BKeHhENDByaVFXS3ZjSmtaWWcwZUU4YS1HbEp0eXp6Z0VUVXVZQk92Mng3YjI3VXRONHgxYm4yMVZiRDRGRDBhcS1lbmxIb1NUb3FmVFQ1M2JaQU1OT0F0UmpyWTctWDRqYTJXMUhvOFdVaGRmTGl5dzZ4Y01weVRsa29WaTNuZ2pwSi1r0gHkAUFVX3lxTE1lSUgzMmhkbVFpMm5LTnlKeE9COFlLeVZUellMMC1ud2c1SlhJWmdLQW8xMXMtUlZXUmkxWENNekVHeDIzbGpTWTBBbHd4SkdYa0IxVWRKSG41enFPTUwyZGM0YnRBUmtMR0k4OHZxaGxCeF9XT2FkQWw0aWhSRWhLeXlwRVRrcGJIUHNmUDFtbGhvUndQVjVqRVVQcHNtd2ZLTU9MQmtqTWtCdG9tckd1WGo4aE83bHNvMDIxc2JuZ1JpUUJ1ZnZnV0YyM3FMZ1ByNHZjcG5XVWNRVzJlZzk1NG9XNQ?oc=5",
           "source": "NOLA.com",
           "summary": "",
-          "published": "Nov 24, 2026 5:00 PM",
+          "published": "Nov 26, 2026 7:00 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "Foo Fighters and The Who Set for 2027 New Orleans Jazz Fest",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUtKVlI4R1Z1S1pqR1ZXUEdoa3Q3MTZWclFSUllFYmRqMGpGUzRLWTU0Z21nYTVsUTNuQVFjMWJ4VU9rcVNpeTdoWnpvc1YtTk4xUzlnOTBObmU2U2RBSWJNS0l3ZmVNb1pjSUlHdTM5V3dkc3ZDUHhxaFc1RE1PR0VsVXRLSnRtYjJjOEJiTlNZdw?oc=5",
-          "source": "102.9 WMGK",
+          "title": "Human Horse Races, Drawathon and more events around New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1YtaUNPVTVFeWhIUjNvSFY3UXFvbVMwclVjUGpfZk5uQ3hTeXh1NTFMNjV0YUx5M2lPM1h5b3JkSEdFai1ZekRnUTByU0ozeWR2ajdiMGU4YnRTZ2VzRGFDb0dMYWxkMWJKcXVoNWduZzVWLWFTbGo3ZFhEQk9xMjVOb1dFZTNYUWsxUmFNVjBvMG9vemNybnh2Y29IOTF2RGUwWFRjUzhrSUlYZ2M0YUE3Q3BOSDVReEpXYXQ0X1VlQXfSAcgBQVVfeXFMUDBtclhIUTI5RHdpXzhtcklqNkZTRkE1RUxiYU43cUtqc2FIakRuSlhwU0JXX3dDbUlwZnY1X2VIZ2Q0SmVacWpZOE5tNkstRmdQRWUwT0Z1ZldvYkVpaTVQelV2Qm9pamhKQzIyMUNobWhBTVllSl82QTFOZzU5bE9TcDB6UjFCUldXeXVqZnhPTGVMS3dYek5wZFZTSGRZc2lhUVJTbWlLVGRILWN5ZUp5ZUJ4Rl96VEdYVDFMWW1CTllfVXpnRUE?oc=5",
+          "source": "NOLA.com",
           "summary": "",
-          "published": "Nov 23, 2026 7:48 PM",
+          "published": "Nov 26, 2026 11:00 AM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans Jazz & Heritage Foundation Joins Library\u2019s Culture Pass Program",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnh4d3BnSXdONUIzbVFhRVFwMEJqVXg1QmhCZy02b1h3OFVRNG5Tb1lRLVplU0ZSS0RzZHpPLURwV0ZIeXBIWDlENjZlQlljbVNZUnVRUF96eHNwQl9UQVpCU09leHRGaVM2QmVodktLUVVERGFnQWxwZm94dkxmWkRFTEwwSzdGaURJUXBmWXVzVWlpclVzQVZCbkhMU05ZdVZyQw?oc=5",
-          "source": "New Orleans Magazine",
+          "title": "Foo Fighters, The Who And Noah Kahan Lead 2027 New Orleans Jazz Fest Lineup",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0J6R0ZaWUt5THVMMEhEUWVJeVA3Njk3QVkxTzJ4dzBtcjB0ZmJ1THl2azIyeEgtLTF0SnRMRTVWakU2MjlVaE5qNDRnX0p0R05kMk5oTGt5TXhmSnBUbjdRNmVqSkF6VnlEUm1DeWMyemJoWnZ2QnBSb2hGRW51NE0tS19ReXYzYU04Qjd0UjRtWGFDTDNmZkVhTW1MaGllcHBSX3pKMmNwcDZGUmhiLXpPWE12Q1E?oc=5",
+          "source": "That Eric Alper",
           "summary": "",
-          "published": "Nov 23, 2026 5:39 PM",
+          "published": "Nov 25, 2026 11:03 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "J.PERIOD AND JOSH KUN\u2019S \u2018THE ART OF THE CROSSFADE\u2019 TO CONCLUDE NATIONAL SERIES IN NEW ORLEANS ON DECEMBER 3",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX1luVnBHdVdIRm12MDhQOWl2ZjBfM2M1TWhCTm9LeU4tVWdtRUZhSzRxTnhseU9WX2sxR1psZlhHVmpCZFRhWUV2OUVGTkd2blpKbk5CU2lzMi1LWkk4N00zcXVPU1U0RWRoMUo1UHFlcE51ZFFCUFlSWXQ3eWxXTFZ0c3FoS2FEaXJ2Tm9mNzR4djNzb2ZESmpXZ3gzaGp1TWFxbkRqUVl6LXFJQ3laSVNyeGFCeWtKMDBEVzlmRk1fRGwwM0p4U1VIc1VzUlcyYnZwcGlZZURyNDdqRjhyTVlNeTlOanhnczh5YmstRmV6V2R5R0pV?oc=5",
-          "source": "The Courier-Journal",
+          "title": "Keith Spera\u2019s picks for live music in New Orleans over Thanksgiving weekend 2026",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlBYMThpLVBMZU9YZjgyNThIOTFYRDAwcFduSlBOakYzd2pSaFdZbkVaNXRrVXdCNkVWTUM5OUNpNEVBVWVxSklwUFNNaDNTd1hLMHVTcVlJeEZrU3hLZDZIaTlYREhLRlhfbWFNTFBmellNOHdpNVdLV04tajB6N2RnUHBUeWJ4Qk9saGNnMXZqUU5XX3dra0RjR3J1NmlRWk1KOEVUN2dpRld2RmRZR09QQzcwc2d6MF9KSFV4TnducknSAcgBQVVfeXFMTWIwZkxWR0VEY1YxOTJLTGYwcDZldnhCTHZnSEkwcFd3dFFfVUx3YVVrTWczVi1ZQmtjTGVhZl9TQUwyOUxmQlhySWgxUGZsTGFWQjNJcV8wbVVtMVRVQkVhcVR4UGxXdmxfMHVPLVNUb0FYbjRpV3RObWp3ZmkxNGtQUE12dUFlVnZLTThDNjFJbDZCUGN1UVlnVGFVVGZ2S0lBc3pvY19tWTZQcjVMNmNMVnNfczFkUVlRcEdBNmEwekc5RFFIUFc?oc=5",
+          "source": "NOLA.com",
           "summary": "",
-          "published": "Nov 20, 2026 5:46 PM",
+          "published": "Nov 25, 2026 8:00 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "2027 New Orleans Jazz Fest lineup announced",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jdmE1cHhaOHM0NjZRLUJaVFBXbDFjWFRvUTdrbVc0QUFfVTdHaFBfaUk2QnFPWTN1QkRHaWtxUjJMWnZKeGlkVlRMTVpMMWdMZ19sNjRkNjV3VVBLX1B2Ug?oc=5",
-          "source": "louisianaradionetwork.com",
+          "title": "The Daily Star Events - James Martin: Wednesdays at the Carousel Bar",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcE5HNTc1cTU0RXoxdFh4XzNwb2ZQZmhNSENNNDB1aHQ2bjRmUmNSUVB4a3g1eUxveG1NMHg0VnROTHlEcXExampGWV9RX1FrXzFHbkFkdTBHZ0M3b0ZZZ1hIN01HZUY3X05BTFdiWE1LN0YzVnhjX1NFYXc2RzNLMnBzWmVPMEphV1dPM3dFUjgzdGZZMmhIdzdQTDZZZXRNRE1OdnVpU1RfbDg4M1ZNLWJ5UXJjVXgy?oc=5",
+          "source": "hammondstar.com",
           "summary": "",
-          "published": "Nov 20, 2026 3:13 PM",
+          "published": "Nov 24, 2026 7:03 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
         },
         {
-          "title": "New Orleans Jazz Fest 2027 Lineup: Foo Fighters, The Who",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaW1GVDRwR3h1WGZQb2pMQXhGZmVSeHlJQ1g0QkhWYklyZFBiLWdhdW40Qi1MNDdRN0c5ZDhXM2F3S2UwWjRnZGVGbU9ISVhBS3hBOWNuOXNKd0NZSHhLTTJJUHZMSVRNVmM4TThKOG9pc2ZDbndRaGMtdHl0Y1c0TFlBVlZvelZPUUtFVE9LQ3p6R0RGRFlVeGVtUWNhVXhlUjVjSXRXRl9yWVYzengxVFFvZ2tjR29Zb0xwNFBQdVZZNWNPV3VCSkhoZnhWR1hsZlR5YU1R0gG6AUFVX3lxTE9CTmpfX2tsQWNSaklscGxyVTEyM01hQW5Xb3QyMExESWJqTjZyTkhXQThKTUlRVkZER1JDXzZMcUhDSS1QWi1EaUIzLWVtemZ4eGgweVBsSTQ1QXF5ZVhmblI1bUI0bnVaenZuendYNFdDTnlRQUpjVVh3aE1nem42TVNaU2xhUW9DX0pRYXFibV9aS1NpSTAwVnFDeWJLdUd6NXVxYmtSLXM3cHlSNUVmamFxeUFyZ2hlUQ?oc=5",
-          "source": "94.5 The Buzz",
+          "title": "Essence Festival not returning to New Orleans in 2027, officials confirm",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmE2TzhoOENRNDgtRWZYZ190djM2em1ISTdPNzlEVWt4bmRtOThKZ2hPZzItcHJSaUIzMUd6YURGYS1xaklUSTZTUkhUOEdpRUtQMWxMaS01SHFlSk1KMWlUdXJoRjg1T0U1eHVfY002Zld5Z1g1YnE2dDdXMmFGQl94d1BOdW8yQmFnNmttTl9pdjYxR0lpSE5zQU54eXdzR0pWVtIBuAFBVV95cUxNUTlReDNnc0pGYnUyTjNPaHFvYk9RME9Dd1dEYkpvZkhXZkJONnh0YjZxSGdDYWtDWU9zWjUxVk5ZbmJ4RXdmT3I3dm9FOG1BaXk0U2FmNnM4QzdhaEdZcWdsd1cyamNVUW51bGxpVzQzbklNLW9Fa0dUdVB2bGI2bE5TUjRkNXJaMnpkdVh1NHltQXhGcGVJU185NmFCbGlPWGowN0l1OHUxX3dISzB0SnJDOUYwcTdi?oc=5",
+          "source": "FOX 8 Local First",
           "summary": "",
-          "published": "Nov 20, 2026 1:04 PM",
+          "published": "Nov 24, 2026 5:34 PM",
           "eyebrow": "Concerts + Music",
           "location": "",
           "calendar_url": ""
@@ -366,114 +366,114 @@
           "calendar_url": ""
         },
         {
-          "title": "Dr. Sick",
-          "url": "https://www.wwoz.org/events/1410846",
+          "title": "Bubbles Brown",
+          "url": "https://www.wwoz.org/events/1415776",
           "source": "WWOZ Livewire",
-          "summary": "21st Amendment. Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 8:00pm",
+          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
+          "published": "Thursday, November 26 at 6:00pm",
           "eyebrow": "Event",
-          "location": "21st Amendment",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dr.+Sick&dates=20261125T200000%2F20261125T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1410846&location=21st+Amendment"
+          "location": "Apple Barrel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bubbles+Brown&dates=20261126T180000%2F20261126T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1415776&location=Apple+Barrel"
         },
         {
-          "title": "Josh Benitez",
-          "url": "https://www.wwoz.org/events/1412616",
+          "title": "Johnny B",
+          "url": "https://www.wwoz.org/events/1415781",
           "source": "WWOZ Livewire",
-          "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 6:00pm",
+          "summary": "Apple Barrel. Tap through for the full listing and latest schedule details.",
+          "published": "Thursday, November 26 at 10:00pm",
           "eyebrow": "Event",
-          "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Josh+Benitez&dates=20261125T180000%2F20261125T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412616&location=30%2F90"
+          "location": "Apple Barrel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Johnny+B&dates=20261126T220000%2F20261127T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1415781&location=Apple+Barrel"
         },
         {
-          "title": "The Magicians",
-          "url": "https://www.wwoz.org/events/1412621",
+          "title": "JJ & the A-OKs",
+          "url": "https://www.wwoz.org/events/1415786",
           "source": "WWOZ Livewire",
-          "summary": "30/90. Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 9:00pm",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Thursday, November 26 at 4:30pm",
           "eyebrow": "Event",
-          "location": "30/90",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Magicians&dates=20261125T210000%2F20261125T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1412621&location=30%2F90"
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=JJ+%26+the+A-OKs&dates=20261126T163000%2F20261126T183000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1415786&location=Bamboula%27s"
         },
         {
-          "title": "Jesse Morrow",
-          "url": "https://www.wwoz.org/events/1403476",
+          "title": "Wolfe Johns Band",
+          "url": "https://www.wwoz.org/events/1415791",
           "source": "WWOZ Livewire",
-          "summary": "Bacchanal (OUTDOORS). Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 6:00pm",
+          "summary": "Bamboula's. Tap through for the full listing and latest schedule details.",
+          "published": "Thursday, November 26 at 9:00pm",
           "eyebrow": "Event",
-          "location": "Bacchanal (OUTDOORS)",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jesse+Morrow&dates=20261125T180000%2F20261125T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1403476&location=Bacchanal+%28OUTDOORS%29"
+          "location": "Bamboula's",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wolfe+Johns+Band&dates=20261126T210000%2F20261126T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1415791&location=Bamboula%27s"
         },
         {
-          "title": "Firm Roots ft. Peter Harris, Derek Douget, Dwight Fitch Jr. & Adonis Rose",
-          "url": "https://www.wwoz.org/events/1407231",
-          "source": "WWOZ Livewire",
-          "summary": "Bayou Bar at the Pontchartrain. Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 8:00pm",
-          "eyebrow": "Event",
-          "location": "Bayou Bar at the Pontchartrain",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Firm+Roots+ft.+Peter+Harris%2C+Derek+Douget%2C+Dwight+Fitch+Jr.+%26+Adonis+Rose&dates=20261125T200000%2F20261125T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1407231&location=Bayou+Bar+at+the+Pontchartrain"
-        },
-        {
-          "title": "Firm Roots ft. Peter Harris, Derek Douget, Dwight Fitch Jr. & Adonis Rose",
-          "url": "https://www.wwoz.org/events/1407206",
-          "source": "WWOZ Livewire",
-          "summary": "Bayou Bar at the Pontchartrain. Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 10:00pm",
-          "eyebrow": "Event",
-          "location": "Bayou Bar at the Pontchartrain",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Firm+Roots+ft.+Peter+Harris%2C+Derek+Douget%2C+Dwight+Fitch+Jr.+%26+Adonis+Rose&dates=20261125T220000%2F20261126T000000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1407206&location=Bayou+Bar+at+the+Pontchartrain"
-        },
-        {
-          "title": "New Breed Brass Band",
-          "url": "https://www.wwoz.org/events/1408181",
+          "title": "Reggae Night with DJ T-Roy",
+          "url": "https://www.wwoz.org/events/1408196",
           "source": "WWOZ Livewire",
           "summary": "Blue Nile. Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 9:00pm",
+          "published": "Thursday, November 26 at 11:00pm",
           "eyebrow": "Event",
           "location": "Blue Nile",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=New+Breed+Brass+Band&dates=20261125T210000%2F20261125T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1408181&location=Blue+Nile"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reggae+Night+with+DJ+T-Roy&dates=20261126T230000%2F20261127T010000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1408196&location=Blue+Nile"
         },
         {
-          "title": "Giselle Anguizola",
-          "url": "https://www.wwoz.org/events/1413906",
+          "title": "Big Mike",
+          "url": "https://www.wwoz.org/events/1413911",
           "source": "WWOZ Livewire",
           "summary": "Bourbon O Bar at The Bourbon Orleans Hotel. Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 4:00pm",
+          "published": "Thursday, November 26 at 8:00pm",
           "eyebrow": "Event",
           "location": "Bourbon O Bar at The Bourbon Orleans Hotel",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Giselle+Anguizola&dates=20261125T160000%2F20261125T180000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1413906&location=Bourbon+O+Bar+at+The+Bourbon+Orleans+Hotel"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+Mike&dates=20261126T200000%2F20261126T220000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1413911&location=Bourbon+O+Bar+at+The+Bourbon+Orleans+Hotel"
         },
         {
-          "title": "Chris Cubed",
-          "url": "https://www.wwoz.org/events/1407966",
-          "source": "WWOZ Livewire",
-          "summary": "Buffa's. Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 7:00pm",
-          "eyebrow": "Event",
-          "location": "Buffa's",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Chris+Cubed&dates=20261125T190000%2F20261125T210000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1407966&location=Buffa%27s"
-        },
-        {
-          "title": "Gizinti Trio",
-          "url": "https://www.wwoz.org/events/1391526",
-          "source": "WWOZ Livewire",
-          "summary": "Caf\u00e9 Degas. Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 6:00pm",
-          "eyebrow": "Event",
-          "location": "Caf\u00e9 Degas",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gizinti+Trio&dates=20261125T180000%2F20261125T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1391526&location=Caf%C3%A9+Degas"
-        },
-        {
-          "title": "Jam-ilton",
-          "url": "https://www.wwoz.org/events/1411161",
+          "title": "A Very Neville Thanksgiving Dinner and a Show!",
+          "url": "https://www.wwoz.org/events/1411171",
           "source": "WWOZ Livewire",
           "summary": "Caf\u00e9 Negril. Tap through for the full listing and latest schedule details.",
-          "published": "Wednesday, November 25 at 6:00pm",
+          "published": "Thursday, November 26 at 4:00pm",
           "eyebrow": "Event",
           "location": "Caf\u00e9 Negril",
-          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jam-ilton&dates=20261125T180000%2F20261125T200000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1411161&location=Caf%C3%A9+Negril"
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=A+Very+Neville+Thanksgiving+Dinner+and+a+Show%21&dates=20261126T160000%2F20261126T180000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1411171&location=Caf%C3%A9+Negril"
+        },
+        {
+          "title": "Ado Soul & the Tribe",
+          "url": "https://www.wwoz.org/events/1411176",
+          "source": "WWOZ Livewire",
+          "summary": "Caf\u00e9 Negril. Tap through for the full listing and latest schedule details.",
+          "published": "Thursday, November 26 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "Caf\u00e9 Negril",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ado+Soul+%26+the+Tribe&dates=20261126T210000%2F20261126T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1411176&location=Caf%C3%A9+Negril"
+        },
+        {
+          "title": "Leslie Martin",
+          "url": "https://www.wwoz.org/events/1413016",
+          "source": "WWOZ Livewire",
+          "summary": "Carousel Bar & Lounge at Hotel Monteleone. Tap through for the full listing and latest schedule details.",
+          "published": "Thursday, November 26 at 5:30pm",
+          "eyebrow": "Event",
+          "location": "Carousel Bar & Lounge at Hotel Monteleone",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Leslie+Martin&dates=20261126T173000%2F20261126T193000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1413016&location=Carousel+Bar+%26+Lounge+at+Hotel+Monteleone"
+        },
+        {
+          "title": "Ed Wills Blues For Sale",
+          "url": "https://www.wwoz.org/events/1413021",
+          "source": "WWOZ Livewire",
+          "summary": "Carousel Bar & Lounge at Hotel Monteleone. Tap through for the full listing and latest schedule details.",
+          "published": "Thursday, November 26 at 9:00pm",
+          "eyebrow": "Event",
+          "location": "Carousel Bar & Lounge at Hotel Monteleone",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ed+Wills+Blues+For+Sale&dates=20261126T210000%2F20261126T230000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1413021&location=Carousel+Bar+%26+Lounge+at+Hotel+Monteleone"
+        },
+        {
+          "title": "David Torkanowsky",
+          "url": "https://www.wwoz.org/events/1414966",
+          "source": "WWOZ Livewire",
+          "summary": "Chandelier Bar at Four Seasons Hotel. Tap through for the full listing and latest schedule details.",
+          "published": "Thursday, November 26 at 5:00pm",
+          "eyebrow": "Event",
+          "location": "Chandelier Bar at Four Seasons Hotel",
+          "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David+Torkanowsky&dates=20261126T170000%2F20261126T190000&ctz=America%2FChicago&details=Source%3A+https%3A%2F%2Fwww.wwoz.org%2Fevents%2F1414966&location=Chandelier+Bar+at+Four+Seasons+Hotel"
         }
       ]
     }
